@@ -1,0 +1,176 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+16,Abdul Nurudeen,KAS Eupen,€400k ,Ghana,"Jul 1, 2017",,KAS Eupen,,,,Jupiler Pro League
+16,Abdul Nurudeen,KAS Eupen,€400k ,Ghana,,"Jul 1, 2017",ASPIRE FD,KAS Eupen,,0.0,Jupiler Pro League
+4,Mohammed Salisu,Southampton FC,€18.00m ,Ghana,"Aug 12, 2020",,Southampton,,,,Premier League
+4,Mohammed Salisu,Southampton FC,€18.00m ,Ghana,"Jul 1, 2019","Aug 12, 2020",Real Valladolid,Southampton,12000000.0,12000000.0,Premier League
+4,Mohammed Salisu,Southampton FC,€18.00m ,Ghana,"Jan 1, 2018","Jul 1, 2019",Valladolid Prom,Real Valladolid,250000.0,,Premier League
+4,Mohammed Salisu,Southampton FC,€18.00m ,Ghana,"Oct 1, 2017","Jan 1, 2018",Valladolid U19,R. Valladolid B,,,Premier League
+4,Mohammed Salisu,Southampton FC,€18.00m ,Ghana,,"Oct 1, 2017",African Talent,Valladolid U19,,0.0,Premier League
+23,Alexander Djiku,RC Strasbourg Alsace,€8.00m ,Ghana,"Jul 5, 2019",,R. Strasbourg,,,,Ligue 1
+23,Alexander Djiku,RC Strasbourg Alsace,€8.00m ,Ghana,"Jul 11, 2017","Jul 5, 2019",SM Caen,R. Strasbourg,8000000.0,4500000.0,Ligue 1
+23,Alexander Djiku,RC Strasbourg Alsace,€8.00m ,Ghana,"Jul 1, 2015","Jul 11, 2017",SC Bastia,SM Caen,1250000.0,2000000.0,Ligue 1
+23,Alexander Djiku,RC Strasbourg Alsace,€8.00m ,Ghana,"Jul 1, 2012","Jul 1, 2015",SC Bastia B,SC Bastia,100000.0,,Ligue 1
+23,Alexander Djiku,RC Strasbourg Alsace,€8.00m ,Ghana,,"Jul 1, 2012",SC Bastia U19,SC Bastia B,,,Ligue 1
+26,Alidu Seidu,Clermont Foot 63,€4.50m ,Ghana,"Aug 1, 2020",,Clermont Foot,,,,Ligue 1
+26,Alidu Seidu,Clermont Foot 63,€4.50m ,Ghana,,"Aug 1, 2020",JMG Abidjan,Clermont Foot,,,Ligue 1
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"May 31, 2023",,Chelsea,,,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Aug 31, 2022","May 31, 2023",Reading,Chelsea,1800000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"May 31, 2022","Aug 31, 2022",Chelsea,Reading,2200000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Aug 27, 2021","May 31, 2022",Reading,Chelsea,2200000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Jun 30, 2021","Aug 27, 2021",Chelsea,Reading,2500000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Jan 30, 2021","Jun 30, 2021",PAOK Salonika,Chelsea,2500000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Jun 30, 2020","Jan 30, 2021",Chelsea,PAOK Salonika,2400000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Sep 2, 2019","Jun 30, 2020",RCD Mallorca,Chelsea,2400000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Jun 30, 2019","Sep 2, 2019",Chelsea,RCD Mallorca,5000000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Jan 29, 2019","Jun 30, 2019",Stade Reims,Chelsea,5000000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Jan 28, 2019","Jan 29, 2019",Chelsea,Stade Reims,5000000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Jan 29, 2018","Jan 28, 2019",FC Schalke 04,Chelsea,5000000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Jun 30, 2017","Jan 29, 2018",Chelsea,FC Schalke 04,8000000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Aug 2, 2016","Jun 30, 2017",FC Schalke 04,Chelsea,8000000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Aug 16, 2015","Aug 2, 2016",Chelsea,FC Schalke 04,12000000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Aug 12, 2014","Aug 16, 2015",FC Augsburg,Chelsea,10000000.0,26000000.0,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Jul 1, 2012","Aug 12, 2014",Greuther Fürth,FC Augsburg,1500000.0,9000000.0,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Jun 30, 2012","Jul 1, 2012",Dreams FC,Greuther Fürth,150000.0,0.0,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,"Jul 1, 2011","Jun 30, 2012",Asante Kotoko,Dreams FC,150000.0,,Championship
+17,Abdul-Rahman Baba,Reading FC,€1.80m ,Ghana,,"Jul 1, 2011",Dreams FC,Asante Kotoko,,,Championship
+3,Denis Odoi,Club Brugge KV,€600k ,Ghana,"Jan 31, 2022",,Club Brugge,,,,Jupiler Pro League
+3,Denis Odoi,Club Brugge KV,€600k ,Ghana,"Jul 14, 2016","Jan 31, 2022",Fulham,Club Brugge,500000.0,700000.0,Jupiler Pro League
+3,Denis Odoi,Club Brugge KV,€600k ,Ghana,"Jul 1, 2013","Jul 14, 2016",KSC Lokeren,Fulham,1500000.0,1000000.0,Jupiler Pro League
+3,Denis Odoi,Club Brugge KV,€600k ,Ghana,"Jul 1, 2011","Jul 1, 2013",RSC Anderlecht,KSC Lokeren,1300000.0,,Jupiler Pro League
+3,Denis Odoi,Club Brugge KV,€600k ,Ghana,"Jul 1, 2009","Jul 1, 2011",Sint-Truiden,RSC Anderlecht,1500000.0,1500000.0,Jupiler Pro League
+3,Denis Odoi,Club Brugge KV,€600k ,Ghana,"Jul 1, 2006","Jul 1, 2009",OH Leuven,Sint-Truiden,200000.0,,Jupiler Pro League
+3,Denis Odoi,Club Brugge KV,€600k ,Ghana,"Jul 1, 2005","Jul 1, 2006",OH Leuven U19,OH Leuven,,,Jupiler Pro League
+3,Denis Odoi,Club Brugge KV,€600k ,Ghana,"Jul 1, 2004","Jul 1, 2005",KRC Genk U17,OH Leuven U19,,0.0,Jupiler Pro League
+3,Denis Odoi,Club Brugge KV,€600k ,Ghana,"Jul 1, 2003","Jul 1, 2004",Anderlecht U17,KRC Genk U17,,0.0,Jupiler Pro League
+3,Denis Odoi,Club Brugge KV,€600k ,Ghana,,"Jul 1, 2003",Anderlecht Yth.,Anderlecht U17,,,Jupiler Pro League
+21,Salis Abdul Samed,RC Lens,€10.00m ,Ghana,"Jul 1, 2022",,Lens,,,,Ligue 1
+21,Salis Abdul Samed,RC Lens,€10.00m ,Ghana,"Jul 12, 2021","Jul 1, 2022",Clermont Foot,Lens,3000000.0,5000000.0,Ligue 1
+21,Salis Abdul Samed,RC Lens,€10.00m ,Ghana,"Jun 30, 2021","Jul 12, 2021",JMG Abidjan,Clermont Foot,400000.0,,Ligue 1
+21,Salis Abdul Samed,RC Lens,€10.00m ,Ghana,"Jul 19, 2019","Jun 30, 2021",Clermont Foot,JMG Abidjan,400000.0,,Ligue 1
+21,Salis Abdul Samed,RC Lens,€10.00m ,Ghana,,"Jul 19, 2019",JMG Abidjan,Clermont Foot,,,Ligue 1
+20,Mohammed Kudus,Ajax Amsterdam,€15.00m ,Ghana,"Jul 31, 2020",,Ajax,,,,Eredivisie
+20,Mohammed Kudus,Ajax Amsterdam,€15.00m ,Ghana,"Aug 2, 2018","Jul 31, 2020",Nordsjaelland,Ajax,9000000.0,9000000.0,Eredivisie
+20,Mohammed Kudus,Ajax Amsterdam,€15.00m ,Ghana,,"Aug 2, 2018",Right to Dream,Nordsjaelland,,0.0,Eredivisie
+22,Kamaldeen Sulemana,Stade Rennais FC,€18.00m ,Ghana,"Jul 16, 2021",,Rennes,,,,Ligue 1
+22,Kamaldeen Sulemana,Stade Rennais FC,€18.00m ,Ghana,"Feb 15, 2020","Jul 16, 2021",Nordsjaelland,Rennes,9000000.0,15000000.0,Ligue 1
+22,Kamaldeen Sulemana,Stade Rennais FC,€18.00m ,Ghana,,"Feb 15, 2020",Right to Dream,Nordsjaelland,,0.0,Ligue 1
+13,Daniel Afriyie,Hearts of Oak,€250k ,Ghana,"Jul 1, 2019",,Hearts of Oak,,,,Premier League
+13,Daniel Afriyie,Hearts of Oak,€250k ,Ghana,,"Jul 1, 2019",Rahimo FC,Hearts of Oak,,,Premier League
+11,Osman Bukari,Red Star Belgrade,€5.00m ,Ghana,"Jul 1, 2022",,Red Star,,,,Super liga Srbije
+11,Osman Bukari,Red Star Belgrade,€5.00m ,Ghana,"Jun 30, 2022","Jul 1, 2022",KAA Gent,Red Star,3000000.0,3000000.0,Super liga Srbije
+11,Osman Bukari,Red Star Belgrade,€5.00m ,Ghana,"Aug 12, 2021","Jun 30, 2022",FC Nantes,KAA Gent,3000000.0,,Super liga Srbije
+11,Osman Bukari,Red Star Belgrade,€5.00m ,Ghana,"Sep 4, 2020","Aug 12, 2021",KAA Gent,FC Nantes,2500000.0,,Super liga Srbije
+11,Osman Bukari,Red Star Belgrade,€5.00m ,Ghana,"Jul 9, 2018","Sep 4, 2020",AS Trencin,KAA Gent,1100000.0,1000000.0,Super liga Srbije
+11,Osman Bukari,Red Star Belgrade,€5.00m ,Ghana,"Jun 30, 2018","Jul 9, 2018",Accra Lions,AS Trencin,,60000.0,Super liga Srbije
+11,Osman Bukari,Red Star Belgrade,€5.00m ,Ghana,"Jan 1, 2018","Jun 30, 2018",Anderlecht U21,Accra Lions,,,Super liga Srbije
+11,Osman Bukari,Red Star Belgrade,€5.00m ,Ghana,,"Jan 1, 2018",Accra Lions,Anderlecht U21,,,Super liga Srbije
+19,Iñaki Williams,Athletic Bilbao,€25.00m ,Ghana,"Jul 1, 2015",,Athletic,,,,LaLiga
+19,Iñaki Williams,Athletic Bilbao,€25.00m ,Ghana,"Jul 1, 2014","Jul 1, 2015",Bilbao Athletic,Athletic,5000000.0,,LaLiga
+19,Iñaki Williams,Athletic Bilbao,€25.00m ,Ghana,"Jul 1, 2013","Jul 1, 2014",CD Basconia,Bilbao Athletic,,,LaLiga
+19,Iñaki Williams,Athletic Bilbao,€25.00m ,Ghana,"Jul 1, 2012","Jul 1, 2013",Bilbao U19,CD Basconia,,,LaLiga
+19,Iñaki Williams,Athletic Bilbao,€25.00m ,Ghana,,"Jul 1, 2012",Pamplona U19,Bilbao U19,,,LaLiga
+25,Antoine Semenyo,Bristol City,€3.00m ,Ghana,"May 31, 2020",,Bristol City,,,,Championship
+25,Antoine Semenyo,Bristol City,€3.00m ,Ghana,"Jan 31, 2020","May 31, 2020",Sunderland,Bristol City,450000.0,,Championship
+25,Antoine Semenyo,Bristol City,€3.00m ,Ghana,"Jan 27, 2019","Jan 31, 2020",Bristol City,Sunderland,500000.0,,Championship
+25,Antoine Semenyo,Bristol City,€3.00m ,Ghana,"Jul 18, 2018","Jan 27, 2019",Newport County,Bristol City,,,Championship
+25,Antoine Semenyo,Bristol City,€3.00m ,Ghana,"Jul 1, 2018","Jul 18, 2018",Bristol City,Newport County,,,Championship
+25,Antoine Semenyo,Bristol City,€3.00m ,Ghana,"May 31, 2018","Jul 1, 2018",Bristol U18,Bristol City,,,Championship
+25,Antoine Semenyo,Bristol City,€3.00m ,Ghana,"Jan 20, 2018","May 31, 2018",Bath City,Bristol U18,,,Championship
+25,Antoine Semenyo,Bristol City,€3.00m ,Ghana,,"Jan 20, 2018",Bristol U18,Bath City,,,Championship
+1,Lawrence Ati Zigi,FC St. Gallen 1879,€2.50m ,Ghana,"Jan 24, 2020",,FC St. Gallen,,,,Super League
+1,Lawrence Ati Zigi,FC St. Gallen 1879,€2.50m ,Ghana,"Jul 10, 2017","Jan 24, 2020",FC Sochaux,FC St. Gallen,300000.0,90000.0,Super League
+1,Lawrence Ati Zigi,FC St. Gallen 1879,€2.50m ,Ghana,"Jan 1, 2017","Jul 10, 2017",RB Salzburg,FC Sochaux,250000.0,0.0,Super League
+1,Lawrence Ati Zigi,FC St. Gallen 1879,€2.50m ,Ghana,"Jan 1, 2015","Jan 1, 2017",FC Liefering,RB Salzburg,250000.0,,Super League
+1,Lawrence Ati Zigi,FC St. Gallen 1879,€2.50m ,Ghana,,"Jan 1, 2015",RB Ghana,FC Liefering,,,Super League
+12,Ibrahim Danlad,Asante Kotoko SC,€150k ,Ghana,"Jul 31, 2021",,Asante Kotoko,,,,Premier League
+12,Ibrahim Danlad,Asante Kotoko SC,€150k ,Ghana,"Mar 18, 2021","Jul 31, 2021",King Faisal,Asante Kotoko,75000.0,,Premier League
+12,Ibrahim Danlad,Asante Kotoko SC,€150k ,Ghana,"Jul 31, 2020","Mar 18, 2021",Asante Kotoko,King Faisal,75000.0,,Premier League
+12,Ibrahim Danlad,Asante Kotoko SC,€150k ,Ghana,"Dec 9, 2019","Jul 31, 2020",Berekum Chelsea,Asante Kotoko,100000.0,,Premier League
+12,Ibrahim Danlad,Asante Kotoko SC,€150k ,Ghana,,"Dec 9, 2019",Asante Kotoko,Berekum Chelsea,50000.0,,Premier League
+18,Daniel Amartey,Leicester City,€15.00m ,Ghana,"Jan 22, 2016",,Leicester,,,,Premier League
+18,Daniel Amartey,Leicester City,€15.00m ,Ghana,"Jul 1, 2014","Jan 22, 2016",FC Copenhagen,Leicester,3000000.0,6600000.0,Premier League
+18,Daniel Amartey,Leicester City,€15.00m ,Ghana,"Jan 20, 2013","Jul 1, 2014",Djurgården,FC Copenhagen,500000.0,1800000.0,Premier League
+18,Daniel Amartey,Leicester City,€15.00m ,Ghana,"Aug 1, 2012","Jan 20, 2013",Djurgården U19,Djurgården,,,Premier League
+18,Daniel Amartey,Leicester City,€15.00m ,Ghana,,"Aug 1, 2012",Inter Allies,Djurgården U19,,,Premier League
+15,Joseph Aidoo,Celta de Vigo,€7.00m ,Ghana,"Jul 11, 2019",,Celta de Vigo,,,,LaLiga
+15,Joseph Aidoo,Celta de Vigo,€7.00m ,Ghana,"Jul 24, 2017","Jul 11, 2019",KRC Genk,Celta de Vigo,4000000.0,8000000.0,LaLiga
+15,Joseph Aidoo,Celta de Vigo,€7.00m ,Ghana,"Jan 1, 2016","Jul 24, 2017",Hammarby,KRC Genk,500000.0,1250000.0,LaLiga
+15,Joseph Aidoo,Celta de Vigo,€7.00m ,Ghana,"Dec 1, 2015","Jan 1, 2016",Inter Allies,Hammarby,75000.0,,LaLiga
+15,Joseph Aidoo,Celta de Vigo,€7.00m ,Ghana,"Aug 5, 2015","Dec 1, 2015",Hammarby,Inter Allies,75000.0,,LaLiga
+15,Joseph Aidoo,Celta de Vigo,€7.00m ,Ghana,,"Aug 5, 2015",Inter Allies,Hammarby,,,LaLiga
+14,Gideon Mensah,AJ Auxerre,€2.00m ,Ghana,"Aug 13, 2022",,AJ Auxerre,,,,Ligue 1
+14,Gideon Mensah,AJ Auxerre,€2.00m ,Ghana,"Jun 30, 2022","Aug 13, 2022",RB Salzburg,AJ Auxerre,2500000.0,,Ligue 1
+14,Gideon Mensah,AJ Auxerre,€2.00m ,Ghana,"Aug 3, 2021","Jun 30, 2022",G. Bordeaux,RB Salzburg,2500000.0,,Ligue 1
+14,Gideon Mensah,AJ Auxerre,€2.00m ,Ghana,"Jun 30, 2021","Aug 3, 2021",RB Salzburg,G. Bordeaux,2500000.0,,Ligue 1
+14,Gideon Mensah,AJ Auxerre,€2.00m ,Ghana,"Aug 31, 2020","Jun 30, 2021",Vit. Guimarães,RB Salzburg,2500000.0,,Ligue 1
+14,Gideon Mensah,AJ Auxerre,€2.00m ,Ghana,"Jun 30, 2020","Aug 31, 2020",RB Salzburg,Vit. Guimarães,2700000.0,,Ligue 1
+14,Gideon Mensah,AJ Auxerre,€2.00m ,Ghana,"Aug 29, 2019","Jun 30, 2020",Zulte Waregem,RB Salzburg,2700000.0,,Ligue 1
+14,Gideon Mensah,AJ Auxerre,€2.00m ,Ghana,"Jul 1, 2019","Aug 29, 2019",RB Salzburg,Zulte Waregem,900000.0,,Ligue 1
+14,Gideon Mensah,AJ Auxerre,€2.00m ,Ghana,"Jun 30, 2019","Jul 1, 2019",FC Liefering,RB Salzburg,900000.0,,Ligue 1
+14,Gideon Mensah,AJ Auxerre,€2.00m ,Ghana,"Jan 21, 2019","Jun 30, 2019",Sturm Graz,FC Liefering,900000.0,,Ligue 1
+14,Gideon Mensah,AJ Auxerre,€2.00m ,Ghana,"Jul 21, 2016","Jan 21, 2019",FC Liefering,Sturm Graz,400000.0,,Ligue 1
+14,Gideon Mensah,AJ Auxerre,€2.00m ,Ghana,,"Jul 21, 2016",WAFA SC,FC Liefering,,,Ligue 1
+2,Tariq Lamptey,Brighton &amp; Hove Albion,€15.00m ,Ghana,"Jan 31, 2020",,Brighton,,,,Premier League
+2,Tariq Lamptey,Brighton &amp; Hove Albion,€15.00m ,Ghana,"Jul 1, 2018","Jan 31, 2020",Chelsea U23,Brighton,,1200000.0,Premier League
+2,Tariq Lamptey,Brighton &amp; Hove Albion,€15.00m ,Ghana,"Jul 1, 2017","Jul 1, 2018",Chelsea U18,Chelsea U23,,,Premier League
+2,Tariq Lamptey,Brighton &amp; Hove Albion,€15.00m ,Ghana,,"Jul 1, 2017",Chelsea Youth,Chelsea U18,,,Premier League
+5,Thomas Partey,Arsenal FC,€38.00m ,Ghana,"Oct 5, 2020",,Arsenal,,,,Premier League
+5,Thomas Partey,Arsenal FC,€38.00m ,Ghana,"Jul 1, 2015","Oct 5, 2020",Atlético Madrid,Arsenal,40000000.0,50000000.0,Premier League
+5,Thomas Partey,Arsenal FC,€38.00m ,Ghana,"Jun 30, 2015","Jul 1, 2015",Atl. Madrid B,Atlético Madrid,4000000.0,,Premier League
+5,Thomas Partey,Arsenal FC,€38.00m ,Ghana,"Jul 27, 2014","Jun 30, 2015",UD Almería,Atl. Madrid B,2500000.0,,Premier League
+5,Thomas Partey,Arsenal FC,€38.00m ,Ghana,"Jun 30, 2014","Jul 27, 2014",Atl. Madrid B,UD Almería,1000000.0,,Premier League
+5,Thomas Partey,Arsenal FC,€38.00m ,Ghana,"Jul 12, 2013","Jun 30, 2014",RCD Mallorca,Atl. Madrid B,1000000.0,,Premier League
+5,Thomas Partey,Arsenal FC,€38.00m ,Ghana,"Jul 1, 2013","Jul 12, 2013",Atl. Madrid B,RCD Mallorca,,,Premier League
+5,Thomas Partey,Arsenal FC,€38.00m ,Ghana,,"Jul 1, 2013",Atl. Madrid U19,Atl. Madrid B,,,Premier League
+6,Elisha Owusu,KAA Gent,€2.50m ,Ghana,"Jul 1, 2019",,KAA Gent,,,,Jupiler Pro League
+6,Elisha Owusu,KAA Gent,€2.50m ,Ghana,"Jun 30, 2019","Jul 1, 2019",Olympique Lyon,KAA Gent,1250000.0,1000000.0,Jupiler Pro League
+6,Elisha Owusu,KAA Gent,€2.50m ,Ghana,"Jul 1, 2018","Jun 30, 2019",FC Sochaux,Olympique Lyon,1250000.0,,Jupiler Pro League
+6,Elisha Owusu,KAA Gent,€2.50m ,Ghana,"Feb 23, 2017","Jul 1, 2018",Olympique Lyon,FC Sochaux,100000.0,,Jupiler Pro League
+6,Elisha Owusu,KAA Gent,€2.50m ,Ghana,"Jul 1, 2016","Feb 23, 2017",Olymp. Lyon B,Olympique Lyon,,,Jupiler Pro League
+6,Elisha Owusu,KAA Gent,€2.50m ,Ghana,,"Jul 1, 2016",Olymp. Lyon U19,Olymp. Lyon B,,,Jupiler Pro League
+8,Daniel-Kofi Kyereh,SC Freiburg,€8.00m ,Ghana,"Jul 1, 2022",,SC Freiburg,,,,Bundesliga
+8,Daniel-Kofi Kyereh,SC Freiburg,€8.00m ,Ghana,"Jul 29, 2020","Jul 1, 2022",FC St. Pauli,SC Freiburg,3000000.0,4500000.0,Bundesliga
+8,Daniel-Kofi Kyereh,SC Freiburg,€8.00m ,Ghana,"Jul 1, 2018","Jul 29, 2020",Wehen Wiesbaden,FC St. Pauli,600000.0,0.0,Bundesliga
+8,Daniel-Kofi Kyereh,SC Freiburg,€8.00m ,Ghana,"Jul 1, 2015","Jul 1, 2018",TSV Havelse,Wehen Wiesbaden,150000.0,0.0,Bundesliga
+8,Daniel-Kofi Kyereh,SC Freiburg,€8.00m ,Ghana,"Jul 1, 2014","Jul 1, 2015",TSV Havelse U19,TSV Havelse,25000.0,,Bundesliga
+8,Daniel-Kofi Kyereh,SC Freiburg,€8.00m ,Ghana,"Jul 1, 2013","Jul 1, 2014",Wolfsburg U19,TSV Havelse U19,,0.0,Bundesliga
+8,Daniel-Kofi Kyereh,SC Freiburg,€8.00m ,Ghana,"Jul 1, 2012","Jul 1, 2013",Wolfsburg U17,Wolfsburg U19,,,Bundesliga
+8,Daniel-Kofi Kyereh,SC Freiburg,€8.00m ,Ghana,"Jul 1, 2008","Jul 1, 2012",Braunschw. Yth.,Wolfsburg U17,,0.0,Bundesliga
+8,Daniel-Kofi Kyereh,SC Freiburg,€8.00m ,Ghana,,"Jul 1, 2008",SC Gitter Jgd.,Braunschw. Yth.,,0.0,Bundesliga
+10,André Ayew,Al-Sadd SC,€2.20m ,Ghana,"Jul 22, 2021",,Al-Sadd SC,,,,Stars League
+10,André Ayew,Al-Sadd SC,€2.20m ,Ghana,"Jun 30, 2019","Jul 22, 2021",Swansea,Al-Sadd SC,3500000.0,0.0,Stars League
+10,André Ayew,Al-Sadd SC,€2.20m ,Ghana,"Jul 27, 2018","Jun 30, 2019",Fenerbahce,Swansea,6000000.0,,Stars League
+10,André Ayew,Al-Sadd SC,€2.20m ,Ghana,"Jan 31, 2018","Jul 27, 2018",Swansea,Fenerbahce,15000000.0,,Stars League
+10,André Ayew,Al-Sadd SC,€2.20m ,Ghana,"Aug 8, 2016","Jan 31, 2018",West Ham,Swansea,18000000.0,22800000.0,Stars League
+10,André Ayew,Al-Sadd SC,€2.20m ,Ghana,"Jul 1, 2015","Aug 8, 2016",Swansea,West Ham,18000000.0,24100000.0,Stars League
+10,André Ayew,Al-Sadd SC,€2.20m ,Ghana,"Jun 30, 2010","Jul 1, 2015",Marseille,Swansea,13000000.0,0.0,Stars League
+10,André Ayew,Al-Sadd SC,€2.20m ,Ghana,"Aug 31, 2009","Jun 30, 2010",AC Arles-Avignon,Marseille,1000000.0,,Stars League
+10,André Ayew,Al-Sadd SC,€2.20m ,Ghana,"Jun 30, 2009","Aug 31, 2009",Marseille,AC Arles-Avignon,1200000.0,,Stars League
+10,André Ayew,Al-Sadd SC,€2.20m ,Ghana,"Aug 11, 2008","Jun 30, 2009",FC Lorient,Marseille,1200000.0,,Stars League
+10,André Ayew,Al-Sadd SC,€2.20m ,Ghana,"Jul 1, 2007","Aug 11, 2008",Marseille,FC Lorient,1000000.0,,Stars League
+10,André Ayew,Al-Sadd SC,€2.20m ,Ghana,"Jul 1, 2006","Jul 1, 2007",Marseille B,Marseille,,,Stars League
+10,André Ayew,Al-Sadd SC,€2.20m ,Ghana,,"Jul 1, 2006",Marseille U19,Marseille B,,,Stars League
+24,Kamal Sowah,Club Brugge KV,€6.00m ,Ghana,"Jun 30, 2022",,Club Brugge,,,,Jupiler Pro League
+24,Kamal Sowah,Club Brugge KV,€6.00m ,Ghana,"Jan 31, 2022","Jun 30, 2022",AZ Alkmaar,Club Brugge,3500000.0,,Jupiler Pro League
+24,Kamal Sowah,Club Brugge KV,€6.00m ,Ghana,"Aug 27, 2021","Jan 31, 2022",Club Brugge,AZ Alkmaar,5000000.0,,Jupiler Pro League
+24,Kamal Sowah,Club Brugge KV,€6.00m ,Ghana,"Jun 30, 2021","Aug 27, 2021",Leicester U21,Club Brugge,3000000.0,9000000.0,Jupiler Pro League
+24,Kamal Sowah,Club Brugge KV,€6.00m ,Ghana,"Jan 31, 2018","Jun 30, 2021",OH Leuven,Leicester U21,3000000.0,,Jupiler Pro League
+24,Kamal Sowah,Club Brugge KV,€6.00m ,Ghana,"Jan 30, 2018","Jan 31, 2018",Leicester U21,OH Leuven,,,Jupiler Pro League
+24,Kamal Sowah,Club Brugge KV,€6.00m ,Ghana,,"Jan 30, 2018",Right to Dream,Leicester U21,,,Jupiler Pro League
+7,Issahaku Fatawu,Sporting CP,€3.00m ,Ghana,"Jul 1, 2022",,Sporting CP,,,,Liga Portugal
+7,Issahaku Fatawu,Sporting CP,€3.00m ,Ghana,"Apr 6, 2022","Jul 1, 2022",Sporting CP U23,Sporting CP,500000.0,,Liga Portugal
+7,Issahaku Fatawu,Sporting CP,€3.00m ,Ghana,"Feb 12, 2022","Apr 6, 2022",Steadfast FC,Sporting CP U23,500000.0,1200000.0,Liga Portugal
+7,Issahaku Fatawu,Sporting CP,€3.00m ,Ghana,"Oct 24, 2021","Feb 12, 2022",Dreams FC,Steadfast FC,500000.0,,Liga Portugal
+7,Issahaku Fatawu,Sporting CP,€3.00m ,Ghana,"Jul 1, 2019","Oct 24, 2021",Steadfast FC,Dreams FC,500000.0,,Liga Portugal
+7,Issahaku Fatawu,Sporting CP,€3.00m ,Ghana,,"Jul 1, 2019",TUFA,Steadfast FC,,0.0,Liga Portugal
+9,Jordan Ayew,Crystal Palace,€6.00m ,Ghana,"Jul 25, 2019",,Crystal Palace,,,,Premier League
+9,Jordan Ayew,Crystal Palace,€6.00m ,Ghana,"May 31, 2019","Jul 25, 2019",Swansea,Crystal Palace,8000000.0,2800000.0,Premier League
+9,Jordan Ayew,Crystal Palace,€6.00m ,Ghana,"Aug 9, 2018","May 31, 2019",Crystal Palace,Swansea,8000000.0,,Premier League
+9,Jordan Ayew,Crystal Palace,€6.00m ,Ghana,"Jan 31, 2017","Aug 9, 2018",Swansea,Crystal Palace,8000000.0,,Premier League
+9,Jordan Ayew,Crystal Palace,€6.00m ,Ghana,"Jul 27, 2015","Jan 31, 2017",Aston Villa,Swansea,7500000.0,5800000.0,Premier League
+9,Jordan Ayew,Crystal Palace,€6.00m ,Ghana,"Jul 28, 2014","Jul 27, 2015",FC Lorient,Aston Villa,6000000.0,12000000.0,Premier League
+9,Jordan Ayew,Crystal Palace,€6.00m ,Ghana,"Jun 30, 2014","Jul 28, 2014",Marseille,FC Lorient,3000000.0,4000000.0,Premier League
+9,Jordan Ayew,Crystal Palace,€6.00m ,Ghana,"Jan 6, 2014","Jun 30, 2014",FC Sochaux,Marseille,3000000.0,,Premier League
+9,Jordan Ayew,Crystal Palace,€6.00m ,Ghana,"Jul 1, 2009","Jan 6, 2014",Marseille,FC Sochaux,5000000.0,,Premier League
+9,Jordan Ayew,Crystal Palace,€6.00m ,Ghana,"Jul 1, 2008","Jul 1, 2009",Marseille B,Marseille,,,Premier League
+9,Jordan Ayew,Crystal Palace,€6.00m ,Ghana,,"Jul 1, 2008",Marseille U19,Marseille B,,,Premier League

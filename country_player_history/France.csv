@@ -1,0 +1,201 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+1,Hugo Lloris,Tottenham Hotspur,€7.00m ,France,"Aug 31, 2012",,Spurs,,,,Premier League
+1,Hugo Lloris,Tottenham Hotspur,€7.00m ,France,"Jul 1, 2008","Aug 31, 2012",Olympique Lyon,Spurs,19000000.0,12600000.0,Premier League
+1,Hugo Lloris,Tottenham Hotspur,€7.00m ,France,"Jul 1, 2005","Jul 1, 2008",OGC Nice,Olympique Lyon,8500000.0,8500000.0,Premier League
+1,Hugo Lloris,Tottenham Hotspur,€7.00m ,France,"Jul 1, 2004","Jul 1, 2005",OGC Nice B,OGC Nice,250000.0,,Premier League
+1,Hugo Lloris,Tottenham Hotspur,€7.00m ,France,,"Jul 1, 2004",Nizza U19,OGC Nice B,,,Premier League
+5,Jules Koundé,FC Barcelona,€60.00m ,France,"Jul 28, 2022",,Barcelona,,,,LaLiga
+5,Jules Koundé,FC Barcelona,€60.00m ,France,"Jul 3, 2019","Jul 28, 2022",Sevilla FC,Barcelona,60000000.0,50000000.0,LaLiga
+5,Jules Koundé,FC Barcelona,€60.00m ,France,"Oct 10, 2017","Jul 3, 2019",G. Bordeaux,Sevilla FC,15000000.0,35000000.0,LaLiga
+5,Jules Koundé,FC Barcelona,€60.00m ,France,"Jul 1, 2016","Oct 10, 2017",G. Bordeaux B,G. Bordeaux,,,LaLiga
+5,Jules Koundé,FC Barcelona,€60.00m ,France,,"Jul 1, 2016",Bordeaux U19,G. Bordeaux B,,,LaLiga
+18,Dayot Upamecano,Bayern Munich,€50.00m ,France,"Jul 5, 2021",,Bayern Munich,,,,Bundesliga
+18,Dayot Upamecano,Bayern Munich,€50.00m ,France,"Jan 13, 2017","Jul 5, 2021",RB Leipzig,Bayern Munich,60000000.0,42500000.0,Bundesliga
+18,Dayot Upamecano,Bayern Munich,€50.00m ,France,"Jul 11, 2015","Jan 13, 2017",RB Salzburg,RB Leipzig,5000000.0,18500000.0,Bundesliga
+18,Dayot Upamecano,Bayern Munich,€50.00m ,France,"Jul 1, 2013","Jul 11, 2015",VAFC U19,RB Salzburg,,2200000.0,Bundesliga
+18,Dayot Upamecano,Bayern Munich,€50.00m ,France,,"Jul 1, 2013",Évreux Jugend,VAFC U19,,0.0,Bundesliga
+4,Raphaël Varane,Manchester United,€40.00m ,France,"Aug 14, 2021",,Man Utd,,,,Premier League
+4,Raphaël Varane,Manchester United,€40.00m ,France,"Jul 1, 2011","Aug 14, 2021",Real Madrid,Man Utd,70000000.0,40000000.0,Premier League
+4,Raphaël Varane,Manchester United,€40.00m ,France,"Nov 1, 2010","Jul 1, 2011",Lens,Real Madrid,4000000.0,11000000.0,Premier League
+4,Raphaël Varane,Manchester United,€40.00m ,France,,"Nov 1, 2010",RC Lens U19,Lens,,,Premier League
+3,Axel Disasi,AS Monaco,€25.00m ,France,"Aug 7, 2020",,Monaco,,,,Ligue 1
+3,Axel Disasi,AS Monaco,€25.00m ,France,"Jul 1, 2017","Aug 7, 2020",Stade Reims,Monaco,13500000.0,13000000.0,Ligue 1
+3,Axel Disasi,AS Monaco,€25.00m ,France,"Jul 2, 2016","Jul 1, 2017",Stade Reims B,Stade Reims,100000.0,,Ligue 1
+3,Axel Disasi,AS Monaco,€25.00m ,France,"Jul 1, 2015","Jul 2, 2016",Paris FC B,Stade Reims B,100000.0,0.0,Ligue 1
+3,Axel Disasi,AS Monaco,€25.00m ,France,,"Jul 1, 2015",Paris FC U19,Paris FC B,,,Ligue 1
+2,Benjamin Pavard,Bayern Munich,€35.00m ,France,"Jul 1, 2019",,Bayern Munich,,,,Bundesliga
+2,Benjamin Pavard,Bayern Munich,€35.00m ,France,"Aug 30, 2016","Jul 1, 2019",VfB Stuttgart,Bayern Munich,30000000.0,35000000.0,Bundesliga
+2,Benjamin Pavard,Bayern Munich,€35.00m ,France,"Jul 1, 2015","Aug 30, 2016",LOSC Lille,VfB Stuttgart,800000.0,5000000.0,Bundesliga
+2,Benjamin Pavard,Bayern Munich,€35.00m ,France,"Jul 1, 2014","Jul 1, 2015",LOSC Lille B,LOSC Lille,,,Bundesliga
+2,Benjamin Pavard,Bayern Munich,€35.00m ,France,,"Jul 1, 2014",LOSC Lille U19,LOSC Lille B,,,Bundesliga
+15,Jordan Veretout,Olympique Marseille,€14.00m ,France,"Aug 5, 2022",,Marseille,,,,Ligue 1
+15,Jordan Veretout,Olympique Marseille,€14.00m ,France,"Sep 1, 2020","Aug 5, 2022",AS Roma,Marseille,17000000.0,11000000.0,Ligue 1
+15,Jordan Veretout,Olympique Marseille,€14.00m ,France,"Aug 31, 2020","Sep 1, 2020",Fiorentina,AS Roma,24000000.0,17500000.0,Ligue 1
+15,Jordan Veretout,Olympique Marseille,€14.00m ,France,"Jul 20, 2019","Aug 31, 2020",AS Roma,Fiorentina,24000000.0,,Ligue 1
+15,Jordan Veretout,Olympique Marseille,€14.00m ,France,"Jul 25, 2017","Jul 20, 2019",Fiorentina,AS Roma,20000000.0,,Ligue 1
+15,Jordan Veretout,Olympique Marseille,€14.00m ,France,"Jun 30, 2017","Jul 25, 2017",Aston Villa,Fiorentina,9000000.0,7000000.0,Ligue 1
+15,Jordan Veretout,Olympique Marseille,€14.00m ,France,"Aug 24, 2016","Jun 30, 2017",Saint-Étienne,Aston Villa,9000000.0,,Ligue 1
+15,Jordan Veretout,Olympique Marseille,€14.00m ,France,"Jul 31, 2015","Aug 24, 2016",Aston Villa,Saint-Étienne,8000000.0,,Ligue 1
+15,Jordan Veretout,Olympique Marseille,€14.00m ,France,"Jul 1, 2011","Jul 31, 2015",FC Nantes,Aston Villa,8000000.0,10000000.0,Ligue 1
+15,Jordan Veretout,Olympique Marseille,€14.00m ,France,"Jul 1, 2010","Jul 1, 2011",FC Nantes B,FC Nantes,,,Ligue 1
+15,Jordan Veretout,Olympique Marseille,€14.00m ,France,"Jul 1, 2009","Jul 1, 2010",FC Nantes U19,FC Nantes B,,,Ligue 1
+15,Jordan Veretout,Olympique Marseille,€14.00m ,France,"Jul 1, 2008","Jul 1, 2009",FC Nantes U17,FC Nantes U19,,,Ligue 1
+15,Jordan Veretout,Olympique Marseille,€14.00m ,France,,"Jul 1, 2008",Nantes Youth,FC Nantes U17,,,Ligue 1
+6,Mattéo Guendouzi,Olympique Marseille,€25.00m ,France,"Jul 1, 2022",,Marseille,,,,Ligue 1
+6,Mattéo Guendouzi,Olympique Marseille,€25.00m ,France,"Jun 30, 2022","Jul 1, 2022",Arsenal,Marseille,25000000.0,11000000.0,Ligue 1
+6,Mattéo Guendouzi,Olympique Marseille,€25.00m ,France,"Jul 6, 2021","Jun 30, 2022",Marseille,Arsenal,25000000.0,,Ligue 1
+6,Mattéo Guendouzi,Olympique Marseille,€25.00m ,France,"Jun 30, 2021","Jul 6, 2021",Arsenal,Marseille,20000000.0,,Ligue 1
+6,Mattéo Guendouzi,Olympique Marseille,€25.00m ,France,"Oct 5, 2020","Jun 30, 2021",Hertha BSC,Arsenal,20000000.0,,Ligue 1
+6,Mattéo Guendouzi,Olympique Marseille,€25.00m ,France,"Jul 11, 2018","Oct 5, 2020",Arsenal,Hertha BSC,32000000.0,,Ligue 1
+6,Mattéo Guendouzi,Olympique Marseille,€25.00m ,France,"Sep 23, 2016","Jul 11, 2018",FC Lorient,Arsenal,2500000.0,8000000.0,Ligue 1
+6,Mattéo Guendouzi,Olympique Marseille,€25.00m ,France,"Jan 1, 2016","Sep 23, 2016",Lorient B,FC Lorient,,,Ligue 1
+6,Mattéo Guendouzi,Olympique Marseille,€25.00m ,France,"Jul 1, 2014","Jan 1, 2016",FC Lorient U19,Lorient B,,,Ligue 1
+6,Mattéo Guendouzi,Olympique Marseille,€25.00m ,France,"Jul 1, 2013","Jul 1, 2014",Paris SG U17,FC Lorient U19,,0.0,Ligue 1
+6,Mattéo Guendouzi,Olympique Marseille,€25.00m ,France,,"Jul 1, 2013",PSG Youth,Paris SG U17,,,Ligue 1
+14,Adrien Rabiot,Juventus FC,€18.00m ,France,"Jul 1, 2019",,Juventus,,,,Serie A
+14,Adrien Rabiot,Juventus FC,€18.00m ,France,"Jun 30, 2013","Jul 1, 2019",Paris SG,Juventus,35000000.0,0.0,Serie A
+14,Adrien Rabiot,Juventus FC,€18.00m ,France,"Jan 31, 2013","Jun 30, 2013",Toulouse,Paris SG,2500000.0,,Serie A
+14,Adrien Rabiot,Juventus FC,€18.00m ,France,"Jul 1, 2012","Jan 31, 2013",Paris SG,Toulouse,1500000.0,,Serie A
+14,Adrien Rabiot,Juventus FC,€18.00m ,France,"Jul 1, 2011","Jul 1, 2012",Paris SG U19,Paris SG,,,Serie A
+14,Adrien Rabiot,Juventus FC,€18.00m ,France,"Jul 1, 2010","Jul 1, 2011",Paris SG U17,Paris SG U19,,,Serie A
+14,Adrien Rabiot,Juventus FC,€18.00m ,France,"Jul 1, 2009","Jul 1, 2010",Pau FC U19,Paris SG U17,,0.0,Serie A
+14,Adrien Rabiot,Juventus FC,€18.00m ,France,"Jan 1, 2009","Jul 1, 2009",Créteil Youth,Pau FC U19,,0.0,Serie A
+14,Adrien Rabiot,Juventus FC,€18.00m ,France,"Jul 1, 2008","Jan 1, 2009",Man City Youth,Créteil Youth,,0.0,Serie A
+14,Adrien Rabiot,Juventus FC,€18.00m ,France,,"Jul 1, 2008",Créteil Youth,Man City Youth,,0.0,Serie A
+20,Kingsley Coman,Bayern Munich,€60.00m ,France,"Jul 1, 2017",,Bayern Munich,,,,Bundesliga
+20,Kingsley Coman,Bayern Munich,€60.00m ,France,"Jun 30, 2017","Jul 1, 2017",Juventus,Bayern Munich,20000000.0,21000000.0,Bundesliga
+20,Kingsley Coman,Bayern Munich,€60.00m ,France,"Aug 30, 2015","Jun 30, 2017",Bayern Munich,Juventus,20000000.0,,Bundesliga
+20,Kingsley Coman,Bayern Munich,€60.00m ,France,"Jul 1, 2014","Aug 30, 2015",Juventus,Bayern Munich,3500000.0,,Bundesliga
+20,Kingsley Coman,Bayern Munich,€60.00m ,France,"Jul 1, 2013","Jul 1, 2014",Paris SG,Juventus,750000.0,0.0,Bundesliga
+20,Kingsley Coman,Bayern Munich,€60.00m ,France,"Jan 1, 2013","Jul 1, 2013",Paris SG U19,Paris SG,,,Bundesliga
+20,Kingsley Coman,Bayern Munich,€60.00m ,France,"Jul 1, 2011","Jan 1, 2013",Paris SG U17,Paris SG U19,,,Bundesliga
+20,Kingsley Coman,Bayern Munich,€60.00m ,France,,"Jul 1, 2011",PSG Youth,Paris SG U17,,,Bundesliga
+10,Kylian Mbappé,Paris Saint-Germain,€160.00m ,France,"Jul 1, 2018",,Paris SG,,,,Ligue 1
+10,Kylian Mbappé,Paris Saint-Germain,€160.00m ,France,"Jun 30, 2018","Jul 1, 2018",Monaco,Paris SG,120000000.0,180000000.0,Ligue 1
+10,Kylian Mbappé,Paris Saint-Germain,€160.00m ,France,"Aug 31, 2017","Jun 30, 2018",Paris SG,Monaco,120000000.0,,Ligue 1
+10,Kylian Mbappé,Paris Saint-Germain,€160.00m ,France,"Dec 1, 2015","Aug 31, 2017",Monaco,Paris SG,35000000.0,,Ligue 1
+10,Kylian Mbappé,Paris Saint-Germain,€160.00m ,France,"Jul 1, 2015","Dec 1, 2015",Monaco U19,Monaco,,,Ligue 1
+10,Kylian Mbappé,Paris Saint-Germain,€160.00m ,France,"Jul 1, 2013","Jul 1, 2015",Monaco Youth,Monaco U19,,,Ligue 1
+10,Kylian Mbappé,Paris Saint-Germain,€160.00m ,France,"Jul 1, 2011","Jul 1, 2013",Clairef. Yth.,Monaco Youth,,0.0,Ligue 1
+10,Kylian Mbappé,Paris Saint-Germain,€160.00m ,France,,"Jul 1, 2011",AS Bondy Youth,Clairef. Yth.,,0.0,Ligue 1
+12,Randal Kolo Muani,Eintracht Frankfurt,€30.00m ,France,"Jul 1, 2022",,E. Frankfurt,,,,Bundesliga
+12,Randal Kolo Muani,Eintracht Frankfurt,€30.00m ,France,"Jun 30, 2020","Jul 1, 2022",FC Nantes,E. Frankfurt,16000000.0,0.0,Bundesliga
+12,Randal Kolo Muani,Eintracht Frankfurt,€30.00m ,France,"Aug 22, 2019","Jun 30, 2020",US Boulogne,FC Nantes,300000.0,,Bundesliga
+12,Randal Kolo Muani,Eintracht Frankfurt,€30.00m ,France,"Jul 1, 2017","Aug 22, 2019",FC Nantes,US Boulogne,300000.0,,Bundesliga
+12,Randal Kolo Muani,Eintracht Frankfurt,€30.00m ,France,"Jul 1, 2016","Jul 1, 2017",FC Nantes B,FC Nantes,,,Bundesliga
+12,Randal Kolo Muani,Eintracht Frankfurt,€30.00m ,France,"Dec 1, 2015","Jul 1, 2016",FC Nantes U19,FC Nantes B,,,Bundesliga
+12,Randal Kolo Muani,Eintracht Frankfurt,€30.00m ,France,,"Dec 1, 2015",US Torcy Yth.,FC Nantes U19,,0.0,Bundesliga
+9,Olivier Giroud,AC Milan,€4.00m ,France,"Jul 17, 2021",,AC Milan,,,,Serie A
+9,Olivier Giroud,AC Milan,€4.00m ,France,"Jan 31, 2018","Jul 17, 2021",Chelsea,AC Milan,4000000.0,2850000.0,Serie A
+9,Olivier Giroud,AC Milan,€4.00m ,France,"Jul 1, 2012","Jan 31, 2018",Arsenal,Chelsea,20000000.0,17000000.0,Serie A
+9,Olivier Giroud,AC Milan,€4.00m ,France,"Jul 1, 2010","Jul 1, 2012",Montpellier,Arsenal,13000000.0,12000000.0,Serie A
+9,Olivier Giroud,AC Milan,€4.00m ,France,"Sep 1, 2008","Jul 1, 2010",Tours FC,Montpellier,3000000.0,2000000.0,Serie A
+9,Olivier Giroud,AC Milan,€4.00m ,France,"Jun 30, 2008","Sep 1, 2008",Grenoble,Tours FC,50000.0,150000.0,Serie A
+9,Olivier Giroud,AC Milan,€4.00m ,France,"Jul 1, 2007","Jun 30, 2008",FC Istres,Grenoble,,,Serie A
+9,Olivier Giroud,AC Milan,€4.00m ,France,"Mar 22, 2006","Jul 1, 2007",Grenoble,FC Istres,,,Serie A
+9,Olivier Giroud,AC Milan,€4.00m ,France,"Jul 1, 2005","Mar 22, 2006",Grenoble B,Grenoble,,,Serie A
+9,Olivier Giroud,AC Milan,€4.00m ,France,,"Jul 1, 2005",Grenoble U19,Grenoble B,,,Serie A
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Jul 1, 2022",,West Ham,,,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Jun 30, 2022","Jul 1, 2022",Paris SG,West Ham,8000000.0,9300000.0,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Jul 29, 2021","Jun 30, 2022",West Ham,Paris SG,8000000.0,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Jun 30, 2021","Jul 29, 2021",Paris SG,West Ham,17000000.0,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Sep 9, 2020","Jun 30, 2021",Fulham,Paris SG,17000000.0,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Aug 11, 2020","Sep 9, 2020",Paris SG,Fulham,13000000.0,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Sep 2, 2019","Aug 11, 2020",Real Madrid,Paris SG,13000000.0,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Jun 30, 2016","Sep 2, 2019",Paris SG,Real Madrid,17500000.0,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Jul 1, 2015","Jun 30, 2016",Villarreal,Paris SG,7500000.0,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Jun 30, 2015","Jul 1, 2015",Paris SG,Villarreal,4000000.0,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Jul 26, 2014","Jun 30, 2015",SC Bastia,Paris SG,4000000.0,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Jun 30, 2014","Jul 26, 2014",Paris SG,SC Bastia,1500000.0,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Jul 23, 2013","Jun 30, 2014",Lens,Paris SG,1500000.0,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Jul 1, 2010","Jul 23, 2013",Paris SG,Lens,600000.0,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Jul 1, 2009","Jul 1, 2010",Paris SG U19,Paris SG,,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,"Jul 1, 2008","Jul 1, 2009",Paris SG U17,Paris SG U19,,,Premier League
+23,Alphonse Areola,West Ham United,€8.00m ,France,,"Jul 1, 2008",PSG Youth,Paris SG U17,,,Premier League
+16,Steve Mandanda,Stade Rennais FC,€1.50m ,France,"Jul 6, 2022",,Rennes,,,,Ligue 1
+16,Steve Mandanda,Stade Rennais FC,€1.50m ,France,"Jul 11, 2017","Jul 6, 2022",Marseille,Rennes,1500000.0,0.0,Ligue 1
+16,Steve Mandanda,Stade Rennais FC,€1.50m ,France,"Jul 1, 2016","Jul 11, 2017",Crystal Palace,Marseille,8000000.0,3000000.0,Ligue 1
+16,Steve Mandanda,Stade Rennais FC,€1.50m ,France,"Jul 1, 2008","Jul 1, 2016",Marseille,Crystal Palace,10000000.0,0.0,Ligue 1
+16,Steve Mandanda,Stade Rennais FC,€1.50m ,France,"Jun 30, 2008","Jul 1, 2008",AC Le Havre,Marseille,6000000.0,2500000.0,Ligue 1
+16,Steve Mandanda,Stade Rennais FC,€1.50m ,France,"Jul 24, 2007","Jun 30, 2008",Marseille,AC Le Havre,6000000.0,,Ligue 1
+16,Steve Mandanda,Stade Rennais FC,€1.50m ,France,"Jul 1, 2005","Jul 24, 2007",AC Le Havre,Marseille,450000.0,,Ligue 1
+16,Steve Mandanda,Stade Rennais FC,€1.50m ,France,"Jul 1, 2003","Jul 1, 2005",Le Havre B,AC Le Havre,,,Ligue 1
+16,Steve Mandanda,Stade Rennais FC,€1.50m ,France,,"Jul 1, 2003",Le Havre U19,Le Havre B,,,Ligue 1
+17,William Saliba,Arsenal FC,€50.00m ,France,"Jun 30, 2022",,Arsenal,,,,Premier League
+17,William Saliba,Arsenal FC,€50.00m ,France,"Jul 15, 2021","Jun 30, 2022",Marseille,Arsenal,30000000.0,,Premier League
+17,William Saliba,Arsenal FC,€50.00m ,France,"Jun 30, 2021","Jul 15, 2021",Arsenal,Marseille,18000000.0,,Premier League
+17,William Saliba,Arsenal FC,€50.00m ,France,"Jan 4, 2021","Jun 30, 2021",OGC Nice,Arsenal,18000000.0,,Premier League
+17,William Saliba,Arsenal FC,€50.00m ,France,"Jun 30, 2020","Jan 4, 2021",Arsenal,OGC Nice,17000000.0,,Premier League
+17,William Saliba,Arsenal FC,€50.00m ,France,"Jul 26, 2019","Jun 30, 2020",Saint-Étienne,Arsenal,22500000.0,,Premier League
+17,William Saliba,Arsenal FC,€50.00m ,France,"Jul 25, 2019","Jul 26, 2019",Arsenal,Saint-Étienne,12000000.0,,Premier League
+17,William Saliba,Arsenal FC,€50.00m ,France,"Jul 1, 2018","Jul 25, 2019",Saint-Étienne,Arsenal,12000000.0,30000000.0,Premier League
+17,William Saliba,Arsenal FC,€50.00m ,France,"Jul 1, 2017","Jul 1, 2018",St-Étienne U19,Saint-Étienne,,,Premier League
+17,William Saliba,Arsenal FC,€50.00m ,France,"Jul 1, 2016","Jul 1, 2017",St-Étienne U17,St-Étienne U19,,,Premier League
+17,William Saliba,Arsenal FC,€50.00m ,France,"Jul 1, 2014","Jul 1, 2016",Montfermeil U17,St-Étienne U17,,0.0,Premier League
+17,William Saliba,Arsenal FC,€50.00m ,France,,"Jul 1, 2014",AS Bondy Youth,Montfermeil U17,,0.0,Premier League
+21,Lucas Hernández,Bayern Munich,€50.00m ,France,"Jul 1, 2019",,Bayern Munich,,,,Bundesliga
+21,Lucas Hernández,Bayern Munich,€50.00m ,France,"Jul 1, 2015","Jul 1, 2019",Atlético Madrid,Bayern Munich,70000000.0,80000000.0,Bundesliga
+21,Lucas Hernández,Bayern Munich,€50.00m ,France,"Jul 1, 2014","Jul 1, 2015",Atl. Madrid B,Atlético Madrid,,,Bundesliga
+21,Lucas Hernández,Bayern Munich,€50.00m ,France,"Jul 1, 2012","Jul 1, 2014",Atl. Madrid U19,Atl. Madrid B,,,Bundesliga
+21,Lucas Hernández,Bayern Munich,€50.00m ,France,"Jul 1, 2011","Jul 1, 2012",Atl. Madrid U17,Atl. Madrid U19,,,Bundesliga
+21,Lucas Hernández,Bayern Munich,€50.00m ,France,"Jul 1, 2007","Jul 1, 2011",Atléti Youth,Atl. Madrid U17,,,Bundesliga
+21,Lucas Hernández,Bayern Munich,€50.00m ,France,,"Jul 1, 2007",CF Rayo Majadaho,Atléti Youth,,0.0,Bundesliga
+24,Ibrahima Konaté,Liverpool FC,€35.00m ,France,"Jul 1, 2021",,Liverpool,,,,Premier League
+24,Ibrahima Konaté,Liverpool FC,€35.00m ,France,"Jul 1, 2017","Jul 1, 2021",RB Leipzig,Liverpool,35000000.0,40000000.0,Premier League
+24,Ibrahima Konaté,Liverpool FC,€35.00m ,France,"Jan 1, 2017","Jul 1, 2017",FC Sochaux,RB Leipzig,300000.0,0.0,Premier League
+24,Ibrahima Konaté,Liverpool FC,€35.00m ,France,"Jul 1, 2016","Jan 1, 2017",FC Sochaux B,FC Sochaux,,,Premier League
+24,Ibrahima Konaté,Liverpool FC,€35.00m ,France,"Jul 1, 2014","Jul 1, 2016",FC Sochaux U19,FC Sochaux B,,,Premier League
+24,Ibrahima Konaté,Liverpool FC,€35.00m ,France,,"Jul 1, 2014",Paris FC Youth,FC Sochaux U19,,0.0,Premier League
+22,Theo Hernández,AC Milan,€55.00m ,France,"Jul 6, 2019",,AC Milan,,,,Serie A
+22,Theo Hernández,AC Milan,€55.00m ,France,"Jun 30, 2019","Jul 6, 2019",Real Madrid,AC Milan,15000000.0,22800000.0,Serie A
+22,Theo Hernández,AC Milan,€55.00m ,France,"Aug 10, 2018","Jun 30, 2019",Real Sociedad,Real Madrid,15000000.0,,Serie A
+22,Theo Hernández,AC Milan,€55.00m ,France,"Jul 5, 2017","Aug 10, 2018",Real Madrid,Real Sociedad,15000000.0,,Serie A
+22,Theo Hernández,AC Milan,€55.00m ,France,"Jun 30, 2017","Jul 5, 2017",Atlético Madrid,Real Madrid,15000000.0,24000000.0,Serie A
+22,Theo Hernández,AC Milan,€55.00m ,France,"Aug 4, 2016","Jun 30, 2017",Alavés,Atlético Madrid,15000000.0,,Serie A
+22,Theo Hernández,AC Milan,€55.00m ,France,"Jul 1, 2016","Aug 4, 2016",Atlético Madrid,Alavés,1000000.0,,Serie A
+22,Theo Hernández,AC Milan,€55.00m ,France,"Jul 1, 2015","Jul 1, 2016",Atl. Madrid B,Atlético Madrid,,,Serie A
+22,Theo Hernández,AC Milan,€55.00m ,France,"Jul 1, 2014","Jul 1, 2015",Atl. Madrid U19,Atl. Madrid B,,,Serie A
+22,Theo Hernández,AC Milan,€55.00m ,France,"Jul 1, 2013","Jul 1, 2014",Atl. Madrid U17,Atl. Madrid U19,,,Serie A
+22,Theo Hernández,AC Milan,€55.00m ,France,"Jul 1, 2007","Jul 1, 2013",Atléti Youth,Atl. Madrid B,,,Serie A
+22,Theo Hernández,AC Milan,€55.00m ,France,,"Jul 1, 2007",CF Rayo Majadaho,Atléti Youth,,0.0,Serie A
+8,Aurélien Tchouameni,Real Madrid,€80.00m ,France,"Jul 1, 2022",,Real Madrid,,,,LaLiga
+8,Aurélien Tchouameni,Real Madrid,€80.00m ,France,"Jan 29, 2020","Jul 1, 2022",Monaco,Real Madrid,60000000.0,80000000.0,LaLiga
+8,Aurélien Tchouameni,Real Madrid,€80.00m ,France,"Jul 1, 2018","Jan 29, 2020",G. Bordeaux,Monaco,14000000.0,18000000.0,LaLiga
+8,Aurélien Tchouameni,Real Madrid,€80.00m ,France,"Jul 1, 2017","Jul 1, 2018",G. Bordeaux B,G. Bordeaux,,,LaLiga
+8,Aurélien Tchouameni,Real Madrid,€80.00m ,France,"Jul 1, 2016","Jul 1, 2017",Bordeaux U19,G. Bordeaux B,,,LaLiga
+8,Aurélien Tchouameni,Real Madrid,€80.00m ,France,"Jul 1, 2015","Jul 1, 2016",Bordeaux U17,Bordeaux U19,,,LaLiga
+8,Aurélien Tchouameni,Real Madrid,€80.00m ,France,,"Jul 1, 2015",FC Girondins Bor,Bordeaux U17,,,LaLiga
+25,Eduardo Camavinga,Real Madrid,€50.00m ,France,"Aug 31, 2021",,Real Madrid,,,,LaLiga
+25,Eduardo Camavinga,Real Madrid,€50.00m ,France,"Jan 1, 2019","Aug 31, 2021",Rennes,Real Madrid,55000000.0,31000000.0,LaLiga
+25,Eduardo Camavinga,Real Madrid,€50.00m ,France,"Jul 1, 2018","Jan 1, 2019",Rennes B,Rennes,,,LaLiga
+25,Eduardo Camavinga,Real Madrid,€50.00m ,France,,"Jul 1, 2018",Rennes Jugend,Rennes B,,,LaLiga
+13,Youssouf Fofana,AS Monaco,€25.00m ,France,"Jan 29, 2020",,Monaco,,,,Ligue 1
+13,Youssouf Fofana,AS Monaco,€25.00m ,France,"Jul 1, 2018","Jan 29, 2020",R. Strasbourg,Monaco,6000000.0,15000000.0,Ligue 1
+13,Youssouf Fofana,AS Monaco,€25.00m ,France,"Jul 1, 2017","Jul 1, 2018",R. Strasbourg B,R. Strasbourg,,,Ligue 1
+13,Youssouf Fofana,AS Monaco,€25.00m ,France,,"Jul 1, 2017",JA Drancy U19,R. Strasbourg B,,0.0,Ligue 1
+11,Ousmane Dembélé,FC Barcelona,€60.00m ,France,"Aug 25, 2017",,Barcelona,,,,LaLiga
+11,Ousmane Dembélé,FC Barcelona,€60.00m ,France,"Jul 1, 2016","Aug 25, 2017",Bor. Dortmund,Barcelona,33000000.0,140000000.0,LaLiga
+11,Ousmane Dembélé,FC Barcelona,€60.00m ,France,"Oct 1, 2015","Jul 1, 2016",Rennes,Bor. Dortmund,12000000.0,35000000.0,LaLiga
+11,Ousmane Dembélé,FC Barcelona,€60.00m ,France,"Jul 1, 2014","Oct 1, 2015",Rennes B,Rennes,,,LaLiga
+11,Ousmane Dembélé,FC Barcelona,€60.00m ,France,"Jul 1, 2010","Jul 1, 2014",Rennes Jugend,Rennes B,,,LaLiga
+11,Ousmane Dembélé,FC Barcelona,€60.00m ,France,,"Jul 1, 2010",Évreux Jugend,Rennes Jugend,,0.0,LaLiga
+7,Antoine Griezmann,Atlético de Madrid,€25.00m ,France,"Jul 1, 2023",,Atlético Madrid,,,,LaLiga
+7,Antoine Griezmann,Atlético de Madrid,€25.00m ,France,"Jun 30, 2023","Jul 1, 2023",Barcelona,Atlético Madrid,25000000.0,20000000.0,LaLiga
+7,Antoine Griezmann,Atlético de Madrid,€25.00m ,France,"Aug 31, 2021","Jun 30, 2023",Atlético Madrid,Barcelona,25000000.0,,LaLiga
+7,Antoine Griezmann,Atlético de Madrid,€25.00m ,France,"Jul 14, 2019","Aug 31, 2021",Barcelona,Atlético Madrid,60000000.0,,LaLiga
+7,Antoine Griezmann,Atlético de Madrid,€25.00m ,France,"Jul 28, 2014","Jul 14, 2019",Atlético Madrid,Barcelona,130000000.0,120000000.0,LaLiga
+7,Antoine Griezmann,Atlético de Madrid,€25.00m ,France,"Apr 8, 2010","Jul 28, 2014",Real Sociedad,Atlético Madrid,30000000.0,30000000.0,LaLiga
+7,Antoine Griezmann,Atlético de Madrid,€25.00m ,France,"Jul 1, 2009","Apr 8, 2010",Real Sociedad B,Real Sociedad,2000000.0,,LaLiga
+7,Antoine Griezmann,Atlético de Madrid,€25.00m ,France,"Jul 1, 2007","Jul 1, 2009",Berio,Real Sociedad B,,,LaLiga
+7,Antoine Griezmann,Atlético de Madrid,€25.00m ,France,"Jul 1, 2006","Jul 1, 2007",R. Sociedad U19,Berio,,,LaLiga
+7,Antoine Griezmann,Atlético de Madrid,€25.00m ,France,"Jul 1, 2005","Jul 1, 2006",Real Sociedad Y,R. Sociedad U19,,,LaLiga
+7,Antoine Griezmann,Atlético de Madrid,€25.00m ,France,,"Jul 1, 2005",UF Mâcon,Real Sociedad Y,,0.0,LaLiga
+19,Karim Benzema,Real Madrid,€35.00m ,France,"Jul 9, 2009",,Real Madrid,,,,LaLiga
+19,Karim Benzema,Real Madrid,€35.00m ,France,"Jul 1, 2005","Jul 9, 2009",Olympique Lyon,Real Madrid,29000000.0,35000000.0,LaLiga
+19,Karim Benzema,Real Madrid,€35.00m ,France,,"Jul 1, 2005",Olymp. Lyon U19,Olympique Lyon,,,LaLiga
+26,Marcus Thuram,Borussia Mönchengladbach,€30.00m ,France,"Jul 22, 2019",,Bor. M'gladbach,,,,Bundesliga
+26,Marcus Thuram,Borussia Mönchengladbach,€30.00m ,France,"Jul 5, 2017","Jul 22, 2019",Guingamp,Bor. M'gladbach,9000000.0,9000000.0,Bundesliga
+26,Marcus Thuram,Borussia Mönchengladbach,€30.00m ,France,"Mar 15, 2015","Jul 5, 2017",FC Sochaux,Guingamp,600000.0,600000.0,Bundesliga
+26,Marcus Thuram,Borussia Mönchengladbach,€30.00m ,France,"Jul 1, 2013","Mar 15, 2015",FC Sochaux B,FC Sochaux,,,Bundesliga
+26,Marcus Thuram,Borussia Mönchengladbach,€30.00m ,France,"Jul 1, 2012","Jul 1, 2013",FC Sochaux U19,FC Sochaux B,,,Bundesliga
+26,Marcus Thuram,Borussia Mönchengladbach,€30.00m ,France,,"Jul 1, 2012",ACBB Youth,FC Sochaux U19,,0.0,Bundesliga

@@ -1,0 +1,1862 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2022-12-10">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Man Utd" label="Man Utd" />
+      <node id="Ajax" label="Ajax" />
+      <node id="Werder Bremen" label="Werder Bremen" />
+      <node id="Everton" label="Everton" />
+      <node id="PSV Eindhoven" label="PSV Eindhoven" />
+      <node id="Inter" label="Inter" />
+      <node id="Heerenveen" label="Heerenveen" />
+      <node id="Sparta R." label="Sparta R." />
+      <node id="Barcelona" label="Barcelona" />
+      <node id="Willem II" label="Willem II" />
+      <node id="Ajax U21" label="Ajax U21" />
+      <node id="Celtic" label="Celtic" />
+      <node id="B. Leverkusen" label="B. Leverkusen" />
+      <node id="Man City U23" label="Man City U23" />
+      <node id="Sevilla FC" label="Sevilla FC" />
+      <node id="Bor. M'gladbach" label="Bor. M'gladbach" />
+      <node id="Twente FC" label="Twente FC" />
+      <node id="De Graafschap" label="De Graafschap" />
+      <node id="Middlesbrough" label="Middlesbrough" />
+      <node id="Atalanta BC" label="Atalanta BC" />
+      <node id="Juventus" label="Juventus" />
+      <node id="Bayern Munich" label="Bayern Munich" />
+      <node id="Olympique Lyon" label="Olympique Lyon" />
+      <node id="Bournemouth" label="Bournemouth" />
+      <node id="Man City" label="Man City" />
+      <node id="Chelsea" label="Chelsea" />
+      <node id="Feyenoord U17" label="Feyenoord U17" />
+      <node id="Chelsea U18" label="Chelsea U18" />
+      <node id="Club Brugge" label="Club Brugge" />
+      <node id="Vitesse" label="Vitesse" />
+      <node id="Feyenoord" label="Feyenoord" />
+      <node id="Lazio" label="Lazio" />
+      <node id="Watford" label="Watford" />
+      <node id="AZ Alkmaar" label="AZ Alkmaar" />
+      <node id="Spurs" label="Spurs" />
+      <node id="Ajax Youth" label="Ajax Youth" />
+      <node id="PSV Eindhoven Y" label="PSV Eindhoven Y" />
+      <node id="Monterrey" label="Monterrey" />
+      <node id="Royal Antwerp" label="Royal Antwerp" />
+      <node id="Almere City" label="Almere City" />
+      <node id="Southampton" label="Southampton" />
+      <node id="Liverpool" label="Liverpool" />
+      <node id="FC Groningen" label="FC Groningen" />
+      <node id="VfL Wolfsburg" label="VfL Wolfsburg" />
+      <node id="Burnley" label="Burnley" />
+      <node id="Heracles Almelo" label="Heracles Almelo" />
+      <node id="Slavia Prague" label="Slavia Prague" />
+      <node id="Benfica" label="Benfica" />
+      <node id="SönderjyskE" label="SönderjyskE" />
+      <node id="HB Köge" label="HB Köge" />
+      <node id="Trabzonspor" label="Trabzonspor" />
+      <node id="FC Copenhagen" label="FC Copenhagen" />
+      <node id="Parma" label="Parma" />
+      <node id="Cardiff" label="Cardiff" />
+      <node id="Bologna" label="Bologna" />
+      <node id="Nordsjaelland" label="Nordsjaelland" />
+      <node id="Odense BK U19" label="Odense BK U19" />
+      <node id="Ajax U19" label="Ajax U19" />
+      <node id="Fiorentina" label="Fiorentina" />
+      <node id="Brentford" label="Brentford" />
+      <node id="Bröndby IF" label="Bröndby IF" />
+      <node id="Hamburger SV" label="Hamburger SV" />
+      <node id="Lyngby BK U19" label="Lyngby BK U19" />
+      <node id="Hamburger SV II" label="Hamburger SV II" />
+      <node id="Atlético Madrid" label="Atlético Madrid" />
+      <node id="Valencia" label="Valencia" />
+      <node id="Celta de Vigo" label="Celta de Vigo" />
+      <node id="Évian" label="Évian" />
+      <node id="E. Frankfurt" label="E. Frankfurt" />
+      <node id="Union Berlin" label="Union Berlin" />
+      <node id="AC Horsens" label="AC Horsens" />
+      <node id="Austria Vienna" label="Austria Vienna" />
+      <node id="Udinese Calcio" label="Udinese Calcio" />
+      <node id="Crystal Palace" label="Crystal Palace" />
+      <node id="Sampdoria" label="Sampdoria" />
+      <node id="Midtjylland U19" label="Midtjylland U19" />
+      <node id="FC Twente U19" label="FC Twente U19" />
+      <node id="KRC Genk" label="KRC Genk" />
+      <node id="Aalborg BK" label="Aalborg BK" />
+      <node id="OGC Nice" label="OGC Nice" />
+      <node id="Silkeborg U19" label="Silkeborg U19" />
+      <node id="Leicester" label="Leicester" />
+      <node id="Leeds" label="Leeds" />
+      <node id="CD Leganés" label="CD Leganés" />
+      <node id="Toulouse" label="Toulouse" />
+      <node id="Esbjerg fB" label="Esbjerg fB" />
+      <node id="Odense BK" label="Odense BK" />
+      <node id="Hertha BSC" label="Hertha BSC" />
+      <node id="RB Salzburg" label="RB Salzburg" />
+      <node id="FC Midtjylland" label="FC Midtjylland" />
+      <node id="TSG Hoffenheim" label="TSG Hoffenheim" />
+      <node id="Silkeborg IF" label="Silkeborg IF" />
+      <node id="AC Milan" label="AC Milan" />
+      <node id="Fenerbahce" label="Fenerbahce" />
+      <node id="LOSC Lille" label="LOSC Lille" />
+      <node id="US Palermo" label="US Palermo" />
+      <node id="Bor. Dortmund" label="Bor. Dortmund" />
+      <node id="Galatasaray" label="Galatasaray" />
+      <node id="Lyngby BK" label="Lyngby BK" />
+      <node id="RB Leipzig" label="RB Leipzig" />
+      <node id="Toluca" label="Toluca" />
+      <node id="Chivas" label="Chivas" />
+      <node id="Real Betis" label="Real Betis" />
+      <node id="Atlas" label="Atlas" />
+      <node id="Dep. La Coruña" label="Dep. La Coruña" />
+      <node id="CD Cruz Azul" label="CD Cruz Azul" />
+      <node id="América" label="América" />
+      <node id="Santos Laguna" label="Santos Laguna" />
+      <node id="Standard Liège" label="Standard Liège" />
+      <node id="Mérida FC" label="Mérida FC" />
+      <node id="Club Tijuana" label="Club Tijuana" />
+      <node id="SSC Napoli" label="SSC Napoli" />
+      <node id="Pachuca" label="Pachuca" />
+      <node id="FC Porto" label="FC Porto" />
+      <node id="AS Roma" label="AS Roma" />
+      <node id="Real Sociedad" label="Real Sociedad" />
+      <node id="Espanyol" label="Espanyol" />
+      <node id="UNAM Pumas" label="UNAM Pumas" />
+      <node id="Genoa" label="Genoa" />
+      <node id="Cimarrones" label="Cimarrones" />
+      <node id="Querétaro FC" label="Querétaro FC" />
+      <node id="Wolves" label="Wolves" />
+      <node id="Necaxa" label="Necaxa" />
+      <node id="River Plate" label="River Plate" />
+      <node id="Ascoli" label="Ascoli" />
+      <node id="1.FC Nuremberg" label="1.FC Nuremberg" />
+      <node id="Huddersfield" label="Huddersfield" />
+      <node id="Al-Rayyan SC" label="Al-Rayyan SC" />
+      <node id="Al-Nassr FC" label="Al-Nassr FC" />
+      <node id="Aalesund" label="Aalesund" />
+      <node id="GZ R&amp;F" label="GZ R&amp;F" />
+      <node id="OC Safi" label="OC Safi" />
+      <node id="Wydad AC" label="Wydad AC" />
+      <node id="Stade Brestois" label="Stade Brestois" />
+      <node id="Paris SG" label="Paris SG" />
+      <node id="Real Madrid" label="Real Madrid" />
+      <node id="RSC Charleroi" label="RSC Charleroi" />
+      <node id="Lommel SK" label="Lommel SK" />
+      <node id="El Ahly" label="El Ahly" />
+      <node id="Qatar SC" label="Qatar SC" />
+      <node id="Raja Casablanca" label="Raja Casablanca" />
+      <node id="Girona" label="Girona" />
+      <node id="Atl. Madrid B" label="Atl. Madrid B" />
+      <node id="Hércules CF" label="Hércules CF" />
+      <node id="Barcelona B" label="Barcelona B" />
+      <node id="Real Valladolid" label="Real Valladolid" />
+      <node id="O. Khouribga" label="O. Khouribga" />
+      <node id="Rennes" label="Rennes" />
+      <node id="West Ham" label="West Ham" />
+      <node id="Dijon" label="Dijon" />
+      <node id="FUS Rabat" label="FUS Rabat" />
+      <node id="AM Football" label="AM Football" />
+      <node id="Angers SCO" label="Angers SCO" />
+      <node id="Mouscron" label="Mouscron" />
+      <node id="Hellas Verona" label="Hellas Verona" />
+      <node id="FC Utrecht" label="FC Utrecht" />
+      <node id="Bari" label="Bari" />
+      <node id="Sangiustese" label="Sangiustese" />
+      <node id="Dibba Fujairah" label="Dibba Fujairah" />
+      <node id="Málaga CF" label="Málaga CF" />
+      <node id="Málaga U19" label="Málaga U19" />
+      <node id="PSV U21" label="PSV U21" />
+      <node id="Kawasaki Front." label="Kawasaki Front." />
+      <node id="F. Düsseldorf" label="F. Düsseldorf" />
+      <node id="Kashima Antlers" label="Kashima Antlers" />
+      <node id="Cercle Brugge" label="Cercle Brugge" />
+      <node id="Sagan Tosu" label="Sagan Tosu" />
+      <node id="Yokohama F. M." label="Yokohama F. M." />
+      <node id="Lierse SK" label="Lierse SK" />
+      <node id="Santa Clara" label="Santa Clara" />
+      <node id="Sporting CP" label="Sporting CP" />
+      <node id="Júbilo Iwata" label="Júbilo Iwata" />
+      <node id="VfB Stuttgart" label="VfB Stuttgart" />
+      <node id="Marseille" label="Marseille" />
+      <node id="Urawa Reds" label="Urawa Reds" />
+      <node id="Kashiwa Reysol" label="Kashiwa Reysol" />
+      <node id="Hannover 96" label="Hannover 96" />
+      <node id="Stade Reims" label="Stade Reims" />
+      <node id="Brighton" label="Brighton" />
+      <node id="VVV-Venlo" label="VVV-Venlo" />
+      <node id="SC Freiburg" label="SC Freiburg" />
+      <node id="Gamba Osaka" label="Gamba Osaka" />
+      <node id="Portimonense" label="Portimonense" />
+      <node id="Shimizu S-Pulse" label="Shimizu S-Pulse" />
+      <node id="Arsenal" label="Arsenal" />
+      <node id="Sint-Truiden" label="Sint-Truiden" />
+      <node id="Avispa Fukuoka" label="Avispa Fukuoka" />
+      <node id="Partizan" label="Partizan" />
+      <node id="Sanf. Hiroshima" label="Sanf. Hiroshima" />
+      <node id="Monaco" label="Monaco" />
+      <node id="Cerezo Osaka" label="Cerezo Osaka" />
+      <node id="Cesena" label="Cesena" />
+      <node id="FC Tokyo" label="FC Tokyo" />
+      <node id="Peñarol" label="Peñarol" />
+      <node id="Athletico-PR" label="Athletico-PR" />
+      <node id="UD Almería" label="UD Almería" />
+      <node id="Villarreal" label="Villarreal" />
+      <node id="Nacional" label="Nacional" />
+      <node id="Defensor U19" label="Defensor U19" />
+      <node id="CA Cerro" label="CA Cerro" />
+      <node id="Danubio FC" label="Danubio FC" />
+      <node id="Orlando" label="Orlando" />
+      <node id="RM Castilla" label="RM Castilla" />
+      <node id="Wanderers" label="Wanderers" />
+      <node id="Cruzeiro" label="Cruzeiro" />
+      <node id="Flamengo" label="Flamengo" />
+      <node id="Defensor" label="Defensor" />
+      <node id="Dynamo Moscow" label="Dynamo Moscow" />
+      <node id="Man Utd U21" label="Man Utd U21" />
+      <node id="Pescara" label="Pescara" />
+      <node id="Wanderers U19" label="Wanderers U19" />
+      <node id="Pescara U19" label="Pescara U19" />
+      <node id="Famalicão" label="Famalicão" />
+      <node id="CA Fénix" label="CA Fénix" />
+      <node id="Getafe" label="Getafe" />
+      <node id="Palmeiras" label="Palmeiras" />
+      <node id="Liverpool FC" label="Liverpool FC" />
+      <node id="Boca Juniors" label="Boca Juniors" />
+      <node id="Boston River" label="Boston River" />
+      <node id="Rentistas" label="Rentistas" />
+      <node id="Sunderland" label="Sunderland" />
+      <node id="Vélez Sarsfield" label="Vélez Sarsfield" />
+      <node id="HNK Rijeka" label="HNK Rijeka" />
+      <node id="Dinamo Zagreb" label="Dinamo Zagreb" />
+      <node id="RCD Mallorca" label="RCD Mallorca" />
+      <node id="CA Osasuna" label="CA Osasuna" />
+      <node id="Crotone" label="Crotone" />
+      <node id="FC St. Pauli" label="FC St. Pauli" />
+      <node id="NK Lokomotiva" label="NK Lokomotiva" />
+      <node id="HNK Gorica" label="HNK Gorica" />
+      <node id="Inter Zapresic" label="Inter Zapresic" />
+      <node id="NK Osijek" label="NK Osijek" />
+      <node id="Rangers" label="Rangers" />
+      <node id="Trapani" label="Trapani" />
+      <node id="Catania" label="Catania" />
+      <node id="Zenit S-Pb" label="Zenit S-Pb" />
+      <node id="Dynamo Kyiv" label="Dynamo Kyiv" />
+      <node id="NK Zagreb" label="NK Zagreb" />
+      <node id="FC Sochaux" label="FC Sochaux" />
+      <node id="Hajduk U17" label="Hajduk U17" />
+      <node id="FC Sochaux B" label="FC Sochaux B" />
+      <node id="HNK Rijeka Jgd" label="HNK Rijeka Jgd" />
+      <node id="Inter Youth" label="Inter Youth" />
+      <node id="Legia Warszawa" label="Legia Warszawa" />
+      <node id="Hajduk Split" label="Hajduk Split" />
+      <node id="RNK Split" label="RNK Split" />
+      <node id="Hrv Dragovoljac" label="Hrv Dragovoljac" />
+      <node id="UD Las Palmas" label="UD Las Palmas" />
+      <node id="AEK Athens" label="AEK Athens" />
+      <node id="Rubin Kazan" label="Rubin Kazan" />
+      <node id="Spezia Calcio" label="Spezia Calcio" />
+      <node id="Sassuolo" label="Sassuolo" />
+      <node id="Ulsan Hyundai" label="Ulsan Hyundai" />
+      <node id="CC Yatai" label="CC Yatai" />
+      <node id="Jeonnam Dragons" label="Jeonnam Dragons" />
+      <node id="Kustosija U17" label="Kustosija U17" />
+      <node id="I. Zapresic U17" label="I. Zapresic U17" />
+      <node id="CSKA Moscow" label="CSKA Moscow" />
+      <node id="Wigan" label="Wigan" />
+      <node id="Fulham" label="Fulham" />
+      <node id="Everton U23" label="Everton U23" />
+      <node id="Philadelphia" label="Philadelphia" />
+      <node id="Newcastle" label="Newcastle" />
+      <node id="Seattle" label="Seattle" />
+      <node id="Molde" label="Molde" />
+      <node id="Antalyaspor" label="Antalyaspor" />
+      <node id="New York City" label="New York City" />
+      <node id="Norwich" label="Norwich" />
+      <node id="Colorado" label="Colorado" />
+      <node id="LAFC" label="LAFC" />
+      <node id="New England" label="New England" />
+      <node id="CD Tenerife" label="CD Tenerife" />
+      <node id="Nashville" label="Nashville" />
+      <node id="Bolton" label="Bolton" />
+      <node id="New York RB" label="New York RB" />
+      <node id="FC Schalke 04" label="FC Schalke 04" />
+      <node id="Stoke City" label="Stoke City" />
+      <node id="Sheff Utd" label="Sheff Utd" />
+      <node id="Swansea" label="Swansea" />
+      <node id="Nottm Forest" label="Nottm Forest" />
+      <node id="Reading" label="Reading" />
+      <node id="Wrexham" label="Wrexham" />
+      <node id="Dundee United" label="Dundee United" />
+      <node id="Exeter City" label="Exeter City" />
+      <node id="Barnsley FC" label="Barnsley FC" />
+      <node id="Ipswich" label="Ipswich" />
+      <node id="Forest Green" label="Forest Green" />
+      <node id="Al-Sadd SC" label="Al-Sadd SC" />
+      <node id="El-Jaish" label="El-Jaish" />
+      <node id="Lekhwiya" label="Lekhwiya" />
+      <node id="VfL Bochum" label="VfL Bochum" />
+      <node id="VfL Bochum U19" label="VfL Bochum U19" />
+      <node id="Chelsea Youth" label="Chelsea Youth" />
+      <node id="FC Bayern U17" label="FC Bayern U17" />
+      <node id="Stuttgart U19" label="Stuttgart U19" />
+      <node id="Wolfsburg U19" label="Wolfsburg U19" />
+      <node id="U'haching U19" label="U'haching U19" />
+      <node id="1.FC K'lautern" label="1.FC K'lautern" />
+      <node id="Karlsruhe U19" label="Karlsruhe U19" />
+      <node id="SC Freiburg U19" label="SC Freiburg U19" />
+      <node id="Stuttgart U17" label="Stuttgart U17" />
+      <node id="Arsenal U18" label="Arsenal U18" />
+      <node id="Montréal" label="Montréal" />
+      <node id="Vancouver" label="Vancouver" />
+      <node id="Helsingborg" label="Helsingborg" />
+      <node id="Östers IF" label="Östers IF" />
+      <node id="Besiktas" label="Besiktas" />
+      <node id="Troyes" label="Troyes" />
+      <node id="Chelsea U23" label="Chelsea U23" />
+      <node id="Cavalry FC" label="Cavalry FC" />
+      <node id="Montreal" label="Montreal" />
+      <node id="KAA Gent" label="KAA Gent" />
+      <node id="Blackburn" label="Blackburn" />
+      <node id="QPR" label="QPR" />
+      <node id="Austin" label="Austin" />
+      <node id="Liverpool U23" label="Liverpool U23" />
+      <node id="FC Basel" label="FC Basel" />
+      <node id="Puebla FC" label="Puebla FC" />
+      <node id="Toronto" label="Toronto" />
+      <node id="Louisville City" label="Louisville City" />
+      <node id="Vålerenga" label="Vålerenga" />
+      <node id="Hatayspor" label="Hatayspor" />
+      <node id="CD Izarra" label="CD Izarra" />
+      <node id="Paços Ferreira" label="Paços Ferreira" />
+      <node id="Chaves" label="Chaves" />
+      <node id="Leixões" label="Leixões" />
+      <node id="RSC Anderlecht" label="RSC Anderlecht" />
+      <node id="Borac Cacak" label="Borac Cacak" />
+      <node id="Red Star" label="Red Star" />
+      <node id="Vojvodina" label="Vojvodina" />
+      <node id="Radnicki 1923" label="Radnicki 1923" />
+      <node id="1. FC Köln" label="1. FC Köln" />
+      <node id="BATE Borisov" label="BATE Borisov" />
+      <node id="Red Star U17" label="Red Star U17" />
+      <node id="Man City U18" label="Man City U18" />
+      <node id="Apol. Limassol" label="Apol. Limassol" />
+      <node id="Alcorcón" label="Alcorcón" />
+      <node id="SD Eibar" label="SD Eibar" />
+      <node id="Tottenham U21" label="Tottenham U21" />
+      <node id="TJ Teda" label="TJ Teda" />
+      <node id="GZ Evergrande" label="GZ Evergrande" />
+      <node id="NAC Breda" label="NAC Breda" />
+      <node id="NK Domzale" label="NK Domzale" />
+      <node id="FC Astana" label="FC Astana" />
+      <node id="Empoli U19" label="Empoli U19" />
+      <node id="M. Tel Aviv" label="M. Tel Aviv" />
+      <node id="Jagodina" label="Jagodina" />
+      <node id="Torino" label="Torino" />
+      <node id="Real Sociedad B" label="Real Sociedad B" />
+      <node id="R. Strasbourg" label="R. Strasbourg" />
+      <node id="KV Kortrijk" label="KV Kortrijk" />
+      <node id="OFK Beograd U19" label="OFK Beograd U19" />
+      <node id="Red Star U19" label="Red Star U19" />
+      <node id="Lechia Gdansk" label="Lechia Gdansk" />
+      <node id="G. Bordeaux" label="G. Bordeaux" />
+      <node id="VAFC U19" label="VAFC U19" />
+      <node id="Aston Villa" label="Aston Villa" />
+      <node id="FC Nantes" label="FC Nantes" />
+      <node id="CF Rayo Majadaho" label="CF Rayo Majadaho" />
+      <node id="Atléti Youth" label="Atléti Youth" />
+      <node id="Guingamp" label="Guingamp" />
+      <node id="FC Lorient" label="FC Lorient" />
+      <node id="Montpellier" label="Montpellier" />
+      <node id="Tours FC" label="Tours FC" />
+      <node id="Grenoble" label="Grenoble" />
+      <node id="Lens" label="Lens" />
+      <node id="AC Le Havre" label="AC Le Havre" />
+      <node id="Saint-Étienne" label="Saint-Étienne" />
+      <node id="Novara" label="Novara" />
+      <node id="Boavista Y19" label="Boavista Y19" />
+      <node id="Marítimo" label="Marítimo" />
+      <node id="Olympiacos" label="Olympiacos" />
+      <node id="Sacavenense U19" label="Sacavenense U19" />
+      <node id="Sporting U19" label="Sporting U19" />
+      <node id="Estoril Praia" label="Estoril Praia" />
+      <node id="Sporting CP U23" label="Sporting CP U23" />
+      <node id="Internacional" label="Internacional" />
+      <node id="SM Caen" label="SM Caen" />
+      <node id="Vitória Setúbal" label="Vitória Setúbal" />
+      <node id="Athletic" label="Athletic" />
+      <node id="Barça U16" label="Barça U16" />
+      <node id="Cornellà U19" label="Cornellà U19" />
+      <node id="Valencia B" label="Valencia B" />
+      <node id="LD Alajuelense" label="LD Alajuelense" />
+      <node id="Saprissa" label="Saprissa" />
+      <node id="Göztepe" label="Göztepe" />
+      <node id="Fredrikstad" label="Fredrikstad" />
+      <node id="San Jose" label="San Jose" />
+      <node id="Konyaspor" label="Konyaspor" />
+      <node id="Minnesota" label="Minnesota" />
+      <node id="Chicago" label="Chicago" />
+      <node id="Herediano" label="Herediano" />
+      <node id="Frosinone" label="Frosinone" />
+      <node id="León" label="León" />
+      <node id="Cincinnati" label="Cincinnati" />
+      <node id="Levante" label="Levante" />
+      <node id="Albacete" label="Albacete" />
+      <node id="Thonon Évian" label="Thonon Évian" />
+      <node id="Lausanne-Sport" label="Lausanne-Sport" />
+      <node id="Maldonado" label="Maldonado" />
+      <node id="Atlético-PR" label="Atlético-PR" />
+      <node id="Grêmio" label="Grêmio" />
+      <node id="São Paulo" label="São Paulo" />
+      <node id="Atlético-MG" label="Atlético-MG" />
+      <node id="Desportivo U20" label="Desportivo U20" />
+      <node id="Atlético-MG U20" label="Atlético-MG U20" />
+      <node id="EC Bahia" label="EC Bahia" />
+      <node id="Santos FC" label="Santos FC" />
+      <node id="América-MG" label="América-MG" />
+      <node id="Rio Ave FC" label="Rio Ave FC" />
+      <node id="Fluminense U20" label="Fluminense U20" />
+      <node id="Shakhtar D." label="Shakhtar D." />
+      <node id="Ituano" label="Ituano" />
+      <node id="Corinthians" label="Corinthians" />
+      <node id="Fluminense" label="Fluminense" />
+      <node id="Vit. Guimarães" label="Vit. Guimarães" />
+      <node id="Avaí FC U20" label="Avaí FC U20" />
+      <node id="Guimarães B" label="Guimarães B" />
+      <node id="Dinamo Moscow" label="Dinamo Moscow" />
+      <node id="Juventude" label="Juventude" />
+      <node id="Al-Ahli (UAE)" label="Al-Ahli (UAE)" />
+      <node id="Coritiba FC" label="Coritiba FC" />
+      <node id="KV Oostende" label="KV Oostende" />
+      <node id="TJ Tianhai" label="TJ Tianhai" />
+      <node id="TJ Quanjian" label="TJ Quanjian" />
+      <node id="AGOVV" label="AGOVV" />
+      <node id="KAA Gent U21" label="KAA Gent U21" />
+      <node id="KSC Lokeren" label="KSC Lokeren" />
+      <node id="Lommel United" label="Lommel United" />
+      <node id="RE Virton" label="RE Virton" />
+      <node id="Al-Duhail SC" label="Al-Duhail SC" />
+      <node id="DL Pro" label="DL Pro" />
+      <node id="DL Yifang" label="DL Yifang" />
+      <node id="KRC Genk U17" label="KRC Genk U17" />
+      <node id="Monaco U19" label="Monaco U19" />
+      <node id="Suwon Bluewings" label="Suwon Bluewings" />
+      <node id="Daegu FC" label="Daegu FC" />
+      <node id="FC Anyang" label="FC Anyang" />
+      <node id="Jeonbuk Hyundai" label="Jeonbuk Hyundai" />
+      <node id="Daejeon Citizen" label="Daejeon Citizen" />
+      <node id="Holstein Kiel" label="Holstein Kiel" />
+      <node id="Albirex Niigata" label="Albirex Niigata" />
+      <node id="SD Taishan" label="SD Taishan" />
+      <node id="Pohang Steelers" label="Pohang Steelers" />
+      <node id="Seongnam FC" label="Seongnam FC" />
+      <node id="BJ Guoan" label="BJ Guoan" />
+      <node id="Busan IPark" label="Busan IPark" />
+      <node id="Gwangju FC" label="Gwangju FC" />
+      <node id="Al-Shabab" label="Al-Shabab" />
+      <node id="Vissel Kobe" label="Vissel Kobe" />
+      <node id="Darmstadt 98" label="Darmstadt 98" />
+      <node id="FC Bayern II" label="FC Bayern II" />
+      <node id="Incheon Utd." label="Incheon Utd." />
+      <node id="FC Bayern U19" label="FC Bayern U19" />
+      <node id="CQ Lifan" label="CQ Lifan" />
+      <node id="Omiya Ardija" label="Omiya Ardija" />
+      <node id="Suwon FC" label="Suwon FC" />
+      <node id="Daejeon Hana C." label="Daejeon Hana C." />
+      <node id="Coventry" label="Coventry" />
+      <node id="Liverpool U21" label="Liverpool U21" />
+      <node id="Hull City" label="Hull City" />
+      <node id="Birmingham" label="Birmingham" />
+      <node id="Charlton" label="Charlton" />
+      <node id="QPR U18" label="QPR U18" />
+      <node id="Liverpool U18" label="Liverpool U18" />
+      <node id="Barça U19" label="Barça U19" />
+      <node id="HN Jianye" label="HN Jianye" />
+      <node id="Al-Tai" label="Al-Tai" />
+      <node id="FC Dinamo" label="FC Dinamo" />
+      <node id="OFI Crete FC" label="OFI Crete FC" />
+      <node id="Abha" label="Abha" />
+      <node id="Le Mans FC" label="Le Mans FC" />
+      <node id="AJ Auxerre" label="AJ Auxerre" />
+      <node id="Servette FC" label="Servette FC" />
+      <node id="BSC Young Boys" label="BSC Young Boys" />
+      <node id="Apejes FC" label="Apejes FC" />
+      <node id="Colombe Sport" label="Colombe Sport" />
+      <node id="Paris FC" label="Paris FC" />
+      <node id="Recre Granada" label="Recre Granada" />
+      <node id="Nkufo Academy" label="Nkufo Academy" />
+      <node id="Granada B" label="Granada B" />
+      <node id="SCR Altach" label="SCR Altach" />
+      <node id="1.FSV Mainz 05" label="1.FSV Mainz 05" />
+      <node id="SH Port" label="SH Port" />
+      <node id="Adelaide United" label="Adelaide United" />
+      <node id="Basaksehir" label="Basaksehir" />
+      <node id="Bursaspor" label="Bursaspor" />
+      <node id="Brescia" label="Brescia" />
+      <node id="Central Coast" label="Central Coast" />
+      <node id="Burton Albion" label="Burton Albion" />
+      <node id="Ross County" label="Ross County" />
+      <node id="Melbourne City" label="Melbourne City" />
+      <node id="Hibernian FC" label="Hibernian FC" />
+      <node id="FC Ingolstadt" label="FC Ingolstadt" />
+      <node id="FSV Frankfurt" label="FSV Frankfurt" />
+      <node id="Al-Hilal SFC" label="Al-Hilal SFC" />
+      <node id="Charlotte" label="Charlotte" />
+      <node id="SPAL" label="SPAL" />
+      <node id="Diambars FC" label="Diambars FC" />
+      <node id="Bristol City" label="Bristol City" />
+      <node id="Clermont Foot" label="Clermont Foot" />
+      <node id="FC Metz" label="FC Metz" />
+      <node id="Sarpsborg 08" label="Sarpsborg 08" />
+      <node id="Oslo FA Dakar" label="Oslo FA Dakar" />
+      <node id="SC Braga" label="SC Braga" />
+      <node id="US Ouakam" label="US Ouakam" />
+      <node id="Braga B" label="Braga B" />
+      <node id="ASPIRE FD" label="ASPIRE FD" />
+      <node id="Pafos FC" label="Pafos FC" />
+      <node id="AC Ajaccio" label="AC Ajaccio" />
+      <node id="CF Fuenlabrada" label="CF Fuenlabrada" />
+      <node id="Rayo Vallecano" label="Rayo Vallecano" />
+      <node id="FC Thun" label="FC Thun" />
+      <node id="FC Winterthur" label="FC Winterthur" />
+      <node id="FC Zürich U21" label="FC Zürich U21" />
+      <node id="M'gladbach II" label="M'gladbach II" />
+      <node id="FC Sion" label="FC Sion" />
+      <node id="GC Zürich U18" label="GC Zürich U18" />
+      <node id="Grasshoppers" label="Grasshoppers" />
+      <node id="FC Luzern" label="FC Luzern" />
+      <node id="FC Zürich" label="FC Zürich" />
+      <node id="FC Lugano" label="FC Lugano" />
+      <node id="FC Augsburg" label="FC Augsburg" />
+      <node id="FC Aarau" label="FC Aarau" />
+      <node id="Granada CF" label="Granada CF" />
+      <node id="Independiente" label="Independiente" />
+      <node id="CS Emelec" label="CS Emelec" />
+      <node id="Dallas" label="Dallas" />
+      <node id="Barcelona SC" label="Barcelona SC" />
+      <node id="LDU Quito" label="LDU Quito" />
+      <node id="Newell's" label="Newell's" />
+      <node id="Tigres UANL" label="Tigres UANL" />
+      <node id="U. de Chile" label="U. de Chile" />
+      <node id="SD Aucas" label="SD Aucas" />
+      <node id="Boavista" label="Boavista" />
+      <node id="Manta FC" label="Manta FC" />
+      <node id="Santos FC U20" label="Santos FC U20" />
+      <node id="Uni. Católica" label="Uni. Católica" />
+      <node id="CD Macará" label="CD Macará" />
+      <node id="CA Talleres" label="CA Talleres" />
+      <node id="Saipa FC" label="Saipa FC" />
+      <node id="Esteghlal FC" label="Esteghlal FC" />
+      <node id="Sepahan" label="Sepahan" />
+      <node id="Persepolis" label="Persepolis" />
+      <node id="NEC Nijmegen" label="NEC Nijmegen" />
+      <node id="Damash Gilan" label="Damash Gilan" />
+      <node id="OC Blues FC" label="OC Blues FC" />
+      <node id="Panionios" label="Panionios" />
+      <node id="Al-Gharafa SC" label="Al-Gharafa SC" />
+      <node id="Al-Arabi SC" label="Al-Arabi SC" />
+      <node id="Rah Ahan" label="Rah Ahan" />
+      <node id="Terek Grozny" label="Terek Grozny" />
+      <node id="Naft Tehran" label="Naft Tehran" />
+      <node id="Saba Battery" label="Saba Battery" />
+      <node id="Östersund" label="Östersund" />
+      <node id="Amiens SC" label="Amiens SC" />
+      <node id="Syrianska FC" label="Syrianska FC" />
+      <node id="Rostov" label="Rostov" />
+      <node id="Al-Ittihad Club" label="Al-Ittihad Club" />
+      <node id="Ettifaq FC" label="Ettifaq FC" />
+      <node id="Al-Ahli SFC" label="Al-Ahli SFC" />
+      <node id="Al-Ahli U23" label="Al-Ahli U23" />
+      <node id="Al-Raed" label="Al-Raed" />
+      <node id="Argentinos Jrs." label="Argentinos Jrs." />
+      <node id="Belgrano" label="Belgrano" />
+      <node id="Indep'te U20" label="Indep'te U20" />
+      <node id="Arsenal Res." label="Arsenal Res." />
+      <node id="Atl. Nacional" label="Atl. Nacional" />
+      <node id="Estudiantes" label="Estudiantes" />
+      <node id="Racing Club" label="Racing Club" />
+      <node id="Defensa" label="Defensa" />
+      <node id="Newell's II" label="Newell's II" />
+      <node id="Ferro" label="Ferro" />
+      <node id="Banfield" label="Banfield" />
+      <node id="Metalist" label="Metalist" />
+      <node id="San Lorenzo" label="San Lorenzo" />
+      <node id="Arsenal Sarandí" label="Arsenal Sarandí" />
+      <node id="Instituto AC" label="Instituto AC" />
+      <node id="Atlanta" label="Atlanta" />
+      <node id="Rosario Central" label="Rosario Central" />
+      <node id="Górnik Zabrze" label="Górnik Zabrze" />
+      <node id="Rozwój Katowice" label="Rozwój Katowice" />
+      <node id="Krasnodar" label="Krasnodar" />
+      <node id="Lech Poznan" label="Lech Poznan" />
+      <node id="Akhmat Grozny" label="Akhmat Grozny" />
+      <node id="Wisla Plock" label="Wisla Plock" />
+      <node id="Jagiellonia" label="Jagiellonia" />
+      <node id="Loko Moscow" label="Loko Moscow" />
+      <node id="Arka Gdynia U19" label="Arka Gdynia U19" />
+      <node id="Bordeaux U19" label="Bordeaux U19" />
+      <node id="MSK Zilina" label="MSK Zilina" />
+      <node id="Podbrezova" label="Podbrezova" />
+      <node id="Anderlecht U21" label="Anderlecht U21" />
+      <node id="GKS Tychy" label="GKS Tychy" />
+      <node id="Anderlecht U17" label="Anderlecht U17" />
+      <node id="Benevento" label="Benevento" />
+      <node id="Piast Gliwice" label="Piast Gliwice" />
+      <node id="Ruch U19" label="Ruch U19" />
+      <node id="West Brom" label="West Brom" />
+      <node id="Sivasspor" label="Sivasspor" />
+      <node id="Pogon Szczecin" label="Pogon Szczecin" />
+      <node id="PAOK Salonika" label="PAOK Salonika" />
+      <node id="Derby" label="Derby" />
+      <node id="Lech U19" label="Lech U19" />
+      <node id="Cracovia" label="Cracovia" />
+      <node id="Zaglebie Lubin" label="Zaglebie Lubin" />
+      <node id="L. Dzierzoniow" label="L. Dzierzoniow" />
+      <node id="Lubin II" label="Lubin II" />
+      <node id="Udinese U19" label="Udinese U19" />
+      <node id="Znicz Pruszkow" label="Znicz Pruszkow" />
+      <node id="Legia II" label="Legia II" />
+      <node id="Legia Yth." label="Legia Yth." />
+      <node id="Greuther Fürth" label="Greuther Fürth" />
+      <node id="SC Bastia" label="SC Bastia" />
+      <node id="Djurgården" label="Djurgården" />
+      <node id="Steadfast FC" label="Steadfast FC" />
+      <node id="Hammarby" label="Hammarby" />
+      <node id="Leicester U21" label="Leicester U21" />
+      <node id="FC St. Gallen" label="FC St. Gallen" />
+      <node id="AS Trencin" label="AS Trencin" />
+      <node id="Accra Lions" label="Accra Lions" />
+      <node id="JS Kairouan" label="JS Kairouan" />
+      <node id="Esperance" label="Esperance" />
+      <node id="CS Sfaxien" label="CS Sfaxien" />
+      <node id="Club Africain" label="Club Africain" />
+      <node id="ES Sahel" label="ES Sahel" />
+      <node id="FC Voluntari" label="FC Voluntari" />
+      <node id="Ferencváros" label="Ferencváros" />
+      <node id="Salernitana" label="Salernitana" />
+      <node id="Chamois Niort" label="Chamois Niort" />
+      <node id="ESS U19" label="ESS U19" />
+      <node id="Monaco Youth" label="Monaco Youth" />
+      <node id="Man Utd U18" label="Man Utd U18" />
+      <node id="ACBB Youth" label="ACBB Youth" />
+      <node id="Rosenborg" label="Rosenborg" />
+      <node id="Al-Wehda FC" label="Al-Wehda FC" />
+      <node id="Elfsborg" label="Elfsborg" />
+      <node id="Red Star FC" label="Red Star FC" />
+      <node id="El Mokawloon" label="El Mokawloon" />
+      <node id="Zamalek" label="Zamalek" />
+      <node id="Stade Gabèsien" label="Stade Gabèsien" />
+      <node id="Al-Ain FC" label="Al-Ain FC" />
+      <node id="Stade Tunisien" label="Stade Tunisien" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Man Utd" target="Ajax" weight="16000000.0" />
+      <edge id="1" source="Man Utd" target="Olympique Lyon" weight="16000000.0" />
+      <edge id="2" source="Man Utd" target="Leeds" weight="29100000.0" />
+      <edge id="3" source="Man Utd" target="Real Madrid" weight="94000000.0" />
+      <edge id="4" source="Man Utd" target="Inter" weight="74000000.0" />
+      <edge id="5" source="Man Utd" target="Paris SG" weight="63000000.0" />
+      <edge id="6" source="Ajax" target="Man Utd" weight="169870000.0" />
+      <edge id="7" source="Ajax" target="Everton" weight="27000000.0" />
+      <edge id="8" source="Ajax" target="Barcelona" weight="107000000.0" />
+      <edge id="9" source="Ajax" target="Juventus" weight="85500000.0" />
+      <edge id="10" source="Ajax" target="Club Brugge" weight="6000000.0" />
+      <edge id="11" source="Ajax" target="Spurs" weight="26650000.0" />
+      <edge id="12" source="Ajax" target="OGC Nice" weight="20500000.0" />
+      <edge id="13" source="Ajax" target="RB Salzburg" weight="5000000.0" />
+      <edge id="14" source="Ajax" target="Chelsea" weight="40000000.0" />
+      <edge id="15" source="Ajax" target="Liverpool" weight="26500000.0" />
+      <edge id="16" source="Ajax" target="TJ Teda" weight="5500000.0" />
+      <edge id="17" source="Ajax" target="Atlético Madrid" weight="7000000.0" />
+      <edge id="18" source="Ajax" target="Olympique Lyon" weight="4200000.0" />
+      <edge id="19" source="Ajax" target="SSC Napoli" weight="32000000.0" />
+      <edge id="20" source="Werder Bremen" target="Ajax" weight="11700000.0" />
+      <edge id="21" source="Werder Bremen" target="Bor. Dortmund" weight="20000000.0" />
+      <edge id="22" source="Werder Bremen" target="Norwich" weight="9500000.0" />
+      <edge id="23" source="Werder Bremen" target="1.FC Nuremberg" weight="300000.0" />
+      <edge id="24" source="Werder Bremen" target="Bayern Munich" weight="8000000.0" />
+      <edge id="25" source="Everton" target="Werder Bremen" weight="13500000.0" />
+      <edge id="26" source="Everton" target="CSKA Moscow" weight="23000000.0" />
+      <edge id="27" source="Everton" target="Sunderland" weight="2000000.0" />
+      <edge id="28" source="Everton" target="Spurs" weight="58000000.0" />
+      <edge id="29" source="Everton" target="Man Utd" weight="84700000.0" />
+      <edge id="30" source="Everton" target="Man City" weight="55600000.0" />
+      <edge id="31" source="Everton" target="Paris SG" weight="30000000.0" />
+      <edge id="32" source="PSV Eindhoven" target="Inter" weight="14250000.0" />
+      <edge id="33" source="PSV Eindhoven" target="Sevilla FC" weight="12500000.0" />
+      <edge id="34" source="PSV Eindhoven" target="Man Utd" weight="34000000.0" />
+      <edge id="35" source="PSV Eindhoven" target="Vitesse" weight="450000.0" />
+      <edge id="36" source="PSV Eindhoven" target="Spurs" weight="30000000.0" />
+      <edge id="37" source="PSV Eindhoven" target="Real Betis" weight="2500000.0" />
+      <edge id="38" source="PSV Eindhoven" target="SSC Napoli" weight="54480000.0" />
+      <edge id="39" source="PSV Eindhoven" target="AS Roma" weight="5700000.0" />
+      <edge id="40" source="PSV Eindhoven" target="SC Freiburg" weight="8500000.0" />
+      <edge id="41" source="PSV Eindhoven" target="E. Frankfurt" weight="3000000.0" />
+      <edge id="42" source="PSV Eindhoven" target="Basaksehir" weight="1000000.0" />
+      <edge id="43" source="Inter" target="Paris SG" weight="68000000.0" />
+      <edge id="44" source="Inter" target="Galatasaray" weight="2500000.0" />
+      <edge id="45" source="Inter" target="Atalanta BC" weight="5050000.0" />
+      <edge id="46" source="Inter" target="Real Madrid" weight="38000000.0" />
+      <edge id="47" source="Inter" target="Chelsea" weight="113000000.0" />
+      <edge id="48" source="Inter" target="Stoke City" weight="17000000.0" />
+      <edge id="49" source="Heerenveen" target="PSV Eindhoven" weight="5500000.0" />
+      <edge id="50" source="Heerenveen" target="Atalanta BC" weight="1300000.0" />
+      <edge id="51" source="Heerenveen" target="Twente FC" weight="3500000.0" />
+      <edge id="52" source="Heerenveen" target="Benfica" weight="8000000.0" />
+      <edge id="53" source="Sparta R." target="Heerenveen" weight="750000.0" />
+      <edge id="54" source="Barcelona" target="Atlético Madrid" weight="29000000.0" />
+      <edge id="55" source="Barcelona" target="Sevilla FC" weight="3000000.0" />
+      <edge id="56" source="Barcelona" target="Paris SG" weight="222000000.0" />
+      <edge id="57" source="Willem II" target="Ajax U21" weight="1.0" />
+      <edge id="58" source="Celtic" target="B. Leverkusen" weight="11000000.0" />
+      <edge id="59" source="Celtic" target="Southampton" weight="15700000.0" />
+      <edge id="60" source="B. Leverkusen" target="Dinamo Zagreb" weight="1300000.0" />
+      <edge id="61" source="B. Leverkusen" target="Bor. Dortmund" weight="25000000.0" />
+      <edge id="62" source="B. Leverkusen" target="Chelsea" weight="80000000.0" />
+      <edge id="63" source="B. Leverkusen" target="Real Madrid" weight="6500000.0" />
+      <edge id="64" source="B. Leverkusen" target="Spurs" weight="30000000.0" />
+      <edge id="65" source="B. Leverkusen" target="Ajax" weight="2800000.0" />
+      <edge id="66" source="Man City U23" target="Celtic" weight="5380000.0" />
+      <edge id="67" source="Man City U23" target="Chivas" weight="9900000.0" />
+      <edge id="68" source="Man City U23" target="Hellas Verona" weight="7500000.0" />
+      <edge id="69" source="Sevilla FC" target="PSV Eindhoven" weight="3000000.0" />
+      <edge id="70" source="Sevilla FC" target="AC Milan" weight="3680000.0" />
+      <edge id="71" source="Sevilla FC" target="Juventus" weight="8000000.0" />
+      <edge id="72" source="Sevilla FC" target="Barcelona" weight="85500000.0" />
+      <edge id="73" source="Sevilla FC" target="Paris SG" weight="45500000.0" />
+      <edge id="74" source="Bor. M'gladbach" target="PSV Eindhoven" weight="5500000.0" />
+      <edge id="75" source="Bor. M'gladbach" target="Barcelona" weight="12000000.0" />
+      <edge id="76" source="Bor. M'gladbach" target="Bor. Dortmund" weight="25500000.0" />
+      <edge id="77" source="Bor. M'gladbach" target="FSV Frankfurt" weight="300000.0" />
+      <edge id="78" source="Bor. M'gladbach" target="Monaco" weight="12500000.0" />
+      <edge id="79" source="Bor. M'gladbach" target="Juventus" weight="10100000.0" />
+      <edge id="80" source="Bor. M'gladbach" target="BSC Young Boys" weight="2000000.0" />
+      <edge id="81" source="Bor. M'gladbach" target="Arsenal" weight="45000000.0" />
+      <edge id="82" source="Twente FC" target="Bor. M'gladbach" weight="12000000.0" />
+      <edge id="83" source="Twente FC" target="AZ Alkmaar" weight="500000.0" />
+      <edge id="84" source="Twente FC" target="Sampdoria" weight="1750000.0" />
+      <edge id="85" source="Twente FC" target="Ajax" weight="11000000.0" />
+      <edge id="86" source="Twente FC" target="Southampton" weight="14000000.0" />
+      <edge id="87" source="Twente FC" target="Fulham" weight="12000000.0" />
+      <edge id="88" source="De Graafschap" target="Twente FC" weight="900000.0" />
+      <edge id="89" source="Middlesbrough" target="Atalanta BC" weight="16700000.0" />
+      <edge id="90" source="Middlesbrough" target="CD Leganés" weight="5000000.0" />
+      <edge id="91" source="Atalanta BC" target="Middlesbrough" weight="10500000.0" />
+      <edge id="92" source="Atalanta BC" target="Parma" weight="8400000.0" />
+      <edge id="93" source="Atalanta BC" target="Rubin Kazan" weight="6500000.0" />
+      <edge id="94" source="Atalanta BC" target="Leicester" weight="20900000.0" />
+      <edge id="95" source="Atalanta BC" target="Nottm Forest" weight="9000000.0" />
+      <edge id="96" source="Atalanta BC" target="Spurs" weight="50000000.0" />
+      <edge id="97" source="Atalanta BC" target="Sevilla FC" weight="5500000.0" />
+      <edge id="98" source="Juventus" target="Bayern Munich" weight="88000000.0" />
+      <edge id="99" source="Juventus" target="Spurs" weight="19000000.0" />
+      <edge id="100" source="Juventus" target="Man Utd" weight="17000000.0" />
+      <edge id="101" source="Juventus" target="Man City" weight="65000000.0" />
+      <edge id="102" source="Juventus" target="Real Madrid" weight="30000000.0" />
+      <edge id="103" source="Juventus" target="Atalanta BC" weight="17000000.0" />
+      <edge id="104" source="Bayern Munich" target="Southampton" weight="15000000.0" />
+      <edge id="105" source="Bayern Munich" target="Bor. Dortmund" weight="22000000.0" />
+      <edge id="106" source="Bayern Munich" target="Inter" weight="15000000.0" />
+      <edge id="107" source="Bayern Munich" target="Barcelona" weight="45000000.0" />
+      <edge id="108" source="Olympique Lyon" target="Crystal Palace" weight="17500000.0" />
+      <edge id="109" source="Olympique Lyon" target="Southampton" weight="10000000.0" />
+      <edge id="110" source="Olympique Lyon" target="Spurs" weight="12600000.0" />
+      <edge id="111" source="Olympique Lyon" target="Real Madrid" weight="35000000.0" />
+      <edge id="112" source="Olympique Lyon" target="Newcastle" weight="42100000.0" />
+      <edge id="113" source="Olympique Lyon" target="West Ham" weight="42950000.0" />
+      <edge id="114" source="Olympique Lyon" target="Torino" weight="3500000.0" />
+      <edge id="115" source="Olympique Lyon" target="Chicago" weight="7000000.0" />
+      <edge id="116" source="Olympique Lyon" target="KAA Gent" weight="1000000.0" />
+      <edge id="117" source="Bournemouth" target="Man City" weight="45300000.0" />
+      <edge id="118" source="Bournemouth" target="Sheff Utd" weight="20500000.0" />
+      <edge id="119" source="Bournemouth" target="Newcastle" weight="22250000.0" />
+      <edge id="120" source="Man City" target="Bor. M'gladbach" weight="5000000.0" />
+      <edge id="121" source="Man City" target="Bayern Munich" weight="49000000.0" />
+      <edge id="122" source="Man City" target="Barcelona" weight="55000000.0" />
+      <edge id="123" source="Man City" target="Juventus" weight="37000000.0" />
+      <edge id="124" source="Man City" target="Arsenal" weight="52200000.0" />
+      <edge id="125" source="Man City" target="Chelsea" weight="56200000.0" />
+      <edge id="126" source="Man City" target="Huddersfield" weight="9100000.0" />
+      <edge id="127" source="Man City" target="Real Sociedad" weight="7000000.0" />
+      <edge id="128" source="Man City" target="Benfica" weight="15000000.0" />
+      <edge id="129" source="Chelsea" target="Bournemouth" weight="22800000.0" />
+      <edge id="130" source="Chelsea" target="Atalanta BC" weight="14500000.0" />
+      <edge id="131" source="Chelsea" target="Real Madrid" weight="35000000.0" />
+      <edge id="132" source="Chelsea" target="AC Milan" weight="2850000.0" />
+      <edge id="133" source="Chelsea" target="Atlético Madrid" weight="35000000.0" />
+      <edge id="134" source="Chelsea" target="VfL Wolfsburg" weight="22000000.0" />
+      <edge id="135" source="Chelsea" target="Fenerbahce" weight="3500000.0" />
+      <edge id="136" source="Chelsea" target="Everton" weight="35360000.0" />
+      <edge id="137" source="Chelsea" target="Bor. M'gladbach" weight="8000000.0" />
+      <edge id="138" source="Feyenoord U17" target="Chelsea U18" weight="800000.0" />
+      <edge id="139" source="Club Brugge" target="Hellas Verona" weight="3650000.0" />
+      <edge id="140" source="Club Brugge" target="Bor. Dortmund" weight="4000000.0" />
+      <edge id="141" source="Club Brugge" target="Espanyol" weight="1150000.0" />
+      <edge id="142" source="Club Brugge" target="AC Milan" weight="32000000.0" />
+      <edge id="143" source="Club Brugge" target="Lens" weight="9800000.0" />
+      <edge id="144" source="Club Brugge" target="Paris SG" weight="6000000.0" />
+      <edge id="145" source="Club Brugge" target="Valencia" weight="7000000.0" />
+      <edge id="146" source="Club Brugge" target="Adelaide United" weight="950000.0" />
+      <edge id="147" source="Club Brugge" target="Monaco" weight="16700000.0" />
+      <edge id="148" source="Feyenoord" target="Lazio" weight="7000000.0" />
+      <edge id="149" source="Feyenoord" target="Ajax" weight="5500000.0" />
+      <edge id="150" source="Feyenoord" target="Man Utd" weight="15000000.0" />
+      <edge id="151" source="Feyenoord" target="Club Brugge" weight="2500000.0" />
+      <edge id="152" source="Lazio" target="Galatasaray" weight="6750000.0" />
+      <edge id="153" source="Watford" target="Feyenoord" weight="6500000.0" />
+      <edge id="154" source="Watford" target="Everton" weight="39200000.0" />
+      <edge id="155" source="Watford" target="Villarreal" weight="16399999.999999998" />
+      <edge id="156" source="AZ Alkmaar" target="Watford" weight="6500000.0" />
+      <edge id="157" source="AZ Alkmaar" target="Atalanta BC" weight="14000000.0" />
+      <edge id="158" source="AZ Alkmaar" target="Spurs" weight="22000000.0" />
+      <edge id="159" source="AZ Alkmaar" target="VfL Wolfsburg" weight="10500000.0" />
+      <edge id="160" source="AZ Alkmaar" target="Espanyol" weight="2500000.0" />
+      <edge id="161" source="AZ Alkmaar" target="Toulouse" weight="2000000.0" />
+      <edge id="162" source="AZ Alkmaar" target="Ajax" weight="6000000.0" />
+      <edge id="163" source="AZ Alkmaar" target="Brighton" weight="19000000.0" />
+      <edge id="164" source="Spurs" target="Ajax" weight="31250000.0" />
+      <edge id="165" source="Spurs" target="Monterrey" weight="9000000.0" />
+      <edge id="166" source="Spurs" target="Inter" weight="27000000.0" />
+      <edge id="167" source="Spurs" target="Real Madrid" weight="136000000.0" />
+      <edge id="168" source="Spurs" target="Celtic" weight="7000000.0" />
+      <edge id="169" source="Spurs" target="Newcastle" weight="5900000.0" />
+      <edge id="170" source="Spurs" target="Nottm Forest" weight="2000000.0" />
+      <edge id="171" source="Spurs" target="Al-Duhail SC" weight="13000000.0" />
+      <edge id="172" source="Spurs" target="Atlético Madrid" weight="22000000.0" />
+      <edge id="173" source="Spurs" target="Man City" weight="52700000.0" />
+      <edge id="174" source="Spurs" target="Besiktas" weight="4500000.0" />
+      <edge id="175" source="Spurs" target="Villarreal" weight="15000000.0" />
+      <edge id="176" source="Ajax Youth" target="PSV Eindhoven Y" weight="120000.0" />
+      <edge id="177" source="Monterrey" target="Royal Antwerp" weight="5500000.0" />
+      <edge id="178" source="Monterrey" target="CD Cruz Azul" weight="2200000.0" />
+      <edge id="179" source="Monterrey" target="UNAM Pumas" weight="3500000.0" />
+      <edge id="180" source="Monterrey" target="Vélez Sarsfield" weight="850000.0" />
+      <edge id="181" source="Royal Antwerp" target="Hellas Verona" weight="3700000.0" />
+      <edge id="182" source="Almere City" target="AZ Alkmaar" weight="500000.0" />
+      <edge id="183" source="Southampton" target="Liverpool" weight="109950000.0" />
+      <edge id="184" source="Southampton" target="Spurs" weight="31300000.0" />
+      <edge id="185" source="Southampton" target="Ajax" weight="13700000.0" />
+      <edge id="186" source="Southampton" target="Man Utd" weight="37500000.0" />
+      <edge id="187" source="Liverpool" target="Monaco" weight="15000000.0" />
+      <edge id="188" source="Liverpool" target="Barcelona" weight="81720000.0" />
+      <edge id="189" source="Liverpool" target="Sunderland" weight="2800000.0" />
+      <edge id="190" source="Liverpool" target="Zenit S-Pb" weight="12000000.0" />
+      <edge id="191" source="Liverpool" target="Leicester" weight="14000000.0" />
+      <edge id="192" source="Liverpool" target="Fulham" weight="14000000.0" />
+      <edge id="193" source="Liverpool" target="Stoke City" weight="15500000.0" />
+      <edge id="194" source="Liverpool" target="Nottm Forest" weight="20000000.0" />
+      <edge id="195" source="Liverpool" target="FC Porto" weight="9000000.0" />
+      <edge id="196" source="Liverpool" target="Club Brugge" weight="7000000.0" />
+      <edge id="197" source="Liverpool" target="Man City" weight="63700000.0" />
+      <edge id="198" source="Liverpool" target="Olympique Lyon" weight="6000000.0" />
+      <edge id="199" source="FC Groningen" target="Celtic" weight="2750000.0" />
+      <edge id="200" source="FC Groningen" target="PSV Eindhoven" weight="7500000.0" />
+      <edge id="201" source="FC Groningen" target="Ajax" weight="7500000.0" />
+      <edge id="202" source="FC Groningen" target="Twente FC" weight="5500000.0" />
+      <edge id="203" source="FC Groningen" target="VfB Stuttgart" weight="6000000.0" />
+      <edge id="204" source="FC Groningen" target="E. Frankfurt" weight="1000000.0" />
+      <edge id="205" source="VfL Wolfsburg" target="Burnley" weight="17500000.0" />
+      <edge id="206" source="VfL Wolfsburg" target="LOSC Lille" weight="2500000.0" />
+      <edge id="207" source="VfL Wolfsburg" target="Inter" weight="19000000.0" />
+      <edge id="208" source="VfL Wolfsburg" target="Man City" weight="76000000.0" />
+      <edge id="209" source="VfL Wolfsburg" target="FC Lugano" weight="750000.0" />
+      <edge id="210" source="VfL Wolfsburg" target="AC Milan" weight="15000000.0" />
+      <edge id="211" source="Burnley" target="Spurs" weight="4900000.0" />
+      <edge id="212" source="Burnley" target="Newcastle" weight="11500000.0" />
+      <edge id="213" source="Heracles Almelo" target="AZ Alkmaar" weight="1500000.0" />
+      <edge id="214" source="Heracles Almelo" target="Celta de Vigo" weight="1400000.0" />
+      <edge id="215" source="Slavia Prague" target="Benfica" weight="8000000.0" />
+      <edge id="216" source="Benfica" target="Évian" weight="1200000.0" />
+      <edge id="217" source="Benfica" target="Wolves" weight="38000000.0" />
+      <edge id="218" source="Benfica" target="Monterrey" weight="3600000.0" />
+      <edge id="219" source="Benfica" target="Liverpool" weight="80000000.0" />
+      <edge id="220" source="Benfica" target="E. Frankfurt" weight="22340000.0" />
+      <edge id="221" source="Benfica" target="SC Freiburg" weight="1500000.0" />
+      <edge id="222" source="Benfica" target="Monaco" weight="15750000.0" />
+      <edge id="223" source="Benfica" target="Valencia" weight="15000000.0" />
+      <edge id="224" source="Benfica" target="Atlético Madrid" weight="127200000.0" />
+      <edge id="225" source="Benfica" target="Man City" weight="111600000.0" />
+      <edge id="226" source="Benfica" target="Zenit S-Pb" weight="40000000.0" />
+      <edge id="227" source="Benfica" target="Real Madrid" weight="33000000.0" />
+      <edge id="228" source="SönderjyskE" target="Slavia Prague" weight="1750000.0" />
+      <edge id="229" source="SönderjyskE" target="Antalyaspor" weight="1880000.0" />
+      <edge id="230" source="HB Köge" target="SönderjyskE" weight="530000.0" />
+      <edge id="231" source="Trabzonspor" target="FC Copenhagen" weight="6000000.0" />
+      <edge id="232" source="FC Copenhagen" target="Atalanta BC" weight="6000000.0" />
+      <edge id="233" source="FC Copenhagen" target="Cardiff" weight="8700000.0" />
+      <edge id="234" source="FC Copenhagen" target="VfL Wolfsburg" weight="12000000.0" />
+      <edge id="235" source="FC Copenhagen" target="TSG Hoffenheim" weight="10000000.0" />
+      <edge id="236" source="FC Copenhagen" target="Werder Bremen" weight="2000000.0" />
+      <edge id="237" source="FC Copenhagen" target="Galatasaray" weight="7000000.0" />
+      <edge id="238" source="FC Copenhagen" target="Dynamo Moscow" weight="1000000.0" />
+      <edge id="239" source="FC Copenhagen" target="Everton" weight="4500000.0" />
+      <edge id="240" source="FC Copenhagen" target="Leicester" weight="6600000.0" />
+      <edge id="241" source="Parma" target="Trabzonspor" weight="5120000.0" />
+      <edge id="242" source="Parma" target="Bari" weight="180000.0" />
+      <edge id="243" source="Cardiff" target="FC Copenhagen" weight="3500000.0" />
+      <edge id="244" source="Cardiff" target="Arsenal" weight="6400000.0" />
+      <edge id="245" source="Cardiff" target="Spurs" weight="3200000.0" />
+      <edge id="246" source="Cardiff" target="Bournemouth" weight="4200000.0" />
+      <edge id="247" source="Bologna" target="Club Brugge" weight="7000000.0" />
+      <edge id="248" source="Bologna" target="Arsenal" weight="18600000.0" />
+      <edge id="249" source="Bologna" target="Dinamo Zagreb" weight="1000000.0" />
+      <edge id="250" source="Bologna" target="Rennes" weight="19000000.0" />
+      <edge id="251" source="Nordsjaelland" target="Bologna" weight="6000000.0" />
+      <edge id="252" source="Nordsjaelland" target="Austria Vienna" weight="670000.0" />
+      <edge id="253" source="Nordsjaelland" target="Celta de Vigo" weight="5000000.0" />
+      <edge id="254" source="Nordsjaelland" target="Sampdoria" weight="6750000.0" />
+      <edge id="255" source="Nordsjaelland" target="FC Copenhagen" weight="3600000.0" />
+      <edge id="256" source="Nordsjaelland" target="Rennes" weight="15000000.0" />
+      <edge id="257" source="Nordsjaelland" target="Ajax" weight="9000000.0" />
+      <edge id="258" source="Odense BK U19" target="Ajax U19" weight="1500000.0" />
+      <edge id="259" source="Fiorentina" target="Brentford" weight="3500000.0" />
+      <edge id="260" source="Fiorentina" target="Inter" weight="24000000.0" />
+      <edge id="261" source="Fiorentina" target="Juventus" weight="81600000.0" />
+      <edge id="262" source="Fiorentina" target="AS Roma" weight="17500000.0" />
+      <edge id="263" source="Fiorentina" target="Flamengo" weight="14000000.0" />
+      <edge id="264" source="Fiorentina" target="Real Sociedad" weight="3000000.0" />
+      <edge id="265" source="Fiorentina" target="Real Betis" weight="3500000.0" />
+      <edge id="266" source="Brentford" target="Bournemouth" weight="13600000.0" />
+      <edge id="267" source="Bröndby IF" target="Fiorentina" weight="3500000.0" />
+      <edge id="268" source="Bröndby IF" target="E. Frankfurt" weight="9800000.0" />
+      <edge id="269" source="Hamburger SV" target="Bröndby IF" weight="350000.0" />
+      <edge id="270" source="Hamburger SV" target="E. Frankfurt" weight="6300000.0" />
+      <edge id="271" source="Hamburger SV" target="LOSC Lille" weight="12600000.0" />
+      <edge id="272" source="Hamburger SV" target="B. Leverkusen" weight="12500000.0" />
+      <edge id="273" source="Lyngby BK U19" target="Hamburger SV II" weight="400000.0" />
+      <edge id="274" source="Atlético Madrid" target="Bröndby IF" weight="1750000.0" />
+      <edge id="275" source="Atlético Madrid" target="Benfica" weight="22000000.0" />
+      <edge id="276" source="Atlético Madrid" target="Barcelona" weight="120000000.0" />
+      <edge id="277" source="Atlético Madrid" target="Bayern Munich" weight="80000000.0" />
+      <edge id="278" source="Atlético Madrid" target="Real Madrid" weight="24000000.0" />
+      <edge id="279" source="Atlético Madrid" target="Man City" weight="62700000.0" />
+      <edge id="280" source="Atlético Madrid" target="Spurs" weight="16000000.0" />
+      <edge id="281" source="Atlético Madrid" target="DL Yifang" weight="30000000.0" />
+      <edge id="282" source="Atlético Madrid" target="Newcastle" weight="14000000.0" />
+      <edge id="283" source="Atlético Madrid" target="Arsenal" weight="50000000.0" />
+      <edge id="284" source="Valencia" target="Atlético Madrid" weight="2700000.0" />
+      <edge id="285" source="Valencia" target="PSV Eindhoven" weight="2800000.0" />
+      <edge id="286" source="Valencia" target="Trabzonspor" weight="3000000.0" />
+      <edge id="287" source="Valencia" target="Getafe" weight="10000000.0" />
+      <edge id="288" source="Valencia" target="Juventus" weight="40400000.0" />
+      <edge id="289" source="Valencia" target="Paris SG" weight="18000000.0" />
+      <edge id="290" source="Valencia" target="Man City" weight="78000000.0" />
+      <edge id="291" source="Valencia" target="Barcelona" weight="14000000.0" />
+      <edge id="292" source="Valencia" target="Brighton" weight="6000000.0" />
+      <edge id="293" source="Valencia" target="Udinese Calcio" weight="10000000.0" />
+      <edge id="294" source="Celta de Vigo" target="Valencia" weight="20500000.0" />
+      <edge id="295" source="Celta de Vigo" target="Brentford" weight="3800000.0" />
+      <edge id="296" source="Celta de Vigo" target="América" weight="3000000.0" />
+      <edge id="297" source="Évian" target="Celta de Vigo" weight="3000000.0" />
+      <edge id="298" source="E. Frankfurt" target="Union Berlin" weight="1000000.0" />
+      <edge id="299" source="E. Frankfurt" target="Paris SG" weight="9500000.0" />
+      <edge id="300" source="E. Frankfurt" target="Juventus" weight="13000000.0" />
+      <edge id="301" source="E. Frankfurt" target="Real Madrid" weight="63000000.0" />
+      <edge id="302" source="E. Frankfurt" target="RB Leipzig" weight="23000000.0" />
+      <edge id="303" source="E. Frankfurt" target="Hellas Verona" weight="500000.0" />
+      <edge id="304" source="AC Horsens" target="Bröndby IF" weight="350000.0" />
+      <edge id="305" source="Austria Vienna" target="Udinese Calcio" weight="500000.0" />
+      <edge id="306" source="Udinese Calcio" target="Sampdoria" weight="6000000.0" />
+      <edge id="307" source="Udinese Calcio" target="FC Basel" weight="4500000.0" />
+      <edge id="308" source="Udinese Calcio" target="Atlético Madrid" weight="55000000.0" />
+      <edge id="309" source="Udinese Calcio" target="SSC Napoli" weight="16000000.0" />
+      <edge id="310" source="Crystal Palace" target="Marseille" weight="3000000.0" />
+      <edge id="311" source="Sampdoria" target="Olympique Lyon" weight="24000000.0" />
+      <edge id="312" source="Sampdoria" target="Brentford" weight="15000000.0" />
+      <edge id="313" source="Sampdoria" target="Arsenal" weight="28650000.0" />
+      <edge id="314" source="Sampdoria" target="Crotone" weight="1700000.0" />
+      <edge id="315" source="Sampdoria" target="Sporting CP" weight="9700000.0" />
+      <edge id="316" source="Midtjylland U19" target="FC Twente U19" weight="670000.0" />
+      <edge id="317" source="KRC Genk" target="Atalanta BC" weight="20200000.0" />
+      <edge id="318" source="KRC Genk" target="Stade Reims" weight="10000000.0" />
+      <edge id="319" source="KRC Genk" target="Troyes" weight="3000000.0" />
+      <edge id="320" source="KRC Genk" target="Lazio" weight="12000000.0" />
+      <edge id="321" source="KRC Genk" target="Chelsea" weight="16950000.0" />
+      <edge id="322" source="KRC Genk" target="TSG Hoffenheim" weight="1200000.0" />
+      <edge id="323" source="KRC Genk" target="Brighton" weight="15560000.0" />
+      <edge id="324" source="KRC Genk" target="SSC Napoli" weight="7750000.0" />
+      <edge id="325" source="KRC Genk" target="Celta de Vigo" weight="8000000.0" />
+      <edge id="326" source="Aalborg BK" target="KRC Genk" weight="1300000.0" />
+      <edge id="327" source="Aalborg BK" target="HN Jianye" weight="6000000.0" />
+      <edge id="328" source="OGC Nice" target="Olympique Lyon" weight="8500000.0" />
+      <edge id="329" source="OGC Nice" target="Leicester" weight="15500000.0" />
+      <edge id="330" source="Silkeborg U19" target="Ajax U19" weight="270000.0" />
+      <edge id="331" source="Leicester" target="OGC Nice" weight="1000000.0" />
+      <edge id="332" source="Leicester" target="TSG Hoffenheim" weight="11000000.0" />
+      <edge id="333" source="Leicester" target="Man Utd" weight="87000000.0" />
+      <edge id="334" source="Leeds" target="Leicester" weight="1680000.0" />
+      <edge id="335" source="Leeds" target="Barcelona" weight="58000000.0" />
+      <edge id="336" source="Leeds" target="Man City" weight="49000000.0" />
+      <edge id="337" source="CD Leganés" target="Barcelona" weight="18000000.0" />
+      <edge id="338" source="CD Leganés" target="Sevilla FC" weight="20000000.0" />
+      <edge id="339" source="Toulouse" target="Middlesbrough" weight="11300000.0" />
+      <edge id="340" source="Esbjerg fB" target="Toulouse" weight="2000000.0" />
+      <edge id="341" source="Odense BK" target="Hertha BSC" weight="3000000.0" />
+      <edge id="342" source="RB Salzburg" target="Leeds" weight="45840000.0" />
+      <edge id="343" source="RB Salzburg" target="Liverpool" weight="8500000.0" />
+      <edge id="344" source="RB Salzburg" target="Bor. Dortmund" weight="30000000.0" />
+      <edge id="345" source="RB Salzburg" target="RB Leipzig" weight="30500000.0" />
+      <edge id="346" source="FC Midtjylland" target="Ajax" weight="5500000.0" />
+      <edge id="347" source="FC Midtjylland" target="US Palermo" weight="4000000.0" />
+      <edge id="348" source="TSG Hoffenheim" target="RB Leipzig" weight="26000000.0" />
+      <edge id="349" source="TSG Hoffenheim" target="Bayern Munich" weight="20000000.0" />
+      <edge id="350" source="TSG Hoffenheim" target="VfL Wolfsburg" weight="1500000.0" />
+      <edge id="351" source="TSG Hoffenheim" target="Jeonbuk Hyundai" weight="1400000.0" />
+      <edge id="352" source="TSG Hoffenheim" target="Dep. La Coruña" weight="3000000.0" />
+      <edge id="353" source="TSG Hoffenheim" target="VfB Stuttgart" weight="7200000.0" />
+      <edge id="354" source="Silkeborg IF" target="FC Copenhagen" weight="1000000.0" />
+      <edge id="355" source="AC Milan" target="E. Frankfurt" weight="3000000.0" />
+      <edge id="356" source="AC Milan" target="Olympique Lyon" weight="23440000.0" />
+      <edge id="357" source="AC Milan" target="Paris SG" weight="42000000.0" />
+      <edge id="358" source="AC Milan" target="Torino" weight="1950000.0" />
+      <edge id="359" source="AC Milan" target="Hertha BSC" weight="24000000.0" />
+      <edge id="360" source="Fenerbahce" target="Sevilla FC" weight="12500000.0" />
+      <edge id="361" source="Fenerbahce" target="SSC Napoli" weight="18050000.0" />
+      <edge id="362" source="LOSC Lille" target="Fenerbahce" weight="7650000.0" />
+      <edge id="363" source="LOSC Lille" target="Southampton" weight="18700000.0" />
+      <edge id="364" source="LOSC Lille" target="VfB Stuttgart" weight="5000000.0" />
+      <edge id="365" source="LOSC Lille" target="AC Milan" weight="29500000.0" />
+      <edge id="366" source="LOSC Lille" target="Everton" weight="35000000.0" />
+      <edge id="367" source="LOSC Lille" target="Monaco" weight="11000000.0" />
+      <edge id="368" source="LOSC Lille" target="Aston Villa" weight="9000000.0" />
+      <edge id="369" source="LOSC Lille" target="Dijon" weight="2000000.0" />
+      <edge id="370" source="US Palermo" target="VfL Wolfsburg" weight="12500000.0" />
+      <edge id="371" source="US Palermo" target="SSC Napoli" weight="12000000.0" />
+      <edge id="372" source="US Palermo" target="Juventus" weight="41000000.0" />
+      <edge id="373" source="US Palermo" target="Torino" weight="2350000.0" />
+      <edge id="374" source="Bor. Dortmund" target="Sevilla FC" weight="6000000.0" />
+      <edge id="375" source="Bor. Dortmund" target="VfL Wolfsburg" weight="8000000.0" />
+      <edge id="376" source="Bor. Dortmund" target="Chelsea" weight="64000000.0" />
+      <edge id="377" source="Bor. Dortmund" target="Man City" weight="44500000.0" />
+      <edge id="378" source="Bor. Dortmund" target="Bor. M'gladbach" weight="25000000.0" />
+      <edge id="379" source="Bor. Dortmund" target="Bayern Munich" weight="37000000.0" />
+      <edge id="380" source="Bor. Dortmund" target="Barcelona" weight="140000000.0" />
+      <edge id="381" source="Bor. Dortmund" target="Paris SG" weight="32000000.0" />
+      <edge id="382" source="Galatasaray" target="FC Porto" weight="7350000.0" />
+      <edge id="383" source="Lyngby BK" target="RB Leipzig" weight="1550000.0" />
+      <edge id="384" source="RB Leipzig" target="Leeds" weight="17000000.0" />
+      <edge id="385" source="RB Leipzig" target="VfB Stuttgart" weight="1500000.0" />
+      <edge id="386" source="RB Leipzig" target="Bayern Munich" weight="42500000.0" />
+      <edge id="387" source="RB Leipzig" target="Liverpool" weight="40000000.0" />
+      <edge id="388" source="RB Leipzig" target="Wolves" weight="16700000.0" />
+      <edge id="389" source="RB Leipzig" target="RB Salzburg" weight="900000.0" />
+      <edge id="390" source="Toluca" target="Chivas" weight="5280000.0" />
+      <edge id="391" source="Chivas" target="Toluca" weight="2500000.0" />
+      <edge id="392" source="Chivas" target="CD Cruz Azul" weight="10560000.0" />
+      <edge id="393" source="Real Betis" target="Fiorentina" weight="9750000.0" />
+      <edge id="394" source="Atlas" target="Dep. La Coruña" weight="7000000.0" />
+      <edge id="395" source="Dep. La Coruña" target="Göztepe" weight="1500000.0" />
+      <edge id="396" source="Dep. La Coruña" target="Newcastle" weight="4000000.0" />
+      <edge id="397" source="CD Cruz Azul" target="Paços Ferreira" weight="2500000.0" />
+      <edge id="398" source="América" target="Ajax" weight="20000000.0" />
+      <edge id="399" source="América" target="Atlético Madrid" weight="10500000.0" />
+      <edge id="400" source="América" target="Real Betis" weight="4000000.0" />
+      <edge id="401" source="Santos Laguna" target="KRC Genk" weight="3500000.0" />
+      <edge id="402" source="Santos Laguna" target="Celta de Vigo" weight="7000000.0" />
+      <edge id="403" source="Standard Liège" target="América" weight="1000000.0" />
+      <edge id="404" source="Standard Liège" target="Benfica" weight="9000000.0" />
+      <edge id="405" source="Standard Liège" target="Marseille" weight="6000000.0" />
+      <edge id="406" source="Standard Liège" target="Al-Tai" weight="300000.0" />
+      <edge id="407" source="Mérida FC" target="Club Tijuana" weight="990000.0" />
+      <edge id="408" source="Club Tijuana" target="América" weight="6280000.0" />
+      <edge id="409" source="SSC Napoli" target="Paris SG" weight="64500000.0" />
+      <edge id="410" source="SSC Napoli" target="Chelsea" weight="38000000.0" />
+      <edge id="411" source="SSC Napoli" target="Marseille" weight="8000000.0" />
+      <edge id="412" source="Pachuca" target="PSV Eindhoven" weight="18500000.0" />
+      <edge id="413" source="Pachuca" target="FC Porto" weight="11000000.0" />
+      <edge id="414" source="Pachuca" target="West Ham" weight="15000000.0" />
+      <edge id="415" source="FC Porto" target="AC Milan" weight="38000000.0" />
+      <edge id="416" source="FC Porto" target="Paris SG" weight="57500000.0" />
+      <edge id="417" source="FC Porto" target="Man Utd" weight="37000000.0" />
+      <edge id="418" source="FC Porto" target="Olympiacos" weight="2500000.0" />
+      <edge id="419" source="FC Porto" target="Real Madrid" weight="119000000.0" />
+      <edge id="420" source="FC Porto" target="Wolves" weight="17900000.0" />
+      <edge id="421" source="FC Porto" target="Juventus" weight="28000000.0" />
+      <edge id="422" source="FC Porto" target="Dinamo Moscow" weight="3500000.0" />
+      <edge id="423" source="FC Porto" target="Valencia" weight="12000000.0" />
+      <edge id="424" source="AS Roma" target="Real Sociedad" weight="6000000.0" />
+      <edge id="425" source="AS Roma" target="Chelsea" weight="35000000.0" />
+      <edge id="426" source="AS Roma" target="Red Star" weight="3000000.0" />
+      <edge id="427" source="AS Roma" target="Marseille" weight="11000000.0" />
+      <edge id="428" source="AS Roma" target="Liverpool" weight="62500000.0" />
+      <edge id="429" source="AS Roma" target="Paris SG" weight="31400000.0" />
+      <edge id="430" source="AS Roma" target="Zenit S-Pb" weight="23000000.0" />
+      <edge id="431" source="AS Roma" target="Bologna" weight="9000000.0" />
+      <edge id="432" source="Real Sociedad" target="Red Star" weight="800000.0" />
+      <edge id="433" source="Real Sociedad" target="Atlético Madrid" weight="30000000.0" />
+      <edge id="434" source="Real Sociedad" target="FC Copenhagen" weight="500000.0" />
+      <edge id="435" source="Real Sociedad" target="E. Frankfurt" weight="3200000.0" />
+      <edge id="436" source="Real Sociedad" target="Villarreal" weight="5000000.0" />
+      <edge id="437" source="Espanyol" target="PSV Eindhoven" weight="3500000.0" />
+      <edge id="438" source="UNAM Pumas" target="AZ Alkmaar" weight="4000000.0" />
+      <edge id="439" source="UNAM Pumas" target="Monterrey" weight="5150000.0" />
+      <edge id="440" source="UNAM Pumas" target="Genoa" weight="3500000.0" />
+      <edge id="441" source="Genoa" target="Real Valladolid" weight="250000.0" />
+      <edge id="442" source="Genoa" target="Juventus" weight="31500000.0" />
+      <edge id="443" source="Genoa" target="AC Milan" weight="35000000.0" />
+      <edge id="444" source="Cimarrones" target="Monterrey" weight="1800000.0" />
+      <edge id="445" source="Querétaro FC" target="CD Cruz Azul" weight="6200000.0" />
+      <edge id="446" source="Querétaro FC" target="Chivas" weight="5500000.0" />
+      <edge id="447" source="Wolves" target="Crystal Palace" weight="3650000.0" />
+      <edge id="448" source="Wolves" target="AS Roma" weight="11800000.0" />
+      <edge id="449" source="Wolves" target="Aston Villa" weight="15000000.0" />
+      <edge id="450" source="Necaxa" target="CD Cruz Azul" weight="3500000.0" />
+      <edge id="451" source="River Plate" target="Benfica" weight="14000000.0" />
+      <edge id="452" source="River Plate" target="B. Leverkusen" weight="17000000.0" />
+      <edge id="453" source="River Plate" target="Real Betis" weight="2250000.0" />
+      <edge id="454" source="River Plate" target="Sevilla FC" weight="11000000.0" />
+      <edge id="455" source="River Plate" target="Club Tijuana" weight="1750000.0" />
+      <edge id="456" source="River Plate" target="Man City" weight="21400000.0" />
+      <edge id="457" source="Ascoli" target="Sampdoria" weight="1000000.0" />
+      <edge id="458" source="1.FC Nuremberg" target="Huddersfield" weight="1500000.0" />
+      <edge id="459" source="1.FC Nuremberg" target="Bor. Dortmund" weight="5500000.0" />
+      <edge id="460" source="1.FC Nuremberg" target="Hannover 96" weight="2200000.0" />
+      <edge id="461" source="Huddersfield" target="Wolves" weight="2800000.0" />
+      <edge id="462" source="Huddersfield" target="Brighton" weight="3300000.0" />
+      <edge id="463" source="Al-Rayyan SC" target="Al-Nassr FC" weight="6000000.0" />
+      <edge id="464" source="Aalesund" target="GZ R&amp;F" weight="3600000.0" />
+      <edge id="465" source="OC Safi" target="Aalesund" weight="1000000.0" />
+      <edge id="466" source="Wydad AC" target="Stade Brestois" weight="2700000.0" />
+      <edge id="467" source="Wydad AC" target="Atl. Madrid B" weight="360000.0" />
+      <edge id="468" source="Paris SG" target="LOSC Lille" weight="10000000.0" />
+      <edge id="469" source="Paris SG" target="E. Frankfurt" weight="7000000.0" />
+      <edge id="470" source="Paris SG" target="West Ham" weight="21300000.0" />
+      <edge id="471" source="Paris SG" target="Everton" weight="4000000.0" />
+      <edge id="472" source="Paris SG" target="G. Bordeaux" weight="4000000.0" />
+      <edge id="473" source="Paris SG" target="Loko Moscow" weight="12000000.0" />
+      <edge id="474" source="Real Madrid" target="Inter" weight="43000000.0" />
+      <edge id="475" source="Real Madrid" target="Real Sociedad" weight="6500000.0" />
+      <edge id="476" source="Real Madrid" target="Chelsea" weight="111000000.0" />
+      <edge id="477" source="Real Madrid" target="Man Utd" weight="185650000.0" />
+      <edge id="478" source="Real Madrid" target="AC Milan" weight="22800000.0" />
+      <edge id="479" source="Real Madrid" target="Juventus" weight="137000000.0" />
+      <edge id="480" source="Real Madrid" target="Atlético Madrid" weight="30000000.0" />
+      <edge id="481" source="Real Madrid" target="Paris SG" weight="15000000.0" />
+      <edge id="482" source="Real Madrid" target="FC Porto" weight="15000000.0" />
+      <edge id="483" source="Real Madrid" target="Man City" weight="30000000.0" />
+      <edge id="484" source="RSC Charleroi" target="Burnley" weight="4000000.0" />
+      <edge id="485" source="Lommel SK" target="RSC Charleroi" weight="150000.0" />
+      <edge id="486" source="El Ahly" target="Qatar SC" weight="1700000.0" />
+      <edge id="487" source="Raja Casablanca" target="El Ahly" weight="1690000.0" />
+      <edge id="488" source="Raja Casablanca" target="Genoa" weight="650000.0" />
+      <edge id="489" source="Girona" target="Sevilla FC" weight="4000000.0" />
+      <edge id="490" source="Atl. Madrid B" target="1.FSV Mainz 05" weight="7500000.0" />
+      <edge id="491" source="Hércules CF" target="Barcelona B" weight="2000000.0" />
+      <edge id="492" source="Real Valladolid" target="Southampton" weight="12000000.0" />
+      <edge id="493" source="O. Khouribga" target="Raja Casablanca" weight="323000.0" />
+      <edge id="494" source="Rennes" target="West Ham" weight="35000000.0" />
+      <edge id="495" source="Rennes" target="Real Madrid" weight="31000000.0" />
+      <edge id="496" source="Rennes" target="Bor. Dortmund" weight="35000000.0" />
+      <edge id="497" source="Rennes" target="Leeds" weight="18600000.0" />
+      <edge id="498" source="Rennes" target="Chelsea" weight="24000000.0" />
+      <edge id="499" source="Rennes" target="Watford" weight="30000000.0" />
+      <edge id="500" source="Rennes" target="Hull City" weight="9000000.0" />
+      <edge id="501" source="West Ham" target="Crystal Palace" weight="10700000.0" />
+      <edge id="502" source="West Ham" target="1.FSV Mainz 05" weight="7500000.0" />
+      <edge id="503" source="West Ham" target="Tigres UANL" weight="5500000.0" />
+      <edge id="504" source="West Ham" target="Swansea" weight="22800000.0" />
+      <edge id="505" source="Dijon" target="Rennes" weight="14000000.0" />
+      <edge id="506" source="Dijon" target="SC Freiburg" weight="2000000.0" />
+      <edge id="507" source="Dijon" target="Ettifaq FC" weight="5000000.0" />
+      <edge id="508" source="FUS Rabat" target="Dijon" weight="1600000.0" />
+      <edge id="509" source="AM Football" target="FUS Rabat" weight="15000.0" />
+      <edge id="510" source="AM Football" target="Málaga U19" weight="125000.0" />
+      <edge id="511" source="Angers SCO" target="Wolves" weight="4000000.0" />
+      <edge id="512" source="Angers SCO" target="LOSC Lille" weight="3000000.0" />
+      <edge id="513" source="Angers SCO" target="Udinese Calcio" weight="4000000.0" />
+      <edge id="514" source="Angers SCO" target="Villarreal" weight="18000000.0" />
+      <edge id="515" source="Angers SCO" target="Bristol City" weight="6000000.0" />
+      <edge id="516" source="Mouscron" target="Standard Liège" weight="1500000.0" />
+      <edge id="517" source="Hellas Verona" target="Fiorentina" weight="19500000.0" />
+      <edge id="518" source="Hellas Verona" target="Lazio" weight="600000.0" />
+      <edge id="519" source="FC Utrecht" target="Feyenoord" weight="4000000.0" />
+      <edge id="520" source="FC Utrecht" target="PSV Eindhoven" weight="7000000.0" />
+      <edge id="521" source="Sangiustese" target="Parma" weight="93000.0" />
+      <edge id="522" source="Dibba Fujairah" target="Wydad AC" weight="184000.0" />
+      <edge id="523" source="Málaga CF" target="CD Leganés" weight="6000000.0" />
+      <edge id="524" source="PSV U21" target="AZ Alkmaar" weight="2000000.0" />
+      <edge id="525" source="Kawasaki Front." target="F. Düsseldorf" weight="1000000.0" />
+      <edge id="526" source="Kawasaki Front." target="Brighton" weight="3000000.0" />
+      <edge id="527" source="Kawasaki Front." target="Man City" weight="1100000.0" />
+      <edge id="528" source="Kashima Antlers" target="Cercle Brugge" weight="1300000.0" />
+      <edge id="529" source="Sagan Tosu" target="E. Frankfurt" weight="1600000.0" />
+      <edge id="530" source="Yokohama F. M." target="Celtic" weight="1530000.0" />
+      <edge id="531" source="Yokohama F. M." target="Red Star" weight="200000.0" />
+      <edge id="532" source="Lierse SK" target="Standard Liège" weight="600000.0" />
+      <edge id="533" source="Santa Clara" target="Sporting CP" weight="3800000.0" />
+      <edge id="534" source="Sporting CP" target="Man Utd" weight="82000000.0" />
+      <edge id="535" source="Sporting CP" target="Inter" weight="44780000.0" />
+      <edge id="536" source="Sporting CP" target="Fulham" weight="20000000.0" />
+      <edge id="537" source="Sporting CP" target="Wolves" weight="63000000.0" />
+      <edge id="538" source="Sporting CP" target="Paris SG" weight="38000000.0" />
+      <edge id="539" source="Sporting CP" target="Real Betis" weight="16000000.0" />
+      <edge id="540" source="Sporting CP" target="Rennes" weight="21000000.0" />
+      <edge id="541" source="Sporting CP" target="Spurs" weight="5000000.0" />
+      <edge id="542" source="Sporting CP" target="Real Valladolid" weight="3000000.0" />
+      <edge id="543" source="Sporting CP" target="Sevilla FC" weight="11250000.0" />
+      <edge id="544" source="Júbilo Iwata" target="VfB Stuttgart" weight="400000.0" />
+      <edge id="545" source="VfB Stuttgart" target="AS Roma" weight="9000000.0" />
+      <edge id="546" source="VfB Stuttgart" target="Bayern Munich" weight="43500000.0" />
+      <edge id="547" source="VfB Stuttgart" target="Hamburger SV" weight="14000000.0" />
+      <edge id="548" source="VfB Stuttgart" target="Bor. Dortmund" weight="15000000.0" />
+      <edge id="549" source="VfB Stuttgart" target="Dallas" weight="1500000.0" />
+      <edge id="550" source="Marseille" target="Urawa Reds" weight="1500000.0" />
+      <edge id="551" source="Marseille" target="Chelsea" weight="47800000.0" />
+      <edge id="552" source="Marseille" target="Fulham" weight="24850000.0" />
+      <edge id="553" source="Marseille" target="Spurs" weight="11000000.0" />
+      <edge id="554" source="Marseille" target="FC Lorient" weight="4000000.0" />
+      <edge id="555" source="Kashiwa Reysol" target="Hannover 96" weight="1200000.0" />
+      <edge id="556" source="Kashiwa Reysol" target="Al-Shabab" weight="936000.0" />
+      <edge id="557" source="Hannover 96" target="Werder Bremen" weight="6500000.0" />
+      <edge id="558" source="Stade Reims" target="RCD Mallorca" weight="2000000.0" />
+      <edge id="559" source="Stade Reims" target="Monaco" weight="13000000.0" />
+      <edge id="560" source="Stade Reims" target="Leicester" weight="17000000.0" />
+      <edge id="561" source="Stade Reims" target="Villarreal" weight="12000000.0" />
+      <edge id="562" source="Stade Reims" target="Rennes" weight="7600000.0" />
+      <edge id="563" source="Stade Reims" target="Sevilla FC" weight="5500000.0" />
+      <edge id="564" source="Brighton" target="Arsenal" weight="58500000.0" />
+      <edge id="565" source="Brighton" target="SH Port" weight="4500000.0" />
+      <edge id="566" source="Brighton" target="Feyenoord" weight="1000000.0" />
+      <edge id="567" source="VVV-Venlo" target="Southampton" weight="2800000.0" />
+      <edge id="568" source="SC Freiburg" target="Bor. Dortmund" weight="30000000.0" />
+      <edge id="569" source="SC Freiburg" target="KAA Gent" weight="1500000.0" />
+      <edge id="570" source="SC Freiburg" target="Olympiacos" weight="1000000.0" />
+      <edge id="571" source="Gamba Osaka" target="FC Groningen" weight="1700000.0" />
+      <edge id="572" source="Gamba Osaka" target="G. Bordeaux" weight="2000000.0" />
+      <edge id="573" source="Portimonense" target="Shimizu S-Pulse" weight="2000000.0" />
+      <edge id="574" source="Arsenal" target="Partizan" weight="1000000.0" />
+      <edge id="575" source="Arsenal" target="Galatasaray" weight="6000000.0" />
+      <edge id="576" source="Arsenal" target="Juventus" weight="18000000.0" />
+      <edge id="577" source="Arsenal" target="Werder Bremen" weight="5000000.0" />
+      <edge id="578" source="Arsenal" target="Marseille" weight="11000000.0" />
+      <edge id="579" source="Arsenal" target="Chelsea" weight="17000000.0" />
+      <edge id="580" source="Arsenal" target="Frosinone" weight="1500000.0" />
+      <edge id="581" source="Arsenal" target="Aston Villa" weight="17400000.0" />
+      <edge id="582" source="Arsenal" target="Derby" weight="8199999.999999999" />
+      <edge id="583" source="Sint-Truiden" target="Bologna" weight="7000000.0" />
+      <edge id="584" source="Sint-Truiden" target="VfB Stuttgart" weight="1700000.0" />
+      <edge id="585" source="Sint-Truiden" target="Sunderland" weight="2500000.0" />
+      <edge id="586" source="Sint-Truiden" target="RSC Anderlecht" weight="1500000.0" />
+      <edge id="587" source="Avispa Fukuoka" target="Sint-Truiden" weight="800000.0" />
+      <edge id="588" source="Partizan" target="RSC Anderlecht" weight="5000000.0" />
+      <edge id="589" source="Partizan" target="Fiorentina" weight="8700000.0" />
+      <edge id="590" source="Partizan" target="Torino" weight="1700000.0" />
+      <edge id="591" source="Partizan" target="Monaco" weight="10000000.0" />
+      <edge id="592" source="Sanf. Hiroshima" target="Arsenal" weight="4000000.0" />
+      <edge id="593" source="Monaco" target="RB Salzburg" weight="7000000.0" />
+      <edge id="594" source="Monaco" target="Real Madrid" weight="80000000.0" />
+      <edge id="595" source="Monaco" target="Paris SG" weight="180000000.0" />
+      <edge id="596" source="Monaco" target="Man City" weight="50000000.0" />
+      <edge id="597" source="Monaco" target="Liverpool" weight="45000000.0" />
+      <edge id="598" source="Monaco" target="Atlético Madrid" weight="15000000.0" />
+      <edge id="599" source="Monaco" target="Leicester" weight="45000000.0" />
+      <edge id="600" source="Monaco" target="Marseille" weight="3500000.0" />
+      <edge id="601" source="Monaco" target="1.FSV Mainz 05" weight="5000000.0" />
+      <edge id="602" source="Monaco" target="AC Milan" weight="5400000.0" />
+      <edge id="603" source="Monaco" target="Benevento" weight="3000000.0" />
+      <edge id="604" source="Cerezo Osaka" target="RB Salzburg" weight="800000.0" />
+      <edge id="605" source="Cesena" target="Inter" weight="4500000.0" />
+      <edge id="606" source="FC Tokyo" target="Cesena" weight="1600000.0" />
+      <edge id="607" source="Peñarol" target="Athletico-PR" weight="2850000.0" />
+      <edge id="608" source="Peñarol" target="UD Almería" weight="15250000.0" />
+      <edge id="609" source="Peñarol" target="Man Utd" weight="8500000.0" />
+      <edge id="610" source="Peñarol" target="Orlando" weight="6820000.0" />
+      <edge id="611" source="Peñarol" target="RM Castilla" weight="5000000.0" />
+      <edge id="612" source="Peñarol" target="FC Copenhagen" weight="1750000.0" />
+      <edge id="613" source="Peñarol" target="Man Utd U21" weight="2400000.0" />
+      <edge id="614" source="Peñarol" target="Puebla FC" weight="1290000.0" />
+      <edge id="615" source="Athletico-PR" target="Olympique Lyon" weight="20000000.0" />
+      <edge id="616" source="UD Almería" target="Benfica" weight="34000000.0" />
+      <edge id="617" source="Villarreal" target="Atlético Madrid" weight="28000000.0" />
+      <edge id="618" source="Villarreal" target="Barcelona" weight="16500000.0" />
+      <edge id="619" source="Villarreal" target="Al-Sadd SC" weight="1000000.0" />
+      <edge id="620" source="Villarreal" target="Olympique Lyon" weight="11500000.0" />
+      <edge id="621" source="Villarreal" target="Brighton" weight="17800000.0" />
+      <edge id="622" source="Nacional" target="Villarreal" weight="800000.0" />
+      <edge id="623" source="Nacional" target="FC Groningen" weight="800000.0" />
+      <edge id="624" source="Nacional" target="Getafe" weight="850000.0" />
+      <edge id="625" source="Nacional" target="Fiorentina" weight="2300000.0" />
+      <edge id="626" source="Nacional" target="Palmeiras" weight="6250000.0" />
+      <edge id="627" source="Nacional" target="Liverpool" weight="8000000.0" />
+      <edge id="628" source="Defensor U19" target="CA Cerro" weight="500.0" />
+      <edge id="629" source="Danubio FC" target="US Palermo" weight="5000000.0" />
+      <edge id="630" source="Danubio FC" target="Atlético Madrid" weight="995000.0" />
+      <edge id="631" source="Orlando" target="Besiktas" weight="1850000.0" />
+      <edge id="632" source="Orlando" target="LAFC" weight="273000.0" />
+      <edge id="633" source="RM Castilla" target="B. Leverkusen" weight="5000000.0" />
+      <edge id="634" source="RM Castilla" target="Getafe" weight="3000000.0" />
+      <edge id="635" source="Wanderers" target="Lazio" weight="3000000.0" />
+      <edge id="636" source="Cruzeiro" target="Flamengo" weight="15000000.0" />
+      <edge id="637" source="Cruzeiro" target="Al-Ahli (UAE)" weight="15000000.0" />
+      <edge id="638" source="Flamengo" target="AC Milan" weight="38400000.0" />
+      <edge id="639" source="Flamengo" target="Real Madrid" weight="45000000.0" />
+      <edge id="640" source="Defensor" target="Cruzeiro" weight="4000000.0" />
+      <edge id="641" source="Defensor" target="Villarreal" weight="900000.0" />
+      <edge id="642" source="Defensor" target="Celta de Vigo" weight="4300000.0" />
+      <edge id="643" source="Man Utd U21" target="Dundee United" weight="355000.0" />
+      <edge id="644" source="Pescara" target="Sampdoria" weight="3000000.0" />
+      <edge id="645" source="Wanderers U19" target="Pescara U19" weight="375000.0" />
+      <edge id="646" source="Famalicão" target="Sporting CP" weight="6500000.0" />
+      <edge id="647" source="CA Fénix" target="Famalicão" weight="4100000.0" />
+      <edge id="648" source="Getafe" target="SSC Napoli" weight="11000000.0" />
+      <edge id="649" source="Getafe" target="Sevilla FC" weight="1000000.0" />
+      <edge id="650" source="Palmeiras" target="AS Roma" weight="13000000.0" />
+      <edge id="651" source="Palmeiras" target="Man City" weight="32000000.0" />
+      <edge id="652" source="Liverpool FC" target="River Plate" weight="2600000.0" />
+      <edge id="653" source="Boca Juniors" target="Juventus" weight="21700000.0" />
+      <edge id="654" source="Boca Juniors" target="Vélez Sarsfield" weight="1400000.0" />
+      <edge id="655" source="Boca Juniors" target="AS Roma" weight="6000000.0" />
+      <edge id="656" source="Boston River" target="Barcelona B" weight="4700000.0" />
+      <edge id="657" source="Rentistas" target="Boston River" weight="395000.0" />
+      <edge id="658" source="Sunderland" target="Sporting CP" weight="4720000.0" />
+      <edge id="659" source="Sunderland" target="Liverpool" weight="28600000.0" />
+      <edge id="660" source="Sunderland" target="Everton" weight="28500000.0" />
+      <edge id="661" source="Sunderland" target="Saint-Étienne" weight="7000000.0" />
+      <edge id="662" source="Vélez Sarsfield" target="FC Porto" weight="4000000.0" />
+      <edge id="663" source="Vélez Sarsfield" target="Atlanta" weight="14550000.0" />
+      <edge id="664" source="HNK Rijeka" target="Leicester" weight="9000000.0" />
+      <edge id="665" source="HNK Rijeka" target="Jeonnam Dragons" weight="750000.0" />
+      <edge id="666" source="Dinamo Zagreb" target="HNK Rijeka" weight="1200000.0" />
+      <edge id="667" source="Dinamo Zagreb" target="VfB Stuttgart" weight="6000000.0" />
+      <edge id="668" source="Dinamo Zagreb" target="Olympique Lyon" weight="9000000.0" />
+      <edge id="669" source="Dinamo Zagreb" target="Dynamo Kyiv" weight="5000000.0" />
+      <edge id="670" source="Dinamo Zagreb" target="RB Leipzig" weight="47800000.0" />
+      <edge id="671" source="Dinamo Zagreb" target="E. Frankfurt" weight="3500000.0" />
+      <edge id="672" source="Dinamo Zagreb" target="Rennes" weight="12000000.0" />
+      <edge id="673" source="Dinamo Zagreb" target="Spurs" weight="22500000.0" />
+      <edge id="674" source="Dinamo Zagreb" target="Inter" weight="16000000.0" />
+      <edge id="675" source="Dinamo Zagreb" target="Brescia" weight="1000000.0" />
+      <edge id="676" source="RCD Mallorca" target="CA Osasuna" weight="8000000.0" />
+      <edge id="677" source="RCD Mallorca" target="Real Madrid" weight="3900000.0" />
+      <edge id="678" source="CA Osasuna" target="Marseille" weight="6000000.0" />
+      <edge id="679" source="Crotone" target="RCD Mallorca" weight="2200000.0" />
+      <edge id="680" source="Crotone" target="Sampdoria" weight="1800000.0" />
+      <edge id="681" source="FC St. Pauli" target="Crotone" weight="1000000.0" />
+      <edge id="682" source="FC St. Pauli" target="SC Freiburg" weight="4500000.0" />
+      <edge id="683" source="NK Lokomotiva" target="FC St. Pauli" weight="1000000.0" />
+      <edge id="684" source="NK Lokomotiva" target="Atlético Madrid" weight="3500000.0" />
+      <edge id="685" source="NK Lokomotiva" target="Dinamo Zagreb" weight="6100000.0" />
+      <edge id="686" source="HNK Gorica" target="Inter Zapresic" weight="20000.0" />
+      <edge id="687" source="NK Osijek" target="Rangers" weight="2450000.0" />
+      <edge id="688" source="NK Osijek" target="B. Leverkusen" weight="2400000.0" />
+      <edge id="689" source="Trapani" target="Bologna" weight="1300000.0" />
+      <edge id="690" source="Catania" target="Trapani" weight="600000.0" />
+      <edge id="691" source="Catania" target="Metalist" weight="7000000.0" />
+      <edge id="692" source="Zenit S-Pb" target="TJ Quanjian" weight="20000000.0" />
+      <edge id="693" source="Zenit S-Pb" target="B. Leverkusen" weight="2500000.0" />
+      <edge id="694" source="Zenit S-Pb" target="Paris SG" weight="40000000.0" />
+      <edge id="695" source="NK Zagreb" target="Dinamo Zagreb" weight="625000.0" />
+      <edge id="696" source="FC Sochaux" target="Club Brugge" weight="200000.0" />
+      <edge id="697" source="FC Sochaux" target="Guingamp" weight="600000.0" />
+      <edge id="698" source="FC Sochaux" target="Angers SCO" weight="1000000.0" />
+      <edge id="699" source="FC Sochaux" target="Clermont Foot" weight="380000.0" />
+      <edge id="700" source="FC Sochaux" target="FC St. Gallen" weight="90000.0" />
+      <edge id="701" source="Hajduk U17" target="FC Sochaux B" weight="360000.0" />
+      <edge id="702" source="HNK Rijeka Jgd" target="Inter Youth" weight="30000.0" />
+      <edge id="703" source="Legia Warszawa" target="Celtic" weight="3000000.0" />
+      <edge id="704" source="Legia Warszawa" target="Krasnodar" weight="2200000.0" />
+      <edge id="705" source="Legia Warszawa" target="Sampdoria" weight="1800000.0" />
+      <edge id="706" source="Legia Warszawa" target="Jagiellonia" weight="110000.0" />
+      <edge id="707" source="Legia Warszawa" target="Arsenal" weight="2250000.0" />
+      <edge id="708" source="Legia Warszawa" target="Clermont Foot" weight="1300000.0" />
+      <edge id="709" source="Legia Warszawa" target="Dinamo Moscow" weight="5500000.0" />
+      <edge id="710" source="Hajduk Split" target="Legia Warszawa" weight="400000.0" />
+      <edge id="711" source="Hajduk Split" target="Chelsea" weight="2500000.0" />
+      <edge id="712" source="Hajduk Split" target="Inter" weight="185000.0" />
+      <edge id="713" source="Hajduk Split" target="Everton" weight="10800000.0" />
+      <edge id="714" source="RNK Split" target="NK Lokomotiva" weight="135000.0" />
+      <edge id="715" source="Hrv Dragovoljac" target="NK Lokomotiva" weight="300000.0" />
+      <edge id="716" source="UD Las Palmas" target="AEK Athens" weight="1800000.0" />
+      <edge id="717" source="UD Las Palmas" target="Barcelona" weight="17500000.0" />
+      <edge id="718" source="Rubin Kazan" target="Zenit S-Pb" weight="12000000.0" />
+      <edge id="719" source="Rubin Kazan" target="Rostov" weight="2300000.0" />
+      <edge id="720" source="Rubin Kazan" target="FC Lorient" weight="1500000.0" />
+      <edge id="721" source="Spezia Calcio" target="Sassuolo" weight="3500000.0" />
+      <edge id="722" source="Sassuolo" target="Spezia Calcio" weight="1000.0" />
+      <edge id="723" source="Ulsan Hyundai" target="Dinamo Zagreb" weight="1000000.0" />
+      <edge id="724" source="Ulsan Hyundai" target="Daegu FC" weight="446000.0" />
+      <edge id="725" source="Ulsan Hyundai" target="Vissel Kobe" weight="1250000.0" />
+      <edge id="726" source="CC Yatai" target="Ulsan Hyundai" weight="935000.0" />
+      <edge id="727" source="Jeonnam Dragons" target="CC Yatai" weight="1300000.0" />
+      <edge id="728" source="Kustosija U17" target="I. Zapresic U17" weight="12000.0" />
+      <edge id="729" source="CSKA Moscow" target="West Ham" weight="30000000.0" />
+      <edge id="730" source="Wigan" target="Fulham" weight="2100000.0" />
+      <edge id="731" source="Wigan" target="Cardiff" weight="2200000.0" />
+      <edge id="732" source="Fulham" target="Sporting CP" weight="1320000.0" />
+      <edge id="733" source="Fulham" target="SSC Napoli" weight="15000000.0" />
+      <edge id="734" source="Fulham" target="Club Brugge" weight="700000.0" />
+      <edge id="735" source="Everton U23" target="Wigan" weight="2200000.0" />
+      <edge id="736" source="Philadelphia" target="RB Salzburg" weight="12700000.0" />
+      <edge id="737" source="Newcastle" target="Fulham" weight="24700000.0" />
+      <edge id="738" source="Seattle" target="Spurs" weight="2600000.0" />
+      <edge id="739" source="Molde" target="Club Brugge" weight="1000000.0" />
+      <edge id="740" source="New York City" target="Bor. M'gladbach" weight="1800000.0" />
+      <edge id="741" source="New York City" target="Cincinnati" weight="545000.0" />
+      <edge id="742" source="Norwich" target="Leicester" weight="25000000.0" />
+      <edge id="743" source="Colorado" target="LAFC" weight="1360000.0" />
+      <edge id="744" source="Colorado" target="Toronto" weight="955000.0" />
+      <edge id="745" source="LAFC" target="Nashville" weight="1140000.0" />
+      <edge id="746" source="LAFC" target="Colorado" weight="909000.0" />
+      <edge id="747" source="New England" target="Arsenal" weight="6360000.0" />
+      <edge id="748" source="New England" target="Club Brugge" weight="6360000.0" />
+      <edge id="749" source="CD Tenerife" target="Nashville" weight="1820000.0" />
+      <edge id="750" source="Nashville" target="Montréal" weight="909000.0" />
+      <edge id="751" source="Bolton" target="Fulham" weight="1700000.0" />
+      <edge id="752" source="New York RB" target="Bolton" weight="3100000.0" />
+      <edge id="753" source="New York RB" target="RB Leipzig" weight="2630000.0" />
+      <edge id="754" source="FC Schalke 04" target="Juventus" weight="20500000.0" />
+      <edge id="755" source="FC Schalke 04" target="Bayern Munich" weight="30000000.0" />
+      <edge id="756" source="FC Schalke 04" target="Man City" weight="52000000.0" />
+      <edge id="757" source="FC Schalke 04" target="Paris SG" weight="37000000.0" />
+      <edge id="758" source="FC Schalke 04" target="Bor. M'gladbach" weight="11000000.0" />
+      <edge id="759" source="Stoke City" target="Sheff Utd" weight="300000.0" />
+      <edge id="760" source="Stoke City" target="Liverpool" weight="14700000.0" />
+      <edge id="761" source="Sheff Utd" target="Arsenal" weight="28000000.0" />
+      <edge id="762" source="Sheff Utd" target="Bournemouth" weight="940000.0" />
+      <edge id="763" source="Sheff Utd" target="Hull City" weight="3150000.0" />
+      <edge id="764" source="Sheff Utd" target="Spurs" weight="5900000.0" />
+      <edge id="765" source="Swansea" target="Spurs" weight="24750000.0" />
+      <edge id="766" source="Swansea" target="Burnley" weight="2900000.0" />
+      <edge id="767" source="Swansea" target="Man Utd" weight="17800000.0" />
+      <edge id="768" source="Swansea" target="Liverpool" weight="19000000.0" />
+      <edge id="769" source="Swansea" target="West Ham" weight="24100000.0" />
+      <edge id="770" source="Swansea" target="Crystal Palace" weight="2800000.0" />
+      <edge id="771" source="Nottm Forest" target="Reading" weight="3000000.0" />
+      <edge id="772" source="Nottm Forest" target="Aston Villa" weight="15750000.0" />
+      <edge id="773" source="Wrexham" target="Liverpool" weight="125000.0" />
+      <edge id="774" source="Dundee United" target="Stoke City" weight="230000.0" />
+      <edge id="775" source="Exeter City" target="Chelsea" weight="2800000.0" />
+      <edge id="776" source="Barnsley FC" target="Wigan" weight="2700000.0" />
+      <edge id="777" source="Barnsley FC" target="Everton" weight="3500000.0" />
+      <edge id="778" source="Ipswich" target="Barnsley FC" weight="850000.0" />
+      <edge id="779" source="Forest Green" target="Ipswich" weight="12000.0" />
+      <edge id="780" source="El-Jaish" target="Lekhwiya" weight="4580000.0" />
+      <edge id="781" source="VfL Bochum" target="Southampton" weight="11000000.0" />
+      <edge id="782" source="VfL Bochum" target="FC Schalke 04" weight="3250000.0" />
+      <edge id="783" source="VfL Bochum" target="RB Leipzig" weight="1000000.0" />
+      <edge id="784" source="VfL Bochum U19" target="1.FC Nuremberg" weight="850000.0" />
+      <edge id="785" source="Chelsea Youth" target="FC Bayern U17" weight="200000.0" />
+      <edge id="786" source="Stuttgart U19" target="RB Leipzig" weight="500000.0" />
+      <edge id="787" source="Wolfsburg U19" target="B. Leverkusen" weight="500000.0" />
+      <edge id="788" source="U'haching U19" target="RB Salzburg" weight="10100000.0" />
+      <edge id="789" source="1.FC K'lautern" target="E. Frankfurt" weight="1500000.0" />
+      <edge id="790" source="Karlsruhe U19" target="SC Freiburg U19" weight="90000.0" />
+      <edge id="791" source="Stuttgart U17" target="Arsenal U18" weight="100000.0" />
+      <edge id="792" source="Montréal" target="Celtic" weight="3500000.0" />
+      <edge id="793" source="Montréal" target="Watford" weight="8000000.0" />
+      <edge id="794" source="Vancouver" target="Bayern Munich" weight="10000000.0" />
+      <edge id="795" source="Vancouver" target="Vålerenga" weight="250000.0" />
+      <edge id="796" source="Vancouver" target="Cincinnati" weight="682000.0" />
+      <edge id="797" source="Vancouver" target="Rubin Kazan" weight="2500000.0" />
+      <edge id="798" source="Helsingborg" target="FC Copenhagen" weight="1500000.0" />
+      <edge id="799" source="Östers IF" target="Helsingborg" weight="1500000.0" />
+      <edge id="800" source="Troyes" target="Brentford" weight="6500000.0" />
+      <edge id="801" source="Chelsea U23" target="KRC Genk" weight="3500000.0" />
+      <edge id="802" source="Chelsea U23" target="Brighton" weight="1200000.0" />
+      <edge id="803" source="Cavalry FC" target="Montreal" weight="91000.0" />
+      <edge id="804" source="KAA Gent" target="LOSC Lille" weight="27000000.0" />
+      <edge id="805" source="KAA Gent" target="R. Strasbourg" weight="3000000.0" />
+      <edge id="806" source="KAA Gent" target="Twente FC" weight="5500000.0" />
+      <edge id="807" source="KAA Gent" target="Red Star" weight="3000000.0" />
+      <edge id="808" source="KAA Gent" target="FC Metz" weight="4000000.0" />
+      <edge id="809" source="Blackburn" target="QPR" weight="3750000.0" />
+      <edge id="810" source="Blackburn" target="Brentford" weight="3350000.0" />
+      <edge id="811" source="Austin" target="Montréal" weight="205000.0" />
+      <edge id="812" source="Liverpool U23" target="FC Basel" weight="1500000.0" />
+      <edge id="813" source="Liverpool U23" target="FC Copenhagen" weight="3500000.0" />
+      <edge id="814" source="FC Basel" target="FC Schalke 04" weight="26500000.0" />
+      <edge id="815" source="FC Basel" target="Valencia" weight="800000.0" />
+      <edge id="816" source="FC Basel" target="1.FSV Mainz 05" weight="6100000.0" />
+      <edge id="817" source="FC Basel" target="TSG Hoffenheim" weight="4000000.0" />
+      <edge id="818" source="FC Basel" target="Bor. M'gladbach" weight="17500000.0" />
+      <edge id="819" source="FC Basel" target="Montpellier" weight="6000000.0" />
+      <edge id="820" source="FC Basel" target="Bor. Dortmund" weight="21500000.0" />
+      <edge id="821" source="FC Basel" target="RB Salzburg" weight="11200000.0" />
+      <edge id="822" source="FC Basel" target="VfL Wolfsburg" weight="1750000.0" />
+      <edge id="823" source="FC Basel" target="Bayern Munich" weight="11800000.0" />
+      <edge id="824" source="Puebla FC" target="Vancouver" weight="4550000.0" />
+      <edge id="825" source="Toronto" target="Nottm Forest" weight="909000.0" />
+      <edge id="826" source="Louisville City" target="LAFC" weight="32000.0" />
+      <edge id="827" source="Vålerenga" target="Hatayspor" weight="400000.0" />
+      <edge id="828" source="CD Izarra" target="Montreal" weight="88000.0" />
+      <edge id="829" source="Paços Ferreira" target="FC Porto" weight="3500000.0" />
+      <edge id="830" source="Chaves" target="CD Cruz Azul" weight="3500000.0" />
+      <edge id="831" source="Leixões" target="Chaves" weight="500000.0" />
+      <edge id="832" source="RSC Anderlecht" target="Newcastle" weight="18500000.0" />
+      <edge id="833" source="RSC Anderlecht" target="Rennes" weight="26000000.0" />
+      <edge id="834" source="RSC Anderlecht" target="Wolves" weight="13800000.0" />
+      <edge id="835" source="RSC Anderlecht" target="Chelsea" weight="15000000.0" />
+      <edge id="836" source="RSC Anderlecht" target="KV Oostende" weight="300000.0" />
+      <edge id="837" source="RSC Anderlecht" target="Monaco" weight="25000000.0" />
+      <edge id="838" source="RSC Anderlecht" target="West Ham" weight="7500000.0" />
+      <edge id="839" source="Borac Cacak" target="Red Star" weight="826000.0" />
+      <edge id="840" source="Red Star" target="Apol. Limassol" weight="2000000.0" />
+      <edge id="841" source="Red Star" target="Liverpool" weight="7000000.0" />
+      <edge id="842" source="Red Star" target="Marseille" weight="12000000.0" />
+      <edge id="843" source="Red Star" target="M. Tel Aviv" weight="3000000.0" />
+      <edge id="844" source="Red Star" target="UD Almería" weight="1100000.0" />
+      <edge id="845" source="Red Star" target="Valencia" weight="2200000.0" />
+      <edge id="846" source="Red Star" target="Al-Hilal SFC" weight="3600000.0" />
+      <edge id="847" source="Vojvodina" target="FC Groningen" weight="1100000.0" />
+      <edge id="848" source="Vojvodina" target="KRC Genk" weight="1000000.0" />
+      <edge id="849" source="Vojvodina" target="Real Sociedad B" weight="1000000.0" />
+      <edge id="850" source="Vojvodina" target="Man Utd" weight="1750000.0" />
+      <edge id="851" source="Radnicki 1923" target="FC Groningen" weight="1250000.0" />
+      <edge id="852" source="1. FC Köln" target="Standard Liège" weight="1200000.0" />
+      <edge id="853" source="1. FC Köln" target="Monaco" weight="6500000.0" />
+      <edge id="854" source="BATE Borisov" target="1. FC Köln" weight="1500000.0" />
+      <edge id="855" source="Red Star U17" target="Man City U18" weight="2500000.0" />
+      <edge id="856" source="Apol. Limassol" target="Benfica" weight="6600000.0" />
+      <edge id="857" source="Alcorcón" target="SD Eibar" weight="1000000.0" />
+      <edge id="858" source="Tottenham U21" target="Werder Bremen" weight="330000.0" />
+      <edge id="859" source="TJ Teda" target="GZ Evergrande" weight="4300000.0" />
+      <edge id="860" source="NAC Breda" target="AZ Alkmaar" weight="3000000.0" />
+      <edge id="861" source="NK Domzale" target="FC Astana" weight="2000000.0" />
+      <edge id="862" source="Empoli U19" target="AS Roma" weight="4000000.0" />
+      <edge id="863" source="M. Tel Aviv" target="Stade Reims" weight="5000000.0" />
+      <edge id="864" source="Jagodina" target="Red Star" weight="140000.0" />
+      <edge id="865" source="Torino" target="Juventus" weight="41000000.0" />
+      <edge id="866" source="Torino" target="SPAL" weight="1500000.0" />
+      <edge id="867" source="Torino" target="Monaco" weight="11000000.0" />
+      <edge id="868" source="R. Strasbourg" target="Getafe" weight="1000000.0" />
+      <edge id="869" source="R. Strasbourg" target="Monaco" weight="15000000.0" />
+      <edge id="870" source="KV Kortrijk" target="Benfica" weight="1100000.0" />
+      <edge id="871" source="OFK Beograd U19" target="Red Star U19" weight="90000.0" />
+      <edge id="872" source="Lechia Gdansk" target="Torino" weight="2600000.0" />
+      <edge id="873" source="Lechia Gdansk" target="Jagiellonia" weight="75000.0" />
+      <edge id="874" source="G. Bordeaux" target="Monaco" weight="18000000.0" />
+      <edge id="875" source="G. Bordeaux" target="Sevilla FC" weight="35000000.0" />
+      <edge id="876" source="G. Bordeaux" target="Nottm Forest" weight="4000000.0" />
+      <edge id="877" source="G. Bordeaux" target="Stade Reims" weight="800000.0" />
+      <edge id="878" source="G. Bordeaux" target="Sunderland" weight="11800000.0" />
+      <edge id="879" source="VAFC U19" target="RB Salzburg" weight="2200000.0" />
+      <edge id="880" source="Aston Villa" target="Fiorentina" weight="7000000.0" />
+      <edge id="881" source="Aston Villa" target="Man City" weight="117500000.0" />
+      <edge id="882" source="Aston Villa" target="Everton" weight="8500000.0" />
+      <edge id="883" source="Aston Villa" target="Swansea" weight="5800000.0" />
+      <edge id="884" source="FC Nantes" target="Aston Villa" weight="10000000.0" />
+      <edge id="885" source="FC Nantes" target="Marseille" weight="1500000.0" />
+      <edge id="886" source="CF Rayo Majadaho" target="Atléti Youth" weight="1500000.0" />
+      <edge id="887" source="Guingamp" target="Bor. M'gladbach" weight="9000000.0" />
+      <edge id="888" source="FC Lorient" target="Arsenal" weight="8000000.0" />
+      <edge id="889" source="FC Lorient" target="Bor. Dortmund" weight="12000000.0" />
+      <edge id="890" source="FC Lorient" target="FC Porto" weight="12300000.0" />
+      <edge id="891" source="FC Lorient" target="Aston Villa" weight="12000000.0" />
+      <edge id="892" source="Montpellier" target="Arsenal" weight="12000000.0" />
+      <edge id="893" source="Montpellier" target="1. FC Köln" weight="6000000.0" />
+      <edge id="894" source="Tours FC" target="Montpellier" weight="2000000.0" />
+      <edge id="895" source="Grenoble" target="Tours FC" weight="150000.0" />
+      <edge id="896" source="Lens" target="Real Madrid" weight="11000000.0" />
+      <edge id="897" source="Lens" target="Chelsea" weight="500000.0" />
+      <edge id="898" source="Lens" target="Rennes" weight="9000000.0" />
+      <edge id="899" source="AC Le Havre" target="Marseille" weight="2500000.0" />
+      <edge id="900" source="Saint-Étienne" target="Arsenal" weight="30000000.0" />
+      <edge id="901" source="Novara" target="Udinese Calcio" weight="2500000.0" />
+      <edge id="902" source="Boavista Y19" target="Novara" weight="40000.0" />
+      <edge id="903" source="Marítimo" target="FC Porto" weight="7700000.0" />
+      <edge id="904" source="Olympiacos" target="Wolves" weight="8000000.0" />
+      <edge id="905" source="Olympiacos" target="Al-Ain FC" weight="1500000.0" />
+      <edge id="906" source="Sacavenense U19" target="Sporting U19" weight="37000.0" />
+      <edge id="907" source="Estoril Praia" target="Sporting CP U23" weight="950000.0" />
+      <edge id="908" source="Internacional" target="FC Porto" weight="2500000.0" />
+      <edge id="909" source="Internacional" target="AS Roma" weight="8000000.0" />
+      <edge id="910" source="Internacional" target="Shakhtar D." weight="15000000.0" />
+      <edge id="911" source="SM Caen" target="FC Lorient" weight="2500000.0" />
+      <edge id="912" source="SM Caen" target="R. Strasbourg" weight="4500000.0" />
+      <edge id="913" source="Vitória Setúbal" target="Málaga CF" weight="500000.0" />
+      <edge id="914" source="Athletic" target="Man City" weight="65000000.0" />
+      <edge id="915" source="Barça U16" target="Man City U18" weight="1700000.0" />
+      <edge id="916" source="Cornellà U19" target="Valencia B" weight="6000.0" />
+      <edge id="917" source="LD Alajuelense" target="Nottm Forest" weight="950000.0" />
+      <edge id="918" source="LD Alajuelense" target="KAA Gent" weight="500000.0" />
+      <edge id="919" source="LD Alajuelense" target="Montreal" weight="290000.0" />
+      <edge id="920" source="LD Alajuelense" target="New York City" weight="475000.0" />
+      <edge id="921" source="Saprissa" target="FC Copenhagen" weight="400000.0" />
+      <edge id="922" source="Saprissa" target="Fredrikstad" weight="125000.0" />
+      <edge id="923" source="Saprissa" target="Arsenal" weight="1000000.0" />
+      <edge id="924" source="Saprissa" target="Club Brugge" weight="150000.0" />
+      <edge id="925" source="San Jose" target="Konyaspor" weight="495000.0" />
+      <edge id="926" source="Minnesota" target="Chicago" weight="358000.0" />
+      <edge id="927" source="Chicago" target="Lens" weight="2300000.0" />
+      <edge id="928" source="Herediano" target="Sunderland" weight="1300000.0" />
+      <edge id="929" source="Frosinone" target="León" weight="2000000.0" />
+      <edge id="930" source="Levante" target="Real Madrid" weight="10000000.0" />
+      <edge id="931" source="Albacete" target="Levante" weight="150000.0" />
+      <edge id="932" source="Thonon Évian" target="Lausanne-Sport" weight="500000.0" />
+      <edge id="933" source="Maldonado" target="FC Porto" weight="9600000.0" />
+      <edge id="934" source="Maldonado" target="Man City" weight="4700000.0" />
+      <edge id="935" source="Atlético-PR" target="Maldonado" weight="2200000.0" />
+      <edge id="936" source="Atlético-PR" target="Palmeiras" weight="500000.0" />
+      <edge id="937" source="Grêmio" target="Galatasaray" weight="6150000.0" />
+      <edge id="938" source="São Paulo" target="Ajax" weight="15750000.0" />
+      <edge id="939" source="São Paulo" target="Real Madrid" weight="6000000.0" />
+      <edge id="940" source="São Paulo" target="FC Porto" weight="7000000.0" />
+      <edge id="941" source="Atlético-MG" target="Torino" weight="5800000.0" />
+      <edge id="942" source="Desportivo U20" target="Atlético-MG U20" weight="86000.0" />
+      <edge id="943" source="EC Bahia" target="Sevilla FC" weight="550000.0" />
+      <edge id="944" source="Santos FC" target="FC Porto" weight="13000000.0" />
+      <edge id="945" source="Santos FC" target="Barcelona" weight="88000000.0" />
+      <edge id="946" source="Santos FC" target="Real Madrid" weight="45000000.0" />
+      <edge id="947" source="Santos FC" target="Boavista" weight="500000.0" />
+      <edge id="948" source="América-MG" target="Santos FC" weight="900000.0" />
+      <edge id="949" source="América-MG" target="Fluminense" weight="2380000.0" />
+      <edge id="950" source="Rio Ave FC" target="Benfica" weight="500000.0" />
+      <edge id="951" source="Rio Ave FC" target="Monaco" weight="6000000.0" />
+      <edge id="952" source="Rio Ave FC" target="FC Porto" weight="4730000.0" />
+      <edge id="953" source="Fluminense U20" target="Rio Ave FC" weight="500000.0" />
+      <edge id="954" source="Shakhtar D." target="Man Utd" weight="59000000.0" />
+      <edge id="955" source="Ituano" target="Arsenal" weight="7100000.0" />
+      <edge id="956" source="Corinthians" target="AS Roma" weight="5700000.0" />
+      <edge id="957" source="Corinthians" target="Coritiba FC" weight="665000.0" />
+      <edge id="958" source="Fluminense" target="Fiorentina" weight="11000000.0" />
+      <edge id="959" source="Fluminense" target="Watford" weight="12400000.0" />
+      <edge id="960" source="Fluminense" target="AC Milan" weight="10000000.0" />
+      <edge id="961" source="Vit. Guimarães" target="Sporting CP" weight="6500000.0" />
+      <edge id="962" source="Avaí FC U20" target="Guimarães B" weight="600000.0" />
+      <edge id="963" source="Dinamo Moscow" target="Fluminense" weight="2000000.0" />
+      <edge id="964" source="Juventude" target="FC Porto" weight="2500000.0" />
+      <edge id="965" source="Al-Ahli (UAE)" target="Flamengo" weight="6000000.0" />
+      <edge id="966" source="Al-Ahli (UAE)" target="TJ Quanjian" weight="10500000.0" />
+      <edge id="967" source="Coritiba FC" target="Cruzeiro" weight="1500000.0" />
+      <edge id="968" source="KV Oostende" target="Bologna" weight="6000000.0" />
+      <edge id="969" source="TJ Tianhai" target="Bor. Dortmund" weight="20000000.0" />
+      <edge id="970" source="AGOVV" target="FC Utrecht" weight="600000.0" />
+      <edge id="971" source="KAA Gent U21" target="AGOVV" weight="46000.0" />
+      <edge id="972" source="KSC Lokeren" target="Club Brugge" weight="4250000.0" />
+      <edge id="973" source="KSC Lokeren" target="Fulham" weight="1000000.0" />
+      <edge id="974" source="Lommel United" target="KSC Lokeren" weight="175000.0" />
+      <edge id="975" source="RE Virton" target="Club Brugge" weight="200000.0" />
+      <edge id="976" source="Al-Duhail SC" target="Royal Antwerp" weight="4000000.0" />
+      <edge id="977" source="Al-Duhail SC" target="Persepolis" weight="250000.0" />
+      <edge id="978" source="DL Pro" target="Atlético Madrid" weight="27000000.0" />
+      <edge id="979" source="KRC Genk U17" target="Monaco U19" weight="450000.0" />
+      <edge id="980" source="Suwon Bluewings" target="Dijon" weight="1500000.0" />
+      <edge id="981" source="Suwon Bluewings" target="Ulsan Hyundai" weight="488000.0" />
+      <edge id="982" source="FC Anyang" target="Jeonbuk Hyundai" weight="585000.0" />
+      <edge id="983" source="Jeonbuk Hyundai" target="Holstein Kiel" weight="900000.0" />
+      <edge id="984" source="Jeonbuk Hyundai" target="Al-Nassr FC" weight="731000.0" />
+      <edge id="985" source="Jeonbuk Hyundai" target="SD Taishan" weight="4500000.0" />
+      <edge id="986" source="Jeonbuk Hyundai" target="Al-Ahli (UAE)" weight="2210000.0" />
+      <edge id="987" source="Jeonbuk Hyundai" target="BJ Guoan" weight="5250000.0" />
+      <edge id="988" source="Daejeon Citizen" target="Vancouver" weight="1560000.0" />
+      <edge id="989" source="Albirex Niigata" target="TSG Hoffenheim" weight="1000000.0" />
+      <edge id="990" source="Pohang Steelers" target="Jeonbuk Hyundai" weight="1470000.0" />
+      <edge id="991" source="Seongnam FC" target="Gamba Osaka" weight="1530000.0" />
+      <edge id="992" source="BJ Guoan" target="Fenerbahce" weight="3000000.0" />
+      <edge id="993" source="Busan IPark" target="LAFC" weight="545000.0" />
+      <edge id="994" source="Gwangju FC" target="FC Tokyo" weight="1170000.0" />
+      <edge id="995" source="Al-Shabab" target="Al-Hilal SFC" weight="1300000.0" />
+      <edge id="996" source="Vissel Kobe" target="CQ Lifan" weight="1150000.0" />
+      <edge id="997" source="Darmstadt 98" target="Jeonbuk Hyundai" weight="750000.0" />
+      <edge id="998" source="Darmstadt 98" target="Melbourne City" weight="150000.0" />
+      <edge id="999" source="FC Bayern II" target="SC Freiburg" weight="2000000.0" />
+      <edge id="1000" source="Incheon Utd." target="FC Bayern U19" weight="700000.0" />
+      <edge id="1001" source="Omiya Ardija" target="GZ Evergrande" weight="2000000.0" />
+      <edge id="1002" source="Suwon FC" target="Daejeon Hana C." weight="600000.0" />
+      <edge id="1003" source="Coventry" target="Bournemouth" weight="3700000.0" />
+      <edge id="1004" source="Coventry" target="Norwich" weight="2650000.0" />
+      <edge id="1005" source="Liverpool U21" target="Huddersfield" weight="470000.0" />
+      <edge id="1006" source="Hull City" target="Leicester" weight="13700000.0" />
+      <edge id="1007" source="Hull City" target="West Brom" weight="950000.0" />
+      <edge id="1008" source="Birmingham" target="Bor. Dortmund" weight="25000000.0" />
+      <edge id="1009" source="Charlton" target="Burnley" weight="1300000.0" />
+      <edge id="1010" source="QPR U18" target="Liverpool U18" weight="700000.0" />
+      <edge id="1011" source="Barça U19" target="Ajax" weight="150000.0" />
+      <edge id="1012" source="FC Dinamo" target="Standard Liège" weight="150000.0" />
+      <edge id="1013" source="OFI Crete FC" target="Abha" weight="700000.0" />
+      <edge id="1014" source="Le Mans FC" target="Angers SCO" weight="500000.0" />
+      <edge id="1015" source="AJ Auxerre" target="Club Brugge" weight="800000.0" />
+      <edge id="1016" source="Servette FC" target="BSC Young Boys" weight="1300000.0" />
+      <edge id="1017" source="BSC Young Boys" target="Dynamo Moscow" weight="2000000.0" />
+      <edge id="1018" source="BSC Young Boys" target="Bor. M'gladbach" weight="12000000.0" />
+      <edge id="1019" source="BSC Young Boys" target="E. Frankfurt" weight="10000000.0" />
+      <edge id="1020" source="BSC Young Boys" target="Bologna" weight="4000000.0" />
+      <edge id="1021" source="BSC Young Boys" target="FC Basel" weight="1200000.0" />
+      <edge id="1022" source="Apejes FC" target="Colombe Sport" weight="400000.0" />
+      <edge id="1023" source="Paris FC" target="FC Sochaux" weight="400000.0" />
+      <edge id="1024" source="Paris FC" target="Pafos FC" weight="1500000.0" />
+      <edge id="1025" source="Recre Granada" target="Royal Antwerp" weight="1600000.0" />
+      <edge id="1026" source="Nkufo Academy" target="Granada B" weight="375000.0" />
+      <edge id="1027" source="SCR Altach" target="BSC Young Boys" weight="2500000.0" />
+      <edge id="1028" source="1.FSV Mainz 05" target="Olympiacos" weight="1800000.0" />
+      <edge id="1029" source="1.FSV Mainz 05" target="Bor. Dortmund" weight="28000000.0" />
+      <edge id="1030" source="1.FSV Mainz 05" target="FC Basel" weight="1500000.0" />
+      <edge id="1031" source="Adelaide United" target="FC Midtjylland" weight="870000.0" />
+      <edge id="1032" source="Adelaide United" target="Charlotte" weight="536000.0" />
+      <edge id="1033" source="Adelaide United" target="Club Brugge" weight="69000.0" />
+      <edge id="1034" source="Bursaspor" target="PSV Eindhoven" weight="1500000.0" />
+      <edge id="1035" source="Central Coast" target="Newcastle" weight="350000.0" />
+      <edge id="1036" source="Central Coast" target="Club Brugge" weight="125000.0" />
+      <edge id="1037" source="Burton Albion" target="Hull City" weight="2150000.0" />
+      <edge id="1038" source="Ross County" target="Burton Albion" weight="358000.0" />
+      <edge id="1039" source="Hibernian FC" target="Nottm Forest" weight="1100000.0" />
+      <edge id="1040" source="FC Ingolstadt" target="Hertha BSC" weight="3000000.0" />
+      <edge id="1041" source="FSV Frankfurt" target="FC Ingolstadt" weight="750000.0" />
+      <edge id="1042" source="Al-Hilal SFC" target="Red Star" weight="1500000.0" />
+      <edge id="1043" source="Al-Hilal SFC" target="Al-Shabab" weight="530000.0" />
+      <edge id="1044" source="Charlotte" target="Middlesbrough" weight="3640000.0" />
+      <edge id="1045" source="SPAL" target="Dijon" weight="1000000.0" />
+      <edge id="1046" source="Diambars FC" target="Marseille" weight="400000.0" />
+      <edge id="1047" source="Clermont Foot" target="Angers SCO" weight="1600000.0" />
+      <edge id="1048" source="Clermont Foot" target="Lens" weight="5000000.0" />
+      <edge id="1049" source="FC Metz" target="Rennes" weight="17000000.0" />
+      <edge id="1050" source="FC Metz" target="KRC Genk" weight="1300000.0" />
+      <edge id="1051" source="FC Metz" target="Spurs" weight="16900000.0" />
+      <edge id="1052" source="FC Metz" target="Salernitana" weight="1000000.0" />
+      <edge id="1053" source="FC Metz" target="Esperance" weight="775000.0" />
+      <edge id="1054" source="Sarpsborg 08" target="Club Brugge" weight="2650000.0" />
+      <edge id="1055" source="Oslo FA Dakar" target="Sarpsborg 08" weight="50000.0" />
+      <edge id="1056" source="SC Braga" target="FC Porto" weight="7500000.0" />
+      <edge id="1057" source="US Ouakam" target="Braga B" weight="130000.0" />
+      <edge id="1058" source="ASPIRE FD" target="Barça U19" weight="500000.0" />
+      <edge id="1059" source="AC Ajaccio" target="Olympiacos" weight="700000.0" />
+      <edge id="1060" source="CF Fuenlabrada" target="Rayo Vallecano" weight="1000000.0" />
+      <edge id="1061" source="FC Thun" target="BSC Young Boys" weight="500000.0" />
+      <edge id="1062" source="FC Winterthur" target="FC Thun" weight="200000.0" />
+      <edge id="1063" source="FC Winterthur" target="FC Basel" weight="700000.0" />
+      <edge id="1064" source="FC Zürich U21" target="M'gladbach II" weight="1500000.0" />
+      <edge id="1065" source="FC Sion" target="West Ham" weight="6400000.0" />
+      <edge id="1066" source="GC Zürich U18" target="TSG Hoffenheim" weight="138000.0" />
+      <edge id="1067" source="Grasshoppers" target="Fiorentina" weight="1350000.0" />
+      <edge id="1068" source="FC Luzern" target="FC Basel" weight="2000000.0" />
+      <edge id="1069" source="FC Luzern" target="Atalanta BC" weight="3450000.0" />
+      <edge id="1070" source="FC Luzern" target="FC Augsburg" weight="4000000.0" />
+      <edge id="1071" source="FC Zürich" target="Bor. M'gladbach" weight="4000000.0" />
+      <edge id="1072" source="FC Zürich" target="VfL Wolfsburg" weight="8500000.0" />
+      <edge id="1073" source="FC Augsburg" target="Chelsea" weight="26000000.0" />
+      <edge id="1074" source="FC Aarau" target="Granada CF" weight="750000.0" />
+      <edge id="1075" source="Independiente" target="Atlético-MG" weight="2100000.0" />
+      <edge id="1076" source="Independiente" target="KRC Genk" weight="3000000.0" />
+      <edge id="1077" source="Independiente" target="Sporting CP U23" weight="1100000.0" />
+      <edge id="1078" source="Independiente" target="Toluca" weight="2700000.0" />
+      <edge id="1079" source="Independiente" target="Brighton" weight="5000000.0" />
+      <edge id="1080" source="Independiente" target="CA Talleres" weight="1350000.0" />
+      <edge id="1081" source="Independiente" target="Royal Antwerp" weight="2870000.0" />
+      <edge id="1082" source="Independiente" target="Ajax" weight="4000000.0" />
+      <edge id="1083" source="CS Emelec" target="Santos Laguna" weight="4250000.0" />
+      <edge id="1084" source="CS Emelec" target="Pachuca" weight="3280000.0" />
+      <edge id="1085" source="CS Emelec" target="CD Cruz Azul" weight="2850000.0" />
+      <edge id="1086" source="Dallas" target="FC Augsburg" weight="4000000.0" />
+      <edge id="1087" source="Barcelona SC" target="VfB Stuttgart" weight="1000000.0" />
+      <edge id="1088" source="Barcelona SC" target="Santos Laguna" weight="1800000.0" />
+      <edge id="1089" source="LDU Quito" target="Newell's" weight="1050000.0" />
+      <edge id="1090" source="LDU Quito" target="Udinese Calcio" weight="500000.0" />
+      <edge id="1091" source="U. de Chile" target="SD Aucas" weight="240000.0" />
+      <edge id="1092" source="Boavista" target="Troyes" weight="3500000.0" />
+      <edge id="1093" source="Manta FC" target="Santos FC U20" weight="350000.0" />
+      <edge id="1094" source="Uni. Católica" target="LAFC" weight="2730000.0" />
+      <edge id="1095" source="Uni. Católica" target="São Paulo" weight="1800000.0" />
+      <edge id="1096" source="Uni. Católica" target="Minnesota" weight="725000.0" />
+      <edge id="1097" source="CD Macará" target="Independiente" weight="470000.0" />
+      <edge id="1098" source="CA Talleres" target="B. Leverkusen" weight="6350000.0" />
+      <edge id="1099" source="Saipa FC" target="Esteghlal FC" weight="100000.0" />
+      <edge id="1100" source="Saipa FC" target="RSC Charleroi" weight="300000.0" />
+      <edge id="1101" source="Saipa FC" target="Persepolis" weight="96000.0" />
+      <edge id="1102" source="Esteghlal FC" target="Qatar SC" weight="250000.0" />
+      <edge id="1103" source="Esteghlal FC" target="Trabzonspor" weight="517000.0" />
+      <edge id="1104" source="Sepahan" target="Dinamo Zagreb" weight="360000.0" />
+      <edge id="1105" source="Persepolis" target="Royal Antwerp" weight="630000.0" />
+      <edge id="1106" source="Persepolis" target="Al-Gharafa SC" weight="492000.0" />
+      <edge id="1107" source="Persepolis" target="Al-Arabi SC" weight="350000.0" />
+      <edge id="1108" source="NEC Nijmegen" target="AZ Alkmaar" weight="1800000.0" />
+      <edge id="1109" source="Damash Gilan" target="NEC Nijmegen" weight="250000.0" />
+      <edge id="1110" source="OC Blues FC" target="Persepolis" weight="100000.0" />
+      <edge id="1111" source="Panionios" target="Olympiacos" weight="1000000.0" />
+      <edge id="1112" source="Al-Arabi SC" target="Persepolis" weight="450000.0" />
+      <edge id="1113" source="Rah Ahan" target="Terek Grozny" weight="300000.0" />
+      <edge id="1114" source="Naft Tehran" target="TJ Teda" weight="440000.0" />
+      <edge id="1115" source="Saba Battery" target="Esteghlal FC" weight="103000.0" />
+      <edge id="1116" source="Östersund" target="Amiens SC" weight="4000000.0" />
+      <edge id="1117" source="Syrianska FC" target="Östersund" weight="75000.0" />
+      <edge id="1118" source="Al-Ittihad Club" target="Al-Hilal SFC" weight="1650000.0" />
+      <edge id="1119" source="Ettifaq FC" target="Al-Ittihad Club" weight="2400000.0" />
+      <edge id="1120" source="Al-Ahli SFC" target="Al-Hilal SFC" weight="1300000.0" />
+      <edge id="1121" source="Al-Ahli U23" target="Al-Raed" weight="500000.0" />
+      <edge id="1122" source="Argentinos Jrs." target="Brighton" weight="8000000.0" />
+      <edge id="1123" source="Belgrano" target="Genoa" weight="4250000.0" />
+      <edge id="1124" source="Indep'te U20" target="Arsenal Res." weight="1500000.0" />
+      <edge id="1125" source="Atl. Nacional" target="River Plate" weight="3150000.0" />
+      <edge id="1126" source="Estudiantes" target="Maldonado" weight="3500000.0" />
+      <edge id="1127" source="Estudiantes" target="Spurs" weight="13000000.0" />
+      <edge id="1128" source="Racing Club" target="Inter" weight="25000000.0" />
+      <edge id="1129" source="Racing Club" target="Sporting CP" weight="9590000.0" />
+      <edge id="1130" source="Racing Club" target="Valencia" weight="6550000.0" />
+      <edge id="1131" source="Defensa" target="Ajax" weight="7000000.0" />
+      <edge id="1132" source="Newell's II" target="Defensa" weight="725000.0" />
+      <edge id="1133" source="Ferro" target="Racing Club" weight="445000.0" />
+      <edge id="1134" source="Banfield" target="Independiente" weight="2780000.0" />
+      <edge id="1135" source="Metalist" target="Atalanta BC" weight="4470000.0" />
+      <edge id="1136" source="San Lorenzo" target="Catania" weight="2500000.0" />
+      <edge id="1137" source="San Lorenzo" target="Atlético Madrid" weight="10500000.0" />
+      <edge id="1138" source="Arsenal Sarandí" target="San Lorenzo" weight="1550000.0" />
+      <edge id="1139" source="Instituto AC" target="US Palermo" weight="11900000.0" />
+      <edge id="1140" source="Rosario Central" target="Benfica" weight="8000000.0" />
+      <edge id="1141" source="Górnik Zabrze" target="B. Leverkusen" weight="2600000.0" />
+      <edge id="1142" source="Górnik Zabrze" target="AS Roma" weight="890000.0" />
+      <edge id="1143" source="Górnik Zabrze" target="Legia Warszawa" weight="125000.0" />
+      <edge id="1144" source="Górnik Zabrze" target="Fiorentina" weight="4500000.0" />
+      <edge id="1145" source="Rozwój Katowice" target="Górnik Zabrze" weight="75000.0" />
+      <edge id="1146" source="Krasnodar" target="Legia Warszawa" weight="900000.0" />
+      <edge id="1147" source="Lech Poznan" target="Legia Warszawa" weight="100000.0" />
+      <edge id="1148" source="Lech Poznan" target="VfL Wolfsburg" weight="10000000.0" />
+      <edge id="1149" source="Lech Poznan" target="Southampton" weight="6000000.0" />
+      <edge id="1150" source="Lech Poznan" target="FC Augsburg" weight="2000000.0" />
+      <edge id="1151" source="Lech Poznan" target="Bor. Dortmund" weight="4750000.0" />
+      <edge id="1152" source="Akhmat Grozny" target="AEK Athens" weight="1300000.0" />
+      <edge id="1153" source="Wisla Plock" target="Akhmat Grozny" weight="1500000.0" />
+      <edge id="1154" source="Jagiellonia" target="Wisla Plock" weight="25000.0" />
+      <edge id="1155" source="Jagiellonia" target="Sivasspor" weight="900000.0" />
+      <edge id="1156" source="Jagiellonia" target="PAOK Salonika" weight="2500000.0" />
+      <edge id="1157" source="Jagiellonia" target="Chicago" weight="1500000.0" />
+      <edge id="1158" source="Loko Moscow" target="Krasnodar" weight="4000000.0" />
+      <edge id="1159" source="Arka Gdynia U19" target="Bordeaux U19" weight="270000.0" />
+      <edge id="1160" source="MSK Zilina" target="Spezia Calcio" weight="2200000.0" />
+      <edge id="1161" source="Podbrezova" target="MSK Zilina" weight="250000.0" />
+      <edge id="1162" source="Anderlecht U21" target="Podbrezova" weight="10000.0" />
+      <edge id="1163" source="GKS Tychy" target="Anderlecht U17" weight="13000.0" />
+      <edge id="1164" source="Benevento" target="Rubin Kazan" weight="900000.0" />
+      <edge id="1165" source="Piast Gliwice" target="US Palermo" weight="1000000.0" />
+      <edge id="1166" source="Ruch U19" target="Liverpool U18" weight="330000.0" />
+      <edge id="1167" source="Sivasspor" target="Rennes" weight="800000.0" />
+      <edge id="1168" source="Pogon Szczecin" target="Legia Warszawa" weight="225000.0" />
+      <edge id="1169" source="PAOK Salonika" target="Charlotte" weight="4550000.0" />
+      <edge id="1170" source="Lech U19" target="Legia Warszawa" weight="13000.0" />
+      <edge id="1171" source="Cracovia" target="Genoa" weight="4500000.0" />
+      <edge id="1172" source="Zaglebie Lubin" target="Cracovia" weight="700000.0" />
+      <edge id="1173" source="L. Dzierzoniow" target="Lubin II" weight="12000.0" />
+      <edge id="1174" source="Lubin II" target="Udinese U19" weight="100000.0" />
+      <edge id="1175" source="Znicz Pruszkow" target="Lech Poznan" weight="380000.0" />
+      <edge id="1176" source="Legia II" target="Znicz Pruszkow" weight="15000.0" />
+      <edge id="1177" source="Legia Yth." target="Arsenal U18" weight="50000.0" />
+      <edge id="1178" source="Greuther Fürth" target="FC Augsburg" weight="9000000.0" />
+      <edge id="1179" source="SC Bastia" target="SM Caen" weight="2000000.0" />
+      <edge id="1180" source="SC Bastia" target="G. Bordeaux" weight="2000000.0" />
+      <edge id="1181" source="Djurgården" target="FC Copenhagen" weight="1800000.0" />
+      <edge id="1182" source="Steadfast FC" target="Sporting CP U23" weight="1200000.0" />
+      <edge id="1183" source="Hammarby" target="KRC Genk" weight="1250000.0" />
+      <edge id="1184" source="Leicester U21" target="Club Brugge" weight="9000000.0" />
+      <edge id="1185" source="AS Trencin" target="KAA Gent" weight="1000000.0" />
+      <edge id="1186" source="Accra Lions" target="AS Trencin" weight="60000.0" />
+      <edge id="1187" source="JS Kairouan" target="Esperance" weight="150000.0" />
+      <edge id="1188" source="Esperance" target="Al-Nassr FC" weight="2000000.0" />
+      <edge id="1189" source="Esperance" target="Lekhwiya" weight="4250000.0" />
+      <edge id="1190" source="CS Sfaxien" target="El Ahly" weight="730000.0" />
+      <edge id="1191" source="CS Sfaxien" target="FC Metz" weight="500000.0" />
+      <edge id="1192" source="CS Sfaxien" target="Olympiacos" weight="1800000.0" />
+      <edge id="1193" source="Club Africain" target="ES Sahel" weight="40000.0" />
+      <edge id="1194" source="Club Africain" target="Abha" weight="718000.0" />
+      <edge id="1195" source="Club Africain" target="Royal Antwerp" weight="317000.0" />
+      <edge id="1196" source="FC Voluntari" target="Ferencváros" weight="600000.0" />
+      <edge id="1197" source="Chamois Niort" target="KAA Gent" weight="1000000.0" />
+      <edge id="1198" source="ESS U19" target="CS Sfaxien" weight="13000.0" />
+      <edge id="1199" source="Monaco Youth" target="Man Utd U18" weight="10000000.0" />
+      <edge id="1200" source="ACBB Youth" target="Monaco Youth" weight="1100000.0" />
+      <edge id="1201" source="Rosenborg" target="Al-Wehda FC" weight="1400000.0" />
+      <edge id="1202" source="Elfsborg" target="Rosenborg" weight="1100000.0" />
+      <edge id="1203" source="Red Star FC" target="LOSC Lille" weight="2000000.0" />
+      <edge id="1204" source="El Mokawloon" target="Zamalek" weight="660000.0" />
+      <edge id="1205" source="Stade Gabèsien" target="El Mokawloon" weight="44000.0" />
+      <edge id="1206" source="Stade Tunisien" target="Esperance" weight="125000.0" />
+    </edges>
+  </graph>
+</gexf>

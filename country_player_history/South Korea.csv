@@ -1,0 +1,216 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+12,Bum-keun Song,Jeonbuk Hyundai Motors,€1.10m ,South Korea,"Jan 1, 2018",,Jeonbuk Hyundai,,,,K League 1
+12,Bum-keun Song,Jeonbuk Hyundai Motors,€1.10m ,South Korea,"Jan 1, 2016","Jan 1, 2018",Korea University,Jeonbuk Hyundai,,0.0,K League 1
+12,Bum-keun Song,Jeonbuk Hyundai Motors,€1.10m ,South Korea,"Jan 1, 2013","Jan 1, 2016",Sangju S. U18,Korea University,,,K League 1
+12,Bum-keun Song,Jeonbuk Hyundai Motors,€1.10m ,South Korea,"Jan 1, 2012","Jan 1, 2013",Seil MS,Sangju S. U18,,,K League 1
+12,Bum-keun Song,Jeonbuk Hyundai Motors,€1.10m ,South Korea,"Jan 1, 2010","Jan 1, 2012",S. Bluewi. Yth.,Seil MS,,,K League 1
+12,Bum-keun Song,Jeonbuk Hyundai Motors,€1.10m ,South Korea,,"Jan 1, 2010",Shinyongsan ES,S. Bluewi. Yth.,,,K League 1
+4,Min-jae Kim,SSC Napoli,€35.00m ,South Korea,"Jul 27, 2022",,SSC Napoli,,,,Serie A
+4,Min-jae Kim,SSC Napoli,€35.00m ,South Korea,"Aug 16, 2021","Jul 27, 2022",Fenerbahce,SSC Napoli,14000000.0,18050000.0,Serie A
+4,Min-jae Kim,SSC Napoli,€35.00m ,South Korea,"Jan 29, 2019","Aug 16, 2021",BJ Guoan,Fenerbahce,2000000.0,3000000.0,Serie A
+4,Min-jae Kim,SSC Napoli,€35.00m ,South Korea,"Jan 1, 2017","Jan 29, 2019",Jeonbuk Hyundai,BJ Guoan,1200000.0,5250000.0,Serie A
+4,Min-jae Kim,SSC Napoli,€35.00m ,South Korea,"Jul 1, 2016","Jan 1, 2017",Gyeongju KHNP,Jeonbuk Hyundai,,,Serie A
+4,Min-jae Kim,SSC Napoli,€35.00m ,South Korea,"Jan 1, 2015","Jul 1, 2016",Yonsei Univ.,Gyeongju KHNP,,0.0,Serie A
+4,Min-jae Kim,SSC Napoli,€35.00m ,South Korea,"Jan 1, 2012","Jan 1, 2015",Suwon THS,Yonsei Univ.,,,Serie A
+4,Min-jae Kim,SSC Napoli,€35.00m ,South Korea,"Jul 1, 2010","Jan 1, 2012",Yeoncho MS,Suwon THS,,,Serie A
+4,Min-jae Kim,SSC Napoli,€35.00m ,South Korea,"Jan 1, 2009","Jul 1, 2010",Nam. Haesung MS,Yeoncho MS,,,Serie A
+4,Min-jae Kim,SSC Napoli,€35.00m ,South Korea,"Jan 1, 2007","Jan 1, 2009",Gimhae Gaya ES,Nam. Haesung MS,,,Serie A
+4,Min-jae Kim,SSC Napoli,€35.00m ,South Korea,,"Jan 1, 2007",Dooryong ES,Gimhae Gaya ES,,,Serie A
+24,Yu-min Cho,Daejeon Hana Citizen,€700k ,South Korea,"Jan 10, 2022",,Daejeon Hana C.,,,,K League 2
+24,Yu-min Cho,Daejeon Hana Citizen,€700k ,South Korea,"Jan 11, 2018","Jan 10, 2022",Suwon FC,Daejeon Hana C.,625000.0,600000.0,K League 2
+24,Yu-min Cho,Daejeon Hana Citizen,€700k ,South Korea,"Jan 1, 2015","Jan 11, 2018",Chung-Ang Uni,Suwon FC,,0.0,K League 2
+24,Yu-min Cho,Daejeon Hana Citizen,€700k ,South Korea,"Jul 1, 2012","Jan 1, 2015",C. Daesung HS,Chung-Ang Uni,,,K League 2
+24,Yu-min Cho,Daejeon Hana Citizen,€700k ,South Korea,"Jan 1, 2012","Jul 1, 2012",Jeonbuk H. U18,C. Daesung HS,,,K League 2
+24,Yu-min Cho,Daejeon Hana Citizen,€700k ,South Korea,,"Jan 1, 2012",School Team SK,Jeonbuk H. U18,,,K League 2
+3,Jin-su Kim,Jeonbuk Hyundai Motors,€575k ,South Korea,"Jun 30, 2023",,Al-Nassr FC,,,,K League 1
+3,Jin-su Kim,Jeonbuk Hyundai Motors,€575k ,South Korea,"Jul 6, 2022","Jun 30, 2023",Jeonbuk Hyundai,Al-Nassr FC,575000.0,,K League 1
+3,Jin-su Kim,Jeonbuk Hyundai Motors,€575k ,South Korea,"Jun 30, 2022","Jul 6, 2022",Al-Nassr FC,Jeonbuk Hyundai,600000.0,,K League 1
+3,Jin-su Kim,Jeonbuk Hyundai Motors,€575k ,South Korea,"Jul 1, 2021","Jun 30, 2022",Jeonbuk Hyundai,Al-Nassr FC,600000.0,,K League 1
+3,Jin-su Kim,Jeonbuk Hyundai Motors,€575k ,South Korea,"Oct 6, 2020","Jul 1, 2021",Al-Nassr FC,Jeonbuk Hyundai,500000.0,,K League 1
+3,Jin-su Kim,Jeonbuk Hyundai Motors,€575k ,South Korea,"Jan 12, 2017","Oct 6, 2020",Jeonbuk Hyundai,Al-Nassr FC,900000.0,731000.0,K League 1
+3,Jin-su Kim,Jeonbuk Hyundai Motors,€575k ,South Korea,"Jul 1, 2014","Jan 12, 2017",TSG Hoffenheim,Jeonbuk Hyundai,1500000.0,1400000.0,K League 1
+3,Jin-su Kim,Jeonbuk Hyundai Motors,€575k ,South Korea,"Jan 1, 2012","Jul 1, 2014",Albirex Niigata,TSG Hoffenheim,1000000.0,1000000.0,K League 1
+3,Jin-su Kim,Jeonbuk Hyundai Motors,€575k ,South Korea,"Jan 1, 2010","Jan 1, 2012",Kyung Hee Univ.,Albirex Niigata,,0.0,K League 1
+3,Jin-su Kim,Jeonbuk Hyundai Motors,€575k ,South Korea,"Jan 1, 2008","Jan 1, 2010",Shingal HS,Kyung Hee Univ.,,,K League 1
+3,Jin-su Kim,Jeonbuk Hyundai Motors,€575k ,South Korea,,"Jan 1, 2008",Wonsam MS,Shingal HS,,,K League 1
+15,Moon-hwan Kim,Jeonbuk Hyundai Motors,€950k ,South Korea,"Mar 18, 2022",,Jeonbuk Hyundai,,,,K League 1
+15,Moon-hwan Kim,Jeonbuk Hyundai Motors,€950k ,South Korea,"Jan 12, 2021","Mar 18, 2022",LAFC,Jeonbuk Hyundai,1000000.0,,K League 1
+15,Moon-hwan Kim,Jeonbuk Hyundai Motors,€950k ,South Korea,"Jan 4, 2017","Jan 12, 2021",Busan IPark,LAFC,700000.0,545000.0,K League 1
+15,Moon-hwan Kim,Jeonbuk Hyundai Motors,€950k ,South Korea,"Jan 1, 2014","Jan 4, 2017",Chung-Ang Uni,Busan IPark,,0.0,K League 1
+15,Moon-hwan Kim,Jeonbuk Hyundai Motors,€950k ,South Korea,,"Jan 1, 2014",Suwon HS,Chung-Ang Uni,,,K League 1
+2,Jong-gyu Yoon,FC Seoul,€650k ,South Korea,"Jul 15, 2024",,FC Seoul,,,,K League 1
+2,Jong-gyu Yoon,FC Seoul,€650k ,South Korea,"Jan 16, 2023","Jul 15, 2024",Gimcheon Sangmu,FC Seoul,650000.0,,K League 1
+2,Jong-gyu Yoon,FC Seoul,€650k ,South Korea,"Dec 31, 2017","Jan 16, 2023",FC Seoul,Gimcheon Sangmu,650000.0,,K League 1
+2,Jong-gyu Yoon,FC Seoul,€650k ,South Korea,"Jun 27, 2017","Dec 31, 2017",Gyeongnam FC,FC Seoul,50000.0,,K League 1
+2,Jong-gyu Yoon,FC Seoul,€650k ,South Korea,"Jan 1, 2017","Jun 27, 2017",FC Seoul,Gyeongnam FC,,,K League 1
+2,Jong-gyu Yoon,FC Seoul,€650k ,South Korea,"Jan 1, 2014","Jan 1, 2017",Shingal HS,FC Seoul,,0.0,K League 1
+2,Jong-gyu Yoon,FC Seoul,€650k ,South Korea,"Jan 1, 2011","Jan 1, 2014",Y. Baegam MS,Shingal HS,,,K League 1
+2,Jong-gyu Yoon,FC Seoul,€650k ,South Korea,,"Jan 1, 2011",Pohang St. Yth.,Y. Baegam MS,,,K League 1
+5,Woo-young Jung,Al-Sadd SC,€600k ,South Korea,"Jul 1, 2018",,Al-Sadd SC,,,,Stars League
+5,Woo-young Jung,Al-Sadd SC,€600k ,South Korea,"Jan 6, 2018","Jul 1, 2018",Vissel Kobe,Al-Sadd SC,800000.0,,Stars League
+5,Woo-young Jung,Al-Sadd SC,€600k ,South Korea,"Jan 13, 2016","Jan 6, 2018",CQ Dangdai Lif.,Vissel Kobe,550000.0,,Stars League
+5,Woo-young Jung,Al-Sadd SC,€600k ,South Korea,"Jan 8, 2014","Jan 13, 2016",Vissel Kobe,CQ Lifan,800000.0,1150000.0,Stars League
+5,Woo-young Jung,Al-Sadd SC,€600k ,South Korea,"Dec 31, 2013","Jan 8, 2014",Kyoto Sanga,Vissel Kobe,450000.0,,Stars League
+5,Woo-young Jung,Al-Sadd SC,€600k ,South Korea,"Jan 9, 2013","Dec 31, 2013",Júbilo Iwata,Kyoto Sanga,450000.0,,Stars League
+5,Woo-young Jung,Al-Sadd SC,€600k ,South Korea,"Jan 1, 2011","Jan 9, 2013",Kyoto Sanga,Júbilo Iwata,375000.0,,Stars League
+5,Woo-young Jung,Al-Sadd SC,€600k ,South Korea,"Jan 1, 2008","Jan 1, 2011",Kyung Hee Univ.,Kyoto Sanga,,0.0,Stars League
+5,Woo-young Jung,Al-Sadd SC,€600k ,South Korea,,"Jan 1, 2008",Haksung HS,Kyung Hee Univ.,,,Stars League
+8,Seung-ho Paik,Jeonbuk Hyundai Motors,€1.00m ,South Korea,"Mar 30, 2021",,Jeonbuk Hyundai,,,,K League 1
+8,Seung-ho Paik,Jeonbuk Hyundai Motors,€1.00m ,South Korea,"Aug 31, 2019","Mar 30, 2021",Darmstadt 98,Jeonbuk Hyundai,700000.0,750000.0,K League 1
+8,Seung-ho Paik,Jeonbuk Hyundai Motors,€1.00m ,South Korea,"Jul 1, 2019","Aug 31, 2019",Girona,Darmstadt 98,300000.0,,K League 1
+8,Seung-ho Paik,Jeonbuk Hyundai Motors,€1.00m ,South Korea,"Aug 21, 2017","Jul 1, 2019",CF Peralada,Girona,300000.0,,K League 1
+8,Seung-ho Paik,Jeonbuk Hyundai Motors,€1.00m ,South Korea,"Jul 1, 2016","Aug 21, 2017",Barcelona B,CF Peralada,200000.0,0.0,K League 1
+8,Seung-ho Paik,Jeonbuk Hyundai Motors,€1.00m ,South Korea,"Jul 1, 2014","Jul 1, 2016",Barça U19,Barcelona B,,,K League 1
+8,Seung-ho Paik,Jeonbuk Hyundai Motors,€1.00m ,South Korea,"Jul 1, 2013","Jul 1, 2014",Barça U18,Barça U19,,,K League 1
+8,Seung-ho Paik,Jeonbuk Hyundai Motors,€1.00m ,South Korea,"Jul 1, 2012","Jul 1, 2013",Barça U16,Barça U18,,,K League 1
+8,Seung-ho Paik,Jeonbuk Hyundai Motors,€1.00m ,South Korea,"Jan 1, 2011","Jul 1, 2012",Barça Youth,Barça U16,,,K League 1
+8,Seung-ho Paik,Jeonbuk Hyundai Motors,€1.00m ,South Korea,"Jan 1, 2010","Jan 1, 2011",S. Bluewi. Yth.,Barça Youth,,,K League 1
+8,Seung-ho Paik,Jeonbuk Hyundai Motors,€1.00m ,South Korea,,"Jan 1, 2010",Daedong ES,S. Bluewi. Yth.,,,K League 1
+10,Jae-sung Lee,1.FSV Mainz 05,€3.00m ,South Korea,"Jul 8, 2021",,1.FSV Mainz 05,,,,Bundesliga
+10,Jae-sung Lee,1.FSV Mainz 05,€3.00m ,South Korea,"Jul 26, 2018","Jul 8, 2021",Holstein Kiel,1.FSV Mainz 05,3000000.0,0.0,Bundesliga
+10,Jae-sung Lee,1.FSV Mainz 05,€3.00m ,South Korea,"Jan 1, 2014","Jul 26, 2018",Jeonbuk Hyundai,Holstein Kiel,2000000.0,900000.0,Bundesliga
+10,Jae-sung Lee,1.FSV Mainz 05,€3.00m ,South Korea,"Jan 1, 2011","Jan 1, 2014",Korea University,Jeonbuk Hyundai,,0.0,Bundesliga
+10,Jae-sung Lee,1.FSV Mainz 05,€3.00m ,South Korea,"Jan 1, 2008","Jan 1, 2011",Haksung HS,Korea University,,,Bundesliga
+10,Jae-sung Lee,1.FSV Mainz 05,€3.00m ,South Korea,,"Jan 1, 2008",Haksung MS,Haksung HS,,,Bundesliga
+26,Min-kyu Song,Jeonbuk Hyundai Motors,€1.20m ,South Korea,"Jul 20, 2021",,Jeonbuk Hyundai,,,,K League 1
+26,Min-kyu Song,Jeonbuk Hyundai Motors,€1.20m ,South Korea,"Jan 1, 2018","Jul 20, 2021",Pohang Steelers,Jeonbuk Hyundai,1500000.0,1470000.0,K League 1
+26,Min-kyu Song,Jeonbuk Hyundai Motors,€1.20m ,South Korea,"Jan 1, 2017","Jan 1, 2018",Chungju CHS,Pohang Steelers,,0.0,K League 1
+26,Min-kyu Song,Jeonbuk Hyundai Motors,€1.20m ,South Korea,"Jan 1, 2015","Jan 1, 2017",Chungju H. U18,Chungju CHS,,,K League 1
+26,Min-kyu Song,Jeonbuk Hyundai Motors,€1.20m ,South Korea,"Jan 1, 2013","Jan 1, 2015",Shinmyong MS C,Chungju H. U18,,,K League 1
+26,Min-kyu Song,Jeonbuk Hyundai Motors,€1.20m ,South Korea,"Jan 1, 2012","Jan 1, 2013",Nonsan MS,Shinmyong MS C,,,K League 1
+26,Min-kyu Song,Jeonbuk Hyundai Motors,€1.20m ,South Korea,,"Jan 1, 2012",Daejeon J ES,Nonsan MS,,,K League 1
+22,Chang-hoon Kwon,Gimcheon Sangmu,€900k ,South Korea,"Jun 26, 2023",,Suwon Bluewings,,,,K League 1
+22,Chang-hoon Kwon,Gimcheon Sangmu,€900k ,South Korea,"Dec 27, 2021","Jun 26, 2023",Gimcheon Sangmu,Suwon Bluewings,900000.0,,K League 1
+22,Chang-hoon Kwon,Gimcheon Sangmu,€900k ,South Korea,"Jul 1, 2021","Dec 27, 2021",Suwon Bluewings,Gimcheon Sangmu,1600000.0,,K League 1
+22,Chang-hoon Kwon,Gimcheon Sangmu,€900k ,South Korea,"Jul 1, 2019","Jul 1, 2021",SC Freiburg,Suwon Bluewings,2000000.0,0.0,K League 1
+22,Chang-hoon Kwon,Gimcheon Sangmu,€900k ,South Korea,"Jan 18, 2017","Jul 1, 2019",Dijon,SC Freiburg,5500000.0,2000000.0,K League 1
+22,Chang-hoon Kwon,Gimcheon Sangmu,€900k ,South Korea,"Jan 1, 2013","Jan 18, 2017",Suwon Bluewings,Dijon,900000.0,1500000.0,K League 1
+22,Chang-hoon Kwon,Gimcheon Sangmu,€900k ,South Korea,"Jan 1, 2010","Jan 1, 2013",S.Bluewings U18,Suwon Bluewings,,,K League 1
+22,Chang-hoon Kwon,Gimcheon Sangmu,€900k ,South Korea,,"Jan 1, 2010",Joongdong MS,S.Bluewings U18,,,K League 1
+11,Hee-chan Hwang,Wolverhampton Wanderers,€12.00m ,South Korea,"Jul 1, 2022",,Wolves,,,,Premier League
+11,Hee-chan Hwang,Wolverhampton Wanderers,€12.00m ,South Korea,"Jun 30, 2022","Jul 1, 2022",RB Leipzig,Wolves,16000000.0,16700000.0,Premier League
+11,Hee-chan Hwang,Wolverhampton Wanderers,€12.00m ,South Korea,"Aug 29, 2021","Jun 30, 2022",Wolves,RB Leipzig,16000000.0,,Premier League
+11,Hee-chan Hwang,Wolverhampton Wanderers,€12.00m ,South Korea,"Jul 15, 2020","Aug 29, 2021",RB Leipzig,Wolves,11000000.0,,Premier League
+11,Hee-chan Hwang,Wolverhampton Wanderers,€12.00m ,South Korea,"Jun 30, 2019","Jul 15, 2020",RB Salzburg,RB Leipzig,10000000.0,12000000.0,Premier League
+11,Hee-chan Hwang,Wolverhampton Wanderers,€12.00m ,South Korea,"Aug 31, 2018","Jun 30, 2019",Hamburger SV,RB Salzburg,3000000.0,,Premier League
+11,Hee-chan Hwang,Wolverhampton Wanderers,€12.00m ,South Korea,"Jan 1, 2016","Aug 31, 2018",RB Salzburg,Hamburger SV,10000000.0,,Premier League
+11,Hee-chan Hwang,Wolverhampton Wanderers,€12.00m ,South Korea,"Jan 1, 2015","Jan 1, 2016",FC Liefering,RB Salzburg,400000.0,,Premier League
+11,Hee-chan Hwang,Wolverhampton Wanderers,€12.00m ,South Korea,"Jan 1, 2012","Jan 1, 2015",Pohang St. U18,FC Liefering,,0.0,Premier League
+11,Hee-chan Hwang,Wolverhampton Wanderers,€12.00m ,South Korea,,"Jan 1, 2012",Pohang St. Yth.,Pohang St. U18,,,Premier League
+9,Gue-sung Cho,Jeonbuk Hyundai Motors,€1.40m ,South Korea,"Sep 7, 2022",,Jeonbuk Hyundai,,,,K League 1
+9,Gue-sung Cho,Jeonbuk Hyundai Motors,€1.40m ,South Korea,"Mar 8, 2021","Sep 7, 2022",Gimcheon Sangmu,Jeonbuk Hyundai,800000.0,,K League 1
+9,Gue-sung Cho,Jeonbuk Hyundai Motors,€1.40m ,South Korea,"Jan 29, 2020","Mar 8, 2021",Jeonbuk Hyundai,Gimcheon Sangmu,625000.0,,K League 1
+9,Gue-sung Cho,Jeonbuk Hyundai Motors,€1.40m ,South Korea,"Jan 4, 2019","Jan 29, 2020",FC Anyang,Jeonbuk Hyundai,650000.0,585000.0,K League 1
+9,Gue-sung Cho,Jeonbuk Hyundai Motors,€1.40m ,South Korea,"Jan 1, 2016","Jan 4, 2019",Gwangju Uni,FC Anyang,,0.0,K League 1
+9,Gue-sung Cho,Jeonbuk Hyundai Motors,€1.40m ,South Korea,"Jan 1, 2013","Jan 1, 2016",FC Anyang U18,Gwangju Uni,,,K League 1
+9,Gue-sung Cho,Jeonbuk Hyundai Motors,€1.40m ,South Korea,"Jan 1, 2010","Jan 1, 2013",Wongok MS,FC Anyang U18,,,K League 1
+9,Gue-sung Cho,Jeonbuk Hyundai Motors,€1.40m ,South Korea,,"Jan 1, 2010",Iho ES,Wongok MS,,,K League 1
+21,Hyeon-woo Jo,Ulsan Hyundai,€1.30m ,South Korea,"Jan 20, 2020",,Ulsan Hyundai,,,,K League 1
+21,Hyeon-woo Jo,Ulsan Hyundai,€1.30m ,South Korea,"Jan 1, 2013","Jan 20, 2020",Daegu FC,Ulsan Hyundai,1650000.0,,K League 1
+21,Hyeon-woo Jo,Ulsan Hyundai,€1.30m ,South Korea,"Jan 1, 2010","Jan 1, 2013",Sun Moon Uni.,Daegu FC,,0.0,K League 1
+21,Hyeon-woo Jo,Ulsan Hyundai,€1.30m ,South Korea,"Jan 1, 2007","Jan 1, 2010",Chung-Ang U. HS,Sun Moon Uni.,,,K League 1
+21,Hyeon-woo Jo,Ulsan Hyundai,€1.30m ,South Korea,"Jan 1, 2004","Jan 1, 2007",Chung-Ang U. MS,Chung-Ang U. HS,,,K League 1
+21,Hyeon-woo Jo,Ulsan Hyundai,€1.30m ,South Korea,,"Jan 1, 2004",Sinjeong ES,Chung-Ang U. MS,,,K League 1
+1,Seung-gyu Kim,Al-Shabab Club (Riyadh),€900k ,South Korea,"Jul 5, 2022",,Al-Shabab,,,,Saudi Pro League
+1,Seung-gyu Kim,Al-Shabab Club (Riyadh),€900k ,South Korea,"Jan 10, 2020","Jul 5, 2022",Kashiwa Reysol,Al-Shabab,750000.0,936000.0,Saudi Pro League
+1,Seung-gyu Kim,Al-Shabab Club (Riyadh),€900k ,South Korea,"Jul 26, 2019","Jan 10, 2020",Ulsan Hyundai,Kashiwa Reysol,1200000.0,,Saudi Pro League
+1,Seung-gyu Kim,Al-Shabab Club (Riyadh),€900k ,South Korea,"Jan 5, 2016","Jul 26, 2019",Vissel Kobe,Ulsan Hyundai,1200000.0,,Saudi Pro League
+1,Seung-gyu Kim,Al-Shabab Club (Riyadh),€900k ,South Korea,"Jan 1, 2006","Jan 5, 2016",Ulsan Hyundai,Vissel Kobe,1000000.0,1250000.0,Saudi Pro League
+1,Seung-gyu Kim,Al-Shabab Club (Riyadh),€900k ,South Korea,,"Jan 1, 2006",Ulsan Hy. Yth.,Ulsan Hyundai,,,Saudi Pro League
+20,Kyung-won Kwon,Gamba Osaka,€800k ,South Korea,"Jan 9, 2022",,Gamba Osaka,,,,J1 League
+20,Kyung-won Kwon,Gamba Osaka,€800k ,South Korea,"Jul 15, 2021","Jan 9, 2022",Seongnam FC,Gamba Osaka,850000.0,0.0,J1 League
+20,Kyung-won Kwon,Gamba Osaka,€800k ,South Korea,"Jun 18, 2021","Jul 15, 2021",Without Club,Seongnam FC,1000000.0,,J1 League
+20,Kyung-won Kwon,Gamba Osaka,€800k ,South Korea,"Jun 17, 2021","Jun 18, 2021",TJ Tianhai,Without Club,1000000.0,,J1 League
+20,Kyung-won Kwon,Gamba Osaka,€800k ,South Korea,"Jun 7, 2021","Jun 17, 2021",Jeonbuk Hyundai,TJ Tianhai,1000000.0,,J1 League
+20,Kyung-won Kwon,Gamba Osaka,€800k ,South Korea,"Dec 23, 2019","Jun 7, 2021",Gimcheon Sangmu,Jeonbuk Hyundai,1000000.0,,J1 League
+20,Kyung-won Kwon,Gamba Osaka,€800k ,South Korea,"Jul 3, 2019","Dec 23, 2019",Jeonbuk Hyundai,Sangju Sangmu,1100000.0,,J1 League
+20,Kyung-won Kwon,Gamba Osaka,€800k ,South Korea,"Jan 2, 2017","Jul 3, 2019",TJ Tianhai,Jeonbuk Hyundai,1000000.0,,J1 League
+20,Kyung-won Kwon,Gamba Osaka,€800k ,South Korea,"Feb 10, 2015","Jan 2, 2017",Al-Ahli (UAE),TJ Quanjian,400000.0,10500000.0,J1 League
+20,Kyung-won Kwon,Gamba Osaka,€800k ,South Korea,"Jan 1, 2013","Feb 10, 2015",Jeonbuk Hyundai,Al-Ahli (UAE),450000.0,2210000.0,J1 League
+20,Kyung-won Kwon,Gamba Osaka,€800k ,South Korea,"Jan 1, 2011","Jan 1, 2013",Dong-A Univ.,Jeonbuk Hyundai,,,J1 League
+20,Kyung-won Kwon,Gamba Osaka,€800k ,South Korea,"Jan 1, 2008","Jan 1, 2011",Jeonbuk H. U18,Dong-A Univ.,,,J1 League
+20,Kyung-won Kwon,Gamba Osaka,€800k ,South Korea,,"Jan 1, 2008",School Team SK,Jeonbuk Hyundai,,,J1 League
+19,Young-gwon Kim,Ulsan Hyundai,€600k ,South Korea,"Jan 1, 2022",,Ulsan Hyundai,,,,K League 1
+19,Young-gwon Kim,Ulsan Hyundai,€600k ,South Korea,"Jan 26, 2019","Jan 1, 2022",Gamba Osaka,Ulsan Hyundai,700000.0,0.0,K League 1
+19,Young-gwon Kim,Ulsan Hyundai,€600k ,South Korea,"Jul 13, 2018","Jan 26, 2019",GuaZ FC Res.,Gamba Osaka,850000.0,,K League 1
+19,Young-gwon Kim,Ulsan Hyundai,€600k ,South Korea,"Jun 21, 2017","Jul 13, 2018",GZ Evergrande,GuaZ FC Res.,850000.0,,K League 1
+19,Young-gwon Kim,Ulsan Hyundai,€600k ,South Korea,"Jan 1, 2017","Jun 21, 2017",GuaZ FC Res.,GZ Evergrande,1000000.0,,K League 1
+19,Young-gwon Kim,Ulsan Hyundai,€600k ,South Korea,"Jul 1, 2012","Jan 1, 2017",GZ Evergrande,GuaZ FC Res.,1200000.0,,K League 1
+19,Young-gwon Kim,Ulsan Hyundai,€600k ,South Korea,"Jan 1, 2011","Jul 1, 2012",Omiya Ardija,GZ Evergrande,900000.0,2000000.0,K League 1
+19,Young-gwon Kim,Ulsan Hyundai,€600k ,South Korea,"Jan 22, 2010","Jan 1, 2011",FC Tokyo,Omiya Ardija,550000.0,,K League 1
+19,Young-gwon Kim,Ulsan Hyundai,€600k ,South Korea,"Jan 1, 2008","Jan 22, 2010",Jeonju Uni,FC Tokyo,,0.0,K League 1
+19,Young-gwon Kim,Ulsan Hyundai,€600k ,South Korea,,"Jan 1, 2008",Jeonju THS,Jeonju Uni,,,K League 1
+14,Chul Hong,Daegu FC,€500k ,South Korea,"Jan 3, 2022",,Daegu FC,,,,K League 1
+14,Chul Hong,Daegu FC,€500k ,South Korea,"Jul 1, 2020","Jan 3, 2022",Ulsan Hyundai,Daegu FC,600000.0,446000.0,K League 1
+14,Chul Hong,Daegu FC,€500k ,South Korea,"Sep 4, 2018","Jul 1, 2020",Suwon Bluewings,Ulsan Hyundai,575000.0,488000.0,K League 1
+14,Chul Hong,Daegu FC,€500k ,South Korea,"Dec 6, 2016","Sep 4, 2018",Sangju Sangmu,Suwon Bluewings,750000.0,,K League 1
+14,Chul Hong,Daegu FC,€500k ,South Korea,"Jan 1, 2013","Dec 6, 2016",Suwon Bluewings,Sangju Sangmu,950000.0,,K League 1
+14,Chul Hong,Daegu FC,€500k ,South Korea,"Jan 1, 2010","Jan 1, 2013",Seongnam FC,Suwon Bluewings,1250000.0,,K League 1
+14,Chul Hong,Daegu FC,€500k ,South Korea,"Jan 1, 2009","Jan 1, 2010",Dankook Univ,Seongnam Ilhwa,,0.0,K League 1
+14,Chul Hong,Daegu FC,€500k ,South Korea,"Jan 1, 2006","Jan 1, 2009",Seongnam FC U18,Dankook Univ,,,K League 1
+14,Chul Hong,Daegu FC,€500k ,South Korea,,"Jan 1, 2006",Seongnam Youth,Seongnam FC U18,,,K League 1
+23,Tae-hwan Kim,Ulsan Hyundai,€900k ,South Korea,"Sep 4, 2018",,Ulsan Hyundai,,,,K League 1
+23,Tae-hwan Kim,Ulsan Hyundai,€900k ,South Korea,"Dec 5, 2016","Sep 4, 2018",Sangju Sangmu,Ulsan Hyundai,800000.0,,K League 1
+23,Tae-hwan Kim,Ulsan Hyundai,€900k ,South Korea,"Feb 1, 2015","Dec 5, 2016",Ulsan Hyundai,Sangju Sangmu,600000.0,,K League 1
+23,Tae-hwan Kim,Ulsan Hyundai,€900k ,South Korea,"Jan 7, 2013","Feb 1, 2015",Seongnam FC,Ulsan Hyundai,600000.0,,K League 1
+23,Tae-hwan Kim,Ulsan Hyundai,€900k ,South Korea,"Jan 3, 2010","Jan 7, 2013",FC Seoul,Seongnam FC,300000.0,,K League 1
+23,Tae-hwan Kim,Ulsan Hyundai,€900k ,South Korea,"Jan 1, 2008","Jan 3, 2010",Ulsan Univ.,FC Seoul,,0.0,K League 1
+23,Tae-hwan Kim,Ulsan Hyundai,€900k ,South Korea,,"Jan 1, 2008",Kumho HS (-10),Ulsan Univ.,,,K League 1
+13,Jun-ho Son,Shandong Taishan,€3.50m ,South Korea,"Jan 12, 2021",,SD Taishan,,,,Super League
+13,Jun-ho Son,Shandong Taishan,€3.50m ,South Korea,"Jan 7, 2018","Jan 12, 2021",Jeonbuk Hyundai,SD Taishan,1500000.0,4500000.0,Super League
+13,Jun-ho Son,Shandong Taishan,€3.50m ,South Korea,"Jan 1, 2014","Jan 7, 2018",Pohang Steelers,Jeonbuk Hyundai,600000.0,0.0,Super League
+13,Jun-ho Son,Shandong Taishan,€3.50m ,South Korea,"Jan 1, 2011","Jan 1, 2014",Yeungnam Uni,Pohang Steelers,,0.0,Super League
+13,Jun-ho Son,Shandong Taishan,€3.50m ,South Korea,,"Jan 1, 2011",Pohang St. Yth.,Yeungnam Uni,,0.0,Super League
+6,In-beom Hwang,Olympiacos Piraeus,€3.50m ,South Korea,"Jul 29, 2022",,Olympiacos,,,,Super League 1
+6,In-beom Hwang,Olympiacos Piraeus,€3.50m ,South Korea,"Jul 28, 2022","Jul 29, 2022",Rubin Kazan,Olympiacos,3000000.0,0.0,Super League 1
+6,In-beom Hwang,Olympiacos Piraeus,€3.50m ,South Korea,"Jul 16, 2022","Jul 28, 2022",FC Seoul,Rubin Kazan,3000000.0,,Super League 1
+6,In-beom Hwang,Olympiacos Piraeus,€3.50m ,South Korea,"Jun 30, 2022","Jul 16, 2022",Rubin Kazan,FC Seoul,3000000.0,,Super League 1
+6,In-beom Hwang,Olympiacos Piraeus,€3.50m ,South Korea,"Apr 5, 2022","Jun 30, 2022",FC Seoul,Rubin Kazan,3000000.0,,Super League 1
+6,In-beom Hwang,Olympiacos Piraeus,€3.50m ,South Korea,"Aug 14, 2020","Apr 5, 2022",Rubin Kazan,FC Seoul,3000000.0,,Super League 1
+6,In-beom Hwang,Olympiacos Piraeus,€3.50m ,South Korea,"Jan 31, 2019","Aug 14, 2020",Vancouver,Rubin Kazan,950000.0,2500000.0,Super League 1
+6,In-beom Hwang,Olympiacos Piraeus,€3.50m ,South Korea,"Sep 20, 2018","Jan 31, 2019",Daejeon Citizen,Vancouver,250000.0,1560000.0,Super League 1
+6,In-beom Hwang,Olympiacos Piraeus,€3.50m ,South Korea,"Jan 7, 2018","Sep 20, 2018",Asan Mugunghwa,Daejeon Citizen,250000.0,,Super League 1
+6,In-beom Hwang,Olympiacos Piraeus,€3.50m ,South Korea,"Mar 21, 2015","Jan 7, 2018",Daejeon Citizen,Asan Mugunghwa,250000.0,,Super League 1
+6,In-beom Hwang,Olympiacos Piraeus,€3.50m ,South Korea,"Jan 1, 2012","Mar 21, 2015",Daejeon Cit. U18,Daejeon Citizen,,,Super League 1
+6,In-beom Hwang,Olympiacos Piraeus,€3.50m ,South Korea,"Jan 1, 2009","Jan 1, 2012",Daejeon C. Yth.,Daejeon Cit. U18,,,Super League 1
+6,In-beom Hwang,Olympiacos Piraeus,€3.50m ,South Korea,,"Jan 1, 2009",D. Moonhwa ES,Daejeon C. Yth.,,,Super League 1
+18,Kang-in Lee,RCD Mallorca,€12.00m ,South Korea,"Aug 30, 2021",,RCD Mallorca,,,,LaLiga
+18,Kang-in Lee,RCD Mallorca,€12.00m ,South Korea,"Jan 30, 2019","Aug 30, 2021",Valencia,RCD Mallorca,10000000.0,0.0,LaLiga
+18,Kang-in Lee,RCD Mallorca,€12.00m ,South Korea,"Jan 1, 2018","Jan 30, 2019",Valencia B,Valencia,1000000.0,,LaLiga
+18,Kang-in Lee,RCD Mallorca,€12.00m ,South Korea,"Jul 1, 2017","Jan 1, 2018",Valencia U19,Valencia B,,,LaLiga
+18,Kang-in Lee,RCD Mallorca,€12.00m ,South Korea,"Jul 1, 2011","Jul 1, 2017",Valencia CF You,Valencia U19,,,LaLiga
+18,Kang-in Lee,RCD Mallorca,€12.00m ,South Korea,"Jan 1, 2011","Jul 1, 2011",Incheon Flyings,Valencia CF You,,,LaLiga
+18,Kang-in Lee,RCD Mallorca,€12.00m ,South Korea,,"Jan 1, 2011",Incheon Yth.,Incheon Flyings,,,LaLiga
+7,Heung-min Son,Tottenham Hotspur,€70.00m ,South Korea,"Aug 28, 2015",,Spurs,,,,Premier League
+7,Heung-min Son,Tottenham Hotspur,€70.00m ,South Korea,"Jul 1, 2013","Aug 28, 2015",B. Leverkusen,Spurs,16000000.0,30000000.0,Premier League
+7,Heung-min Son,Tottenham Hotspur,€70.00m ,South Korea,"Jul 1, 2010","Jul 1, 2013",Hamburger SV,B. Leverkusen,14000000.0,12500000.0,Premier League
+7,Heung-min Son,Tottenham Hotspur,€70.00m ,South Korea,"Dec 31, 2009","Jul 1, 2010",Hamburg U19,Hamburger SV,,,Premier League
+7,Heung-min Son,Tottenham Hotspur,€70.00m ,South Korea,"Jul 2, 2009","Dec 31, 2009",FC Seoul U18,Hamburg U19,,,Premier League
+7,Heung-min Son,Tottenham Hotspur,€70.00m ,South Korea,"Jul 1, 2009","Jul 2, 2009",Hamburg U19,FC Seoul U18,,,Premier League
+7,Heung-min Son,Tottenham Hotspur,€70.00m ,South Korea,"Aug 1, 2008","Jul 1, 2009",Hamburg U17,Hamburg U19,,,Premier League
+7,Heung-min Son,Tottenham Hotspur,€70.00m ,South Korea,,"Aug 1, 2008",Yukminkwan MS,Hamburg U17,,0.0,Premier League
+17,Sang-ho Na,FC Seoul,€900k ,South Korea,"Jan 9, 2021",,FC Seoul,,,,K League 1
+17,Sang-ho Na,FC Seoul,€900k ,South Korea,"Dec 31, 2020","Jan 9, 2021",FC Tokyo,FC Seoul,700000.0,0.0,K League 1
+17,Sang-ho Na,FC Seoul,€900k ,South Korea,"Jun 25, 2020","Dec 31, 2020",Seongnam FC,FC Tokyo,700000.0,,K League 1
+17,Sang-ho Na,FC Seoul,€900k ,South Korea,"Jan 14, 2019","Jun 25, 2020",FC Tokyo,Seongnam FC,550000.0,,K League 1
+17,Sang-ho Na,FC Seoul,€900k ,South Korea,"Jan 1, 2017","Jan 14, 2019",Gwangju FC,FC Tokyo,100000.0,1170000.0,K League 1
+17,Sang-ho Na,FC Seoul,€900k ,South Korea,"Jan 1, 2015","Jan 1, 2017",Dankook Univ,Gwangju FC,,0.0,K League 1
+17,Sang-ho Na,FC Seoul,€900k ,South Korea,"Jan 1, 2012","Jan 1, 2015",Gwangju FC U18,Dankook Univ,,,K League 1
+17,Sang-ho Na,FC Seoul,€900k ,South Korea,,"Jan 1, 2012",Gwangyang MS,Gwangju FC U18,,,K League 1
+25,Woo-yeong Jeong,SC Freiburg,€5.50m ,South Korea,"Jul 5, 2020",,SC Freiburg,,,,Bundesliga
+25,Woo-yeong Jeong,SC Freiburg,€5.50m ,South Korea,"Jan 29, 2020","Jul 5, 2020",FC Bayern II,SC Freiburg,1800000.0,,Bundesliga
+25,Woo-yeong Jeong,SC Freiburg,€5.50m ,South Korea,"Jul 1, 2019","Jan 29, 2020",SC Freiburg,FC Bayern II,2000000.0,,Bundesliga
+25,Woo-yeong Jeong,SC Freiburg,€5.50m ,South Korea,"Jul 1, 2018","Jul 1, 2019",FC Bayern II,SC Freiburg,2000000.0,2000000.0,Bundesliga
+25,Woo-yeong Jeong,SC Freiburg,€5.50m ,South Korea,"Jan 1, 2018","Jul 1, 2018",FC Bayern U19,FC Bayern II,,,Bundesliga
+25,Woo-yeong Jeong,SC Freiburg,€5.50m ,South Korea,"Dec 1, 2017","Jan 1, 2018",Incheon Utd.,FC Bayern U19,,700000.0,Bundesliga
+25,Woo-yeong Jeong,SC Freiburg,€5.50m ,South Korea,"Jan 1, 2015","Dec 1, 2017",Incheon Utd U18,Incheon Utd.,,,Bundesliga
+25,Woo-yeong Jeong,SC Freiburg,€5.50m ,South Korea,,"Jan 1, 2015",Incheon Yth.,Incheon Utd U18,,,Bundesliga
+16,Ui-jo Hwang,Olympiacos Piraeus,€5.00m ,South Korea,"Jun 30, 2023",,Nottm Forest,,,,Super League 1
+16,Ui-jo Hwang,Olympiacos Piraeus,€5.00m ,South Korea,"Aug 27, 2022","Jun 30, 2023",Olympiacos,Nottm Forest,5000000.0,,Super League 1
+16,Ui-jo Hwang,Olympiacos Piraeus,€5.00m ,South Korea,"Aug 26, 2022","Aug 27, 2022",Nottm Forest,Olympiacos,7000000.0,,Super League 1
+16,Ui-jo Hwang,Olympiacos Piraeus,€5.00m ,South Korea,"Jul 14, 2019","Aug 26, 2022",G. Bordeaux,Nottm Forest,7000000.0,4000000.0,Super League 1
+16,Ui-jo Hwang,Olympiacos Piraeus,€5.00m ,South Korea,"Jul 1, 2017","Jul 14, 2019",Gamba Osaka,G. Bordeaux,1600000.0,2000000.0,Super League 1
+16,Ui-jo Hwang,Olympiacos Piraeus,€5.00m ,South Korea,"Jan 1, 2013","Jul 1, 2017",Seongnam FC,Gamba Osaka,275000.0,1530000.0,Super League 1
+16,Ui-jo Hwang,Olympiacos Piraeus,€5.00m ,South Korea,"Jan 1, 2011","Jan 1, 2013",Yonsei Univ.,Seongnam FC,,0.0,Super League 1
+16,Ui-jo Hwang,Olympiacos Piraeus,€5.00m ,South Korea,"Jan 1, 2008","Jan 1, 2011",Seongnam FC U18,Yonsei Univ.,,,Super League 1
+16,Ui-jo Hwang,Olympiacos Piraeus,€5.00m ,South Korea,,"Jan 1, 2008",Seongnam Youth,Seongnam FC U18,,,Super League 1

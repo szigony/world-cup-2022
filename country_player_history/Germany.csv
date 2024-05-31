@@ -1,0 +1,219 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+1,Manuel Neuer,Bayern Munich,€12.00m ,Germany,"Jul 1, 2011",,Bayern Munich,,,,Bundesliga
+1,Manuel Neuer,Bayern Munich,€12.00m ,Germany,"Jul 1, 2005","Jul 1, 2011",FC Schalke 04,Bayern Munich,28000000.0,30000000.0,Bundesliga
+1,Manuel Neuer,Bayern Munich,€12.00m ,Germany,"Jul 1, 2003","Jul 1, 2005",Schalke 04 U19,FC Schalke 04,75000.0,,Bundesliga
+1,Manuel Neuer,Bayern Munich,€12.00m ,Germany,"Jul 1, 2001","Jul 1, 2003",Schalke 04 U17,Schalke 04 U19,,,Bundesliga
+1,Manuel Neuer,Bayern Munich,€12.00m ,Germany,,"Jul 1, 2001",Schalke 04 Yth.,Schalke 04 U17,,,Bundesliga
+2,Antonio Rüdiger,Real Madrid,€40.00m ,Germany,"Jul 1, 2022",,Real Madrid,,,,LaLiga
+2,Antonio Rüdiger,Real Madrid,€40.00m ,Germany,"Jul 9, 2017","Jul 1, 2022",Chelsea,Real Madrid,40000000.0,0.0,LaLiga
+2,Antonio Rüdiger,Real Madrid,€40.00m ,Germany,"Jul 1, 2016","Jul 9, 2017",AS Roma,Chelsea,25000000.0,35000000.0,LaLiga
+2,Antonio Rüdiger,Real Madrid,€40.00m ,Germany,"Jun 30, 2016","Jul 1, 2016",VfB Stuttgart,AS Roma,12000000.0,9000000.0,LaLiga
+2,Antonio Rüdiger,Real Madrid,€40.00m ,Germany,"Aug 19, 2015","Jun 30, 2016",AS Roma,VfB Stuttgart,12000000.0,,LaLiga
+2,Antonio Rüdiger,Real Madrid,€40.00m ,Germany,"Jul 1, 2012","Aug 19, 2015",VfB Stuttgart,AS Roma,10000000.0,,LaLiga
+2,Antonio Rüdiger,Real Madrid,€40.00m ,Germany,"Jul 1, 2011","Jul 1, 2012",Stuttgart II,VfB Stuttgart,500000.0,,LaLiga
+2,Antonio Rüdiger,Real Madrid,€40.00m ,Germany,"Feb 1, 2011","Jul 1, 2011",Stuttgart U19,Stuttgart II,,,LaLiga
+2,Antonio Rüdiger,Real Madrid,€40.00m ,Germany,"Jul 1, 2010","Feb 1, 2011",B. Dortmund U19,Stuttgart U19,,0.0,LaLiga
+2,Antonio Rüdiger,Real Madrid,€40.00m ,Germany,"Jul 1, 2008","Jul 1, 2010",B. Dortmund U17,B. Dortmund U19,,,LaLiga
+2,Antonio Rüdiger,Real Madrid,€40.00m ,Germany,"Jul 1, 2006","Jul 1, 2008",Zehlendorf Yth.,B. Dortmund U17,,0.0,LaLiga
+2,Antonio Rüdiger,Real Madrid,€40.00m ,Germany,"Jul 1, 2005","Jul 1, 2006",Neuk. SF Yth.,Zehlendorf Yth.,,0.0,LaLiga
+2,Antonio Rüdiger,Real Madrid,€40.00m ,Germany,"Jul 1, 2002","Jul 1, 2005",Tasmania Yth.,Neuk. SF Yth.,,0.0,LaLiga
+2,Antonio Rüdiger,Real Madrid,€40.00m ,Germany,,"Jul 1, 2002",Sperber Yth.,Tasmania Yth.,,0.0,LaLiga
+23,Nico Schlotterbeck,Borussia Dortmund,€33.00m ,Germany,"Jul 1, 2022",,Bor. Dortmund,,,,Bundesliga
+23,Nico Schlotterbeck,Borussia Dortmund,€33.00m ,Germany,"Jun 30, 2021","Jul 1, 2022",SC Freiburg,Bor. Dortmund,33000000.0,20000000.0,Bundesliga
+23,Nico Schlotterbeck,Borussia Dortmund,€33.00m ,Germany,"Jul 31, 2020","Jun 30, 2021",Union Berlin,SC Freiburg,7500000.0,,Bundesliga
+23,Nico Schlotterbeck,Borussia Dortmund,€33.00m ,Germany,"Jul 1, 2019","Jul 31, 2020",SC Freiburg,Union Berlin,4000000.0,,Bundesliga
+23,Nico Schlotterbeck,Borussia Dortmund,€33.00m ,Germany,"Jul 1, 2018","Jul 1, 2019",SC Freiburg II,SC Freiburg,300000.0,,Bundesliga
+23,Nico Schlotterbeck,Borussia Dortmund,€33.00m ,Germany,"Jul 1, 2017","Jul 1, 2018",SC Freiburg U19,SC Freiburg II,,,Bundesliga
+23,Nico Schlotterbeck,Borussia Dortmund,€33.00m ,Germany,"Jul 1, 2016","Jul 1, 2017",Karlsruhe U19,SC Freiburg U19,,90000.0,Bundesliga
+23,Nico Schlotterbeck,Borussia Dortmund,€33.00m ,Germany,"Jul 1, 2015","Jul 1, 2016",Karlsruhe U17,Karlsruhe U19,,,Bundesliga
+23,Nico Schlotterbeck,Borussia Dortmund,€33.00m ,Germany,"Jul 1, 2014","Jul 1, 2015",VfR Aalen U17,Karlsruhe U17,,0.0,Bundesliga
+23,Nico Schlotterbeck,Borussia Dortmund,€33.00m ,Germany,"Jul 1, 2007","Jul 1, 2014",S. Kickers Yth.,VfR Aalen U17,,0.0,Bundesliga
+23,Nico Schlotterbeck,Borussia Dortmund,€33.00m ,Germany,,"Jul 1, 2007",Weinstadt Yth.,S. Kickers Yth.,,0.0,Bundesliga
+4,Matthias Ginter,SC Freiburg,€20.00m ,Germany,"Jul 1, 2022",,SC Freiburg,,,,Bundesliga
+4,Matthias Ginter,SC Freiburg,€20.00m ,Germany,"Jul 4, 2017","Jul 1, 2022",Bor. M'gladbach,SC Freiburg,18000000.0,0.0,Bundesliga
+4,Matthias Ginter,SC Freiburg,€20.00m ,Germany,"Jul 17, 2014","Jul 4, 2017",Bor. Dortmund,Bor. M'gladbach,15000000.0,17000000.0,Bundesliga
+4,Matthias Ginter,SC Freiburg,€20.00m ,Germany,"Jan 23, 2012","Jul 17, 2014",SC Freiburg,Bor. Dortmund,12000000.0,10000000.0,Bundesliga
+4,Matthias Ginter,SC Freiburg,€20.00m ,Germany,"Jul 1, 2010","Jan 23, 2012",SC Freiburg U19,SC Freiburg,200000.0,,Bundesliga
+4,Matthias Ginter,SC Freiburg,€20.00m ,Germany,"Jul 1, 2009","Jul 1, 2010",SC Freiburg U17,SC Freiburg U19,,,Bundesliga
+4,Matthias Ginter,SC Freiburg,€20.00m ,Germany,"Jul 1, 2005","Jul 1, 2009",Freiburg Yth.,SC Freiburg U17,,,Bundesliga
+4,Matthias Ginter,SC Freiburg,€20.00m ,Germany,,"Jul 1, 2005",SC March Yth.,Freiburg Yth.,,0.0,Bundesliga
+3,David Raum,RB Leipzig,€26.00m ,Germany,"Jul 31, 2022",,RB Leipzig,,,,Bundesliga
+3,David Raum,RB Leipzig,€26.00m ,Germany,"Jul 1, 2021","Jul 31, 2022",TSG Hoffenheim,RB Leipzig,20000000.0,26000000.0,Bundesliga
+3,David Raum,RB Leipzig,€26.00m ,Germany,"Feb 1, 2017","Jul 1, 2021",Greuther Fürth,TSG Hoffenheim,5000000.0,0.0,Bundesliga
+3,David Raum,RB Leipzig,€26.00m ,Germany,"Jul 1, 2015","Feb 1, 2017",Gr. Fürth U19,Greuther Fürth,125000.0,,Bundesliga
+3,David Raum,RB Leipzig,€26.00m ,Germany,"Jul 1, 2014","Jul 1, 2015",Gr. Fürth U17,Gr. Fürth U19,,,Bundesliga
+3,David Raum,RB Leipzig,€26.00m ,Germany,,"Jul 1, 2014",Gr. Fürth Yth.,Gr. Fürth U17,,,Bundesliga
+16,Lukas Klostermann,RB Leipzig,€14.00m ,Germany,"Aug 22, 2014",,RB Leipzig,,,,Bundesliga
+16,Lukas Klostermann,RB Leipzig,€14.00m ,Germany,"Mar 8, 2014","Aug 22, 2014",VfL Bochum,RB Leipzig,350000.0,1000000.0,Bundesliga
+16,Lukas Klostermann,RB Leipzig,€14.00m ,Germany,"Jul 1, 2013","Mar 8, 2014",VfL Bochum U19,VfL Bochum,,,Bundesliga
+16,Lukas Klostermann,RB Leipzig,€14.00m ,Germany,"Jul 1, 2012","Jul 1, 2013",VfL Bochum U17,VfL Bochum U19,,,Bundesliga
+16,Lukas Klostermann,RB Leipzig,€14.00m ,Germany,"Jul 1, 2010","Jul 1, 2012",VfL Bochum Yth.,VfL Bochum U17,,,Bundesliga
+16,Lukas Klostermann,RB Leipzig,€14.00m ,Germany,"Jul 1, 2008","Jul 1, 2010",SSV Hagen Yth.,VfL Bochum Yth.,,0.0,Bundesliga
+16,Lukas Klostermann,RB Leipzig,€14.00m ,Germany,,"Jul 1, 2008",Gevelsberg Yth.,SSV Hagen Yth.,,0.0,Bundesliga
+8,Leon Goretzka,Bayern Munich,€65.00m ,Germany,"Jul 1, 2018",,Bayern Munich,,,,Bundesliga
+8,Leon Goretzka,Bayern Munich,€65.00m ,Germany,"Jul 2, 2013","Jul 1, 2018",FC Schalke 04,Bayern Munich,40000000.0,0.0,Bundesliga
+8,Leon Goretzka,Bayern Munich,€65.00m ,Germany,"Jul 1, 2012","Jul 2, 2013",VfL Bochum,FC Schalke 04,4500000.0,3250000.0,Bundesliga
+8,Leon Goretzka,Bayern Munich,€65.00m ,Germany,"Oct 1, 2011","Jul 1, 2012",VfL Bochum U19,VfL Bochum,,,Bundesliga
+8,Leon Goretzka,Bayern Munich,€65.00m ,Germany,"Jul 1, 2010","Oct 1, 2011",VfL Bochum U17,VfL Bochum U19,,,Bundesliga
+8,Leon Goretzka,Bayern Munich,€65.00m ,Germany,"Jul 1, 2001","Jul 1, 2010",VfL Bochum Yth.,VfL Bochum U17,,,Bundesliga
+8,Leon Goretzka,Bayern Munich,€65.00m ,Germany,,"Jul 1, 2001",WSV Bochum Yth.,VfL Bochum Yth.,,0.0,Bundesliga
+14,Jamal Musiala,Bayern Munich,€100.00m ,Germany,"Jul 1, 2020",,Bayern Munich,,,,Bundesliga
+14,Jamal Musiala,Bayern Munich,€100.00m ,Germany,"Jan 1, 2020","Jul 1, 2020",FC Bayern U19,Bayern Munich,1000000.0,,Bundesliga
+14,Jamal Musiala,Bayern Munich,€100.00m ,Germany,"Jul 4, 2019","Jan 1, 2020",FC Bayern U17,FC Bayern U19,,,Bundesliga
+14,Jamal Musiala,Bayern Munich,€100.00m ,Germany,"Apr 12, 2011","Jul 4, 2019",Chelsea Youth,FC Bayern U17,,200000.0,Bundesliga
+14,Jamal Musiala,Bayern Munich,€100.00m ,Germany,"Nov 1, 2010","Apr 12, 2011",Southampton Aca,Chelsea Youth,,0.0,Bundesliga
+14,Jamal Musiala,Bayern Munich,€100.00m ,Germany,,"Nov 1, 2010",TSV Lehnerz Jgd.,Southampton Aca,,0.0,Bundesliga
+17,Julian Brandt,Borussia Dortmund,€28.00m ,Germany,"Jul 1, 2019",,Bor. Dortmund,,,,Bundesliga
+17,Julian Brandt,Borussia Dortmund,€28.00m ,Germany,"Jan 1, 2014","Jul 1, 2019",B. Leverkusen,Bor. Dortmund,50000000.0,25000000.0,Bundesliga
+17,Julian Brandt,Borussia Dortmund,€28.00m ,Germany,"Jul 1, 2012","Jan 1, 2014",Wolfsburg U19,B. Leverkusen,,500000.0,Bundesliga
+17,Julian Brandt,Borussia Dortmund,€28.00m ,Germany,"Jul 1, 2011","Jul 1, 2012",Wolfsburg U17,Wolfsburg U19,,,Bundesliga
+17,Julian Brandt,Borussia Dortmund,€28.00m ,Germany,"Jul 1, 2009","Jul 1, 2011",Oberneul. Yth.,Wolfsburg U17,,0.0,Bundesliga
+17,Julian Brandt,Borussia Dortmund,€28.00m ,Germany,,"Jul 1, 2009",Borgfeld Yth.,Oberneul. Yth.,,0.0,Bundesliga
+19,Leroy Sané,Bayern Munich,€70.00m ,Germany,"Jul 15, 2020",,Bayern Munich,,,,Bundesliga
+19,Leroy Sané,Bayern Munich,€70.00m ,Germany,"Aug 2, 2016","Jul 15, 2020",Man City,Bayern Munich,80000000.0,49000000.0,Bundesliga
+19,Leroy Sané,Bayern Munich,€70.00m ,Germany,"Jul 1, 2015","Aug 2, 2016",FC Schalke 04,Man City,30000000.0,52000000.0,Bundesliga
+19,Leroy Sané,Bayern Munich,€70.00m ,Germany,"Jul 1, 2013","Jul 1, 2015",Schalke 04 U19,FC Schalke 04,4000000.0,,Bundesliga
+19,Leroy Sané,Bayern Munich,€70.00m ,Germany,"Jul 1, 2011","Jul 1, 2013",Schalke 04 U17,Schalke 04 U19,,,Bundesliga
+19,Leroy Sané,Bayern Munich,€70.00m ,Germany,"Jul 1, 2008","Jul 1, 2011",Leverkusen Yth.,Schalke 04 U17,,0.0,Bundesliga
+19,Leroy Sané,Bayern Munich,€70.00m ,Germany,"Jul 1, 2005","Jul 1, 2008",Schalke 04 Yth.,Leverkusen Yth.,,0.0,Bundesliga
+19,Leroy Sané,Bayern Munich,€70.00m ,Germany,,"Jul 1, 2005",Wattensch. Yth.,Schalke 04 Yth.,,0.0,Bundesliga
+24,Karim Adeyemi,Borussia Dortmund,€35.00m ,Germany,"Jul 1, 2022",,Bor. Dortmund,,,,Bundesliga
+24,Karim Adeyemi,Borussia Dortmund,€35.00m ,Germany,"Dec 31, 2019","Jul 1, 2022",RB Salzburg,Bor. Dortmund,35000000.0,30000000.0,Bundesliga
+24,Karim Adeyemi,Borussia Dortmund,€35.00m ,Germany,"Jul 2, 2018","Dec 31, 2019",FC Liefering,RB Salzburg,7500000.0,,Bundesliga
+24,Karim Adeyemi,Borussia Dortmund,€35.00m ,Germany,"Jul 1, 2018","Jul 2, 2018",RB Salzburg,FC Liefering,1500000.0,,Bundesliga
+24,Karim Adeyemi,Borussia Dortmund,€35.00m ,Germany,"Jan 1, 2018","Jul 1, 2018",U'haching U19,RB Salzburg,,10100000.0,Bundesliga
+24,Karim Adeyemi,Borussia Dortmund,€35.00m ,Germany,"Mar 13, 2017","Jan 1, 2018",U'haching U17,U'haching U19,,,Bundesliga
+24,Karim Adeyemi,Borussia Dortmund,€35.00m ,Germany,"Jul 1, 2012","Mar 13, 2017",U'haching Yth.,U'haching U17,,,Bundesliga
+24,Karim Adeyemi,Borussia Dortmund,€35.00m ,Germany,"Jul 1, 2011","Jul 1, 2012",Forstenried Jgd,U'haching Yth.,,0.0,Bundesliga
+24,Karim Adeyemi,Borussia Dortmund,€35.00m ,Germany,"Jul 1, 2009","Jul 1, 2011",B. München Yth.,Forstenried Jgd,,0.0,Bundesliga
+24,Karim Adeyemi,Borussia Dortmund,€35.00m ,Germany,,"Jul 1, 2009",Forstenried Jgd,B. München Yth.,,0.0,Bundesliga
+13,Thomas Müller,Bayern Munich,€18.00m ,Germany,"Jul 1, 2009",,Bayern Munich,,,,Bundesliga
+13,Thomas Müller,Bayern Munich,€18.00m ,Germany,"Jul 1, 2008","Jul 1, 2009",FC Bayern II,Bayern Munich,750000.0,,Bundesliga
+13,Thomas Müller,Bayern Munich,€18.00m ,Germany,"Jul 1, 2006","Jul 1, 2008",FC Bayern U19,FC Bayern II,,,Bundesliga
+13,Thomas Müller,Bayern Munich,€18.00m ,Germany,"Jul 1, 2004","Jul 1, 2006",FC Bayern U17,FC Bayern U19,,,Bundesliga
+13,Thomas Müller,Bayern Munich,€18.00m ,Germany,"Jul 1, 2000","Jul 1, 2004",B. München Yth.,FC Bayern U17,,,Bundesliga
+13,Thomas Müller,Bayern Munich,€18.00m ,Germany,,"Jul 1, 2000",TSV Pähl Yth.,B. München Yth.,,0.0,Bundesliga
+9,Niclas Füllkrug,SV Werder Bremen,€5.00m ,Germany,"Jul 1, 2019",,Werder Bremen,,,,Bundesliga
+9,Niclas Füllkrug,SV Werder Bremen,€5.00m ,Germany,"Jul 18, 2016","Jul 1, 2019",Hannover 96,Werder Bremen,8000000.0,6500000.0,Bundesliga
+9,Niclas Füllkrug,SV Werder Bremen,€5.00m ,Germany,"Jul 1, 2014","Jul 18, 2016",1.FC Nuremberg,Hannover 96,1300000.0,2200000.0,Bundesliga
+9,Niclas Füllkrug,SV Werder Bremen,€5.00m ,Germany,"Jun 30, 2014","Jul 1, 2014",Werder Bremen,1.FC Nuremberg,700000.0,300000.0,Bundesliga
+9,Niclas Füllkrug,SV Werder Bremen,€5.00m ,Germany,"Aug 24, 2013","Jun 30, 2014",Greuther Fürth,Werder Bremen,700000.0,,Bundesliga
+9,Niclas Füllkrug,SV Werder Bremen,€5.00m ,Germany,"Feb 9, 2012","Aug 24, 2013",Werder Bremen,Greuther Fürth,1250000.0,,Bundesliga
+9,Niclas Füllkrug,SV Werder Bremen,€5.00m ,Germany,"Jul 1, 2011","Feb 9, 2012",W. Bremen II,Werder Bremen,200000.0,,Bundesliga
+9,Niclas Füllkrug,SV Werder Bremen,€5.00m ,Germany,"Jul 1, 2010","Jul 1, 2011",W. Bremen U19,W. Bremen II,,,Bundesliga
+9,Niclas Füllkrug,SV Werder Bremen,€5.00m ,Germany,"Jul 1, 2008","Jul 1, 2010",W. Bremen U17,W. Bremen U19,,,Bundesliga
+9,Niclas Füllkrug,SV Werder Bremen,€5.00m ,Germany,"Jul 1, 2006","Jul 1, 2008",W. Bremen Yth.,W. Bremen U17,,,Bundesliga
+9,Niclas Füllkrug,SV Werder Bremen,€5.00m ,Germany,"Jul 1, 2005","Jul 1, 2006",Ricklingen Yth.,W. Bremen Yth.,,0.0,Bundesliga
+9,Niclas Füllkrug,SV Werder Bremen,€5.00m ,Germany,,"Jul 1, 2005",TuS Rickl. Yth.,Ricklingen Yth.,,0.0,Bundesliga
+22,Marc-André ter Stegen,FC Barcelona,€30.00m ,Germany,"Jul 1, 2014",,Barcelona,,,,LaLiga
+22,Marc-André ter Stegen,FC Barcelona,€30.00m ,Germany,"Sep 9, 2010","Jul 1, 2014",Bor. M'gladbach,Barcelona,20000000.0,12000000.0,LaLiga
+22,Marc-André ter Stegen,FC Barcelona,€30.00m ,Germany,"Jul 1, 2010","Sep 9, 2010",M'gladbach II,Bor. M'gladbach,200000.0,,LaLiga
+22,Marc-André ter Stegen,FC Barcelona,€30.00m ,Germany,"Jul 1, 2009","Jul 1, 2010",M'gladbach U19,M'gladbach II,100000.0,,LaLiga
+22,Marc-André ter Stegen,FC Barcelona,€30.00m ,Germany,"Jul 1, 2007","Jul 1, 2009",M'gladbach U17,M'gladbach U19,,,LaLiga
+22,Marc-André ter Stegen,FC Barcelona,€30.00m ,Germany,,"Jul 1, 2007",M'gladbach Yth.,M'gladbach U17,,,LaLiga
+12,Kevin Trapp,Eintracht Frankfurt,€8.50m ,Germany,"Aug 7, 2019",,E. Frankfurt,,,,Bundesliga
+12,Kevin Trapp,Eintracht Frankfurt,€8.50m ,Germany,"Jun 30, 2019","Aug 7, 2019",Paris SG,E. Frankfurt,10000000.0,7000000.0,Bundesliga
+12,Kevin Trapp,Eintracht Frankfurt,€8.50m ,Germany,"Aug 31, 2018","Jun 30, 2019",E. Frankfurt,Paris SG,10000000.0,,Bundesliga
+12,Kevin Trapp,Eintracht Frankfurt,€8.50m ,Germany,"Jul 8, 2015","Aug 31, 2018",Paris SG,E. Frankfurt,8000000.0,,Bundesliga
+12,Kevin Trapp,Eintracht Frankfurt,€8.50m ,Germany,"Jul 1, 2012","Jul 8, 2015",E. Frankfurt,Paris SG,8000000.0,9500000.0,Bundesliga
+12,Kevin Trapp,Eintracht Frankfurt,€8.50m ,Germany,"Jul 1, 2008","Jul 1, 2012",1.FC K'lautern,E. Frankfurt,3000000.0,1500000.0,Bundesliga
+12,Kevin Trapp,Eintracht Frankfurt,€8.50m ,Germany,"Jan 1, 2007","Jul 1, 2008",K'lautern U19,1.FC K'lautern,,,Bundesliga
+12,Kevin Trapp,Eintracht Frankfurt,€8.50m ,Germany,"Jul 1, 2005","Jan 1, 2007",K'lautern U17,K'lautern U19,,,Bundesliga
+12,Kevin Trapp,Eintracht Frankfurt,€8.50m ,Germany,"Jul 1, 2004","Jul 1, 2005",SG Mettlach U17,K'lautern U17,,0.0,Bundesliga
+12,Kevin Trapp,Eintracht Frankfurt,€8.50m ,Germany,"Jul 1, 2003","Jul 1, 2004",Mettlach Yth.,SG Mettlach U17,,,Bundesliga
+12,Kevin Trapp,Eintracht Frankfurt,€8.50m ,Germany,"Jul 1, 2000","Jul 1, 2003",SSV Bachem Yth.,Mettlach Yth.,,0.0,Bundesliga
+12,Kevin Trapp,Eintracht Frankfurt,€8.50m ,Germany,,"Jul 1, 2000",Brotdorf Yth.,SSV Bachem Yth.,,0.0,Bundesliga
+15,Niklas Süle,Borussia Dortmund,€35.00m ,Germany,"Jul 1, 2022",,Bor. Dortmund,,,,Bundesliga
+15,Niklas Süle,Borussia Dortmund,€35.00m ,Germany,"Jul 1, 2017","Jul 1, 2022",Bayern Munich,Bor. Dortmund,35000000.0,0.0,Bundesliga
+15,Niklas Süle,Borussia Dortmund,€35.00m ,Germany,"Jul 1, 2013","Jul 1, 2017",TSG Hoffenheim,Bayern Munich,25000000.0,20000000.0,Bundesliga
+15,Niklas Süle,Borussia Dortmund,€35.00m ,Germany,"Jul 1, 2012","Jul 1, 2013",Hoffenheim II,TSG Hoffenheim,300000.0,,Bundesliga
+15,Niklas Süle,Borussia Dortmund,€35.00m ,Germany,"Jul 1, 2011","Jul 1, 2012",Hoffenheim U19,Hoffenheim II,,,Bundesliga
+15,Niklas Süle,Borussia Dortmund,€35.00m ,Germany,"Jul 1, 2010","Jul 1, 2011",Hoffenheim U17,Hoffenheim U19,,,Bundesliga
+15,Niklas Süle,Borussia Dortmund,€35.00m ,Germany,"Jan 1, 2010","Jul 1, 2010",Hoffenheim Yth.,Hoffenheim U17,,,Bundesliga
+15,Niklas Süle,Borussia Dortmund,€35.00m ,Germany,"Jul 1, 2009","Jan 1, 2010",Darmstadt Yth.,Hoffenheim Yth.,,0.0,Bundesliga
+15,Niklas Süle,Borussia Dortmund,€35.00m ,Germany,"Jul 1, 2006","Jul 1, 2009",Frankfurt Yth.,Darmstadt Yth.,,0.0,Bundesliga
+15,Niklas Süle,Borussia Dortmund,€35.00m ,Germany,,"Jul 1, 2006",Walldorf Yth.,Frankfurt Yth.,,0.0,Bundesliga
+5,Thilo Kehrer,West Ham United,€22.00m ,Germany,"Aug 17, 2022",,West Ham,,,,Premier League
+5,Thilo Kehrer,West Ham United,€22.00m ,Germany,"Aug 16, 2018","Aug 17, 2022",Paris SG,West Ham,22000000.0,12000000.0,Premier League
+5,Thilo Kehrer,West Ham United,€22.00m ,Germany,"Jul 1, 2015","Aug 16, 2018",FC Schalke 04,Paris SG,18000000.0,37000000.0,Premier League
+5,Thilo Kehrer,West Ham United,€22.00m ,Germany,"Jul 1, 2013","Jul 1, 2015",Schalke 04 U19,FC Schalke 04,250000.0,,Premier League
+5,Thilo Kehrer,West Ham United,€22.00m ,Germany,"Jul 1, 2012","Jul 1, 2013",Schalke 04 U17,Schalke 04 U19,,,Premier League
+5,Thilo Kehrer,West Ham United,€22.00m ,Germany,"Jul 1, 2011","Jul 1, 2012",Stuttgart U17,Schalke 04 U17,,0.0,Premier League
+5,Thilo Kehrer,West Ham United,€22.00m ,Germany,"Jul 1, 2010","Jul 1, 2011",Stuttgart Yth.,Stuttgart U17,,,Premier League
+5,Thilo Kehrer,West Ham United,€22.00m ,Germany,"Jul 1, 2006","Jul 1, 2010",Reutlingen Yth.,Stuttgart Yth.,,0.0,Premier League
+5,Thilo Kehrer,West Ham United,€22.00m ,Germany,,"Jul 1, 2006",Tübingen Yth.,Reutlingen Yth.,,0.0,Premier League
+25,Armel Bella-Kotchap,Southampton FC,€18.00m ,Germany,"Jul 1, 2022",,Southampton,,,,Premier League
+25,Armel Bella-Kotchap,Southampton FC,€18.00m ,Germany,"Mar 2, 2019","Jul 1, 2022",VfL Bochum,Southampton,10000000.0,11000000.0,Premier League
+25,Armel Bella-Kotchap,Southampton FC,€18.00m ,Germany,"Jul 1, 2018","Mar 2, 2019",VfL Bochum U19,VfL Bochum,,,Premier League
+25,Armel Bella-Kotchap,Southampton FC,€18.00m ,Germany,"Jul 1, 2017","Jul 1, 2018",VfL Bochum U17,VfL Bochum U19,,,Premier League
+25,Armel Bella-Kotchap,Southampton FC,€18.00m ,Germany,"Jul 1, 2016","Jul 1, 2017",Duisburg Yth.,VfL Bochum U17,,0.0,Premier League
+25,Armel Bella-Kotchap,Southampton FC,€18.00m ,Germany,"Jul 1, 2015","Jul 1, 2016",Unterrath Yth.,Duisburg Yth.,,0.0,Premier League
+25,Armel Bella-Kotchap,Southampton FC,€18.00m ,Germany,"Jul 1, 2012","Jul 1, 2015",M'gladbach Yth.,Unterrath Yth.,,0.0,Premier League
+25,Armel Bella-Kotchap,Southampton FC,€18.00m ,Germany,"Jul 1, 2009","Jul 1, 2012",Grimlingh. Jgd.,M'gladbach Yth.,,0.0,Premier League
+25,Armel Bella-Kotchap,Southampton FC,€18.00m ,Germany,,"Jul 1, 2009",RW Ahlen Yth.,Grimlingh. Jgd.,,0.0,Premier League
+20,Christian Günter,SC Freiburg,€10.00m ,Germany,"Jul 1, 2012",,SC Freiburg,,,,Bundesliga
+20,Christian Günter,SC Freiburg,€10.00m ,Germany,"Jul 1, 2010","Jul 1, 2012",SC Freiburg U19,SC Freiburg,,,Bundesliga
+20,Christian Günter,SC Freiburg,€10.00m ,Germany,"Jul 1, 2008","Jul 1, 2010",SC Freiburg U17,SC Freiburg U19,,,Bundesliga
+20,Christian Günter,SC Freiburg,€10.00m ,Germany,"Jul 1, 2006","Jul 1, 2008",Freiburg Yth.,SC Freiburg U17,,,Bundesliga
+20,Christian Günter,SC Freiburg,€10.00m ,Germany,,"Jul 1, 2006",Tennenbro. Yth.,Freiburg Yth.,,0.0,Bundesliga
+6,Joshua Kimmich,Bayern Munich,€80.00m ,Germany,"Jul 2, 2015",,Bayern Munich,,,,Bundesliga
+6,Joshua Kimmich,Bayern Munich,€80.00m ,Germany,"Jul 1, 2015","Jul 2, 2015",VfB Stuttgart,Bayern Munich,5000000.0,8500000.0,Bundesliga
+6,Joshua Kimmich,Bayern Munich,€80.00m ,Germany,"Jul 5, 2013","Jul 1, 2015",RB Leipzig,VfB Stuttgart,5000000.0,1500000.0,Bundesliga
+6,Joshua Kimmich,Bayern Munich,€80.00m ,Germany,"Jul 1, 2012","Jul 5, 2013",Stuttgart U19,RB Leipzig,,500000.0,Bundesliga
+6,Joshua Kimmich,Bayern Munich,€80.00m ,Germany,"Jul 1, 2010","Jul 1, 2012",Stuttgart U17,Stuttgart U19,,,Bundesliga
+6,Joshua Kimmich,Bayern Munich,€80.00m ,Germany,"Jul 1, 2007","Jul 1, 2010",Stuttgart Yth.,Stuttgart U17,,,Bundesliga
+6,Joshua Kimmich,Bayern Munich,€80.00m ,Germany,,"Jul 1, 2007",Bösingen Yth.,Stuttgart Yth.,,0.0,Bundesliga
+21,Ilkay Gündogan,Manchester City,€25.00m ,Germany,"Jul 1, 2016",,Man City,,,,Premier League
+21,Ilkay Gündogan,Manchester City,€25.00m ,Germany,"Jul 1, 2011","Jul 1, 2016",Bor. Dortmund,Man City,30000000.0,27000000.0,Premier League
+21,Ilkay Gündogan,Manchester City,€25.00m ,Germany,"Feb 3, 2009","Jul 1, 2011",1.FC Nuremberg,Bor. Dortmund,6500000.0,5500000.0,Premier League
+21,Ilkay Gündogan,Manchester City,€25.00m ,Germany,"Jul 1, 2007","Feb 3, 2009",VfL Bochum U19,1.FC Nuremberg,100000.0,850000.0,Premier League
+21,Ilkay Gündogan,Manchester City,€25.00m ,Germany,"Jul 1, 2005","Jul 1, 2007",VfL Bochum U17,VfL Bochum U19,,,Premier League
+21,Ilkay Gündogan,Manchester City,€25.00m ,Germany,"Jul 1, 2004","Jul 1, 2005",SSV Buer Yth.,VfL Bochum U17,,0.0,Premier League
+21,Ilkay Gündogan,Manchester City,€25.00m ,Germany,"Jul 1, 1999","Jul 1, 2004",Heßler 06 Yth.,SSV Buer Yth.,,0.0,Premier League
+21,Ilkay Gündogan,Manchester City,€25.00m ,Germany,"Jul 1, 1998","Jul 1, 1999",Schalke 04 Yth.,Heßler 06 Yth.,,0.0,Premier League
+21,Ilkay Gündogan,Manchester City,€25.00m ,Germany,,"Jul 1, 1998",Heßler 06 Yth.,Schalke 04 Yth.,,0.0,Premier League
+7,Kai Havertz,Chelsea FC,€70.00m ,Germany,"Sep 4, 2020",,Chelsea,,,,Premier League
+7,Kai Havertz,Chelsea FC,€70.00m ,Germany,"Jul 1, 2016","Sep 4, 2020",B. Leverkusen,Chelsea,81000000.0,80000000.0,Premier League
+7,Kai Havertz,Chelsea FC,€70.00m ,Germany,"Jul 1, 2014","Jul 1, 2016",Leverkusen U17,B. Leverkusen,100000.0,,Premier League
+7,Kai Havertz,Chelsea FC,€70.00m ,Germany,"Jul 1, 2010","Jul 1, 2014",Leverkusen Yth.,Leverkusen U17,,,Premier League
+7,Kai Havertz,Chelsea FC,€70.00m ,Germany,"Jul 1, 2009","Jul 1, 2010",Aachen Yth.,Leverkusen Yth.,,0.0,Premier League
+7,Kai Havertz,Chelsea FC,€70.00m ,Germany,,"Jul 1, 2009",Mariadorf Yth.,Aachen Yth.,,0.0,Premier League
+11,Mario Götze,Eintracht Frankfurt,€13.00m ,Germany,"Jul 1, 2022",,E. Frankfurt,,,,Bundesliga
+11,Mario Götze,Eintracht Frankfurt,€13.00m ,Germany,"Oct 6, 2020","Jul 1, 2022",PSV Eindhoven,E. Frankfurt,10000000.0,3000000.0,Bundesliga
+11,Mario Götze,Eintracht Frankfurt,€13.00m ,Germany,"Jul 21, 2016","Oct 6, 2020",Bor. Dortmund,PSV Eindhoven,10500000.0,0.0,Bundesliga
+11,Mario Götze,Eintracht Frankfurt,€13.00m ,Germany,"Jul 1, 2013","Jul 21, 2016",Bayern Munich,Bor. Dortmund,35000000.0,22000000.0,Bundesliga
+11,Mario Götze,Eintracht Frankfurt,€13.00m ,Germany,"Jul 1, 2010","Jul 1, 2013",Bor. Dortmund,Bayern Munich,45000000.0,37000000.0,Bundesliga
+11,Mario Götze,Eintracht Frankfurt,€13.00m ,Germany,"Jul 1, 2008","Jul 1, 2010",B. Dortmund U19,Bor. Dortmund,1000000.0,,Bundesliga
+11,Mario Götze,Eintracht Frankfurt,€13.00m ,Germany,"Jul 1, 2007","Jul 1, 2008",B. Dortmund U17,B. Dortmund U19,,,Bundesliga
+11,Mario Götze,Eintracht Frankfurt,€13.00m ,Germany,"Jul 1, 2001","Jul 1, 2007",Dortmund Yth.,B. Dortmund U17,,,Bundesliga
+11,Mario Götze,Eintracht Frankfurt,€13.00m ,Germany,"Jul 1, 1998","Jul 1, 2001",Hombr. SV Yth.,Dortmund Yth.,,0.0,Bundesliga
+11,Mario Götze,Eintracht Frankfurt,€13.00m ,Germany,,"Jul 1, 1998",Ronsberg Yth.,Hombr. SV Yth.,,0.0,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,"Jun 30, 2018",,Bayern Munich,,,,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,"Jul 14, 2017","Jun 30, 2018",TSG Hoffenheim,Bayern Munich,20000000.0,,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,"Jul 1, 2017","Jul 14, 2017",Bayern Munich,TSG Hoffenheim,15000000.0,,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,"Aug 31, 2016","Jul 1, 2017",Werder Bremen,Bayern Munich,15000000.0,8000000.0,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,"Feb 1, 2016","Aug 31, 2016",Arsenal,Werder Bremen,2500000.0,5000000.0,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,"Aug 7, 2015","Feb 1, 2016",West Brom,Arsenal,3500000.0,,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,"Jul 1, 2013","Aug 7, 2015",Arsenal,West Brom,3500000.0,,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,"Jul 1, 2011","Jul 1, 2013",Arsenal U18,Arsenal,,,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,"Jul 1, 2010","Jul 1, 2011",Stuttgart U17,Arsenal U18,,100000.0,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,"Jul 1, 2006","Jul 1, 2010",Stuttgart Yth.,Stuttgart U17,,,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,"Jul 1, 2005","Jul 1, 2006",S. Kickers Yth.,Stuttgart Yth.,,0.0,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,"Jul 1, 2003","Jul 1, 2005",Feuerbach Jug.,S. Kickers Yth.,,0.0,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,"Jul 1, 2001","Jul 1, 2003",Ditzingen Yth.,Feuerbach Jug.,,0.0,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,"Jul 1, 2000","Jul 1, 2001",GSV Hemm. Jgd.,Ditzingen Yth.,,0.0,Bundesliga
+10,Serge Gnabry,Bayern Munich,€65.00m ,Germany,,"Jul 1, 2000",Weissach Yth.,GSV Hemm. Jgd.,,0.0,Bundesliga
+18,Jonas Hofmann,Borussia Mönchengladbach,€13.00m ,Germany,"Jan 1, 2016",,Bor. M'gladbach,,,,Bundesliga
+18,Jonas Hofmann,Borussia Mönchengladbach,€13.00m ,Germany,"Jun 30, 2015","Jan 1, 2016",Bor. Dortmund,Bor. M'gladbach,4000000.0,8000000.0,Bundesliga
+18,Jonas Hofmann,Borussia Mönchengladbach,€13.00m ,Germany,"Sep 1, 2014","Jun 30, 2015",1.FSV Mainz 05,Bor. Dortmund,4000000.0,,Bundesliga
+18,Jonas Hofmann,Borussia Mönchengladbach,€13.00m ,Germany,"Jul 1, 2013","Sep 1, 2014",Bor. Dortmund,1.FSV Mainz 05,4000000.0,,Bundesliga
+18,Jonas Hofmann,Borussia Mönchengladbach,€13.00m ,Germany,"Jul 1, 2011","Jul 1, 2013",B. Dortmund II,Bor. Dortmund,500000.0,,Bundesliga
+18,Jonas Hofmann,Borussia Mönchengladbach,€13.00m ,Germany,"Jul 1, 2009","Jul 1, 2011",Hoffenheim U19,B. Dortmund II,50000.0,0.0,Bundesliga
+18,Jonas Hofmann,Borussia Mönchengladbach,€13.00m ,Germany,"Jul 1, 2007","Jul 1, 2009",Hoffenheim U17,Hoffenheim U19,,,Bundesliga
+18,Jonas Hofmann,Borussia Mönchengladbach,€13.00m ,Germany,"Jul 1, 2004","Jul 1, 2007",Hoffenheim Yth.,Hoffenheim U17,,,Bundesliga
+18,Jonas Hofmann,Borussia Mönchengladbach,€13.00m ,Germany,,"Jul 1, 2004",FC Rot Yth.,Hoffenheim Yth.,,0.0,Bundesliga
+26,Youssoufa Moukoko,Borussia Dortmund,€30.00m ,Germany,"Jul 29, 2020",,Bor. Dortmund,,,,Bundesliga
+26,Youssoufa Moukoko,Borussia Dortmund,€30.00m ,Germany,"Jul 1, 2019","Jul 29, 2020",B. Dortmund U19,Bor. Dortmund,,,Bundesliga
+26,Youssoufa Moukoko,Borussia Dortmund,€30.00m ,Germany,"Jul 1, 2017","Jul 1, 2019",B. Dortmund U17,B. Dortmund U19,,,Bundesliga
+26,Youssoufa Moukoko,Borussia Dortmund,€30.00m ,Germany,"Jul 1, 2016","Jul 1, 2017",Dortmund Yth.,B. Dortmund U17,,,Bundesliga
+26,Youssoufa Moukoko,Borussia Dortmund,€30.00m ,Germany,,"Jul 1, 2016",St. Pauli Yth.,Dortmund Yth.,,0.0,Bundesliga

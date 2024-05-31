@@ -1,0 +1,203 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Sep 29, 2020",,Rennes,,,,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Aug 19, 2019","Sep 29, 2020",Dijon,Rennes,2400000.0,10000000.0,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Jul 1, 2018","Aug 19, 2019",SPAL,Dijon,2000000.0,1000000.0,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Jun 30, 2018","Jul 1, 2018",Torino,SPAL,3000000.0,1500000.0,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Jul 8, 2017","Jun 30, 2018",SPAL,Torino,3000000.0,,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Jun 30, 2017","Jul 8, 2017",Torino,SPAL,1800000.0,,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Jan 18, 2017","Jun 30, 2017",Salernitana,Torino,1800000.0,,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Jan 17, 2017","Jan 18, 2017",Torino,Salernitana,2000000.0,,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Aug 31, 2016","Jan 17, 2017",Bologna,Torino,2000000.0,,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Jun 30, 2016","Aug 31, 2016",Torino,Bologna,2200000.0,,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Jul 30, 2015","Jun 30, 2016",Cesena,Torino,2200000.0,,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Jun 30, 2015","Jul 30, 2015",Torino,Cesena,2000000.0,,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Aug 11, 2014","Jun 30, 2015",AS Avellino,Torino,2000000.0,,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Jun 30, 2014","Aug 11, 2014",Torino,AS Avellino,1500000.0,,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Jul 3, 2013","Jun 30, 2014",Crotone,Torino,900000.0,,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Jul 1, 2012","Jul 3, 2013",Torino,Crotone,300000.0,,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,"Jul 1, 2010","Jul 1, 2012",Torino U19,Torino,200000.0,,Ligue 1
+23,Alfred Gomis,Stade Rennais FC,€3.00m ,Senegal,,"Jul 1, 2010",Torino FC Youth,Torino U19,,,Ligue 1
+3,Kalidou Koulibaly,Chelsea FC,€35.00m ,Senegal,"Jul 16, 2022",,Chelsea,,,,Premier League
+3,Kalidou Koulibaly,Chelsea FC,€35.00m ,Senegal,"Jul 1, 2014","Jul 16, 2022",SSC Napoli,Chelsea,35000000.0,38000000.0,Premier League
+3,Kalidou Koulibaly,Chelsea FC,€35.00m ,Senegal,"Jul 1, 2012","Jul 1, 2014",KRC Genk,SSC Napoli,6500000.0,7750000.0,Premier League
+3,Kalidou Koulibaly,Chelsea FC,€35.00m ,Senegal,"Jul 1, 2010","Jul 1, 2012",FC Metz,KRC Genk,700000.0,1300000.0,Premier League
+3,Kalidou Koulibaly,Chelsea FC,€35.00m ,Senegal,"Jul 1, 2009","Jul 1, 2010",FC Metz B,FC Metz,,,Premier League
+3,Kalidou Koulibaly,Chelsea FC,€35.00m ,Senegal,"Jul 1, 2006","Jul 1, 2009",SR Saint-Dié,FC Metz B,,0.0,Premier League
+3,Kalidou Koulibaly,Chelsea FC,€35.00m ,Senegal,,"Jul 1, 2006",Metz Youth,SR Saint-Dié,,0.0,Premier League
+4,Pape Abou Cissé,Olympiacos Piraeus,€6.00m ,Senegal,"Jun 30, 2021",,Olympiacos,,,,Super League 1
+4,Pape Abou Cissé,Olympiacos Piraeus,€6.00m ,Senegal,"Jan 29, 2021","Jun 30, 2021",Saint-Étienne,Olympiacos,6000000.0,,Super League 1
+4,Pape Abou Cissé,Olympiacos Piraeus,€6.00m ,Senegal,"Jul 1, 2017","Jan 29, 2021",Olympiacos,Saint-Étienne,5000000.0,,Super League 1
+4,Pape Abou Cissé,Olympiacos Piraeus,€6.00m ,Senegal,"Jan 1, 2015","Jul 1, 2017",AC Ajaccio,Olympiacos,600000.0,700000.0,Super League 1
+4,Pape Abou Cissé,Olympiacos Piraeus,€6.00m ,Senegal,,"Jan 1, 2015",AS Pikine,AC Ajaccio,,,Super League 1
+14,Ismail Jakobs,AS Monaco,€7.00m ,Senegal,"Jul 12, 2021",,Monaco,,,,Ligue 1
+14,Ismail Jakobs,AS Monaco,€7.00m ,Senegal,"Jul 1, 2019","Jul 12, 2021",1. FC Köln,Monaco,7000000.0,6500000.0,Ligue 1
+14,Ismail Jakobs,AS Monaco,€7.00m ,Senegal,"Jul 1, 2018","Jul 1, 2019",1.FC Köln II,1. FC Köln,50000.0,,Ligue 1
+14,Ismail Jakobs,AS Monaco,€7.00m ,Senegal,"Jul 1, 2016","Jul 1, 2018",1.FC Köln U19,1.FC Köln II,50000.0,,Ligue 1
+14,Ismail Jakobs,AS Monaco,€7.00m ,Senegal,"Jul 1, 2015","Jul 1, 2016",1.FC Köln U17,1.FC Köln U19,,,Ligue 1
+14,Ismail Jakobs,AS Monaco,€7.00m ,Senegal,"Jul 1, 2012","Jul 1, 2015",1.FC Köln Yth.,1.FC Köln U17,,,Ligue 1
+14,Ismail Jakobs,AS Monaco,€7.00m ,Senegal,,"Jul 1, 2012",Bliesheim Jgd.,1.FC Köln Yth.,,0.0,Ligue 1
+10,Moussa N'Diaye,RSC Anderlecht,€1.50m ,Senegal,"Aug 25, 2022",,RSC Anderlecht,,,,Jupiler Pro League
+10,Moussa N'Diaye,RSC Anderlecht,€1.50m ,Senegal,"Jul 1, 2021","Aug 25, 2022",Barça Atlètic,RSC Anderlecht,200000.0,,Jupiler Pro League
+10,Moussa N'Diaye,RSC Anderlecht,€1.50m ,Senegal,"Aug 28, 2020","Jul 1, 2021",Barça U19,Barcelona B,500000.0,,Jupiler Pro League
+10,Moussa N'Diaye,RSC Anderlecht,€1.50m ,Senegal,,"Aug 28, 2020",ASPIRE FD,Barça U19,150000.0,500000.0,Jupiler Pro League
+26,Pape Gueye,Olympique Marseille,€10.00m ,Senegal,"Jul 1, 2020",,Marseille,,,,Ligue 1
+26,Pape Gueye,Olympique Marseille,€10.00m ,Senegal,"Jul 1, 2018","Jul 1, 2020",AC Le Havre,Marseille,1600000.0,0.0,Ligue 1
+26,Pape Gueye,Olympique Marseille,€10.00m ,Senegal,"Jul 1, 2017","Jul 1, 2018",Le Havre B,AC Le Havre,200000.0,,Ligue 1
+26,Pape Gueye,Olympique Marseille,€10.00m ,Senegal,,"Jul 1, 2017",Le Havre U19,Le Havre B,,,Ligue 1
+25,Mamadou Loum,Reading FC,€3.50m ,Senegal,"Jun 30, 2023",,FC Porto,,,,Championship
+25,Mamadou Loum,Reading FC,€3.50m ,Senegal,"Jul 29, 2022","Jun 30, 2023",Reading,FC Porto,3500000.0,,Championship
+25,Mamadou Loum,Reading FC,€3.50m ,Senegal,"Jun 30, 2022","Jul 29, 2022",FC Porto,Reading,4000000.0,,Championship
+25,Mamadou Loum,Reading FC,€3.50m ,Senegal,"Jul 23, 2021","Jun 30, 2022",Alavés,FC Porto,4000000.0,,Championship
+25,Mamadou Loum,Reading FC,€3.50m ,Senegal,"Jul 1, 2019","Jul 23, 2021",FC Porto,Alavés,2500000.0,,Championship
+25,Mamadou Loum,Reading FC,€3.50m ,Senegal,"Jun 30, 2019","Jul 1, 2019",SC Braga,FC Porto,5000000.0,7500000.0,Championship
+25,Mamadou Loum,Reading FC,€3.50m ,Senegal,"Jan 31, 2019","Jun 30, 2019",FC Porto,SC Braga,5000000.0,,Championship
+25,Mamadou Loum,Reading FC,€3.50m ,Senegal,"Jan 30, 2019","Jan 31, 2019",SC Braga,FC Porto,1000000.0,,Championship
+25,Mamadou Loum,Reading FC,€3.50m ,Senegal,"Jul 30, 2018","Jan 30, 2019",Moreirense,SC Braga,1000000.0,,Championship
+25,Mamadou Loum,Reading FC,€3.50m ,Senegal,"Jul 1, 2018","Jul 30, 2018",SC Braga,Moreirense,750000.0,,Championship
+25,Mamadou Loum,Reading FC,€3.50m ,Senegal,"Jul 15, 2015","Jul 1, 2018",Braga B,SC Braga,750000.0,,Championship
+25,Mamadou Loum,Reading FC,€3.50m ,Senegal,,"Jul 15, 2015",US Ouakam,Braga B,,130000.0,Championship
+17,Pape Matar Sarr,Tottenham Hotspur,€15.00m ,Senegal,"Jun 30, 2022",,Spurs,,,,Premier League
+17,Pape Matar Sarr,Tottenham Hotspur,€15.00m ,Senegal,"Aug 28, 2021","Jun 30, 2022",FC Metz,Spurs,15000000.0,,Premier League
+17,Pape Matar Sarr,Tottenham Hotspur,€15.00m ,Senegal,"Aug 27, 2021","Aug 28, 2021",Spurs,FC Metz,10000000.0,,Premier League
+17,Pape Matar Sarr,Tottenham Hotspur,€15.00m ,Senegal,"Sep 15, 2020","Aug 27, 2021",FC Metz,Spurs,10000000.0,16900000.0,Premier League
+17,Pape Matar Sarr,Tottenham Hotspur,€15.00m ,Senegal,,"Sep 15, 2020",Génération Foot,FC Metz,,,Premier League
+11,Pathé Ciss,Rayo Vallecano,€4.00m ,Senegal,"Jul 28, 2021",,Rayo Vallecano,,,,LaLiga
+11,Pathé Ciss,Rayo Vallecano,€4.00m ,Senegal,"Jul 22, 2020","Jul 28, 2021",CF Fuenlabrada,Rayo Vallecano,800000.0,1000000.0,LaLiga
+11,Pathé Ciss,Rayo Vallecano,€4.00m ,Senegal,"Jul 21, 2020","Jul 22, 2020",União Madeira,CF Fuenlabrada,325000.0,,LaLiga
+11,Pathé Ciss,Rayo Vallecano,€4.00m ,Senegal,"Sep 2, 2019","Jul 21, 2020",CF Fuenlabrada,União Madeira,325000.0,,LaLiga
+11,Pathé Ciss,Rayo Vallecano,€4.00m ,Senegal,"Jun 30, 2019","Sep 2, 2019",União Madeira,CF Fuenlabrada,450000.0,,LaLiga
+11,Pathé Ciss,Rayo Vallecano,€4.00m ,Senegal,"Aug 30, 2018","Jun 30, 2019",Famalicão,União Madeira,450000.0,,LaLiga
+11,Pathé Ciss,Rayo Vallecano,€4.00m ,Senegal,"Jul 31, 2017","Aug 30, 2018",União Madeira,Famalicão,275000.0,,LaLiga
+11,Pathé Ciss,Rayo Vallecano,€4.00m ,Senegal,,"Jul 31, 2017",Diambars FC,União Madeira,,,LaLiga
+13,Iliman Ndiaye,Sheffield United,€3.50m ,Senegal,"Jul 1, 2021",,Sheff Utd,,,,Championship
+13,Iliman Ndiaye,Sheffield United,€3.50m ,Senegal,"May 31, 2020","Jul 1, 2021",Sheff Utd U21,Sheff Utd,200000.0,,Championship
+13,Iliman Ndiaye,Sheffield United,€3.50m ,Senegal,"Jan 24, 2020","May 31, 2020",Hyde United,Sheff Utd U21,,,Championship
+13,Iliman Ndiaye,Sheffield United,€3.50m ,Senegal,"Jul 1, 2019","Jan 24, 2020",Sheff Utd U21,Hyde United,,,Championship
+13,Iliman Ndiaye,Sheffield United,€3.50m ,Senegal,"Jun 30, 2019","Jul 1, 2019",Boreham W. U19,Sheff Utd U21,,0.0,Championship
+13,Iliman Ndiaye,Sheffield United,€3.50m ,Senegal,"Apr 1, 2019","Jun 30, 2019",Rising Ballers,Boreham W. U19,,,Championship
+13,Iliman Ndiaye,Sheffield United,€3.50m ,Senegal,"Jul 1, 2016","Apr 1, 2019",Boreham W. U19,Rising Ballers,,,Championship
+13,Iliman Ndiaye,Sheffield United,€3.50m ,Senegal,"Jul 1, 2014","Jul 1, 2016",Sacré-Cœur,Boreham W. U19,,,Championship
+13,Iliman Ndiaye,Sheffield United,€3.50m ,Senegal,,"Jul 1, 2014",Marseille Yth,Sacré-Cœur,,,Championship
+7,Nicolas Jackson,Villarreal CF,€15.00m ,Senegal,"Jul 1, 2022",,Villarreal,,,,LaLiga
+7,Nicolas Jackson,Villarreal CF,€15.00m ,Senegal,"Jun 30, 2021","Jul 1, 2022",Villarreal CF B,Villarreal,1000000.0,,LaLiga
+7,Nicolas Jackson,Villarreal CF,€15.00m ,Senegal,"Oct 5, 2020","Jun 30, 2021",CD Mirandés,Villarreal CF B,300000.0,,LaLiga
+7,Nicolas Jackson,Villarreal CF,€15.00m ,Senegal,"Jul 1, 2020","Oct 5, 2020",Villarreal CF B,CD Mirandés,,,LaLiga
+7,Nicolas Jackson,Villarreal CF,€15.00m ,Senegal,"Jul 1, 2019","Jul 1, 2020",Villarreal U19,Villarreal CF B,,,LaLiga
+7,Nicolas Jackson,Villarreal CF,€15.00m ,Senegal,,"Jul 1, 2019",Casa Sports,Villarreal U19,,,LaLiga
+9,Boulaye Dia,US Salernitana 1919,€12.00m ,Senegal,"Jun 30, 2023",,Villarreal,,,,Serie A
+9,Boulaye Dia,US Salernitana 1919,€12.00m ,Senegal,"Aug 18, 2022","Jun 30, 2023",Salernitana,Villarreal,12000000.0,,Serie A
+9,Boulaye Dia,US Salernitana 1919,€12.00m ,Senegal,"Jul 13, 2021","Aug 18, 2022",Villarreal,Salernitana,12000000.0,,Serie A
+9,Boulaye Dia,US Salernitana 1919,€12.00m ,Senegal,"Jul 1, 2018","Jul 13, 2021",Stade Reims,Villarreal,14000000.0,12000000.0,Serie A
+9,Boulaye Dia,US Salernitana 1919,€12.00m ,Senegal,"Jul 1, 2017","Jul 1, 2018",Jura Sud,Stade Reims,,,Serie A
+9,Boulaye Dia,US Salernitana 1919,€12.00m ,Senegal,,"Jul 1, 2017",Pl.Vallée,Jura Sud,,0.0,Serie A
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,"Jul 19, 2021",,Alanyaspor,,,,Süper Lig
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,"Jul 1, 2017","Jul 19, 2021",Bristol City,Alanyaspor,2500000.0,0.0,Süper Lig
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,"Jul 2, 2016","Jul 1, 2017",Angers SCO,Bristol City,4000000.0,6000000.0,Süper Lig
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,"Jul 1, 2016","Jul 2, 2016",Clermont Foot,Angers SCO,1750000.0,1600000.0,Süper Lig
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,"Jun 30, 2016","Jul 1, 2016",FC Sochaux,Clermont Foot,1750000.0,380000.0,Süper Lig
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,"Feb 2, 2015","Jun 30, 2016",Clermont Foot,FC Sochaux,1750000.0,,Süper Lig
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,"Jul 1, 2014","Feb 2, 2015",FC Sochaux,Clermont Foot,300000.0,,Süper Lig
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,"Jun 30, 2014","Jul 1, 2014",FC Sochaux B,FC Sochaux,,,Süper Lig
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,"Jul 1, 2013","Jun 30, 2014",G. Ajaccio,FC Sochaux B,,,Süper Lig
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,"Jun 30, 2013","Jul 1, 2013",FC Sochaux B,G. Ajaccio,,,Süper Lig
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,"Jul 1, 2012","Jun 30, 2013",SAS Epinal,FC Sochaux B,,,Süper Lig
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,"Jun 30, 2012","Jul 1, 2012",FC Sochaux B,SAS Epinal,,,Süper Lig
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,"Jul 2, 2011","Jun 30, 2012",ASM Belfort,FC Sochaux B,,,Süper Lig
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,"Jul 1, 2011","Jul 2, 2011",FC Sochaux B,ASM Belfort,,,Süper Lig
+19,Famara Diédhiou,Alanyaspor,€3.00m ,Senegal,,"Jul 1, 2011",Unknown,FC Sochaux B,,,Süper Lig
+16,Edouard Mendy,Chelsea FC,€25.00m ,Senegal,"Sep 24, 2020",,Chelsea,,,,Premier League
+16,Edouard Mendy,Chelsea FC,€25.00m ,Senegal,"Aug 6, 2019","Sep 24, 2020",Rennes,Chelsea,7000000.0,24000000.0,Premier League
+16,Edouard Mendy,Chelsea FC,€25.00m ,Senegal,"Jul 1, 2016","Aug 6, 2019",Stade Reims,Rennes,9000000.0,7600000.0,Premier League
+16,Edouard Mendy,Chelsea FC,€25.00m ,Senegal,"Jul 1, 2015","Jul 1, 2016",Marseille B,Stade Reims,,0.0,Premier League
+16,Edouard Mendy,Chelsea FC,€25.00m ,Senegal,"Jul 1, 2014","Jul 1, 2015",Without Club,Marseille B,,,Premier League
+16,Edouard Mendy,Chelsea FC,€25.00m ,Senegal,"Jul 1, 2011","Jul 1, 2014",AS Cherbourg,Without Club,,,Premier League
+16,Edouard Mendy,Chelsea FC,€25.00m ,Senegal,,"Jul 1, 2011",Caucriauville,AS Cherbourg,,0.0,Premier League
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"Jan 4, 2020",,QPR,,,,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"Jul 26, 2019","Jan 4, 2020",Doncaster,QPR,150000.0,,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"May 19, 2019","Jul 26, 2019",QPR,Doncaster,150000.0,,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"Jan 10, 2019","May 19, 2019",Dundee FC,QPR,100000.0,,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"Jan 1, 2019","Jan 10, 2019",QPR,Dundee FC,100000.0,,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"Aug 3, 2018","Jan 1, 2019",Stevenage,QPR,100000.0,,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"May 31, 2018","Aug 3, 2018",QPR,Stevenage,100000.0,,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"Mar 16, 2018","May 31, 2018",Hampton & Rich.,QPR,100000.0,,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"Nov 25, 2017","Mar 16, 2018",QPR,Hampton & Rich.,100000.0,,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"Oct 28, 2017","Nov 25, 2017",Whitehawk,QPR,100000.0,,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"Aug 26, 2016","Oct 28, 2017",QPR,Whitehawk,100000.0,,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"Feb 1, 2016","Aug 26, 2016",MSV Duisburg,QPR,100000.0,0.0,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"Jul 1, 2013","Feb 1, 2016",Grasshoppers,MSV Duisburg,100000.0,0.0,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"Jan 1, 2013","Jul 1, 2013",GC Zürich U21,Grasshoppers,,,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,"Jul 1, 2012","Jan 1, 2013",FC Grenchen,GC Zürich U21,,,Championship
+1,Seny Dieng,Queens Park Rangers,€1.50m ,Senegal,,"Jul 1, 2012",GC Zürich U21,FC Grenchen,,,Championship
+22,Abdou Diallo,RB Leipzig,€15.00m ,Senegal,"Jun 30, 2023",,Paris SG,,,,Bundesliga
+22,Abdou Diallo,RB Leipzig,€15.00m ,Senegal,"Sep 1, 2022","Jun 30, 2023",RB Leipzig,Paris SG,15000000.0,,Bundesliga
+22,Abdou Diallo,RB Leipzig,€15.00m ,Senegal,"Jul 16, 2019","Sep 1, 2022",Paris SG,RB Leipzig,18000000.0,,Bundesliga
+22,Abdou Diallo,RB Leipzig,€15.00m ,Senegal,"Jul 1, 2018","Jul 16, 2019",Bor. Dortmund,Paris SG,35000000.0,32000000.0,Bundesliga
+22,Abdou Diallo,RB Leipzig,€15.00m ,Senegal,"Jul 14, 2017","Jul 1, 2018",1.FSV Mainz 05,Bor. Dortmund,12000000.0,28000000.0,Bundesliga
+22,Abdou Diallo,RB Leipzig,€15.00m ,Senegal,"Jun 30, 2016","Jul 14, 2017",Monaco,1.FSV Mainz 05,1000000.0,5000000.0,Bundesliga
+22,Abdou Diallo,RB Leipzig,€15.00m ,Senegal,"Jul 1, 2015","Jun 30, 2016",Zulte Waregem,Monaco,1200000.0,,Bundesliga
+22,Abdou Diallo,RB Leipzig,€15.00m ,Senegal,"Jul 1, 2014","Jul 1, 2015",Monaco,Zulte Waregem,500000.0,,Bundesliga
+22,Abdou Diallo,RB Leipzig,€15.00m ,Senegal,"Jul 1, 2013","Jul 1, 2014",Monaco B,Monaco,,,Bundesliga
+22,Abdou Diallo,RB Leipzig,€15.00m ,Senegal,,"Jul 1, 2013",Monaco U19,Monaco B,,,Bundesliga
+2,Formose Mendy,Amiens SC,€2.50m ,Senegal,"Jul 1, 2021",,Amiens SC,,,,Ligue 2
+2,Formose Mendy,Amiens SC,€2.50m ,Senegal,"Oct 5, 2020","Jul 1, 2021",Club NXT,Amiens SC,200000.0,,Ligue 2
+2,Formose Mendy,Amiens SC,€2.50m ,Senegal,"Aug 30, 2019","Oct 5, 2020",FC Porto U19,Club NXT,100000.0,,Ligue 2
+2,Formose Mendy,Amiens SC,€2.50m ,Senegal,,"Aug 30, 2019",AF Darou Salam,FC Porto U19,100000.0,,Ligue 2
+12,Fodé Ballo-Touré,AC Milan,€3.50m ,Senegal,"Jul 18, 2021",,AC Milan,,,,Serie A
+12,Fodé Ballo-Touré,AC Milan,€3.50m ,Senegal,"Jan 10, 2019","Jul 18, 2021",Monaco,AC Milan,6500000.0,5400000.0,Serie A
+12,Fodé Ballo-Touré,AC Milan,€3.50m ,Senegal,"Jul 1, 2017","Jan 10, 2019",LOSC Lille,Monaco,7000000.0,11000000.0,Serie A
+12,Fodé Ballo-Touré,AC Milan,€3.50m ,Senegal,"Jul 1, 2015","Jul 1, 2017",Paris SG B,LOSC Lille,,0.0,Serie A
+12,Fodé Ballo-Touré,AC Milan,€3.50m ,Senegal,"Jul 1, 2014","Jul 1, 2015",Paris SG U19,Paris SG B,,,Serie A
+12,Fodé Ballo-Touré,AC Milan,€3.50m ,Senegal,"Jul 1, 2012","Jul 1, 2014",Paris SG U17,Paris SG U19,,,Serie A
+12,Fodé Ballo-Touré,AC Milan,€3.50m ,Senegal,,"Jul 1, 2012",PSG Youth,Paris SG U17,,,Serie A
+21,Youssouf Sabaly,Real Betis Balompié,€4.00m ,Senegal,"Jul 1, 2021",,Real Betis,,,,LaLiga
+21,Youssouf Sabaly,Real Betis Balompié,€4.00m ,Senegal,"Jul 1, 2017","Jul 1, 2021",G. Bordeaux,Real Betis,6500000.0,0.0,LaLiga
+21,Youssouf Sabaly,Real Betis Balompié,€4.00m ,Senegal,"Jun 30, 2017","Jul 1, 2017",Paris SG,G. Bordeaux,4500000.0,4000000.0,LaLiga
+21,Youssouf Sabaly,Real Betis Balompié,€4.00m ,Senegal,"Aug 3, 2016","Jun 30, 2017",G. Bordeaux,Paris SG,4500000.0,,LaLiga
+21,Youssouf Sabaly,Real Betis Balompié,€4.00m ,Senegal,"Jun 30, 2016","Aug 3, 2016",Paris SG,G. Bordeaux,2500000.0,,LaLiga
+21,Youssouf Sabaly,Real Betis Balompié,€4.00m ,Senegal,"Aug 31, 2015","Jun 30, 2016",FC Nantes,Paris SG,2500000.0,,LaLiga
+21,Youssouf Sabaly,Real Betis Balompié,€4.00m ,Senegal,"Jun 30, 2015","Aug 31, 2015",Paris SG,FC Nantes,2500000.0,,LaLiga
+21,Youssouf Sabaly,Real Betis Balompié,€4.00m ,Senegal,"Jul 29, 2013","Jun 30, 2015",Évian,Paris SG,2500000.0,,LaLiga
+21,Youssouf Sabaly,Real Betis Balompié,€4.00m ,Senegal,"Jul 1, 2013","Jul 29, 2013",Paris SG,Évian,250000.0,,LaLiga
+21,Youssouf Sabaly,Real Betis Balompié,€4.00m ,Senegal,"Jul 1, 2011","Jul 1, 2013",Paris SG B,Paris SG,,,LaLiga
+21,Youssouf Sabaly,Real Betis Balompié,€4.00m ,Senegal,"Jul 1, 2010","Jul 1, 2011",Paris SG U19,Paris SG B,,,LaLiga
+21,Youssouf Sabaly,Real Betis Balompié,€4.00m ,Senegal,"Jul 1, 2008","Jul 1, 2010",Paris SG U17,Paris SG U19,,,LaLiga
+21,Youssouf Sabaly,Real Betis Balompié,€4.00m ,Senegal,,"Jul 1, 2008",PSG Youth,Paris SG U17,,,LaLiga
+6,Nampalys Mendy,Leicester City,€3.50m ,Senegal,"Jun 30, 2018",,Leicester,,,,Premier League
+6,Nampalys Mendy,Leicester City,€3.50m ,Senegal,"Aug 31, 2017","Jun 30, 2018",OGC Nice,Leicester,5000000.0,,Premier League
+6,Nampalys Mendy,Leicester City,€3.50m ,Senegal,"Jul 3, 2016","Aug 31, 2017",Leicester,OGC Nice,10000000.0,,Premier League
+6,Nampalys Mendy,Leicester City,€3.50m ,Senegal,"Jul 1, 2013","Jul 3, 2016",OGC Nice,Leicester,7500000.0,15500000.0,Premier League
+6,Nampalys Mendy,Leicester City,€3.50m ,Senegal,"Jul 1, 2010","Jul 1, 2013",Monaco,OGC Nice,4000000.0,0.0,Premier League
+6,Nampalys Mendy,Leicester City,€3.50m ,Senegal,"Jul 1, 2009","Jul 1, 2010",Monaco B,Monaco,,,Premier League
+6,Nampalys Mendy,Leicester City,€3.50m ,Senegal,,"Jul 1, 2009",Monaco U19,Monaco B,,,Premier League
+8,Cheikhou Kouyaté,Nottingham Forest,€3.00m ,Senegal,"Aug 13, 2022",,Nottm Forest,,,,Premier League
+8,Cheikhou Kouyaté,Nottingham Forest,€3.00m ,Senegal,"Aug 2, 2018","Aug 13, 2022",Crystal Palace,Nottm Forest,4000000.0,0.0,Premier League
+8,Cheikhou Kouyaté,Nottingham Forest,€3.00m ,Senegal,"Jul 1, 2014","Aug 2, 2018",West Ham,Crystal Palace,12000000.0,10700000.0,Premier League
+8,Cheikhou Kouyaté,Nottingham Forest,€3.00m ,Senegal,"Jun 30, 2009","Jul 1, 2014",RSC Anderlecht,West Ham,7000000.0,7500000.0,Premier League
+8,Cheikhou Kouyaté,Nottingham Forest,€3.00m ,Senegal,"Aug 1, 2008","Jun 30, 2009",KV Kortrijk,RSC Anderlecht,350000.0,,Premier League
+8,Cheikhou Kouyaté,Nottingham Forest,€3.00m ,Senegal,"Jul 1, 2008","Aug 1, 2008",RSC Anderlecht,KV Kortrijk,350000.0,,Premier League
+8,Cheikhou Kouyaté,Nottingham Forest,€3.00m ,Senegal,"Jan 1, 2008","Jul 1, 2008",FC Brüssel,RSC Anderlecht,350000.0,0.0,Premier League
+8,Cheikhou Kouyaté,Nottingham Forest,€3.00m ,Senegal,"Jul 1, 2006","Jan 1, 2008",FC Brüssel U19,FC Brüssel,,,Premier League
+8,Cheikhou Kouyaté,Nottingham Forest,€3.00m ,Senegal,,"Jul 1, 2006",ASC Yeggo,FC Brüssel U19,,,Premier League
+5,Idrissa Gueye,Everton FC,€8.00m ,Senegal,"Sep 1, 2022",,Everton,,,,Premier League
+5,Idrissa Gueye,Everton FC,€8.00m ,Senegal,"Jul 30, 2019","Sep 1, 2022",Paris SG,Everton,12000000.0,4000000.0,Premier League
+5,Idrissa Gueye,Everton FC,€8.00m ,Senegal,"Aug 2, 2016","Jul 30, 2019",Everton,Paris SG,25000000.0,30000000.0,Premier League
+5,Idrissa Gueye,Everton FC,€8.00m ,Senegal,"Jul 10, 2015","Aug 2, 2016",Aston Villa,Everton,9000000.0,8500000.0,Premier League
+5,Idrissa Gueye,Everton FC,€8.00m ,Senegal,"Jul 1, 2010","Jul 10, 2015",LOSC Lille,Aston Villa,7500000.0,9000000.0,Premier League
+5,Idrissa Gueye,Everton FC,€8.00m ,Senegal,"Jul 1, 2008","Jul 1, 2010",LOSC Lille B,LOSC Lille,,,Premier League
+5,Idrissa Gueye,Everton FC,€8.00m ,Senegal,,"Jul 1, 2008",Diambars FC,LOSC Lille B,,0.0,Premier League
+24,Moustapha Name,Pafos FC,€2.00m ,Senegal,"Aug 31, 2022",,Pafos FC,,,,Protathlima Cyta
+24,Moustapha Name,Pafos FC,€2.00m ,Senegal,"Jul 1, 2020","Aug 31, 2022",Paris FC,Pafos FC,2000000.0,1500000.0,Protathlima Cyta
+24,Moustapha Name,Pafos FC,€2.00m ,Senegal,"Jul 3, 2018","Jul 1, 2020",Pau FC,Paris FC,200000.0,,Protathlima Cyta
+24,Moustapha Name,Pafos FC,€2.00m ,Senegal,,"Jul 3, 2018",AS Douanes,Pau FC,,,Protathlima Cyta
+18,Ismaïla Sarr,Watford FC,€22.00m ,Senegal,"Aug 8, 2019",,Watford,,,,Championship
+18,Ismaïla Sarr,Watford FC,€22.00m ,Senegal,"Jul 26, 2017","Aug 8, 2019",Rennes,Watford,30000000.0,30000000.0,Championship
+18,Ismaïla Sarr,Watford FC,€22.00m ,Senegal,"Jul 13, 2016","Jul 26, 2017",FC Metz,Rennes,2500000.0,17000000.0,Championship
+18,Ismaïla Sarr,Watford FC,€22.00m ,Senegal,,"Jul 13, 2016",Génération Foot,FC Metz,,0.0,Championship
+15,Krépin Diatta,AS Monaco,€13.00m ,Senegal,"Jan 21, 2021",,Monaco,,,,Ligue 1
+15,Krépin Diatta,AS Monaco,€13.00m ,Senegal,"Jan 3, 2018","Jan 21, 2021",Club Brugge,Monaco,18000000.0,16700000.0,Ligue 1
+15,Krépin Diatta,AS Monaco,€13.00m ,Senegal,"Feb 26, 2017","Jan 3, 2018",Sarpsborg 08,Club Brugge,1000000.0,2650000.0,Ligue 1
+15,Krépin Diatta,AS Monaco,€13.00m ,Senegal,,"Feb 26, 2017",Oslo FA Dakar,Sarpsborg 08,,50000.0,Ligue 1
+20,Bamba Dieng,Olympique Marseille,€8.00m ,Senegal,"Jul 1, 2021",,Marseille,,,,Ligue 1
+20,Bamba Dieng,Olympique Marseille,€8.00m ,Senegal,"Jun 30, 2021","Jul 1, 2021",Diambars FC,Marseille,700000.0,400000.0,Ligue 1
+20,Bamba Dieng,Olympique Marseille,€8.00m ,Senegal,"Oct 5, 2020","Jun 30, 2021",Marseille B,Diambars FC,700000.0,,Ligue 1
+20,Bamba Dieng,Olympique Marseille,€8.00m ,Senegal,,"Oct 5, 2020",Diambars FC,Marseille B,,,Ligue 1

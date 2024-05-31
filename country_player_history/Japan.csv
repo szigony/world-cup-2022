@@ -1,0 +1,224 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+12,Shuichi Gonda,Shimizu S-Pulse,€500k ,Japan,"Jan 9, 2022",,Shimizu S-Pulse,,,,J1 League
+12,Shuichi Gonda,Shimizu S-Pulse,€500k ,Japan,"Jan 1, 2022","Jan 9, 2022",Portimonense,Shimizu S-Pulse,450000.0,2000000.0,J1 League
+12,Shuichi Gonda,Shimizu S-Pulse,€500k ,Japan,"Jan 2, 2021","Jan 1, 2022",Shimizu S-Pulse,Portimonense,450000.0,,J1 League
+12,Shuichi Gonda,Shimizu S-Pulse,€500k ,Japan,"Jan 29, 2019","Jan 2, 2021",Portimonense,Shimizu S-Pulse,300000.0,,J1 League
+12,Shuichi Gonda,Shimizu S-Pulse,€500k ,Japan,"Feb 6, 2017","Jan 29, 2019",Sagan Tosu,Portimonense,1000000.0,,J1 League
+12,Shuichi Gonda,Shimizu S-Pulse,€500k ,Japan,"Dec 31, 2016","Feb 6, 2017",FC Tokyo,Sagan Tosu,350000.0,0.0,J1 League
+12,Shuichi Gonda,Shimizu S-Pulse,€500k ,Japan,"Jan 9, 2016","Dec 31, 2016",SV Horn,FC Tokyo,350000.0,,J1 League
+12,Shuichi Gonda,Shimizu S-Pulse,€500k ,Japan,"Feb 1, 2007","Jan 9, 2016",FC Tokyo,SV Horn,1250000.0,,J1 League
+12,Shuichi Gonda,Shimizu S-Pulse,€500k ,Japan,,"Feb 1, 2007",FC Tokyo U18,FC Tokyo,,,J1 League
+4,Ko Itakura,Borussia Mönchengladbach,€7.50m ,Japan,"Jul 2, 2022",,Bor. M'gladbach,,,,Bundesliga
+4,Ko Itakura,Borussia Mönchengladbach,€7.50m ,Japan,"Jun 30, 2022","Jul 2, 2022",Man City,Bor. M'gladbach,5000000.0,5000000.0,Bundesliga
+4,Ko Itakura,Borussia Mönchengladbach,€7.50m ,Japan,"Aug 19, 2021","Jun 30, 2022",FC Schalke 04,Man City,5000000.0,,Bundesliga
+4,Ko Itakura,Borussia Mönchengladbach,€7.50m ,Japan,"Jun 30, 2021","Aug 19, 2021",Man City,FC Schalke 04,3500000.0,,Bundesliga
+4,Ko Itakura,Borussia Mönchengladbach,€7.50m ,Japan,"Jul 27, 2020","Jun 30, 2021",FC Groningen,Man City,3500000.0,,Bundesliga
+4,Ko Itakura,Borussia Mönchengladbach,€7.50m ,Japan,"Jun 30, 2020","Jul 27, 2020",Man City,FC Groningen,800000.0,,Bundesliga
+4,Ko Itakura,Borussia Mönchengladbach,€7.50m ,Japan,"Jan 15, 2019","Jun 30, 2020",FC Groningen,Man City,800000.0,,Bundesliga
+4,Ko Itakura,Borussia Mönchengladbach,€7.50m ,Japan,"Jan 14, 2019","Jan 15, 2019",Man City,FC Groningen,700000.0,,Bundesliga
+4,Ko Itakura,Borussia Mönchengladbach,€7.50m ,Japan,"Dec 31, 2018","Jan 14, 2019",Kawasaki Front.,Man City,700000.0,1100000.0,Bundesliga
+4,Ko Itakura,Borussia Mönchengladbach,€7.50m ,Japan,"Feb 1, 2018","Dec 31, 2018",Vegalta Sendai,Kawasaki Front.,175000.0,,Bundesliga
+4,Ko Itakura,Borussia Mönchengladbach,€7.50m ,Japan,"Feb 1, 2015","Feb 1, 2018",Kawasaki Front.,Vegalta Sendai,175000.0,,Bundesliga
+4,Ko Itakura,Borussia Mönchengladbach,€7.50m ,Japan,,"Feb 1, 2015",Frontale U18,Kawasaki Front.,,,Bundesliga
+3,Shogo Taniguchi,Kawasaki Frontale,€1.80m ,Japan,"Feb 1, 2014",,Kawasaki Front.,,,,J1 League
+3,Shogo Taniguchi,Kawasaki Frontale,€1.80m ,Japan,"Jan 31, 2014","Feb 1, 2014",Tsukuba Univ.,Kawasaki Front.,,0.0,J1 League
+3,Shogo Taniguchi,Kawasaki Frontale,€1.80m ,Japan,"Aug 28, 2013","Jan 31, 2014",Kawasaki Front.,Tsukuba Univ.,,,J1 League
+3,Shogo Taniguchi,Kawasaki Frontale,€1.80m ,Japan,"Apr 1, 2010","Aug 28, 2013",Tsukuba Univ.,Kawasaki Front.,,,J1 League
+3,Shogo Taniguchi,Kawasaki Frontale,€1.80m ,Japan,,"Apr 1, 2010",Kumamoto Ozu HS,Tsukuba Univ.,,0.0,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Sep 12, 2021",,FC Tokyo,,,,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Jul 1, 2021","Sep 12, 2021",Without Club,FC Tokyo,800000.0,,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Aug 31, 2020","Jul 1, 2021",Marseille,Without Club,800000.0,,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Jul 1, 2018","Aug 31, 2020",Galatasaray,Marseille,800000.0,0.0,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Jun 30, 2018","Jul 1, 2018",Inter,Galatasaray,3500000.0,2500000.0,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Jan 31, 2018","Jun 30, 2018",Galatasaray,Inter,3500000.0,,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Jul 1, 2011","Jan 31, 2018",Inter,Galatasaray,3500000.0,,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Jun 30, 2011","Jul 1, 2011",Cesena,Inter,8500000.0,4500000.0,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Jan 31, 2011","Jun 30, 2011",Inter,Cesena,8500000.0,,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Jan 28, 2011","Jan 31, 2011",Cesena,Inter,2800000.0,,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Jan 27, 2011","Jan 28, 2011",FC Tokyo,Cesena,2800000.0,1600000.0,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Jul 14, 2010","Jan 27, 2011",Cesena,FC Tokyo,2800000.0,,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Feb 1, 2008","Jul 14, 2010",FC Tokyo,Cesena,2600000.0,,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Jan 31, 2008","Feb 1, 2008",Meiji Uni,FC Tokyo,,0.0,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"May 2, 2007","Jan 31, 2008",FC Tokyo,Meiji Uni,,,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,"Apr 1, 2005","May 2, 2007",Meiji Uni,FC Tokyo,,,J1 League
+5,Yuto Nagatomo,FC Tokyo,€400k ,Japan,,"Apr 1, 2005",Hig. Fukuoka HS,Meiji Uni,,0.0,J1 League
+2,Miki Yamane,Kawasaki Frontale,€1.70m ,Japan,"Jan 4, 2020",,Kawasaki Front.,,,,J1 League
+2,Miki Yamane,Kawasaki Frontale,€1.70m ,Japan,"Feb 1, 2016","Jan 4, 2020",Shonan Bellmare,Kawasaki Front.,800000.0,0.0,J1 League
+2,Miki Yamane,Kawasaki Frontale,€1.70m ,Japan,"Apr 1, 2012","Feb 1, 2016",Toin Univ.,Shonan Bellmare,,0.0,J1 League
+2,Miki Yamane,Kawasaki Frontale,€1.70m ,Japan,,"Apr 1, 2012",High School (J),Toin Univ.,,0.0,J1 League
+13,Hidemasa Morita,Sporting CP,€7.00m ,Japan,"Jul 1, 2022",,Sporting CP,,,,Liga Portugal
+13,Hidemasa Morita,Sporting CP,€7.00m ,Japan,"Jan 7, 2021","Jul 1, 2022",Santa Clara,Sporting CP,4000000.0,3800000.0,Liga Portugal
+13,Hidemasa Morita,Sporting CP,€7.00m ,Japan,"Feb 1, 2018","Jan 7, 2021",Kawasaki Front.,Santa Clara,1300000.0,0.0,Liga Portugal
+13,Hidemasa Morita,Sporting CP,€7.00m ,Japan,"Jan 31, 2018","Feb 1, 2018",RKU,Kawasaki Front.,50000.0,0.0,Liga Portugal
+13,Hidemasa Morita,Sporting CP,€7.00m ,Japan,"Sep 15, 2017","Jan 31, 2018",Kawasaki Front.,RKU,50000.0,,Liga Portugal
+13,Hidemasa Morita,Sporting CP,€7.00m ,Japan,"Apr 1, 2014","Sep 15, 2017",RKU,Kawasaki Front.,,,Liga Portugal
+13,Hidemasa Morita,Sporting CP,€7.00m ,Japan,,"Apr 1, 2014",High School (J),RKU,,0.0,Liga Portugal
+17,Ao Tanaka,Fortuna Düsseldorf,€1.80m ,Japan,"Jul 1, 2022",,F. Düsseldorf,,,,2. Bundesliga
+17,Ao Tanaka,Fortuna Düsseldorf,€1.80m ,Japan,"Jun 30, 2022","Jul 1, 2022",Kawasaki Front.,F. Düsseldorf,1500000.0,1000000.0,2. Bundesliga
+17,Ao Tanaka,Fortuna Düsseldorf,€1.80m ,Japan,"Jul 1, 2021","Jun 30, 2022",F. Düsseldorf,Kawasaki Front.,1500000.0,,2. Bundesliga
+17,Ao Tanaka,Fortuna Düsseldorf,€1.80m ,Japan,"Feb 1, 2017","Jul 1, 2021",Kawasaki Front.,F. Düsseldorf,1700000.0,,2. Bundesliga
+17,Ao Tanaka,Fortuna Düsseldorf,€1.80m ,Japan,,"Feb 1, 2017",Frontale U18,Kawasaki Front.,,,2. Bundesliga
+15,Daichi Kamada,Eintracht Frankfurt,€30.00m ,Japan,"Jun 30, 2019",,E. Frankfurt,,,,Bundesliga
+15,Daichi Kamada,Eintracht Frankfurt,€30.00m ,Japan,"Aug 31, 2018","Jun 30, 2019",Sint-Truiden,E. Frankfurt,4500000.0,,Bundesliga
+15,Daichi Kamada,Eintracht Frankfurt,€30.00m ,Japan,"Jul 1, 2017","Aug 31, 2018",E. Frankfurt,Sint-Truiden,1000000.0,,Bundesliga
+15,Daichi Kamada,Eintracht Frankfurt,€30.00m ,Japan,"Feb 1, 2015","Jul 1, 2017",Sagan Tosu,E. Frankfurt,750000.0,1600000.0,Bundesliga
+15,Daichi Kamada,Eintracht Frankfurt,€30.00m ,Japan,,"Feb 1, 2015",Higashiyama HS,Sagan Tosu,,0.0,Bundesliga
+9,Kaoru Mitoma,Brighton &amp; Hove Albion,€6.00m ,Japan,"Jun 30, 2022",,Brighton,,,,Premier League
+9,Kaoru Mitoma,Brighton &amp; Hove Albion,€6.00m ,Japan,"Aug 11, 2021","Jun 30, 2022",Union SG,Brighton,2500000.0,,Premier League
+9,Kaoru Mitoma,Brighton &amp; Hove Albion,€6.00m ,Japan,"Aug 10, 2021","Aug 11, 2021",Brighton,Union SG,1800000.0,,Premier League
+9,Kaoru Mitoma,Brighton &amp; Hove Albion,€6.00m ,Japan,"Feb 1, 2020","Aug 10, 2021",Kawasaki Front.,Brighton,1800000.0,3000000.0,Premier League
+9,Kaoru Mitoma,Brighton &amp; Hove Albion,€6.00m ,Japan,"Jan 31, 2020","Feb 1, 2020",Tsukuba Univ.,Kawasaki Front.,50000.0,0.0,Premier League
+9,Kaoru Mitoma,Brighton &amp; Hove Albion,€6.00m ,Japan,"Apr 19, 2019","Jan 31, 2020",Kawasaki Front.,Tsukuba Univ.,50000.0,,Premier League
+9,Kaoru Mitoma,Brighton &amp; Hove Albion,€6.00m ,Japan,"Jan 31, 2019","Apr 19, 2019",Tsukuba Univ.,Kawasaki Front.,50000.0,,Premier League
+9,Kaoru Mitoma,Brighton &amp; Hove Albion,€6.00m ,Japan,"Aug 10, 2018","Jan 31, 2019",Kawasaki Front.,Tsukuba Univ.,50000.0,,Premier League
+9,Kaoru Mitoma,Brighton &amp; Hove Albion,€6.00m ,Japan,"Jan 31, 2018","Aug 10, 2018",Tsukuba Univ.,Kawasaki Front.,,,Premier League
+9,Kaoru Mitoma,Brighton &amp; Hove Albion,€6.00m ,Japan,"Sep 15, 2017","Jan 31, 2018",Kawasaki Front.,Tsukuba Univ.,,,Premier League
+9,Kaoru Mitoma,Brighton &amp; Hove Albion,€6.00m ,Japan,"Apr 1, 2016","Sep 15, 2017",Tsukuba Univ.,Kawasaki Front.,,,Premier League
+9,Kaoru Mitoma,Brighton &amp; Hove Albion,€6.00m ,Japan,,"Apr 1, 2016",Frontale U18,Tsukuba Univ.,,0.0,Premier League
+24,Yuki Soma,Nagoya Grampus,€1.20m ,Japan,"Jan 31, 2020",,Nagoya Grampus,,,,J1 League
+24,Yuki Soma,Nagoya Grampus,€1.20m ,Japan,"Aug 7, 2019","Jan 31, 2020",Kashima Antlers,Nagoya Grampus,500000.0,,J1 League
+24,Yuki Soma,Nagoya Grampus,€1.20m ,Japan,"Feb 1, 2019","Aug 7, 2019",Nagoya Grampus,Kashima Antlers,350000.0,,J1 League
+24,Yuki Soma,Nagoya Grampus,€1.20m ,Japan,"Jan 31, 2019","Feb 1, 2019",Waseda Univ.,Nagoya Grampus,75000.0,0.0,J1 League
+24,Yuki Soma,Nagoya Grampus,€1.20m ,Japan,"Jun 29, 2018","Jan 31, 2019",Nagoya Grampus,Waseda Univ.,75000.0,,J1 League
+24,Yuki Soma,Nagoya Grampus,€1.20m ,Japan,"Apr 1, 2015","Jun 29, 2018",Waseda Univ.,Nagoya Grampus,,,J1 League
+24,Yuki Soma,Nagoya Grampus,€1.20m ,Japan,,"Apr 1, 2015",Yowa Youth,Waseda Univ.,,0.0,J1 League
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"Jul 19, 2022",,Real Sociedad,,,,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"Jun 30, 2022","Jul 19, 2022",Real Madrid,Real Sociedad,7500000.0,6500000.0,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"Aug 11, 2021","Jun 30, 2022",RCD Mallorca,Real Madrid,7500000.0,,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"Jun 30, 2021","Aug 11, 2021",Real Madrid,RCD Mallorca,15000000.0,,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"Jan 8, 2021","Jun 30, 2021",Getafe,Real Madrid,15000000.0,,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"Jan 7, 2021","Jan 8, 2021",Real Madrid,Getafe,20000000.0,,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"Aug 10, 2020","Jan 7, 2021",Villarreal,Real Madrid,20000000.0,,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"Jul 20, 2020","Aug 10, 2020",Real Madrid,Villarreal,30000000.0,,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"Aug 22, 2019","Jul 20, 2020",RCD Mallorca,Real Madrid,13500000.0,,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"Jul 1, 2019","Aug 22, 2019",Real Madrid,RCD Mallorca,2000000.0,,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"Jan 31, 2019","Jul 1, 2019",FC Tokyo,Real Madrid,2000000.0,0.0,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"Aug 15, 2018","Jan 31, 2019",Yokohama F. M.,FC Tokyo,500000.0,,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"Nov 1, 2017","Aug 15, 2018",FC Tokyo,Yokohama F. M.,300000.0,,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"May 1, 2015","Nov 1, 2017",FC Tokyo U18,FC Tokyo,,,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,"Jan 1, 2011","May 1, 2015",Barça Youth,FC Tokyo U18,,0.0,LaLiga
+11,Takefusa Kubo,Real Sociedad,€12.00m ,Japan,,"Jan 1, 2011",Frontale Jgd.,Barça Youth,,0.0,LaLiga
+18,Takuma Asano,VfL Bochum,€3.00m ,Japan,"Jul 1, 2021",,VfL Bochum,,,,Bundesliga
+18,Takuma Asano,VfL Bochum,€3.00m ,Japan,"May 3, 2021","Jul 1, 2021",Without Club,VfL Bochum,3000000.0,,Bundesliga
+18,Takuma Asano,VfL Bochum,€3.00m ,Japan,"Aug 2, 2019","May 3, 2021",Partizan,Without Club,2500000.0,,Bundesliga
+18,Takuma Asano,VfL Bochum,€3.00m ,Japan,"Jun 30, 2019","Aug 2, 2019",Arsenal,Partizan,1500000.0,1000000.0,Bundesliga
+18,Takuma Asano,VfL Bochum,€3.00m ,Japan,"Jul 1, 2018","Jun 30, 2019",Hannover 96,Arsenal,1500000.0,,Bundesliga
+18,Takuma Asano,VfL Bochum,€3.00m ,Japan,"Jun 30, 2018","Jul 1, 2018",Arsenal,Hannover 96,2000000.0,,Bundesliga
+18,Takuma Asano,VfL Bochum,€3.00m ,Japan,"Aug 26, 2016","Jun 30, 2018",VfB Stuttgart,Arsenal,2000000.0,,Bundesliga
+18,Takuma Asano,VfL Bochum,€3.00m ,Japan,"Jul 18, 2016","Aug 26, 2016",Arsenal,VfB Stuttgart,1500000.0,,Bundesliga
+18,Takuma Asano,VfL Bochum,€3.00m ,Japan,"Feb 1, 2013","Jul 18, 2016",Sanf. Hiroshima,Arsenal,1200000.0,4000000.0,Bundesliga
+18,Takuma Asano,VfL Bochum,€3.00m ,Japan,,"Feb 1, 2013",Yokkaichi CT HS,Sanf. Hiroshima,,0.0,Bundesliga
+20,Shuto Machino,Shonan Bellmare,€1.20m ,Japan,"Jan 9, 2021",,Shonan Bellmare,,,,J1 League
+20,Shuto Machino,Shonan Bellmare,€1.20m ,Japan,"Feb 1, 2020","Jan 9, 2021",Gir. Kitakyushu,Shonan Bellmare,300000.0,0.0,J1 League
+20,Shuto Machino,Shonan Bellmare,€1.20m ,Japan,"Jan 31, 2020","Feb 1, 2020",Yokohama F. M.,Gir. Kitakyushu,300000.0,0.0,J1 League
+20,Shuto Machino,Shonan Bellmare,€1.20m ,Japan,"Feb 1, 2019","Jan 31, 2020",Gir. Kitakyushu,Yokohama F. M.,300000.0,,J1 League
+20,Shuto Machino,Shonan Bellmare,€1.20m ,Japan,"Feb 1, 2018","Feb 1, 2019",Yokohama F. M.,Gir. Kitakyushu,50000.0,,J1 League
+20,Shuto Machino,Shonan Bellmare,€1.20m ,Japan,,"Feb 1, 2018",Riseisha HS,Yokohama F. M.,50000.0,0.0,J1 League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"Jul 18, 2019",,Sint-Truiden,,,,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"Jan 31, 2017","Jul 18, 2019",Vegalta Sendai,Sint-Truiden,900000.0,,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"Feb 1, 2016","Jan 31, 2017",Matsumoto Yama.,Vegalta Sendai,275000.0,,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"Jan 31, 2016","Feb 1, 2016",Vegalta Sendai,Matsumoto Yama.,50000.0,,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"Jun 1, 2015","Jan 31, 2016",Roasso Kumamoto,Vegalta Sendai,50000.0,,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"May 19, 2014","Jun 1, 2015",Vegalta Sendai,Roasso Kumamoto,50000.0,,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"Apr 20, 2014","May 19, 2014",Roasso Kumamoto,Vegalta Sendai,25000.0,,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"Feb 1, 2014","Apr 20, 2014",Vegalta Sendai,Roasso Kumamoto,25000.0,,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"Jan 31, 2013","Feb 1, 2014",Chuo University,Vegalta Sendai,25000.0,0.0,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"Mar 23, 2012","Jan 31, 2013",Kawasaki Front.,Chuo University,25000.0,,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"Jan 31, 2012","Mar 23, 2012",Chuo University,Kawasaki Front.,25000.0,,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"Mar 9, 2011","Jan 31, 2012",Kawasaki Front.,Chuo University,25000.0,,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"Jan 31, 2011","Mar 9, 2011",Chuo University,Kawasaki Front.,25000.0,,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"Aug 11, 2010","Jan 31, 2011",Kawasaki Front.,Chuo University,25000.0,,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,"Apr 1, 2010","Aug 11, 2010",Chuo University,Kawasaki Front.,,,Jupiler Pro League
+23,Daniel Schmidt,Sint-Truidense VV,€1.50m ,Japan,,"Apr 1, 2010",High School (J),Chuo University,,0.0,Jupiler Pro League
+1,Eiji Kawashima,RC Strasbourg Alsace,€200k ,Japan,"Aug 29, 2018",,R. Strasbourg,,,,Ligue 1
+1,Eiji Kawashima,RC Strasbourg Alsace,€200k ,Japan,"Aug 1, 2016","Aug 29, 2018",FC Metz,R. Strasbourg,250000.0,0.0,Ligue 1
+1,Eiji Kawashima,RC Strasbourg Alsace,€200k ,Japan,"Dec 29, 2015","Aug 1, 2016",Dundee United,FC Metz,1000000.0,0.0,Ligue 1
+1,Eiji Kawashima,RC Strasbourg Alsace,€200k ,Japan,"Jul 1, 2015","Dec 29, 2015",Without Club,Dundee United,1500000.0,,Ligue 1
+1,Eiji Kawashima,RC Strasbourg Alsace,€200k ,Japan,"Jul 15, 2012","Jul 1, 2015",Standard Liège,Without Club,1500000.0,,Ligue 1
+1,Eiji Kawashima,RC Strasbourg Alsace,€200k ,Japan,"Jul 7, 2010","Jul 15, 2012",Lierse SK,Standard Liège,2000000.0,600000.0,Ligue 1
+1,Eiji Kawashima,RC Strasbourg Alsace,€200k ,Japan,"Feb 1, 2007","Jul 7, 2010",Kawasaki Front.,Lierse SK,2500000.0,0.0,Ligue 1
+1,Eiji Kawashima,RC Strasbourg Alsace,€200k ,Japan,"Feb 1, 2004","Feb 1, 2007",Nagoya Grampus,Kawasaki Front.,,,Ligue 1
+1,Eiji Kawashima,RC Strasbourg Alsace,€200k ,Japan,"Feb 1, 2001","Feb 1, 2004",Omiya Ardija,Nagoya Grampus,,,Ligue 1
+1,Eiji Kawashima,RC Strasbourg Alsace,€200k ,Japan,,"Feb 1, 2001",High School (J),Omiya Ardija,,0.0,Ligue 1
+26,Hiroki Ito,VfB Stuttgart,€5.50m ,Japan,"Jul 1, 2022",,VfB Stuttgart,,,,Bundesliga
+26,Hiroki Ito,VfB Stuttgart,€5.50m ,Japan,"Jun 30, 2022","Jul 1, 2022",Júbilo Iwata,VfB Stuttgart,4500000.0,400000.0,Bundesliga
+26,Hiroki Ito,VfB Stuttgart,€5.50m ,Japan,"Jul 4, 2021","Jun 30, 2022",VfB Stuttgart,Júbilo Iwata,4500000.0,,Bundesliga
+26,Hiroki Ito,VfB Stuttgart,€5.50m ,Japan,"Jan 31, 2020","Jul 4, 2021",Júbilo Iwata,VfB Stuttgart,550000.0,,Bundesliga
+26,Hiroki Ito,VfB Stuttgart,€5.50m ,Japan,"Feb 1, 2019","Jan 31, 2020",Nagoya Grampus,Júbilo Iwata,150000.0,,Bundesliga
+26,Hiroki Ito,VfB Stuttgart,€5.50m ,Japan,"Feb 1, 2018","Feb 1, 2019",Júbilo Iwata,Nagoya Grampus,75000.0,,Bundesliga
+26,Hiroki Ito,VfB Stuttgart,€5.50m ,Japan,,"Feb 1, 2018",Júbilo U18,Júbilo Iwata,50000.0,,Bundesliga
+22,Maya Yoshida,FC Schalke 04,€1.50m ,Japan,"Jul 5, 2022",,FC Schalke 04,,,,Bundesliga
+22,Maya Yoshida,FC Schalke 04,€1.50m ,Japan,"Sep 1, 2020","Jul 5, 2022",Sampdoria,FC Schalke 04,1500000.0,0.0,Bundesliga
+22,Maya Yoshida,FC Schalke 04,€1.50m ,Japan,"Aug 31, 2020","Sep 1, 2020",Southampton,Sampdoria,3800000.0,0.0,Bundesliga
+22,Maya Yoshida,FC Schalke 04,€1.50m ,Japan,"Jan 31, 2020","Aug 31, 2020",Sampdoria,Southampton,3800000.0,,Bundesliga
+22,Maya Yoshida,FC Schalke 04,€1.50m ,Japan,"Aug 30, 2012","Jan 31, 2020",Southampton,Sampdoria,5000000.0,,Bundesliga
+22,Maya Yoshida,FC Schalke 04,€1.50m ,Japan,"Jan 1, 2010","Aug 30, 2012",VVV-Venlo,Southampton,1250000.0,2800000.0,Bundesliga
+22,Maya Yoshida,FC Schalke 04,€1.50m ,Japan,"Feb 1, 2007","Jan 1, 2010",Nagoya Grampus,VVV-Venlo,1400000.0,,Bundesliga
+22,Maya Yoshida,FC Schalke 04,€1.50m ,Japan,,"Feb 1, 2007",Grampus U18,Nagoya Grampus,,,Bundesliga
+16,Takehiro Tomiyasu,Arsenal FC,€25.00m ,Japan,"Aug 31, 2021",,Arsenal,,,,Premier League
+16,Takehiro Tomiyasu,Arsenal FC,€25.00m ,Japan,"Jul 9, 2019","Aug 31, 2021",Bologna,Arsenal,20000000.0,18600000.0,Premier League
+16,Takehiro Tomiyasu,Arsenal FC,€25.00m ,Japan,"Jan 16, 2018","Jul 9, 2019",Sint-Truiden,Bologna,9000000.0,7000000.0,Premier League
+16,Takehiro Tomiyasu,Arsenal FC,€25.00m ,Japan,"Feb 1, 2016","Jan 16, 2018",Avispa Fukuoka,Sint-Truiden,350000.0,800000.0,Premier League
+16,Takehiro Tomiyasu,Arsenal FC,€25.00m ,Japan,,"Feb 1, 2016",Avispa U18,Avispa Fukuoka,,,Premier League
+19,Hiroki Sakai,Urawa Red Diamonds,€1.70m ,Japan,"Jul 12, 2021",,Urawa Reds,,,,J1 League
+19,Hiroki Sakai,Urawa Red Diamonds,€1.70m ,Japan,"Jul 1, 2016","Jul 12, 2021",Marseille,Urawa Reds,4000000.0,1500000.0,J1 League
+19,Hiroki Sakai,Urawa Red Diamonds,€1.70m ,Japan,"Jul 1, 2012","Jul 1, 2016",Hannover 96,Marseille,2000000.0,0.0,J1 League
+19,Hiroki Sakai,Urawa Red Diamonds,€1.70m ,Japan,"Nov 30, 2009","Jul 1, 2012",Kashiwa Reysol,Hannover 96,2000000.0,1200000.0,J1 League
+19,Hiroki Sakai,Urawa Red Diamonds,€1.70m ,Japan,"Jul 1, 2009","Nov 30, 2009",Mogi Mirim,Kashiwa Reysol,50000.0,,J1 League
+19,Hiroki Sakai,Urawa Red Diamonds,€1.70m ,Japan,"Feb 1, 2009","Jul 1, 2009",Kashiwa Reysol,Mogi Mirim,50000.0,,J1 League
+19,Hiroki Sakai,Urawa Red Diamonds,€1.70m ,Japan,,"Feb 1, 2009",Reysol U18,Kashiwa Reysol,,,J1 League
+6,Wataru Endo,VfB Stuttgart,€6.50m ,Japan,"Jul 1, 2020",,VfB Stuttgart,,,,Bundesliga
+6,Wataru Endo,VfB Stuttgart,€6.50m ,Japan,"Jun 30, 2020","Jul 1, 2020",Sint-Truiden,VfB Stuttgart,1600000.0,1700000.0,Bundesliga
+6,Wataru Endo,VfB Stuttgart,€6.50m ,Japan,"Aug 13, 2019","Jun 30, 2020",VfB Stuttgart,Sint-Truiden,1600000.0,,Bundesliga
+6,Wataru Endo,VfB Stuttgart,€6.50m ,Japan,"Jul 21, 2018","Aug 13, 2019",Sint-Truiden,VfB Stuttgart,2000000.0,,Bundesliga
+6,Wataru Endo,VfB Stuttgart,€6.50m ,Japan,"Jan 6, 2016","Jul 21, 2018",Urawa Reds,Sint-Truiden,1450000.0,,Bundesliga
+6,Wataru Endo,VfB Stuttgart,€6.50m ,Japan,"Feb 1, 2011","Jan 6, 2016",Shonan Bellmare,Urawa Reds,850000.0,,Bundesliga
+6,Wataru Endo,VfB Stuttgart,€6.50m ,Japan,,"Feb 1, 2011",Bellmare U18,Shonan Bellmare,,,Bundesliga
+7,Gaku Shibasaki,CD Leganés,€1.00m ,Japan,"Sep 4, 2020",,CD Leganés,,,,LaLiga2
+7,Gaku Shibasaki,CD Leganés,€1.00m ,Japan,"Jul 14, 2019","Sep 4, 2020",Dep. La Coruña,CD Leganés,1000000.0,0.0,LaLiga2
+7,Gaku Shibasaki,CD Leganés,€1.00m ,Japan,"Jul 17, 2017","Jul 14, 2019",Getafe,Dep. La Coruña,2000000.0,0.0,LaLiga2
+7,Gaku Shibasaki,CD Leganés,€1.00m ,Japan,"Jan 31, 2017","Jul 17, 2017",CD Tenerife,Getafe,2000000.0,0.0,LaLiga2
+7,Gaku Shibasaki,CD Leganés,€1.00m ,Japan,"Feb 1, 2011","Jan 31, 2017",Kashima Antlers,CD Tenerife,2000000.0,0.0,LaLiga2
+7,Gaku Shibasaki,CD Leganés,€1.00m ,Japan,,"Feb 1, 2011",Aom. Yamada HS,Kashima Antlers,,0.0,LaLiga2
+10,Takumi Minamino,AS Monaco,€10.00m ,Japan,"Jul 1, 2022",,Monaco,,,,Ligue 1
+10,Takumi Minamino,AS Monaco,€10.00m ,Japan,"Jun 30, 2021","Jul 1, 2022",Liverpool,Monaco,12000000.0,15000000.0,Ligue 1
+10,Takumi Minamino,AS Monaco,€10.00m ,Japan,"Feb 1, 2021","Jun 30, 2021",Southampton,Liverpool,12000000.0,,Ligue 1
+10,Takumi Minamino,AS Monaco,€10.00m ,Japan,"Jan 1, 2020","Feb 1, 2021",Liverpool,Southampton,10000000.0,,Ligue 1
+10,Takumi Minamino,AS Monaco,€10.00m ,Japan,"Jan 7, 2015","Jan 1, 2020",RB Salzburg,Liverpool,12500000.0,8500000.0,Ligue 1
+10,Takumi Minamino,AS Monaco,€10.00m ,Japan,"Feb 1, 2013","Jan 7, 2015",Cerezo Osaka,RB Salzburg,1250000.0,800000.0,Ligue 1
+10,Takumi Minamino,AS Monaco,€10.00m ,Japan,,"Feb 1, 2013",Cerezo U18,Cerezo Osaka,,,Ligue 1
+25,Daizen Maeda,Celtic FC,€4.00m ,Japan,"Jul 1, 2022",,Celtic,,,,Premiership
+25,Daizen Maeda,Celtic FC,€4.00m ,Japan,"Jun 30, 2022","Jul 1, 2022",Yokohama F. M.,Celtic,3500000.0,1530000.0,Premiership
+25,Daizen Maeda,Celtic FC,€4.00m ,Japan,"Jan 1, 2022","Jun 30, 2022",Celtic,Yokohama F. M.,3500000.0,,Premiership
+25,Daizen Maeda,Celtic FC,€4.00m ,Japan,"Feb 1, 2021","Jan 1, 2022",Yokohama F. M.,Celtic,1100000.0,,Premiership
+25,Daizen Maeda,Celtic FC,€4.00m ,Japan,"Jan 31, 2021","Feb 1, 2021",Matsumoto Yama.,Yokohama F. M.,850000.0,,Premiership
+25,Daizen Maeda,Celtic FC,€4.00m ,Japan,"Aug 3, 2020","Jan 31, 2021",Yokohama F. M.,Matsumoto Yama.,850000.0,,Premiership
+25,Daizen Maeda,Celtic FC,€4.00m ,Japan,"Jun 30, 2020","Aug 3, 2020",Matsumoto Yama.,Yokohama F. M.,800000.0,,Premiership
+25,Daizen Maeda,Celtic FC,€4.00m ,Japan,"Jul 21, 2019","Jun 30, 2020",Marítimo,Matsumoto Yama.,800000.0,,Premiership
+25,Daizen Maeda,Celtic FC,€4.00m ,Japan,"Jan 31, 2018","Jul 21, 2019",Matsumoto Yama.,Marítimo,800000.0,,Premiership
+25,Daizen Maeda,Celtic FC,€4.00m ,Japan,"Feb 1, 2017","Jan 31, 2018",Mito HollyHock,Matsumoto Yama.,350000.0,,Premiership
+25,Daizen Maeda,Celtic FC,€4.00m ,Japan,"Feb 1, 2016","Feb 1, 2017",Matsumoto Yama.,Mito HollyHock,50000.0,,Premiership
+25,Daizen Maeda,Celtic FC,€4.00m ,Japan,,"Feb 1, 2016",YGU High School,Matsumoto Yama.,,0.0,Premiership
+8,Ritsu Doan,SC Freiburg,€12.00m ,Japan,"Jul 5, 2022",,SC Freiburg,,,,Bundesliga
+8,Ritsu Doan,SC Freiburg,€12.00m ,Japan,"Jun 30, 2021","Jul 5, 2022",PSV Eindhoven,SC Freiburg,8000000.0,8500000.0,Bundesliga
+8,Ritsu Doan,SC Freiburg,€12.00m ,Japan,"Sep 5, 2020","Jun 30, 2021",Arm. Bielefeld,PSV Eindhoven,7000000.0,,Bundesliga
+8,Ritsu Doan,SC Freiburg,€12.00m ,Japan,"Aug 30, 2019","Sep 5, 2020",PSV Eindhoven,Arm. Bielefeld,6300000.0,,Bundesliga
+8,Ritsu Doan,SC Freiburg,€12.00m ,Japan,"Jul 1, 2018","Aug 30, 2019",FC Groningen,PSV Eindhoven,10000000.0,7500000.0,Bundesliga
+8,Ritsu Doan,SC Freiburg,€12.00m ,Japan,"Jun 30, 2018","Jul 1, 2018",Gamba Osaka,FC Groningen,2500000.0,1700000.0,Bundesliga
+8,Ritsu Doan,SC Freiburg,€12.00m ,Japan,"Jul 1, 2017","Jun 30, 2018",FC Groningen,Gamba Osaka,2500000.0,,Bundesliga
+8,Ritsu Doan,SC Freiburg,€12.00m ,Japan,"Feb 1, 2016","Jul 1, 2017",Gamba Osaka,FC Groningen,150000.0,,Bundesliga
+8,Ritsu Doan,SC Freiburg,€12.00m ,Japan,,"Feb 1, 2016",Gamba U18,Gamba Osaka,,,Bundesliga
+14,Junya Ito,Stade Reims,€9.00m ,Japan,"Jul 29, 2022",,Stade Reims,,,,Ligue 1
+14,Junya Ito,Stade Reims,€9.00m ,Japan,"Jul 1, 2020","Jul 29, 2022",KRC Genk,Stade Reims,7500000.0,10000000.0,Ligue 1
+14,Junya Ito,Stade Reims,€9.00m ,Japan,"Jun 30, 2020","Jul 1, 2020",Kashiwa Reysol,KRC Genk,4500000.0,,Ligue 1
+14,Junya Ito,Stade Reims,€9.00m ,Japan,"Jan 31, 2019","Jun 30, 2020",KRC Genk,Kashiwa Reysol,4500000.0,,Ligue 1
+14,Junya Ito,Stade Reims,€9.00m ,Japan,"Jan 8, 2016","Jan 31, 2019",Kashiwa Reysol,KRC Genk,2000000.0,,Ligue 1
+14,Junya Ito,Stade Reims,€9.00m ,Japan,"Feb 1, 2015","Jan 8, 2016",Ventforet Kofu,Kashiwa Reysol,200000.0,,Ligue 1
+14,Junya Ito,Stade Reims,€9.00m ,Japan,"Apr 1, 2011","Feb 1, 2015",Kanagawa Uni,Ventforet Kofu,,0.0,Ligue 1
+14,Junya Ito,Stade Reims,€9.00m ,Japan,,"Apr 1, 2011",High School (J),Kanagawa Uni,,0.0,Ligue 1
+21,Ayase Ueda,Cercle Brugge ,€2.00m ,Japan,"Jul 1, 2022",,Cercle Brugge,,,,Jupiler Pro League
+21,Ayase Ueda,Cercle Brugge ,€2.00m ,Japan,"Jul 26, 2019","Jul 1, 2022",Kashima Antlers,Cercle Brugge,1500000.0,1300000.0,Jupiler Pro League
+21,Ayase Ueda,Cercle Brugge ,€2.00m ,Japan,"Jul 25, 2019","Jul 26, 2019",Hosei Univ.,Kashima Antlers,100000.0,0.0,Jupiler Pro League
+21,Ayase Ueda,Cercle Brugge ,€2.00m ,Japan,"Feb 15, 2019","Jul 25, 2019",Kashima Antlers,Hosei Univ.,100000.0,,Jupiler Pro League
+21,Ayase Ueda,Cercle Brugge ,€2.00m ,Japan,"Apr 1, 2017","Feb 15, 2019",Hosei Univ.,Kashima Antlers,,,Jupiler Pro League
+21,Ayase Ueda,Cercle Brugge ,€2.00m ,Japan,,"Apr 1, 2017",High School (J),Hosei Univ.,,0.0,Jupiler Pro League

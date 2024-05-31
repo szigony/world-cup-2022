@@ -1,0 +1,242 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+1,Wayne Hennessey,Nottingham Forest,€500k ,Wales,"Jul 15, 2022",,Nottm Forest,,,,Premier League
+1,Wayne Hennessey,Nottingham Forest,€500k ,Wales,"Jul 20, 2021","Jul 15, 2022",Burnley,Nottm Forest,500000.0,0.0,Premier League
+1,Wayne Hennessey,Nottingham Forest,€500k ,Wales,"Jan 31, 2014","Jul 20, 2021",Crystal Palace,Burnley,1000000.0,0.0,Premier League
+1,Wayne Hennessey,Nottingham Forest,€500k ,Wales,"Nov 17, 2013","Jan 31, 2014",Wolves,Crystal Palace,2500000.0,3650000.0,Premier League
+1,Wayne Hennessey,Nottingham Forest,€500k ,Wales,"Aug 21, 2013","Nov 17, 2013",Yeovil Town,Wolves,2500000.0,,Premier League
+1,Wayne Hennessey,Nottingham Forest,€500k ,Wales,"Apr 1, 2007","Aug 21, 2013",Wolves,Yeovil Town,2500000.0,,Premier League
+1,Wayne Hennessey,Nottingham Forest,€500k ,Wales,"Jan 1, 2007","Apr 1, 2007",Stockport,Wolves,,,Premier League
+1,Wayne Hennessey,Nottingham Forest,€500k ,Wales,"Sep 1, 2006","Jan 1, 2007",Wolves,Stockport,,,Premier League
+1,Wayne Hennessey,Nottingham Forest,€500k ,Wales,"Aug 1, 2006","Sep 1, 2006",Bristol City,Wolves,,,Premier League
+1,Wayne Hennessey,Nottingham Forest,€500k ,Wales,"Jul 1, 2006","Aug 1, 2006",Wolves,Bristol City,,,Premier League
+1,Wayne Hennessey,Nottingham Forest,€500k ,Wales,"Jul 1, 2003","Jul 1, 2006",Wolves U18,Wolves,,,Premier League
+1,Wayne Hennessey,Nottingham Forest,€500k ,Wales,,"Jul 1, 2003",Man City Youth,Wolves U18,,,Premier League
+6,Joe Rodon,Stade Rennais FC,€9.00m ,Wales,"Jun 30, 2023",,Spurs,,,,Ligue 1
+6,Joe Rodon,Stade Rennais FC,€9.00m ,Wales,"Aug 1, 2022","Jun 30, 2023",Rennes,Spurs,9000000.0,,Ligue 1
+6,Joe Rodon,Stade Rennais FC,€9.00m ,Wales,"Oct 16, 2020","Aug 1, 2022",Spurs,Rennes,8000000.0,,Ligue 1
+6,Joe Rodon,Stade Rennais FC,€9.00m ,Wales,"Jul 1, 2018","Oct 16, 2020",Swansea,Spurs,7000000.0,12100000.0,Ligue 1
+6,Joe Rodon,Stade Rennais FC,€9.00m ,Wales,"May 31, 2018","Jul 1, 2018",Swansea U21,Swansea,,,Ligue 1
+6,Joe Rodon,Stade Rennais FC,€9.00m ,Wales,"Jan 30, 2018","May 31, 2018",Cheltenham,Swansea U21,,,Ligue 1
+6,Joe Rodon,Stade Rennais FC,€9.00m ,Wales,"Jul 1, 2015","Jan 30, 2018",Swansea U21,Cheltenham,,,Ligue 1
+6,Joe Rodon,Stade Rennais FC,€9.00m ,Wales,,"Jul 1, 2015",Swansea U18,Swansea U21,,,Ligue 1
+24,Ben Cabango,Swansea City,€8.00m ,Wales,"Jul 1, 2019",,Swansea,,,,Championship
+24,Ben Cabango,Swansea City,€8.00m ,Wales,"Jan 1, 2019","Jul 1, 2019",Swansea U21,Swansea,,,Championship
+24,Ben Cabango,Swansea City,€8.00m ,Wales,"Jul 2, 2018","Jan 1, 2019",The New Saints,Swansea U21,,,Championship
+24,Ben Cabango,Swansea City,€8.00m ,Wales,"Jul 1, 2018","Jul 2, 2018",Swansea U21,The New Saints,,,Championship
+24,Ben Cabango,Swansea City,€8.00m ,Wales,"Jul 1, 2016","Jul 1, 2018",Swansea U18,Swansea U21,,,Championship
+24,Ben Cabango,Swansea City,€8.00m ,Wales,,"Jul 1, 2016",Swansea Yth.,Swansea U18,,,Championship
+17,Tom Lockyer,Luton Town,€2.00m ,Wales,"Sep 1, 2020",,Luton,,,,Championship
+17,Tom Lockyer,Luton Town,€2.00m ,Wales,"Jul 1, 2019","Sep 1, 2020",Charlton,Luton,800000.0,,Championship
+17,Tom Lockyer,Luton Town,€2.00m ,Wales,"Jul 1, 2012","Jul 1, 2019",Bristol Rovers,Charlton,250000.0,0.0,Championship
+17,Tom Lockyer,Luton Town,€2.00m ,Wales,"Jul 1, 2011","Jul 1, 2012",Brist. Rov. U18,Bristol Rovers,,,Championship
+17,Tom Lockyer,Luton Town,€2.00m ,Wales,,"Jul 1, 2011",Cardiff City Yo,Brist. Rov. U18,,0.0,Championship
+3,Neco Williams,Nottingham Forest,€18.00m ,Wales,"Jul 10, 2022",,Nottm Forest,,,,Premier League
+3,Neco Williams,Nottingham Forest,€18.00m ,Wales,"May 31, 2022","Jul 10, 2022",Liverpool,Nottm Forest,8000000.0,20000000.0,Premier League
+3,Neco Williams,Nottingham Forest,€18.00m ,Wales,"Jan 31, 2022","May 31, 2022",Fulham,Liverpool,8000000.0,,Premier League
+3,Neco Williams,Nottingham Forest,€18.00m ,Wales,"Jan 1, 2020","Jan 31, 2022",Liverpool,Fulham,8000000.0,,Premier League
+3,Neco Williams,Nottingham Forest,€18.00m ,Wales,"Jul 1, 2019","Jan 1, 2020",Liverpool U23,Liverpool,,,Premier League
+3,Neco Williams,Nottingham Forest,€18.00m ,Wales,"Jul 1, 2017","Jul 1, 2019",Liverpool U18,Liverpool U23,,,Premier League
+3,Neco Williams,Nottingham Forest,€18.00m ,Wales,,"Jul 1, 2017",Liverpool Youth,Liverpool U18,,,Premier League
+2,Chris Gunter,AFC Wimbledon,€300k ,Wales,"Jul 4, 2022",,AFC Wimbledon,,,,League Two
+2,Chris Gunter,AFC Wimbledon,€300k ,Wales,"Oct 8, 2020","Jul 4, 2022",Charlton,AFC Wimbledon,800000.0,0.0,League Two
+2,Chris Gunter,AFC Wimbledon,€300k ,Wales,"Jul 17, 2012","Oct 8, 2020",Reading,Charlton,950000.0,0.0,League Two
+2,Chris Gunter,AFC Wimbledon,€300k ,Wales,"Jul 20, 2009","Jul 17, 2012",Nottm Forest,Reading,1750000.0,3000000.0,League Two
+2,Chris Gunter,AFC Wimbledon,€300k ,Wales,"May 31, 2009","Jul 20, 2009",Spurs,Nottm Forest,3000000.0,2000000.0,League Two
+2,Chris Gunter,AFC Wimbledon,€300k ,Wales,"Mar 12, 2009","May 31, 2009",Nottm Forest,Spurs,3500000.0,,League Two
+2,Chris Gunter,AFC Wimbledon,€300k ,Wales,"Jan 1, 2008","Mar 12, 2009",Spurs,Nottm Forest,3500000.0,,League Two
+2,Chris Gunter,AFC Wimbledon,€300k ,Wales,"Aug 1, 2006","Jan 1, 2008",Cardiff,Spurs,3000000.0,3200000.0,League Two
+2,Chris Gunter,AFC Wimbledon,€300k ,Wales,,"Aug 1, 2006",Cardiff U18,Cardiff,,,League Two
+10,Aaron Ramsey,OGC Nice,€3.00m ,Wales,"Aug 1, 2022",,OGC Nice,,,,Ligue 1
+10,Aaron Ramsey,OGC Nice,€3.00m ,Wales,"May 31, 2022","Aug 1, 2022",Juventus,OGC Nice,3000000.0,0.0,Ligue 1
+10,Aaron Ramsey,OGC Nice,€3.00m ,Wales,"Jan 31, 2022","May 31, 2022",Rangers,Juventus,5000000.0,,Ligue 1
+10,Aaron Ramsey,OGC Nice,€3.00m ,Wales,"Jul 1, 2019","Jan 31, 2022",Juventus,Rangers,5000000.0,,Ligue 1
+10,Aaron Ramsey,OGC Nice,€3.00m ,Wales,"Feb 28, 2011","Jul 1, 2019",Arsenal,Juventus,40000000.0,0.0,Ligue 1
+10,Aaron Ramsey,OGC Nice,€3.00m ,Wales,"Jan 31, 2011","Feb 28, 2011",Cardiff,Arsenal,6000000.0,,Ligue 1
+10,Aaron Ramsey,OGC Nice,€3.00m ,Wales,"Dec 31, 2010","Jan 31, 2011",Arsenal,Cardiff,6000000.0,,Ligue 1
+10,Aaron Ramsey,OGC Nice,€3.00m ,Wales,"Nov 25, 2010","Dec 31, 2010",Nottm Forest,Arsenal,6000000.0,,Ligue 1
+10,Aaron Ramsey,OGC Nice,€3.00m ,Wales,"Jul 1, 2008","Nov 25, 2010",Arsenal,Nottm Forest,6000000.0,,Ligue 1
+10,Aaron Ramsey,OGC Nice,€3.00m ,Wales,"Jul 1, 2007","Jul 1, 2008",Cardiff,Arsenal,5000000.0,6400000.0,Ligue 1
+10,Aaron Ramsey,OGC Nice,€3.00m ,Wales,,"Jul 1, 2007",Cardiff U18,Cardiff,,,Ligue 1
+23,Dylan Levitt,Dundee United FC,€850k ,Wales,"Jul 7, 2022",,Dundee United,,,,Premiership
+23,Dylan Levitt,Dundee United FC,€850k ,Wales,"May 18, 2022","Jul 7, 2022",Man Utd U21,Dundee United,650000.0,355000.0,Premiership
+23,Dylan Levitt,Dundee United FC,€850k ,Wales,"Aug 20, 2021","May 18, 2022",Dundee United,Man Utd U23,650000.0,,Premiership
+23,Dylan Levitt,Dundee United FC,€850k ,Wales,"Jun 30, 2021","Aug 20, 2021",Man Utd U23,Dundee United,650000.0,,Premiership
+23,Dylan Levitt,Dundee United FC,€850k ,Wales,"Feb 15, 2021","Jun 30, 2021",NK Istra,Man Utd U23,650000.0,,Premiership
+23,Dylan Levitt,Dundee United FC,€850k ,Wales,"Jan 8, 2021","Feb 15, 2021",Man Utd U23,NK Istra,675000.0,,Premiership
+23,Dylan Levitt,Dundee United FC,€850k ,Wales,"Sep 8, 2020","Jan 8, 2021",Charlton,Man Utd U23,675000.0,,Premiership
+23,Dylan Levitt,Dundee United FC,€850k ,Wales,"Jul 1, 2019","Sep 8, 2020",Man Utd U23,Charlton,675000.0,,Premiership
+23,Dylan Levitt,Dundee United FC,€850k ,Wales,"Jul 1, 2017","Jul 1, 2019",Man Utd U18,Man Utd U23,,,Premiership
+23,Dylan Levitt,Dundee United FC,€850k ,Wales,,"Jul 1, 2017",Man Utd Youth,Man Utd U18,,,Premiership
+25,Rubin Colwill,Cardiff City,€1.50m ,Wales,"Jan 1, 2021",,Cardiff,,,,Championship
+25,Rubin Colwill,Cardiff City,€1.50m ,Wales,"Jul 1, 2018","Jan 1, 2021",Cardiff U18,Cardiff,,,Championship
+25,Rubin Colwill,Cardiff City,€1.50m ,Wales,,"Jul 1, 2018",Cardiff City Yo,Cardiff U18,,,Championship
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,"Jul 24, 2021",,Fulham,,,,Premier League
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,"May 31, 2021","Jul 24, 2021",Liverpool,Fulham,17000000.0,14000000.0,Premier League
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,"Oct 16, 2020","May 31, 2021",Cardiff,Liverpool,17000000.0,,Premier League
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,"Jul 31, 2020","Oct 16, 2020",Liverpool,Cardiff,16000000.0,,Premier League
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,"Aug 6, 2019","Jul 31, 2020",Bournemouth,Liverpool,17500000.0,,Premier League
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,"May 31, 2019","Aug 6, 2019",Liverpool,Bournemouth,12000000.0,,Premier League
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,"Jul 17, 2018","May 31, 2019",Derby,Liverpool,8000000.0,,Premier League
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,"Jul 1, 2018","Jul 17, 2018",Liverpool,Derby,1000000.0,,Premier League
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,"May 31, 2018","Jul 1, 2018",Liverpool U23,Liverpool,1000000.0,,Premier League
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,"Jan 31, 2018","May 31, 2018",Hull City,Liverpool U23,1000000.0,,Premier League
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,"Jan 5, 2016","Jan 31, 2018",Liverpool U23,Hull City,1000000.0,,Premier League
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,"Aug 26, 2015","Jan 5, 2016",Crewe Alexandra,Liverpool U21,100000.0,,Premier League
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,"Jul 1, 2015","Aug 26, 2015",Liverpool U21,Crewe Alexandra,,,Premier League
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,"Jul 1, 2013","Jul 1, 2015",Liverpool U18,Liverpool U21,,,Premier League
+8,Harry Wilson,Fulham FC,€17.00m ,Wales,,"Jul 1, 2013",Liverpool Youth,Liverpool U18,,,Premier League
+22,Sorba Thomas,Huddersfield Town,€5.00m ,Wales,"Jan 13, 2021",,Huddersfield,,,,Championship
+22,Sorba Thomas,Huddersfield Town,€5.00m ,Wales,"Jul 1, 2017","Jan 13, 2021",Boreham Wood,Huddersfield,,,Championship
+22,Sorba Thomas,Huddersfield Town,€5.00m ,Wales,"Jul 1, 2016","Jul 1, 2017",Boreham W. U19,Boreham Wood,,,Championship
+22,Sorba Thomas,Huddersfield Town,€5.00m ,Wales,"Jan 1, 2016","Jul 1, 2016",Without Club,Boreham W. U19,,,Championship
+22,Sorba Thomas,Huddersfield Town,€5.00m ,Wales,,"Jan 1, 2016",West Ham Yth.,Without Club,,,Championship
+9,Brennan Johnson,Nottingham Forest,€20.00m ,Wales,"May 31, 2021",,Nottm Forest,,,,Premier League
+9,Brennan Johnson,Nottingham Forest,€20.00m ,Wales,"Sep 25, 2020","May 31, 2021",Lincoln City,Nottm Forest,,,Premier League
+9,Brennan Johnson,Nottingham Forest,€20.00m ,Wales,"Jul 1, 2019","Sep 25, 2020",Nottm Forest,Lincoln City,,,Premier League
+9,Brennan Johnson,Nottingham Forest,€20.00m ,Wales,,"Jul 1, 2019",Nottingham U18,Nottm Forest,,,Premier League
+19,Mark Harris,Cardiff City,€1.00m ,Wales,"Jul 1, 2020",,Cardiff,,,,Championship
+19,Mark Harris,Cardiff City,€1.00m ,Wales,"May 31, 2020","Jul 1, 2020",Cardiff U21,Cardiff,,,Championship
+19,Mark Harris,Cardiff City,€1.00m ,Wales,"Jul 1, 2019","May 31, 2020",Wrexham,Cardiff U21,,,Championship
+19,Mark Harris,Cardiff City,€1.00m ,Wales,"May 31, 2019","Jul 1, 2019",Cardiff U21,Wrexham,,,Championship
+19,Mark Harris,Cardiff City,€1.00m ,Wales,"Jan 23, 2019","May 31, 2019",Port Vale,Cardiff U21,,,Championship
+19,Mark Harris,Cardiff City,€1.00m ,Wales,"Jan 1, 2019","Jan 23, 2019",Cardiff U21,Port Vale,,,Championship
+19,Mark Harris,Cardiff City,€1.00m ,Wales,"Aug 2, 2018","Jan 1, 2019",Newport County,Cardiff U21,,,Championship
+19,Mark Harris,Cardiff City,€1.00m ,Wales,"Jul 1, 2017","Aug 2, 2018",Cardiff U21,Newport County,,,Championship
+19,Mark Harris,Cardiff City,€1.00m ,Wales,,"Jul 1, 2017",Cardiff U18,Cardiff U21,,,Championship
+12,Danny Ward,Leicester City,€8.00m ,Wales,"Jul 20, 2018",,Leicester,,,,Premier League
+12,Danny Ward,Leicester City,€8.00m ,Wales,"May 31, 2017","Jul 20, 2018",Liverpool,Leicester,2500000.0,14000000.0,Premier League
+12,Danny Ward,Leicester City,€8.00m ,Wales,"Jul 11, 2016","May 31, 2017",Huddersfield,Liverpool,1500000.0,,Premier League
+12,Danny Ward,Leicester City,€8.00m ,Wales,"Jan 10, 2016","Jul 11, 2016",Liverpool,Huddersfield,1500000.0,,Premier League
+12,Danny Ward,Leicester City,€8.00m ,Wales,"Jul 1, 2015","Jan 10, 2016",Aberdeen FC,Liverpool,350000.0,,Premier League
+12,Danny Ward,Leicester City,€8.00m ,Wales,"Apr 20, 2015","Jul 1, 2015",Liverpool,Aberdeen FC,250000.0,,Premier League
+12,Danny Ward,Leicester City,€8.00m ,Wales,"Mar 20, 2015","Apr 20, 2015",Morecambe FC,Liverpool,250000.0,,Premier League
+12,Danny Ward,Leicester City,€8.00m ,Wales,"Jan 30, 2012","Mar 20, 2015",Liverpool,Morecambe FC,250000.0,,Premier League
+12,Danny Ward,Leicester City,€8.00m ,Wales,"Apr 11, 2011","Jan 30, 2012",Wrexham,Liverpool,,125000.0,Premier League
+12,Danny Ward,Leicester City,€8.00m ,Wales,"Mar 11, 2011","Apr 11, 2011",Tamworth,Wrexham,,,Premier League
+12,Danny Ward,Leicester City,€8.00m ,Wales,"Jul 1, 2010","Mar 11, 2011",Wrexham,Tamworth,,,Premier League
+12,Danny Ward,Leicester City,€8.00m ,Wales,,"Jul 1, 2010",Wrexham U18,Wrexham,,,Premier League
+21,Adam Davies,Sheffield United,€500k ,Wales,"Jan 25, 2022",,Sheff Utd,,,,Championship
+21,Adam Davies,Sheffield United,€500k ,Wales,"Jul 1, 2019","Jan 25, 2022",Stoke City,Sheff Utd,700000.0,300000.0,Championship
+21,Adam Davies,Sheffield United,€500k ,Wales,"Jul 1, 2014","Jul 1, 2019",Barnsley FC,Stoke City,500000.0,0.0,Championship
+21,Adam Davies,Sheffield United,€500k ,Wales,"Oct 24, 2012","Jul 1, 2014",Sheff Wed,Barnsley FC,,0.0,Championship
+21,Adam Davies,Sheffield United,€500k ,Wales,"May 1, 2012","Oct 24, 2012",Without Club,Sheff Wed,,,Championship
+21,Adam Davies,Sheffield United,€500k ,Wales,"Jul 1, 2010","May 1, 2012",Everton Res.,Without Club,,,Championship
+21,Adam Davies,Sheffield United,€500k ,Wales,,"Jul 1, 2010",Everton U18,Everton Res.,,,Championship
+15,Ethan Ampadu,Spezia Calcio,€9.00m ,Wales,"Jun 30, 2023",,Chelsea,,,,Serie A
+15,Ethan Ampadu,Spezia Calcio,€9.00m ,Wales,"Sep 1, 2022","Jun 30, 2023",Spezia Calcio,Chelsea,9000000.0,,Serie A
+15,Ethan Ampadu,Spezia Calcio,€9.00m ,Wales,"Jun 30, 2022","Sep 1, 2022",Chelsea,Spezia Calcio,13000000.0,,Serie A
+15,Ethan Ampadu,Spezia Calcio,€9.00m ,Wales,"Aug 31, 2021","Jun 30, 2022",Venezia,Chelsea,13000000.0,,Serie A
+15,Ethan Ampadu,Spezia Calcio,€9.00m ,Wales,"May 31, 2021","Aug 31, 2021",Chelsea,Venezia,15000000.0,,Serie A
+15,Ethan Ampadu,Spezia Calcio,€9.00m ,Wales,"Sep 7, 2020","May 31, 2021",Sheff Utd,Chelsea,15000000.0,,Serie A
+15,Ethan Ampadu,Spezia Calcio,€9.00m ,Wales,"Jun 30, 2020","Sep 7, 2020",Chelsea,Sheff Utd,9000000.0,,Serie A
+15,Ethan Ampadu,Spezia Calcio,€9.00m ,Wales,"Jul 22, 2019","Jun 30, 2020",RB Leipzig,Chelsea,9000000.0,,Serie A
+15,Ethan Ampadu,Spezia Calcio,€9.00m ,Wales,"Jul 1, 2017","Jul 22, 2019",Chelsea,RB Leipzig,10000000.0,,Serie A
+15,Ethan Ampadu,Spezia Calcio,€9.00m ,Wales,"Jul 1, 2016","Jul 1, 2017",Exeter City,Chelsea,,2800000.0,Serie A
+15,Ethan Ampadu,Spezia Calcio,€9.00m ,Wales,,"Jul 1, 2016",Exeter U18,Exeter City,,,Serie A
+5,Chris Mepham,AFC Bournemouth,€6.00m ,Wales,"Jan 22, 2019",,Bournemouth,,,,Premier League
+5,Chris Mepham,AFC Bournemouth,€6.00m ,Wales,"Jul 1, 2017","Jan 22, 2019",Brentford,Bournemouth,8000000.0,13600000.0,Premier League
+5,Chris Mepham,AFC Bournemouth,€6.00m ,Wales,"Jul 1, 2016","Jul 1, 2017",Brentford B,Brentford,,,Premier League
+5,Chris Mepham,AFC Bournemouth,€6.00m ,Wales,"Jul 1, 2014","Jul 1, 2016",Brentford U18,Brentford B,,,Premier League
+5,Chris Mepham,AFC Bournemouth,€6.00m ,Wales,"Jul 1, 2012","Jul 1, 2014",Brentford Yth.,Brentford U18,,,Premier League
+5,Chris Mepham,AFC Bournemouth,€6.00m ,Wales,,"Jul 1, 2012",Chelsea Youth,Brentford Yth.,,0.0,Premier League
+4,Ben Davies,Tottenham Hotspur,€20.00m ,Wales,"Jul 23, 2014",,Spurs,,,,Premier League
+4,Ben Davies,Tottenham Hotspur,€20.00m ,Wales,"Jul 1, 2012","Jul 23, 2014",Swansea,Spurs,5500000.0,12650000.0,Premier League
+4,Ben Davies,Tottenham Hotspur,€20.00m ,Wales,"Jul 1, 2011","Jul 1, 2012",Swansea U21,Swansea,,,Premier League
+4,Ben Davies,Tottenham Hotspur,€20.00m ,Wales,"Jul 1, 2009","Jul 1, 2011",Swansea U18,Swansea U21,,,Premier League
+4,Ben Davies,Tottenham Hotspur,€20.00m ,Wales,"Jul 1, 2004","Jul 1, 2009",Swansea Yth.,Swansea U18,,,Premier League
+4,Ben Davies,Tottenham Hotspur,€20.00m ,Wales,"Jul 1, 2001","Jul 1, 2004",Viborg FF Youth,Swansea Yth.,,0.0,Premier League
+4,Ben Davies,Tottenham Hotspur,€20.00m ,Wales,,"Jul 1, 2001",Swansea Yth.,Viborg FF Youth,,0.0,Premier League
+14,Connor Roberts,Burnley FC,€6.00m ,Wales,"Aug 31, 2021",,Burnley,,,,Championship
+14,Connor Roberts,Burnley FC,€6.00m ,Wales,"Jan 3, 2018","Aug 31, 2021",Swansea,Burnley,4500000.0,2900000.0,Championship
+14,Connor Roberts,Burnley FC,€6.00m ,Wales,"Jul 14, 2017","Jan 3, 2018",Middlesbrough,Swansea,250000.0,,Championship
+14,Connor Roberts,Burnley FC,€6.00m ,Wales,"Jul 1, 2017","Jul 14, 2017",Swansea,Middlesbrough,250000.0,,Championship
+14,Connor Roberts,Burnley FC,€6.00m ,Wales,"Dec 15, 2016","Jul 1, 2017",Swansea U21,Swansea,250000.0,,Championship
+14,Connor Roberts,Burnley FC,€6.00m ,Wales,"Aug 25, 2016","Dec 15, 2016",Bristol Rovers,Swansea U21,250000.0,,Championship
+14,Connor Roberts,Burnley FC,€6.00m ,Wales,"May 31, 2016","Aug 25, 2016",Swansea U21,Bristol Rovers,250000.0,,Championship
+14,Connor Roberts,Burnley FC,€6.00m ,Wales,"Aug 8, 2015","May 31, 2016",Yeovil Town,Swansea U21,,,Championship
+14,Connor Roberts,Burnley FC,€6.00m ,Wales,"Jul 1, 2015","Aug 8, 2015",Swansea U21,Yeovil Town,,,Championship
+14,Connor Roberts,Burnley FC,€6.00m ,Wales,,"Jul 1, 2015",Swansea U18,Swansea U21,,,Championship
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,"Jan 31, 2022",,MK Dons,,,,League One
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,"Jan 30, 2022","Jan 31, 2022",Man City U23,MK Dons,800000.0,,League One
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,"Aug 6, 2021","Jan 30, 2022",Hull City,Man City U23,800000.0,,League One
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,"May 31, 2021","Aug 6, 2021",Man City U23,Hull City,1000000.0,,League One
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,"Oct 16, 2020","May 31, 2021",Doncaster,Man City U23,1000000.0,,League One
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,"Jul 31, 2020","Oct 16, 2020",Man City U23,Doncaster,900000.0,,League One
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,"Jan 31, 2020","Jul 31, 2020",Charlton,Man City U23,900000.0,,League One
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,"Jan 30, 2020","Jan 31, 2020",Man City U23,Charlton,1500000.0,,League One
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,"Jul 1, 2019","Jan 30, 2020",QPR,Man City U23,1500000.0,,League One
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,"Jun 30, 2019","Jul 1, 2019",Man City U23,QPR,1500000.0,,League One
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,"Jul 3, 2018","Jun 30, 2019",Twente FC,Man City U23,1500000.0,,League One
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,"Jul 1, 2017","Jul 3, 2018",Man City U23,Twente FC,,,League One
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,"Jul 1, 2016","Jul 1, 2017",Man City U18,Man City U23,,,League One
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,"Jul 1, 2013","Jul 1, 2016",Man City Youth,Man City U18,,,League One
+26,Matt Smith,Milton Keynes Dons,€600k ,Wales,,"Jul 1, 2013",West Brom Yth.,Man City Youth,,,League One
+7,Joe Allen,Swansea City,€1.00m ,Wales,"Jul 8, 2022",,Swansea,,,,Championship
+7,Joe Allen,Swansea City,€1.00m ,Wales,"Jul 25, 2016","Jul 8, 2022",Stoke City,Swansea,1200000.0,0.0,Championship
+7,Joe Allen,Swansea City,€1.00m ,Wales,"Aug 10, 2012","Jul 25, 2016",Liverpool,Stoke City,8000000.0,15500000.0,Championship
+7,Joe Allen,Swansea City,€1.00m ,Wales,"Nov 30, 2008","Aug 10, 2012",Swansea,Liverpool,4000000.0,19000000.0,Championship
+7,Joe Allen,Swansea City,€1.00m ,Wales,"Oct 7, 2008","Nov 30, 2008",Wrexham,Swansea,75000.0,,Championship
+7,Joe Allen,Swansea City,€1.00m ,Wales,"Jul 1, 2007","Oct 7, 2008",Swansea,Wrexham,75000.0,,Championship
+7,Joe Allen,Swansea City,€1.00m ,Wales,,"Jul 1, 2007",Swansea U18,Swansea,,,Championship
+16,Joe Morrell,Portsmouth FC,€500k ,Wales,"Aug 9, 2021",,Portsmouth,,,,League One
+16,Joe Morrell,Portsmouth FC,€500k ,Wales,"Oct 15, 2020","Aug 9, 2021",Luton,Portsmouth,400000.0,,League One
+16,Joe Morrell,Portsmouth FC,€500k ,Wales,"May 31, 2020","Oct 15, 2020",Bristol City,Luton,500000.0,,League One
+16,Joe Morrell,Portsmouth FC,€500k ,Wales,"Jul 1, 2019","May 31, 2020",Lincoln City,Bristol City,,,League One
+16,Joe Morrell,Portsmouth FC,€500k ,Wales,"May 31, 2018","Jul 1, 2019",Bristol City,Lincoln City,,,League One
+16,Joe Morrell,Portsmouth FC,€500k ,Wales,"Aug 30, 2017","May 31, 2018",Cheltenham,Bristol City,,,League One
+16,Joe Morrell,Portsmouth FC,€500k ,Wales,"Jul 1, 2017","Aug 30, 2017",Bristol City,Cheltenham,,,League One
+16,Joe Morrell,Portsmouth FC,€500k ,Wales,"Mar 25, 2017","Jul 1, 2017",Bristol U21,Bristol City,,,League One
+16,Joe Morrell,Portsmouth FC,€500k ,Wales,"Feb 24, 2017","Mar 25, 2017",Margate FC,Bristol U21,,,League One
+16,Joe Morrell,Portsmouth FC,€500k ,Wales,"Sep 3, 2016","Feb 24, 2017",Bristol U21,Margate FC,,,League One
+16,Joe Morrell,Portsmouth FC,€500k ,Wales,"Aug 4, 2016","Sep 3, 2016",Sutton Utd,Bristol U21,,,League One
+16,Joe Morrell,Portsmouth FC,€500k ,Wales,"Jul 28, 2015","Aug 4, 2016",Bristol U21,Sutton Utd,,,League One
+16,Joe Morrell,Portsmouth FC,€500k ,Wales,,"Jul 28, 2015",Bristol U18,Bristol C U21,,,League One
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"Aug 13, 2021",,Swindon Town,,,,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"Feb 1, 2021","Aug 13, 2021",Cardiff,Swindon Town,800000.0,0.0,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"Jan 4, 2019","Feb 1, 2021",Charlton,Cardiff,800000.0,,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"May 31, 2018","Jan 4, 2019",Crystal Palace,Charlton,1000000.0,0.0,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"Aug 31, 2017","May 31, 2018",Sunderland,Crystal Palace,1000000.0,,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"May 31, 2017","Aug 31, 2017",Crystal Palace,Sunderland,1000000.0,,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"Aug 31, 2016","May 31, 2017",Ipswich,Crystal Palace,1000000.0,,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"May 31, 2016","Aug 31, 2016",Crystal Palace,Ipswich,1000000.0,,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"Jan 22, 2016","May 31, 2016",MK Dons,Crystal Palace,750000.0,,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"Jan 3, 2016","Jan 22, 2016",Crystal Palace,MK Dons,1000000.0,,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"Sep 10, 2015","Jan 3, 2016",Nottm Forest,Crystal Palace,1000000.0,,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"Apr 21, 2015","Sep 10, 2015",Crystal Palace,Nottm Forest,1000000.0,,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"Sep 29, 2014","Apr 21, 2015",Ipswich,Crystal Palace,1000000.0,,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"May 9, 2014","Sep 29, 2014",Crystal Palace,Ipswich,1500000.0,,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"Feb 27, 2014","May 9, 2014",Ipswich,Crystal Palace,2000000.0,,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,"Jul 1, 2011","Feb 27, 2014",Crystal Palace,Ipswich,2000000.0,,League Two
+18,Jonathan Williams,Swindon Town,€400k ,Wales,,"Jul 1, 2011",Palace U18,Crystal Palace,,,League Two
+20,Daniel James,Fulham FC,€16.00m ,Wales,"May 31, 2023",,Leeds,,,,Premier League
+20,Daniel James,Fulham FC,€16.00m ,Wales,"Sep 1, 2022","May 31, 2023",Fulham,Leeds,16000000.0,,Premier League
+20,Daniel James,Fulham FC,€16.00m ,Wales,"Aug 31, 2021","Sep 1, 2022",Leeds,Fulham,18000000.0,,Premier League
+20,Daniel James,Fulham FC,€16.00m ,Wales,"Jul 1, 2019","Aug 31, 2021",Man Utd,Leeds,18000000.0,29100000.0,Premier League
+20,Daniel James,Fulham FC,€16.00m ,Wales,"Jul 1, 2018","Jul 1, 2019",Swansea,Man Utd,12000000.0,17800000.0,Premier League
+20,Daniel James,Fulham FC,€16.00m ,Wales,"Aug 31, 2017","Jul 1, 2018",Swansea U21,Swansea,,,Premier League
+20,Daniel James,Fulham FC,€16.00m ,Wales,"Jul 1, 2017","Aug 31, 2017",Shrewsbury,Swansea U21,,,Premier League
+20,Daniel James,Fulham FC,€16.00m ,Wales,"Jul 1, 2015","Jul 1, 2017",Swansea U21,Shrewsbury,,,Premier League
+20,Daniel James,Fulham FC,€16.00m ,Wales,"Jul 1, 2014","Jul 1, 2015",Swansea U18,Swansea U21,,,Premier League
+20,Daniel James,Fulham FC,€16.00m ,Wales,"Jul 1, 2013","Jul 1, 2014",Hull U18,Swansea U18,,0.0,Premier League
+20,Daniel James,Fulham FC,€16.00m ,Wales,,"Jul 1, 2013",Hull City Yth.,Hull U18,,,Premier League
+11,Gareth Bale,Los Angeles FC,€2.00m ,Wales,"Jul 7, 2022",,LAFC,,,,MLS
+11,Gareth Bale,Los Angeles FC,€2.00m ,Wales,"Jun 30, 2021","Jul 7, 2022",Real Madrid,LAFC,3000000.0,0.0,MLS
+11,Gareth Bale,Los Angeles FC,€2.00m ,Wales,"Sep 19, 2020","Jun 30, 2021",Spurs,Real Madrid,18000000.0,,MLS
+11,Gareth Bale,Los Angeles FC,€2.00m ,Wales,"Sep 1, 2013","Sep 19, 2020",Real Madrid,Spurs,28000000.0,,MLS
+11,Gareth Bale,Los Angeles FC,€2.00m ,Wales,"Jul 1, 2007","Sep 1, 2013",Spurs,Real Madrid,65000000.0,101000000.0,MLS
+11,Gareth Bale,Los Angeles FC,€2.00m ,Wales,"Jul 1, 2006","Jul 1, 2007",Southampton,Spurs,7500000.0,14700000.0,MLS
+11,Gareth Bale,Los Angeles FC,€2.00m ,Wales,,"Jul 1, 2006",Southampton U18,Southampton,,,MLS
+13,Kieffer Moore,AFC Bournemouth,€4.00m ,Wales,"Jan 31, 2022",,Bournemouth,,,,Premier League
+13,Kieffer Moore,AFC Bournemouth,€4.00m ,Wales,"Aug 13, 2020","Jan 31, 2022",Cardiff,Bournemouth,5000000.0,4200000.0,Premier League
+13,Kieffer Moore,AFC Bournemouth,€4.00m ,Wales,"Aug 5, 2019","Aug 13, 2020",Wigan,Cardiff,2000000.0,2200000.0,Premier League
+13,Kieffer Moore,AFC Bournemouth,€4.00m ,Wales,"Jan 8, 2018","Aug 5, 2019",Barnsley FC,Wigan,750000.0,2700000.0,Premier League
+13,Kieffer Moore,AFC Bournemouth,€4.00m ,Wales,"Jan 1, 2018","Jan 8, 2018",Ipswich,Barnsley FC,200000.0,850000.0,Premier League
+13,Kieffer Moore,AFC Bournemouth,€4.00m ,Wales,"Jul 10, 2017","Jan 1, 2018",Rotherham,Ipswich,200000.0,,Premier League
+13,Kieffer Moore,AFC Bournemouth,€4.00m ,Wales,"Jan 15, 2017","Jul 10, 2017",Ipswich,Rotherham,100000.0,,Premier League
+13,Kieffer Moore,AFC Bournemouth,€4.00m ,Wales,"Dec 8, 2016","Jan 15, 2017",Forest Green,Ipswich,100000.0,12000.0,Premier League
+13,Kieffer Moore,AFC Bournemouth,€4.00m ,Wales,"Nov 17, 2016","Dec 8, 2016",Torquay,Forest Green,100000.0,,Premier League
+13,Kieffer Moore,AFC Bournemouth,€4.00m ,Wales,"Jan 18, 2016","Nov 17, 2016",Forest Green,Torquay,100000.0,,Premier League
+13,Kieffer Moore,AFC Bournemouth,€4.00m ,Wales,"Aug 3, 2015","Jan 18, 2016",Viking FK,Forest Green,100000.0,0.0,Premier League
+13,Kieffer Moore,AFC Bournemouth,€4.00m ,Wales,"Jul 10, 2013","Aug 3, 2015",Yeovil Town,Viking FK,100000.0,0.0,Premier League
+13,Kieffer Moore,AFC Bournemouth,€4.00m ,Wales,"Feb 11, 2013","Jul 10, 2013",Dorchester,Yeovil Town,,,Premier League
+13,Kieffer Moore,AFC Bournemouth,€4.00m ,Wales,,"Feb 11, 2013",Truro City FC,Dorchester,,0.0,Premier League

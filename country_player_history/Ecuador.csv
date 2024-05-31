@@ -1,0 +1,213 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+1,Hernán Galíndez,SD Aucas,€600k ,Ecuador,"Jul 3, 2022",,SD Aucas,,,,Serie A Segunda Etapa
+1,Hernán Galíndez,SD Aucas,€600k ,Ecuador,"Jan 4, 2022","Jul 3, 2022",U. de Chile,SD Aucas,600000.0,240000.0,Serie A Segunda Etapa
+1,Hernán Galíndez,SD Aucas,€600k ,Ecuador,"Jan 22, 2013","Jan 4, 2022",Uni. Católica,U. de Chile,600000.0,,Serie A Segunda Etapa
+1,Hernán Galíndez,SD Aucas,€600k ,Ecuador,"Jan 10, 2013","Jan 22, 2013",Rangers Talca,Uni. Católica,600000.0,,Serie A Segunda Etapa
+1,Hernán Galíndez,SD Aucas,€600k ,Ecuador,"Feb 28, 2012","Jan 10, 2013",Uni. Católica,Rangers Talca,600000.0,,Serie A Segunda Etapa
+1,Hernán Galíndez,SD Aucas,€600k ,Ecuador,"Jan 1, 2012","Feb 28, 2012",Rangers Talca,Uni. Católica,600000.0,,Serie A Segunda Etapa
+1,Hernán Galíndez,SD Aucas,€600k ,Ecuador,"Jun 30, 2011","Jan 1, 2012",Rosario Central,Rangers Talca,600000.0,,Serie A Segunda Etapa
+1,Hernán Galíndez,SD Aucas,€600k ,Ecuador,"Jul 1, 2010","Jun 30, 2011",Quilmes,Rosario Central,600000.0,,Serie A Segunda Etapa
+1,Hernán Galíndez,SD Aucas,€600k ,Ecuador,"Jul 1, 2008","Jul 1, 2010",Rosario Central,Quilmes,500000.0,,Serie A Segunda Etapa
+1,Hernán Galíndez,SD Aucas,€600k ,Ecuador,"Jan 1, 2006","Jul 1, 2008",Ros. Central II,Rosario Central,,,Serie A Segunda Etapa
+1,Hernán Galíndez,SD Aucas,€600k ,Ecuador,,"Jan 1, 2006",CA Rosario U20,Ros. Central II,,,Serie A Segunda Etapa
+3,Piero Hincapié,Bayer 04 Leverkusen,€22.00m ,Ecuador,"Aug 16, 2021",,B. Leverkusen,,,,Bundesliga
+3,Piero Hincapié,Bayer 04 Leverkusen,€22.00m ,Ecuador,"Aug 20, 2020","Aug 16, 2021",CA Talleres,B. Leverkusen,8000000.0,6350000.0,Bundesliga
+3,Piero Hincapié,Bayer 04 Leverkusen,€22.00m ,Ecuador,"Jan 1, 2020","Aug 20, 2020",Independiente,CA Talleres,600000.0,1350000.0,Bundesliga
+3,Piero Hincapié,Bayer 04 Leverkusen,€22.00m ,Ecuador,"Jan 1, 2019","Jan 1, 2020",Independiente B,Independiente,100000.0,,Bundesliga
+3,Piero Hincapié,Bayer 04 Leverkusen,€22.00m ,Ecuador,,"Jan 1, 2019",Independ. U20,Independiente B,,,Bundesliga
+6,William Pacho,Royal Antwerp FC,€3.50m ,Ecuador,"Jan 28, 2022",,Royal Antwerp,,,,Jupiler Pro League
+6,William Pacho,Royal Antwerp FC,€3.50m ,Ecuador,"Jan 1, 2020","Jan 28, 2022",Independiente,Royal Antwerp,2500000.0,2870000.0,Jupiler Pro League
+6,William Pacho,Royal Antwerp FC,€3.50m ,Ecuador,"Jan 1, 2018","Jan 1, 2020",Independiente B,Independiente,,,Jupiler Pro League
+6,William Pacho,Royal Antwerp FC,€3.50m ,Ecuador,,"Jan 1, 2018",Independ. U20,Independiente B,,,Jupiler Pro League
+4,Robert Arboleda,São Paulo Futebol Clube,€2.00m ,Ecuador,"Jul 5, 2017",,São Paulo,,,,Série A
+4,Robert Arboleda,São Paulo Futebol Clube,€2.00m ,Ecuador,"Dec 31, 2014","Jul 5, 2017",Uni. Católica,São Paulo,1400000.0,1800000.0,Série A
+4,Robert Arboleda,São Paulo Futebol Clube,€2.00m ,Ecuador,"Jan 21, 2014","Dec 31, 2014",LDU de Loja,Uni. Católica,1000000.0,,Série A
+4,Robert Arboleda,São Paulo Futebol Clube,€2.00m ,Ecuador,"Jan 7, 2014","Jan 21, 2014",Uni. Católica,LDU de Loja,600000.0,,Série A
+4,Robert Arboleda,São Paulo Futebol Clube,€2.00m ,Ecuador,"Jan 22, 2013","Jan 7, 2014",LDU de Loja,Uni. Católica,600000.0,0.0,Série A
+4,Robert Arboleda,São Paulo Futebol Clube,€2.00m ,Ecuador,"Dec 31, 2012","Jan 22, 2013",CD Olmedo,LDU de Loja,,,Série A
+4,Robert Arboleda,São Paulo Futebol Clube,€2.00m ,Ecuador,"Feb 22, 2012","Dec 31, 2012",CSCD Grecia,CD Olmedo,,,Série A
+4,Robert Arboleda,São Paulo Futebol Clube,€2.00m ,Ecuador,"Dec 31, 2011","Feb 22, 2012",CD Olmedo,CSCD Grecia,,,Série A
+4,Robert Arboleda,São Paulo Futebol Clube,€2.00m ,Ecuador,"Oct 11, 2011","Dec 31, 2011",CSCD Grecia,CD Olmedo,,,Série A
+4,Robert Arboleda,São Paulo Futebol Clube,€2.00m ,Ecuador,"Oct 9, 2011","Oct 11, 2011",CD Olmedo,CSCD Grecia,,,Série A
+4,Robert Arboleda,São Paulo Futebol Clube,€2.00m ,Ecuador,"May 17, 2011","Oct 9, 2011",Cañar,CD Olmedo,,,Série A
+4,Robert Arboleda,São Paulo Futebol Clube,€2.00m ,Ecuador,"Jan 1, 2010","May 17, 2011",CD Olmedo,Cañar,,,Série A
+4,Robert Arboleda,São Paulo Futebol Clube,€2.00m ,Ecuador,,"Jan 1, 2010",CD Olmedo U20,CD Olmedo,,,Série A
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,"Aug 16, 2022",,Brighton,,,,Premier League
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,"Sep 16, 2020","Aug 16, 2022",Villarreal,Brighton,20000000.0,17800000.0,Premier League
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,"Jul 31, 2020","Sep 16, 2020",Watford,Villarreal,15000000.0,16399999.999999998,Premier League
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,"Jul 3, 2019","Jul 31, 2020",CA Osasuna,Watford,15000000.0,,Premier League
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,"Jun 30, 2019","Jul 3, 2019",Watford,CA Osasuna,2000000.0,,Premier League
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,"Aug 10, 2018","Jun 30, 2019",RCD Mallorca,Watford,2000000.0,,Premier League
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,"Jun 30, 2018","Aug 10, 2018",Watford,RCD Mallorca,800000.0,,Premier League
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,"Jul 17, 2017","Jun 30, 2018",UD Almería,Watford,800000.0,,Premier League
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,"Jul 1, 2017","Jul 17, 2017",Watford,UD Almería,400000.0,,Premier League
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,"Jun 30, 2017","Jul 1, 2017",Udinese Calcio,Watford,400000.0,,Premier League
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,"Jul 28, 2016","Jun 30, 2017",Granada B,Udinese Calcio,400000.0,,Premier League
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,"Jul 1, 2016","Jul 28, 2016",Udinese Calcio,Granada B,600000.0,,Premier League
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,"Jan 1, 2015","Jul 1, 2016",LDU Quito,Udinese Calcio,600000.0,500000.0,Premier League
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,"Jan 1, 2014","Jan 1, 2015",LDU Quito B,LDU Quito,50000.0,,Premier League
+7,Pervis Estupiñán,Brighton &amp; Hove Albion,€20.00m ,Ecuador,,"Jan 1, 2014",LDU Quito U20,LDU Quito B,,,Premier League
+17,Angelo Preciado,KRC Genk,€3.20m ,Ecuador,"Jan 4, 2021",,KRC Genk,,,,Jupiler Pro League
+17,Angelo Preciado,KRC Genk,€3.20m ,Ecuador,"Jul 1, 2018","Jan 4, 2021",Independiente,KRC Genk,3000000.0,3000000.0,Jupiler Pro League
+17,Angelo Preciado,KRC Genk,€3.20m ,Ecuador,"Jan 1, 2017","Jul 1, 2018",Independiente B,Independiente,50000.0,,Jupiler Pro League
+17,Angelo Preciado,KRC Genk,€3.20m ,Ecuador,"Sep 15, 2015","Jan 1, 2017",Independ. U20,Independiente B,50000.0,,Jupiler Pro League
+17,Angelo Preciado,KRC Genk,€3.20m ,Ecuador,,"Sep 15, 2015",CD América U20,Independ. U20,,,Jupiler Pro League
+20,Jhegson Méndez,Los Angeles FC,€1.50m ,Ecuador,"Jan 1, 2023",,Without Club,,,,MLS
+20,Jhegson Méndez,Los Angeles FC,€1.50m ,Ecuador,"Jul 19, 2022","Jan 1, 2023",LAFC,Without Club,1500000.0,,MLS
+20,Jhegson Méndez,Los Angeles FC,€1.50m ,Ecuador,"Jan 1, 2019","Jul 19, 2022",Orlando,LAFC,1500000.0,273000.0,MLS
+20,Jhegson Méndez,Los Angeles FC,€1.50m ,Ecuador,"Jan 21, 2016","Jan 1, 2019",Independiente,Orlando,800000.0,,MLS
+20,Jhegson Méndez,Los Angeles FC,€1.50m ,Ecuador,"Aug 17, 2015","Jan 21, 2016",CyD Leonesa,Independiente,50000.0,,MLS
+20,Jhegson Méndez,Los Angeles FC,€1.50m ,Ecuador,"Jan 1, 2015","Aug 17, 2015",Independiente,CyD Leonesa,50000.0,,MLS
+20,Jhegson Méndez,Los Angeles FC,€1.50m ,Ecuador,"Jan 1, 2014","Jan 1, 2015",Independiente B,Independiente,,,MLS
+20,Jhegson Méndez,Los Angeles FC,€1.50m ,Ecuador,"Jan 21, 2011","Jan 1, 2014",Independ. U20,Independiente B,,,MLS
+20,Jhegson Méndez,Los Angeles FC,€1.50m ,Ecuador,,"Jan 21, 2011",CSNA U20,Independ. U20,,,MLS
+5,José Cifuentes,Los Angeles FC,€12.00m ,Ecuador,"Jan 13, 2020",,LAFC,,,,MLS
+5,José Cifuentes,Los Angeles FC,€12.00m ,Ecuador,"Nov 30, 2019","Jan 13, 2020",Uni. Católica,LAFC,1000000.0,2730000.0,MLS
+5,José Cifuentes,Los Angeles FC,€12.00m ,Ecuador,"Jan 18, 2019","Nov 30, 2019",CD América,Uni. Católica,750000.0,,MLS
+5,José Cifuentes,Los Angeles FC,€12.00m ,Ecuador,"Dec 31, 2018","Jan 18, 2019",Uni. Católica,CD América,250000.0,,MLS
+5,José Cifuentes,Los Angeles FC,€12.00m ,Ecuador,"Feb 27, 2018","Dec 31, 2018",CD América,Uni. Católica,250000.0,,MLS
+5,José Cifuentes,Los Angeles FC,€12.00m ,Ecuador,"Dec 31, 2017","Feb 27, 2018",Uni. Católica,CD América,,,MLS
+5,José Cifuentes,Los Angeles FC,€12.00m ,Ecuador,"Jul 11, 2017","Dec 31, 2017",CD América,Uni. Católica,,,MLS
+5,José Cifuentes,Los Angeles FC,€12.00m ,Ecuador,"Jul 1, 2016","Jul 11, 2017",Uni. Católica,CD América,,,MLS
+5,José Cifuentes,Los Angeles FC,€12.00m ,Ecuador,,"Jul 1, 2016",U. Católica U20,Uni. Católica,,,MLS
+16,Jeremy Sarmiento,Brighton &amp; Hove Albion,€3.00m ,Ecuador,"Jul 2, 2021",,Brighton,,,,Premier League
+16,Jeremy Sarmiento,Brighton &amp; Hove Albion,€3.00m ,Ecuador,"Jul 1, 2019","Jul 2, 2021",Benfica U19,Brighton,,,Premier League
+16,Jeremy Sarmiento,Brighton &amp; Hove Albion,€3.00m ,Ecuador,"Oct 4, 2018","Jul 1, 2019",Benfica U17,Benfica U19,,,Premier League
+16,Jeremy Sarmiento,Brighton &amp; Hove Albion,€3.00m ,Ecuador,"Jul 1, 2017","Oct 4, 2018",Charlton U18,Benfica U17,,,Premier League
+16,Jeremy Sarmiento,Brighton &amp; Hove Albion,€3.00m ,Ecuador,,"Jul 1, 2017",Charlton Athleti,Charlton U18,,,Premier League
+10,Romario Ibarra,CF Pachuca,€1.80m ,Ecuador,"Jul 1, 2020",,Pachuca,,,,Liga MX Clausura
+10,Romario Ibarra,CF Pachuca,€1.80m ,Ecuador,"Jun 30, 2020","Jul 1, 2020",Minnesota,Pachuca,1400000.0,,Liga MX Clausura
+10,Romario Ibarra,CF Pachuca,€1.80m ,Ecuador,"Jul 1, 2019","Jun 30, 2020",Pachuca,Minnesota,1400000.0,,Liga MX Clausura
+10,Romario Ibarra,CF Pachuca,€1.80m ,Ecuador,"Jul 10, 2018","Jul 1, 2019",Minnesota,Pachuca,675000.0,,Liga MX Clausura
+10,Romario Ibarra,CF Pachuca,€1.80m ,Ecuador,"Jan 7, 2014","Jul 10, 2018",Uni. Católica,Minnesota,750000.0,725000.0,Liga MX Clausura
+10,Romario Ibarra,CF Pachuca,€1.80m ,Ecuador,"Jan 22, 2013","Jan 7, 2014",LDU Quito,Uni. Católica,300000.0,0.0,Liga MX Clausura
+10,Romario Ibarra,CF Pachuca,€1.80m ,Ecuador,"Feb 22, 2012","Jan 22, 2013",Uni. Católica,LDU Quito,,0.0,Liga MX Clausura
+10,Romario Ibarra,CF Pachuca,€1.80m ,Ecuador,"Feb 22, 2011","Feb 22, 2012",U. Católica U20,Uni. Católica,,,Liga MX Clausura
+10,Romario Ibarra,CF Pachuca,€1.80m ,Ecuador,"Apr 27, 2010","Feb 22, 2011",CD Espoli U20,U. Católica U20,,,Liga MX Clausura
+10,Romario Ibarra,CF Pachuca,€1.80m ,Ecuador,,"Apr 27, 2010",Valle Chota U20,CD Espoli U20,,,Liga MX Clausura
+15,Ángel Mena,Club León FC,€1.50m ,Ecuador,"Jan 1, 2019",,León,,,,Liga MX Clausura
+15,Ángel Mena,Club León FC,€1.50m ,Ecuador,"Jan 1, 2017","Jan 1, 2019",CD Cruz Azul,León,2000000.0,0.0,Liga MX Clausura
+15,Ángel Mena,Club León FC,€1.50m ,Ecuador,"Jan 25, 2011","Jan 1, 2017",CS Emelec,CD Cruz Azul,2200000.0,2850000.0,Liga MX Clausura
+15,Ángel Mena,Club León FC,€1.50m ,Ecuador,"Apr 20, 2010","Jan 25, 2011",Dep. Cuenca,CS Emelec,,0.0,Liga MX Clausura
+15,Ángel Mena,Club León FC,€1.50m ,Ecuador,"Jan 1, 2007","Apr 20, 2010",CS Emelec,Dep. Cuenca,,,Liga MX Clausura
+15,Ángel Mena,Club León FC,€1.50m ,Ecuador,,"Jan 1, 2007",CS Emelec U20,CS Emelec,,,Liga MX Clausura
+13,Enner Valencia,Fenerbahce,€3.00m ,Ecuador,"Aug 28, 2020",,Fenerbahce,,,,Süper Lig
+13,Enner Valencia,Fenerbahce,€3.00m ,Ecuador,"Jul 13, 2017","Aug 28, 2020",Tigres UANL,Fenerbahce,2500000.0,0.0,Süper Lig
+13,Enner Valencia,Fenerbahce,€3.00m ,Ecuador,"May 31, 2017","Jul 13, 2017",West Ham,Tigres UANL,10000000.0,5500000.0,Süper Lig
+13,Enner Valencia,Fenerbahce,€3.00m ,Ecuador,"Aug 31, 2016","May 31, 2017",Everton,West Ham,10000000.0,,Süper Lig
+13,Enner Valencia,Fenerbahce,€3.00m ,Ecuador,"Jul 17, 2014","Aug 31, 2016",West Ham,Everton,10000000.0,,Süper Lig
+13,Enner Valencia,Fenerbahce,€3.00m ,Ecuador,"Jan 2, 2014","Jul 17, 2014",Pachuca,West Ham,1600000.0,15000000.0,Süper Lig
+13,Enner Valencia,Fenerbahce,€3.00m ,Ecuador,"Jan 1, 2010","Jan 2, 2014",CS Emelec,Pachuca,1600000.0,3280000.0,Süper Lig
+13,Enner Valencia,Fenerbahce,€3.00m ,Ecuador,"Mar 4, 2008","Jan 1, 2010",CS Emelec U20,CS Emelec,,,Süper Lig
+13,Enner Valencia,Fenerbahce,€3.00m ,Ecuador,,"Mar 4, 2008",Caribe Jr. U20,CS Emelec U20,,,Süper Lig
+26,Kevin Rodríguez,Imbabura SC,€300k ,Ecuador,"Jan 3, 2023",,Independiente,,,,
+26,Kevin Rodríguez,Imbabura SC,€300k ,Ecuador,"Jan 1, 2018","Jan 3, 2023",Imbabura SC,Independiente,300000.0,,
+26,Kevin Rodríguez,Imbabura SC,€300k ,Ecuador,,"Jan 1, 2018",Imbabura U20,Imbabura SC,,,
+12,Moisés Ramírez,Independiente del Valle,€1.00m ,Ecuador,"Dec 31, 2019",,Independiente,,,,Serie A Segunda Etapa
+12,Moisés Ramírez,Independiente del Valle,€1.00m ,Ecuador,"Jan 30, 2019","Dec 31, 2019",Real Sociedad B,Independiente,300000.0,,Serie A Segunda Etapa
+12,Moisés Ramírez,Independiente del Valle,€1.00m ,Ecuador,"Jul 1, 2018","Jan 30, 2019",Independiente,Real Sociedad B,200000.0,,Serie A Segunda Etapa
+12,Moisés Ramírez,Independiente del Valle,€1.00m ,Ecuador,"Jan 1, 2017","Jul 1, 2018",Independiente B,Independiente,,,Serie A Segunda Etapa
+12,Moisés Ramírez,Independiente del Valle,€1.00m ,Ecuador,,"Jan 1, 2017",Independ. U20,Independiente B,,,Serie A Segunda Etapa
+22,Alexander Domínguez,LDU Quito,€600k ,Ecuador,"Jul 15, 2022",,LDU Quito,,,,Serie A Segunda Etapa
+22,Alexander Domínguez,LDU Quito,€600k ,Ecuador,"Jan 1, 2022","Jul 15, 2022",Deportes Tolima,LDU Quito,350000.0,,Serie A Segunda Etapa
+22,Alexander Domínguez,LDU Quito,€600k ,Ecuador,"Aug 20, 2021","Jan 1, 2022",Cerro Largo,Deportes Tolima,350000.0,0.0,Serie A Segunda Etapa
+22,Alexander Domínguez,LDU Quito,€600k ,Ecuador,"Jul 1, 2018","Aug 20, 2021",Vélez Sarsfield,Cerro Largo,550000.0,0.0,Serie A Segunda Etapa
+22,Alexander Domínguez,LDU Quito,€600k ,Ecuador,"Jun 30, 2018","Jul 1, 2018",Monterrey,Vélez Sarsfield,1750000.0,850000.0,Serie A Segunda Etapa
+22,Alexander Domínguez,LDU Quito,€600k ,Ecuador,"Aug 23, 2017","Jun 30, 2018",CA Colon,Monterrey,1750000.0,,Serie A Segunda Etapa
+22,Alexander Domínguez,LDU Quito,€600k ,Ecuador,"Jul 1, 2016","Aug 23, 2017",Monterrey,CA Colon,1500000.0,,Serie A Segunda Etapa
+22,Alexander Domínguez,LDU Quito,€600k ,Ecuador,"Jan 1, 2007","Jul 1, 2016",LDU Quito,Monterrey,2000000.0,,Serie A Segunda Etapa
+22,Alexander Domínguez,LDU Quito,€600k ,Ecuador,"Mar 14, 2006","Jan 1, 2007",LDU Quito U20,LDU Quito,,,Serie A Segunda Etapa
+22,Alexander Domínguez,LDU Quito,€600k ,Ecuador,,"Mar 14, 2006",Esmeraldas U20,LDU Quito U20,,,Serie A Segunda Etapa
+2,Félix Torres,Santos Laguna,€6.00m ,Ecuador,"Jul 15, 2019",,Santos Laguna,,,,Liga MX Clausura
+2,Félix Torres,Santos Laguna,€6.00m ,Ecuador,"Feb 14, 2018","Jul 15, 2019",Barcelona SC,Santos Laguna,1000000.0,1800000.0,Liga MX Clausura
+2,Félix Torres,Santos Laguna,€6.00m ,Ecuador,"Dec 31, 2017","Feb 14, 2018",Galácticos FC,Barcelona SC,200000.0,,Liga MX Clausura
+2,Félix Torres,Santos Laguna,€6.00m ,Ecuador,"Feb 21, 2017","Dec 31, 2017",Barcelona SC,Galácticos FC,200000.0,,Liga MX Clausura
+2,Félix Torres,Santos Laguna,€6.00m ,Ecuador,"Dec 31, 2016","Feb 21, 2017",Galácticos FC,Barcelona SC,250000.0,,Liga MX Clausura
+2,Félix Torres,Santos Laguna,€6.00m ,Ecuador,"Mar 1, 2016","Dec 31, 2016",LDU Portoviejo,Galácticos FC,250000.0,,Liga MX Clausura
+2,Félix Torres,Santos Laguna,€6.00m ,Ecuador,"Feb 2, 2016","Mar 1, 2016",Galácticos FC,LDU Portoviejo,,,Liga MX Clausura
+2,Félix Torres,Santos Laguna,€6.00m ,Ecuador,,"Feb 2, 2016",Alianza Pailon,Galácticos FC,,,Liga MX Clausura
+25,Jackson Porozo,ESTAC Troyes,€3.00m ,Ecuador,"Jul 1, 2022",,Troyes,,,,Ligue 1
+25,Jackson Porozo,ESTAC Troyes,€3.00m ,Ecuador,"Oct 1, 2020","Jul 1, 2022",Boavista,Troyes,3000000.0,3500000.0,Ligue 1
+25,Jackson Porozo,ESTAC Troyes,€3.00m ,Ecuador,"Jan 1, 2020","Oct 1, 2020",Santos FC,Boavista,300000.0,500000.0,Ligue 1
+25,Jackson Porozo,ESTAC Troyes,€3.00m ,Ecuador,"Aug 9, 2018","Jan 1, 2020",Santos FC U20,Santos FC,300000.0,,Ligue 1
+25,Jackson Porozo,ESTAC Troyes,€3.00m ,Ecuador,"Jan 1, 2017","Aug 9, 2018",Manta FC,Santos FC U20,,350000.0,Ligue 1
+25,Jackson Porozo,ESTAC Troyes,€3.00m ,Ecuador,"Sep 20, 2016","Jan 1, 2017",Manta FC U20,Manta FC,,,Ligue 1
+25,Jackson Porozo,ESTAC Troyes,€3.00m ,Ecuador,,"Sep 20, 2016",Independ. U20,Manta FC U20,,,Ligue 1
+14,Xavier Arreaga,Seattle Sounders FC,€2.00m ,Ecuador,"May 7, 2019",,Seattle,,,,MLS
+14,Xavier Arreaga,Seattle Sounders FC,€2.00m ,Ecuador,"Jan 24, 2017","May 7, 2019",Barcelona SC,Seattle,1000000.0,,MLS
+14,Xavier Arreaga,Seattle Sounders FC,€2.00m ,Ecuador,"Dec 31, 2016","Jan 24, 2017",Manta FC,Barcelona SC,250000.0,,MLS
+14,Xavier Arreaga,Seattle Sounders FC,€2.00m ,Ecuador,"Feb 2, 2016","Dec 31, 2016",Barcelona SC,Manta FC,250000.0,,MLS
+14,Xavier Arreaga,Seattle Sounders FC,€2.00m ,Ecuador,"Jan 1, 2014","Feb 2, 2016",Manta FC,Barcelona SC,300000.0,,MLS
+14,Xavier Arreaga,Seattle Sounders FC,€2.00m ,Ecuador,"Jan 22, 2013","Jan 1, 2014",Manta FC B,Manta FC,,,MLS
+14,Xavier Arreaga,Seattle Sounders FC,€2.00m ,Ecuador,"Sep 24, 2012","Jan 22, 2013",Manta FC U20,Manta FC B,,,MLS
+14,Xavier Arreaga,Seattle Sounders FC,€2.00m ,Ecuador,"Apr 10, 2012","Sep 24, 2012",Halley FC,Manta FC U20,,,MLS
+14,Xavier Arreaga,Seattle Sounders FC,€2.00m ,Ecuador,,"Apr 10, 2012",Unknown,Halley FC,,,MLS
+18,Diego Palacios,Los Angeles FC,€4.00m ,Ecuador,"Aug 7, 2019",,LAFC,,,,MLS
+18,Diego Palacios,Los Angeles FC,€4.00m ,Ecuador,"Jun 30, 2019","Aug 7, 2019",SD Aucas,LAFC,1500000.0,,MLS
+18,Diego Palacios,Los Angeles FC,€4.00m ,Ecuador,"Jul 23, 2018","Jun 30, 2019",Willem II,SD Aucas,1500000.0,,MLS
+18,Diego Palacios,Los Angeles FC,€4.00m ,Ecuador,"Jan 1, 2017","Jul 23, 2018",SD Aucas,Willem II,600000.0,,MLS
+18,Diego Palacios,Los Angeles FC,€4.00m ,Ecuador,"Feb 2, 2016","Jan 1, 2017",Aucas U20,SD Aucas,,,MLS
+18,Diego Palacios,Los Angeles FC,€4.00m ,Ecuador,"May 4, 2015","Feb 2, 2016",Norte América,Aucas U20,,,MLS
+18,Diego Palacios,Los Angeles FC,€4.00m ,Ecuador,,"May 4, 2015",CSNA U20,Norte América,,,MLS
+8,Carlos Gruezo,FC Augsburg,€4.00m ,Ecuador,"Jul 2, 2019",,FC Augsburg,,,,Bundesliga
+8,Carlos Gruezo,FC Augsburg,€4.00m ,Ecuador,"Jan 23, 2016","Jul 2, 2019",Dallas,FC Augsburg,2000000.0,4000000.0,Bundesliga
+8,Carlos Gruezo,FC Augsburg,€4.00m ,Ecuador,"Jan 30, 2014","Jan 23, 2016",VfB Stuttgart,Dallas,2000000.0,1500000.0,Bundesliga
+8,Carlos Gruezo,FC Augsburg,€4.00m ,Ecuador,"Jan 31, 2012","Jan 30, 2014",Barcelona SC,VfB Stuttgart,1000000.0,1000000.0,Bundesliga
+8,Carlos Gruezo,FC Augsburg,€4.00m ,Ecuador,"Jul 1, 2011","Jan 31, 2012",Independiente,Barcelona SC,,,Bundesliga
+8,Carlos Gruezo,FC Augsburg,€4.00m ,Ecuador,"Jan 1, 2011","Jul 1, 2011",Independiente B,Independiente,,,Bundesliga
+8,Carlos Gruezo,FC Augsburg,€4.00m ,Ecuador,"Mar 9, 2010","Jan 1, 2011",Independ. U20,Independiente B,,,Bundesliga
+8,Carlos Gruezo,FC Augsburg,€4.00m ,Ecuador,,"Mar 9, 2010",LDU Quito U20,Independ. U20,,,Bundesliga
+23,Moisés Caicedo,Brighton &amp; Hove Albion,€38.00m ,Ecuador,"Jan 12, 2022",,Brighton,,,,Premier League
+23,Moisés Caicedo,Brighton &amp; Hove Albion,€38.00m ,Ecuador,"Aug 31, 2021","Jan 12, 2022",Beerschot V.A.,Brighton,4500000.0,,Premier League
+23,Moisés Caicedo,Brighton &amp; Hove Albion,€38.00m ,Ecuador,"Feb 1, 2021","Aug 31, 2021",Brighton,Beerschot V.A.,5000000.0,,Premier League
+23,Moisés Caicedo,Brighton &amp; Hove Albion,€38.00m ,Ecuador,"Jan 1, 2020","Feb 1, 2021",Independiente,Brighton,5000000.0,5000000.0,Premier League
+23,Moisés Caicedo,Brighton &amp; Hove Albion,€38.00m ,Ecuador,"Jan 1, 2019","Jan 1, 2020",Independiente B,Independiente,50000.0,,Premier League
+23,Moisés Caicedo,Brighton &amp; Hove Albion,€38.00m ,Ecuador,,"Jan 1, 2019",Independ. U20,Independiente B,,,Premier League
+21,Alan Franco,Club Atlético Talleres,€2.50m ,Ecuador,"Jun 30, 2023",,Atlético-MG,,,,Liga Profesional
+21,Alan Franco,Club Atlético Talleres,€2.50m ,Ecuador,"Jun 24, 2022","Jun 30, 2023",CA Talleres,Atlético-MG,2500000.0,,Liga Profesional
+21,Alan Franco,Club Atlético Talleres,€2.50m ,Ecuador,"Jun 23, 2022","Jun 24, 2022",Atlético-MG,CA Talleres,2500000.0,,Liga Profesional
+21,Alan Franco,Club Atlético Talleres,€2.50m ,Ecuador,"Jan 1, 2022","Jun 23, 2022",Charlotte,Atlético-MG,2500000.0,,Liga Profesional
+21,Alan Franco,Club Atlético Talleres,€2.50m ,Ecuador,"Jul 17, 2020","Jan 1, 2022",Atlético-MG,Charlotte,2500000.0,,Liga Profesional
+21,Alan Franco,Club Atlético Talleres,€2.50m ,Ecuador,"Jan 1, 2018","Jul 17, 2020",Independiente,Atlético-MG,1600000.0,2100000.0,Liga Profesional
+21,Alan Franco,Club Atlético Talleres,€2.50m ,Ecuador,"Jan 1, 2017","Jan 1, 2018",Independiente B,Independiente,50000.0,,Liga Profesional
+21,Alan Franco,Club Atlético Talleres,€2.50m ,Ecuador,,"Jan 1, 2017",Independ. U20,Independiente B,,,Liga Profesional
+9,Ayrton Preciado,Santos Laguna,€2.50m ,Ecuador,"Jul 22, 2018",,Santos Laguna,,,,Liga MX Clausura
+9,Ayrton Preciado,Santos Laguna,€2.50m ,Ecuador,"Jan 24, 2017","Jul 22, 2018",CS Emelec,Santos Laguna,1600000.0,4250000.0,Liga MX Clausura
+9,Ayrton Preciado,Santos Laguna,€2.50m ,Ecuador,"Dec 31, 2016","Jan 24, 2017",CSD del Valle,CS Emelec,1400000.0,,Liga MX Clausura
+9,Ayrton Preciado,Santos Laguna,€2.50m ,Ecuador,"Feb 1, 2016","Dec 31, 2016",SD Aucas,CSD del Valle,1400000.0,,Liga MX Clausura
+9,Ayrton Preciado,Santos Laguna,€2.50m ,Ecuador,"Dec 31, 2015","Feb 1, 2016",CSD del Valle,SD Aucas,600000.0,,Liga MX Clausura
+9,Ayrton Preciado,Santos Laguna,€2.50m ,Ecuador,"Jul 8, 2015","Dec 31, 2015",SD Aucas,CSD del Valle,600000.0,,Liga MX Clausura
+9,Ayrton Preciado,Santos Laguna,€2.50m ,Ecuador,"Jun 30, 2015","Jul 8, 2015",CSD del Valle,SD Aucas,300000.0,,Liga MX Clausura
+9,Ayrton Preciado,Santos Laguna,€2.50m ,Ecuador,"Aug 26, 2014","Jun 30, 2015",Leixões,CSD del Valle,300000.0,,Liga MX Clausura
+9,Ayrton Preciado,Santos Laguna,€2.50m ,Ecuador,"Jul 15, 2014","Aug 26, 2014",CSD del Valle,Leixões,400000.0,,Liga MX Clausura
+9,Ayrton Preciado,Santos Laguna,€2.50m ,Ecuador,"Jul 29, 2013","Jul 15, 2014",Trofense,CSD del Valle,400000.0,0.0,Liga MX Clausura
+9,Ayrton Preciado,Santos Laguna,€2.50m ,Ecuador,"Jul 1, 2011","Jul 29, 2013",Deportivo Quito,Trofense,,,Liga MX Clausura
+9,Ayrton Preciado,Santos Laguna,€2.50m ,Ecuador,"Apr 27, 2010","Jul 1, 2011",SD Quito U20,Deportivo Quito,,,Liga MX Clausura
+9,Ayrton Preciado,Santos Laguna,€2.50m ,Ecuador,,"Apr 27, 2010",Juventus U20,SD Quito U20,,,Liga MX Clausura
+19,Gonzalo Plata,Real Valladolid CF,€5.00m ,Ecuador,"Jul 11, 2022",,Real Valladolid,,,,LaLiga
+19,Gonzalo Plata,Real Valladolid CF,€5.00m ,Ecuador,"Jun 30, 2022","Jul 11, 2022",Sporting CP,Real Valladolid,6000000.0,3000000.0,LaLiga
+19,Gonzalo Plata,Real Valladolid CF,€5.00m ,Ecuador,"Aug 31, 2021","Jun 30, 2022",Real Valladolid,Sporting CP,6000000.0,,LaLiga
+19,Gonzalo Plata,Real Valladolid CF,€5.00m ,Ecuador,"Jul 1, 2019","Aug 31, 2021",Sporting CP,Real Valladolid,5000000.0,,LaLiga
+19,Gonzalo Plata,Real Valladolid CF,€5.00m ,Ecuador,"Jan 31, 2019","Jul 1, 2019",Sporting CP U23,Sporting CP,350000.0,,LaLiga
+19,Gonzalo Plata,Real Valladolid CF,€5.00m ,Ecuador,"Jul 1, 2018","Jan 31, 2019",Independiente,Sporting CP U23,350000.0,1100000.0,LaLiga
+19,Gonzalo Plata,Real Valladolid CF,€5.00m ,Ecuador,"Jan 1, 2017","Jul 1, 2018",Independiente B,Independiente,,,LaLiga
+19,Gonzalo Plata,Real Valladolid CF,€5.00m ,Ecuador,,"Jan 1, 2017",Independ. U20,Independiente B,,,LaLiga
+11,Michael Estrada,CD Cruz Azul,€3.00m ,Ecuador,"Jun 30, 2023",,Toluca,,,,Liga MX Clausura
+11,Michael Estrada,CD Cruz Azul,€3.00m ,Ecuador,"Aug 16, 2022","Jun 30, 2023",CD Cruz Azul,Toluca,3000000.0,,Liga MX Clausura
+11,Michael Estrada,CD Cruz Azul,€3.00m ,Ecuador,"Aug 15, 2022","Aug 16, 2022",Toluca,CD Cruz Azul,3000000.0,,Liga MX Clausura
+11,Michael Estrada,CD Cruz Azul,€3.00m ,Ecuador,"Feb 8, 2022","Aug 15, 2022",D.C. United,Toluca,3000000.0,,Liga MX Clausura
+11,Michael Estrada,CD Cruz Azul,€3.00m ,Ecuador,"Jan 1, 2020","Feb 8, 2022",Toluca,D.C. United,3000000.0,,Liga MX Clausura
+11,Michael Estrada,CD Cruz Azul,€3.00m ,Ecuador,"Dec 31, 2019","Jan 1, 2020",Independiente,Toluca,3000000.0,2700000.0,Liga MX Clausura
+11,Michael Estrada,CD Cruz Azul,€3.00m ,Ecuador,"Feb 1, 2019","Dec 31, 2019",CD Macará,Independiente,3000000.0,,Liga MX Clausura
+11,Michael Estrada,CD Cruz Azul,€3.00m ,Ecuador,"Jan 5, 2017","Feb 1, 2019",Independiente,CD Macará,600000.0,,Liga MX Clausura
+11,Michael Estrada,CD Cruz Azul,€3.00m ,Ecuador,"Dec 31, 2016","Jan 5, 2017",CD Macará,Independiente,1600000.0,470000.0,Liga MX Clausura
+11,Michael Estrada,CD Cruz Azul,€3.00m ,Ecuador,"Jan 30, 2016","Dec 31, 2016",CD El Nacional,CD Macará,1600000.0,,Liga MX Clausura
+11,Michael Estrada,CD Cruz Azul,€3.00m ,Ecuador,"Apr 15, 2014","Jan 30, 2016",CD Macará,CD El Nacional,50000.0,,Liga MX Clausura
+11,Michael Estrada,CD Cruz Azul,€3.00m ,Ecuador,"Dec 20, 2013","Apr 15, 2014",CS Patria,CD Macará,50000.0,,Liga MX Clausura
+11,Michael Estrada,CD Cruz Azul,€3.00m ,Ecuador,"Feb 5, 2013","Dec 20, 2013",CD Macará,CS Patria,,,Liga MX Clausura
+11,Michael Estrada,CD Cruz Azul,€3.00m ,Ecuador,,"Feb 5, 2013",CS Patria,CD Macará,,,Liga MX Clausura
+24,Djorkaeff Reasco,CA Newell's Old Boys,€500k ,Ecuador,"Feb 10, 2022",,Newell's,,,,Liga Profesional
+24,Djorkaeff Reasco,CA Newell's Old Boys,€500k ,Ecuador,"Dec 31, 2020","Feb 10, 2022",LDU Quito,Newell's,700000.0,1050000.0,Liga Profesional
+24,Djorkaeff Reasco,CA Newell's Old Boys,€500k ,Ecuador,"Jan 31, 2020","Dec 31, 2020",Dorados Sinaloa,LDU Quito,200000.0,,Liga Profesional
+24,Djorkaeff Reasco,CA Newell's Old Boys,€500k ,Ecuador,"Jan 1, 2017","Jan 31, 2020",LDU Quito,Dorados Sinaloa,50000.0,,Liga Profesional
+24,Djorkaeff Reasco,CA Newell's Old Boys,€500k ,Ecuador,,"Jan 1, 2017",LDU Quito U20,LDU Quito,,,Liga Profesional

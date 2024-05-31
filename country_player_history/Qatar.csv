@@ -1,0 +1,128 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+1,Saad Al-Sheeb,Al-Sadd SC,€200k ,Qatar,"Jan 1, 2008",,Al-Sadd SC,,,,Stars League
+1,Saad Al-Sheeb,Al-Sadd SC,€200k ,Qatar,,"Jan 1, 2008",Al-Sadd Reserve,Al-Sadd SC,,,Stars League
+15,Bassam Al-Rawi,Al-Duhail SC,€500k ,Qatar,"Jul 28, 2017",,Al-Duhail SC,,,,Stars League
+15,Bassam Al-Rawi,Al-Duhail SC,€500k ,Qatar,"Jun 30, 2017","Jul 28, 2017",Al-Rayyan SC,Al-Duhail SC,25000.0,,Stars League
+15,Bassam Al-Rawi,Al-Duhail SC,€500k ,Qatar,"Jul 8, 2016","Jun 30, 2017",KAS Eupen U21,Al-Rayyan SC,25000.0,,Stars League
+15,Bassam Al-Rawi,Al-Duhail SC,€500k ,Qatar,"Jun 30, 2016","Jul 8, 2016",Al-Rayyan SC,KAS Eupen U21,25000.0,,Stars League
+15,Bassam Al-Rawi,Al-Duhail SC,€500k ,Qatar,"Mar 8, 2016","Jun 30, 2016",Celta U19,Al-Rayyan SC,25000.0,,Stars League
+15,Bassam Al-Rawi,Al-Duhail SC,€500k ,Qatar,"Jan 1, 2015","Mar 8, 2016",Al-Rayyan SC,Celta U19,25000.0,,Stars League
+15,Bassam Al-Rawi,Al-Duhail SC,€500k ,Qatar,,"Jan 1, 2015",Al-Rayyan Res.,Al-Rayyan SC,,,Stars League
+16,Boualem Khoukhi,Al-Sadd SC,€400k ,Qatar,"Jul 1, 2017",,Al-Sadd SC,,,,Stars League
+16,Boualem Khoukhi,Al-Sadd SC,€400k ,Qatar,"Jul 1, 2009","Jul 1, 2017",Al-Arabi SC,Al-Sadd SC,500000.0,,Stars League
+16,Boualem Khoukhi,Al-Sadd SC,€400k ,Qatar,"Jul 1, 2007","Jul 1, 2009",JSM Chéraga,Al-Arabi SC,,,Stars League
+16,Boualem Khoukhi,Al-Sadd SC,€400k ,Qatar,,"Jul 1, 2007",Chéraga U21,JSM Chéraga,,,Stars League
+25,Jassem Gaber Abdulsallam,Al-Arabi SC,€175k ,Qatar,"Jul 1, 2019",,Al-Arabi SC,,,,Stars League
+25,Jassem Gaber Abdulsallam,Al-Arabi SC,€175k ,Qatar,,"Jul 1, 2019",ASPIRE Academy,Al-Arabi SC,,0.0,Stars League
+14,Homam Ahmed,Al-Gharafa SC,€500k ,Qatar,"Sep 1, 2019",,Al-Gharafa SC,,,,Stars League
+14,Homam Ahmed,Al-Gharafa SC,€500k ,Qatar,"Jan 1, 2018","Sep 1, 2019",KAS Eupen U21,Al-Gharafa SC,25000.0,,Stars League
+14,Homam Ahmed,Al-Gharafa SC,€500k ,Qatar,,"Jan 1, 2018",ASPIRE Academy,KAS Eupen U21,,,Stars League
+12,Karim Boudiaf,Al-Duhail SC,€450k ,Qatar,"Jul 1, 2010",,Lekhwiya,,,,Stars League
+12,Karim Boudiaf,Al-Duhail SC,€450k ,Qatar,"Jul 1, 2008","Jul 1, 2010",AS Nancy B,Lekhwiya,,,Stars League
+12,Karim Boudiaf,Al-Duhail SC,€450k ,Qatar,,"Jul 1, 2008",Lorient B,AS Nancy B,,,Stars League
+23,Assim Madibo,Al-Duhail SC,€300k ,Qatar,"Jul 1, 2018",,Al-Duhail SC,,,,Stars League
+23,Assim Madibo,Al-Duhail SC,€300k ,Qatar,"Jan 28, 2018","Jul 1, 2018",Al-Gharafa SC,Al-Duhail SC,100000.0,,Stars League
+23,Assim Madibo,Al-Duhail SC,€300k ,Qatar,"Jan 26, 2018","Jan 28, 2018",Al-Duhail SC,Al-Gharafa SC,100000.0,,Stars League
+23,Assim Madibo,Al-Duhail SC,€300k ,Qatar,"Jul 14, 2017","Jan 26, 2018",KAS Eupen,Al-Duhail SC,100000.0,,Stars League
+23,Assim Madibo,Al-Duhail SC,€300k ,Qatar,"Jul 1, 2016","Jul 14, 2017",Al-Duhail SC,KAS Eupen,100000.0,,Stars League
+23,Assim Madibo,Al-Duhail SC,€300k ,Qatar,"Jan 1, 2016","Jul 1, 2016",CyD Leonesa,Lekhwiya,,0.0,Stars League
+23,Assim Madibo,Al-Duhail SC,€300k ,Qatar,"Jan 12, 2015","Jan 1, 2016",LASK,CyD Leonesa,50000.0,0.0,Stars League
+23,Assim Madibo,Al-Duhail SC,€300k ,Qatar,,"Jan 12, 2015",ASPIRE Academy,LASK,,0.0,Stars League
+6,Abdulaziz Hatem,Al-Rayyan SC,€500k ,Qatar,"Jul 18, 2019",,Al-Rayyan SC,,,,Stars League
+6,Abdulaziz Hatem,Al-Rayyan SC,€500k ,Qatar,"Jul 1, 2015","Jul 18, 2019",Al-Gharafa SC,Al-Rayyan SC,600000.0,,Stars League
+6,Abdulaziz Hatem,Al-Rayyan SC,€500k ,Qatar,"Jul 1, 2007","Jul 1, 2015",Al-Arabi SC,Al-Gharafa SC,100000.0,,Stars League
+6,Abdulaziz Hatem,Al-Rayyan SC,€500k ,Qatar,,"Jul 1, 2007",Al-Arabi SC Yth,Al-Arabi SC,,,Stars League
+8,Ali Asad,Al-Sadd SC,€200k ,Qatar,"Jul 1, 2011",,Al-Sadd SC,,,,Stars League
+8,Ali Asad,Al-Sadd SC,€200k ,Qatar,"Jul 1, 2008","Jul 1, 2011",Al-Sadd Reserve,Al-Sadd SC,,,Stars League
+8,Ali Asad,Al-Sadd SC,€200k ,Qatar,,"Jul 1, 2008",Al-Muharraq U19,Al-Sadd Reserve,,,Stars League
+18,Khalid Muneer Mazeed,Al-Wakrah SC,€250k ,Qatar,"Jul 1, 2021",,Al-Wakrah SC,,,,Stars League
+18,Khalid Muneer Mazeed,Al-Wakrah SC,€250k ,Qatar,"Jun 30, 2021","Jul 1, 2021",Al-Duhail SC,Al-Wakrah SC,125000.0,0.0,Stars League
+18,Khalid Muneer Mazeed,Al-Wakrah SC,€250k ,Qatar,"Jul 1, 2019","Jun 30, 2021",Al-Wakrah SC,Al-Duhail SC,125000.0,,Stars League
+18,Khalid Muneer Mazeed,Al-Wakrah SC,€250k ,Qatar,"Jul 1, 2018","Jul 1, 2019",Al-Duhail SC,Al-Wakrah SC,25000.0,,Stars League
+18,Khalid Muneer Mazeed,Al-Wakrah SC,€250k ,Qatar,"Jan 1, 2018","Jul 1, 2018",Júpiter Leonés,Al-Duhail SC,,0.0,Stars League
+18,Khalid Muneer Mazeed,Al-Wakrah SC,€250k ,Qatar,"Jul 1, 2017","Jan 1, 2018",Astorga,Júpiter Leonés,,,Stars League
+18,Khalid Muneer Mazeed,Al-Wakrah SC,€250k ,Qatar,"Jul 16, 2014","Jul 1, 2017",Al-Duhail SC,Astorga,,,Stars League
+18,Khalid Muneer Mazeed,Al-Wakrah SC,€250k ,Qatar,,"Jul 16, 2014",ASPIRE Academy,Lekhwiya,,,Stars League
+24,Naif Al-Hadhrami,Al-Rayyan SC,€275k ,Qatar,"Jul 1, 2020",,Al-Rayyan SC,,,,Stars League
+24,Naif Al-Hadhrami,Al-Rayyan SC,€275k ,Qatar,,"Jul 1, 2020",Al-Rayyan Res.,Al-Rayyan SC,,,Stars League
+19,Almoez Ali,Al-Duhail SC,€2.00m ,Qatar,"Jul 1, 2016",,Lekhwiya,,,,Stars League
+19,Almoez Ali,Al-Duhail SC,€2.00m ,Qatar,"Jan 1, 2016","Jul 1, 2016",CyD Leonesa,Lekhwiya,,0.0,Stars League
+19,Almoez Ali,Al-Duhail SC,€2.00m ,Qatar,"Jul 10, 2015","Jan 1, 2016",LASK,CyD Leonesa,100000.0,0.0,Stars League
+19,Almoez Ali,Al-Duhail SC,€2.00m ,Qatar,"Jul 1, 2014","Jul 10, 2015",KAS Eupen U19,LASK,,0.0,Stars League
+19,Almoez Ali,Al-Duhail SC,€2.00m ,Qatar,"Jul 1, 2013","Jul 1, 2014",Al-Duhail Res.,KAS Eupen U19,,,Stars League
+19,Almoez Ali,Al-Duhail SC,€2.00m ,Qatar,,"Jul 1, 2013",ASPIRE Academy,Al-Duhail Res.,,,Stars League
+9,Mohammed Muntari,Al-Duhail SC,€300k ,Qatar,"Feb 15, 2019",,Al-Duhail SC,,,,Stars League
+9,Mohammed Muntari,Al-Duhail SC,€300k ,Qatar,"Aug 30, 2018","Feb 15, 2019",Al-Ahli SC,Al-Duhail SC,700000.0,,Stars League
+9,Mohammed Muntari,Al-Duhail SC,€300k ,Qatar,"Aug 1, 2018","Aug 30, 2018",Al-Duhail SC,Al-Ahli SC,700000.0,0.0,Stars League
+9,Mohammed Muntari,Al-Duhail SC,€300k ,Qatar,"Nov 17, 2017","Aug 1, 2018",Al-Ahli SC,Al-Duhail SC,700000.0,,Stars League
+9,Mohammed Muntari,Al-Duhail SC,€300k ,Qatar,"Jul 23, 2015","Nov 17, 2017",Al-Duhail SC,Al-Ahli SC,1000000.0,,Stars League
+9,Mohammed Muntari,Al-Duhail SC,€300k ,Qatar,"Jul 1, 2012","Jul 23, 2015",El-Jaish,Lekhwiya,100000.0,4580000.0,Stars League
+9,Mohammed Muntari,Al-Duhail SC,€300k ,Qatar,,"Jul 1, 2012",Golden Lions SA,El-Jaish,50000.0,,Stars League
+22,Meshaal Barsham,Al-Sadd SC,€450k ,Qatar,"Jul 1, 2017",,Al-Sadd SC,,,,Stars League
+22,Meshaal Barsham,Al-Sadd SC,€450k ,Qatar,,"Jul 1, 2017",Al-Sadd Reserve,Al-Sadd SC,,,Stars League
+21,Yousef Hassan,Al-Gharafa SC,€150k ,Qatar,"Jul 1, 2016",,Al-Gharafa SC,,,,Stars League
+21,Yousef Hassan,Al-Gharafa SC,€150k ,Qatar,"Jul 1, 2015","Jul 1, 2016",KAS Eupen,Al-Gharafa SC,,0.0,Stars League
+21,Yousef Hassan,Al-Gharafa SC,€150k ,Qatar,"Jul 1, 2014","Jul 1, 2015",Al-Gharafa SC,KAS Eupen,,0.0,Stars League
+21,Yousef Hassan,Al-Gharafa SC,€150k ,Qatar,,"Jul 1, 2014",Villarreal U19,Al-Gharafa SC,,0.0,Stars League
+5,Tarek Salman,Al-Sadd SC,€400k ,Qatar,"Jul 1, 2019",,Al-Sadd SC,,,,Stars League
+5,Tarek Salman,Al-Sadd SC,€400k ,Qatar,"Jun 30, 2019","Jul 1, 2019",Júpiter Leonés,Al-Sadd SC,375000.0,,Stars League
+5,Tarek Salman,Al-Sadd SC,€400k ,Qatar,"Jul 13, 2018","Jun 30, 2019",Al-Sadd SC,Júpiter Leonés,375000.0,,Stars League
+5,Tarek Salman,Al-Sadd SC,€400k ,Qatar,"Jun 30, 2018","Jul 13, 2018",Júpiter Leonés,Al-Sadd SC,50000.0,,Stars League
+5,Tarek Salman,Al-Sadd SC,€400k ,Qatar,"Aug 16, 2017","Jun 30, 2018",Astorga,Júpiter Leonés,50000.0,,Stars League
+5,Tarek Salman,Al-Sadd SC,€400k ,Qatar,"Nov 1, 2016","Aug 16, 2017",Júpiter Leonés,Astorga,50000.0,,Stars League
+5,Tarek Salman,Al-Sadd SC,€400k ,Qatar,"Jul 1, 2009","Nov 1, 2016",Unknown,Júpiter Leonés,50000.0,,Stars League
+5,Tarek Salman,Al-Sadd SC,€400k ,Qatar,"Jul 1, 2008","Jul 1, 2009",ASPIRE Academy,Unknown,,,Stars League
+5,Tarek Salman,Al-Sadd SC,€400k ,Qatar,,"Jul 1, 2008",Al-Wakrah Youth,ASPIRE Academy,,,Stars League
+2,Pedro Miguel,Al-Sadd SC,€325k ,Qatar,"Jan 31, 2016",,Al-Sadd SC,,,,Stars League
+2,Pedro Miguel,Al-Sadd SC,€325k ,Qatar,"Jan 1, 2011","Jan 31, 2016",Al-Ahli SC,Al-Sadd SC,100000.0,,Stars League
+2,Pedro Miguel,Al-Sadd SC,€325k ,Qatar,"Jul 1, 2010","Jan 1, 2011",Aljustrelense,Al-Ahli SC,,,Stars League
+2,Pedro Miguel,Al-Sadd SC,€325k ,Qatar,"Jul 1, 2009","Jul 1, 2010",Farense,Aljustrelense,,,Stars League
+2,Pedro Miguel,Al-Sadd SC,€325k ,Qatar,"Jul 1, 2007","Jul 1, 2009",Farense U19,Farense,,,Stars League
+2,Pedro Miguel,Al-Sadd SC,€325k ,Qatar,"Jul 1, 2006","Jul 1, 2007",Estoril U17,Farense U19,,,Stars League
+2,Pedro Miguel,Al-Sadd SC,€325k ,Qatar,,"Jul 1, 2006",Estrela U17,Estoril U17,,,Stars League
+3,Abdelkarim Hassan,Al-Sadd SC,€750k ,Qatar,"Jan 17, 2018",,Al-Sadd SC,,,,Stars League
+3,Abdelkarim Hassan,Al-Sadd SC,€750k ,Qatar,"Jul 1, 2017","Jan 17, 2018",KAS Eupen,Al-Sadd SC,650000.0,,Stars League
+3,Abdelkarim Hassan,Al-Sadd SC,€750k ,Qatar,"Jul 1, 2010","Jul 1, 2017",Al-Sadd SC,KAS Eupen,650000.0,,Stars League
+3,Abdelkarim Hassan,Al-Sadd SC,€750k ,Qatar,,"Jul 1, 2010",Al-Sadd Reserve,Al-Sadd SC,,,Stars League
+13,Musab Khoder,Al-Sadd SC,€250k ,Qatar,"Aug 31, 2020",,Al-Sadd SC,,,,Stars League
+13,Musab Khoder,Al-Sadd SC,€250k ,Qatar,"Jan 6, 2019","Aug 31, 2020",Al-Arabi SC,Al-Sadd SC,225000.0,,Stars League
+13,Musab Khoder,Al-Sadd SC,€250k ,Qatar,"Jun 30, 2017","Jan 6, 2019",Al-Sadd SC,Al-Arabi SC,200000.0,,Stars League
+13,Musab Khoder,Al-Sadd SC,€250k ,Qatar,"Jan 24, 2017","Jun 30, 2017",Al-Rayyan SC,Al-Sadd SC,100000.0,,Stars League
+13,Musab Khoder,Al-Sadd SC,€250k ,Qatar,"Jul 1, 2013","Jan 24, 2017",Al-Sadd SC,Al-Rayyan SC,100000.0,,Stars League
+13,Musab Khoder,Al-Sadd SC,€250k ,Qatar,,"Jul 1, 2013",Al-Sadd Reserve,Al-Sadd SC,,,Stars League
+4,Mohammed Waad,Al-Sadd SC,€400k ,Qatar,"Feb 1, 2020",,Al-Sadd SC,,,,Stars League
+4,Mohammed Waad,Al-Sadd SC,€400k ,Qatar,"Jul 1, 2019","Feb 1, 2020",Al-Wakrah SC,Al-Sadd SC,50000.0,,Stars League
+4,Mohammed Waad,Al-Sadd SC,€400k ,Qatar,"Jun 30, 2019","Jul 1, 2019",Al-Sadd SC,Al-Wakrah SC,50000.0,,Stars League
+4,Mohammed Waad,Al-Sadd SC,€400k ,Qatar,"Jan 1, 2019","Jun 30, 2019",Al-Ahli SC,Al-Sadd SC,50000.0,,Stars League
+4,Mohammed Waad,Al-Sadd SC,€400k ,Qatar,"Dec 31, 2018","Jan 1, 2019",Al-Sadd SC,Al-Ahli SC,50000.0,,Stars League
+4,Mohammed Waad,Al-Sadd SC,€400k ,Qatar,"Jul 1, 2018","Dec 31, 2018",Júpiter Leonés,Al-Sadd SC,50000.0,,Stars League
+4,Mohammed Waad,Al-Sadd SC,€400k ,Qatar,"Jul 1, 2016","Jul 1, 2018",Al-Sadd SC,Júpiter Leonés,50000.0,,Stars League
+4,Mohammed Waad,Al-Sadd SC,€400k ,Qatar,,"Jul 1, 2016",Al-Sadd Reserve,Al-Sadd SC,,,Stars League
+20,Salem Al-Hajri,Al-Sadd SC,€250k ,Qatar,"Jan 1, 2016",,Al-Sadd SC,,,,Stars League
+20,Salem Al-Hajri,Al-Sadd SC,€250k ,Qatar,"Jul 1, 2015","Jan 1, 2016",KAS Eupen,Al-Sadd SC,25000.0,0.0,Stars League
+20,Salem Al-Hajri,Al-Sadd SC,€250k ,Qatar,,"Jul 1, 2015",Al-Sadd SC,KAS Eupen,,0.0,Stars League
+26,Mustafa Mashaal,Al-Sadd SC,€150k ,Qatar,"Jul 1, 2019",,Al-Sadd SC,,,,Stars League
+26,Mustafa Mashaal,Al-Sadd SC,€150k ,Qatar,,"Jul 1, 2019",Al-Sadd Reserve,Al-Sadd SC,,,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,"Jul 8, 2020",,Al-Sadd SC,,,,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,"Jun 30, 2020","Jul 8, 2020",Villarreal,Al-Sadd SC,3200000.0,1000000.0,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,"Jan 31, 2018","Jun 30, 2020",Al-Sadd SC,Villarreal,3200000.0,,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,"Jan 30, 2018","Jan 31, 2018",Villarreal,Al-Sadd SC,700000.0,,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,"Jul 14, 2017","Jan 30, 2018",KAS Eupen,Villarreal,700000.0,,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,"Jun 30, 2017","Jul 14, 2017",Villarreal,KAS Eupen,600000.0,,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,"Aug 4, 2016","Jun 30, 2017",Sporting Gijón,Villarreal,600000.0,,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,"Jul 1, 2016","Aug 4, 2016",Villarreal,Sporting Gijón,600000.0,,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,"Jun 30, 2016","Jul 1, 2016",Al-Sadd SC,Villarreal,400000.0,,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,"Jan 7, 2015","Jun 30, 2016",KAS Eupen,Al-Sadd SC,400000.0,,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,"Dec 31, 2014","Jan 7, 2015",Al-Sadd SC,KAS Eupen,,,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,"Jul 1, 2014","Dec 31, 2014",Villarreal U19,Al-Sadd SC,,,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,"Jun 30, 2014","Jul 1, 2014",Al-Sadd SC,Villarreal U19,,,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,"Oct 1, 2012","Jun 30, 2014",Sevilla FC U19,Al-Sadd SC,,,Stars League
+11,Akram Afif,Al-Sadd SC,€4.00m ,Qatar,,"Oct 1, 2012",Al-Sadd SC,Sevilla FC U19,,,Stars League
+10,Hasan Al-Haydos,Al-Sadd SC,€900k ,Qatar,"Jul 1, 2007",,Al-Sadd SC,,,,Stars League
+10,Hasan Al-Haydos,Al-Sadd SC,€900k ,Qatar,,"Jul 1, 2007",Al-Sadd Reserve,Al-Sadd SC,,,Stars League
+17,Ismaeel Mohammed,Al-Duhail SC,€225k ,Qatar,"Jul 1, 2011",,Lekhwiya,,,,Stars League
+17,Ismaeel Mohammed,Al-Duhail SC,€225k ,Qatar,"Jul 1, 2009","Jul 1, 2011",El-Jaish,Lekhwiya,,,Stars League
+17,Ismaeel Mohammed,Al-Duhail SC,€225k ,Qatar,,"Jul 1, 2009",El-Jaish Res.,El-Jaish,,,Stars League
+7,Ahmed Alaaeldin,Al-Gharafa SC,€600k ,Qatar,"Jul 7, 2017",,Al-Gharafa SC,,,,Stars League
+7,Ahmed Alaaeldin,Al-Gharafa SC,€600k ,Qatar,"Jul 1, 2012","Jul 7, 2017",Al-Rayyan SC,Al-Gharafa SC,100000.0,,Stars League
+7,Ahmed Alaaeldin,Al-Gharafa SC,€600k ,Qatar,,"Jul 1, 2012",Al-Rayyan Res.,Al-Rayyan SC,,,Stars League

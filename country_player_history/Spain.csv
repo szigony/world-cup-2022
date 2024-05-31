@@ -1,0 +1,170 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+23,Unai Simón,Athletic Bilbao,€25.00m ,Spain,"Jul 1, 2018",,Athletic,,,,LaLiga
+23,Unai Simón,Athletic Bilbao,€25.00m ,Spain,"Jul 1, 2016","Jul 1, 2018",Bilbao Athletic,Athletic,500000.0,,LaLiga
+23,Unai Simón,Athletic Bilbao,€25.00m ,Spain,"Jul 1, 2014","Jul 1, 2016",CD Basconia,Bilbao Athletic,100000.0,,LaLiga
+23,Unai Simón,Athletic Bilbao,€25.00m ,Spain,,"Jul 1, 2014",Bilbao Youth,CD Basconia,,,LaLiga
+4,Pau Torres,Villarreal CF,€50.00m ,Spain,"Jun 30, 2019",,Villarreal,,,,LaLiga
+4,Pau Torres,Villarreal CF,€50.00m ,Spain,"Aug 6, 2018","Jun 30, 2019",Málaga CF,Villarreal,4000000.0,,LaLiga
+4,Pau Torres,Villarreal CF,€50.00m ,Spain,"Jul 1, 2018","Aug 6, 2018",Villarreal,Málaga CF,500000.0,,LaLiga
+4,Pau Torres,Villarreal CF,€50.00m ,Spain,"Jul 1, 2016","Jul 1, 2018",Villarreal CF B,Villarreal,500000.0,,LaLiga
+4,Pau Torres,Villarreal CF,€50.00m ,Spain,"Jul 1, 2014","Jul 1, 2016",Villarreal U19,Villarreal CF B,,,LaLiga
+4,Pau Torres,Villarreal CF,€50.00m ,Spain,,"Jul 1, 2014",Villarreal Yth.,Villarreal U19,,,LaLiga
+3,Eric García,FC Barcelona,€18.00m ,Spain,"Jul 1, 2021",,Barcelona,,,,LaLiga
+3,Eric García,FC Barcelona,€18.00m ,Spain,"Jul 1, 2019","Jul 1, 2021",Man City,Barcelona,20000000.0,0.0,LaLiga
+3,Eric García,FC Barcelona,€18.00m ,Spain,"Jul 1, 2018","Jul 1, 2019",Man City U23,Man City,,,LaLiga
+3,Eric García,FC Barcelona,€18.00m ,Spain,"Jul 1, 2017","Jul 1, 2018",Man City U18,Man City U23,,,LaLiga
+3,Eric García,FC Barcelona,€18.00m ,Spain,"Jul 1, 2016","Jul 1, 2017",Barça U16,Man City U18,,1700000.0,LaLiga
+3,Eric García,FC Barcelona,€18.00m ,Spain,,"Jul 1, 2016",Barça Youth,Barça U16,,,LaLiga
+18,Jordi Alba,FC Barcelona,€5.00m ,Spain,"Jul 1, 2012",,Barcelona,,,,LaLiga
+18,Jordi Alba,FC Barcelona,€5.00m ,Spain,"Jun 30, 2009","Jul 1, 2012",Valencia,Barcelona,10000000.0,14000000.0,LaLiga
+18,Jordi Alba,FC Barcelona,€5.00m ,Spain,"Jul 22, 2008","Jun 30, 2009",Gimnàstic,Valencia,600000.0,,LaLiga
+18,Jordi Alba,FC Barcelona,€5.00m ,Spain,"Jul 1, 2008","Jul 22, 2008",Valencia,Gimnàstic,,,LaLiga
+18,Jordi Alba,FC Barcelona,€5.00m ,Spain,"Jul 1, 2007","Jul 1, 2008",Valencia B,Valencia,,,LaLiga
+18,Jordi Alba,FC Barcelona,€5.00m ,Spain,"Jul 1, 2005","Jul 1, 2007",Cornellà U19,Valencia B,,6000.0,LaLiga
+18,Jordi Alba,FC Barcelona,€5.00m ,Spain,"Jul 1, 2004","Jul 1, 2005",Barça U18,Cornellà U19,,0.0,LaLiga
+18,Jordi Alba,FC Barcelona,€5.00m ,Spain,"Jul 1, 2003","Jul 1, 2004",Barça U16,Barça U18,,,LaLiga
+18,Jordi Alba,FC Barcelona,€5.00m ,Spain,,"Jul 1, 2003",Barça Youth,Barça U16,,,LaLiga
+2,César Azpilicueta,Chelsea FC,€8.00m ,Spain,"Aug 24, 2012",,Chelsea,,,,Premier League
+2,César Azpilicueta,Chelsea FC,€8.00m ,Spain,"Jul 1, 2010","Aug 24, 2012",Marseille,Chelsea,7500000.0,8800000.0,Premier League
+2,César Azpilicueta,Chelsea FC,€8.00m ,Spain,"Jul 1, 2007","Jul 1, 2010",CA Osasuna,Marseille,7000000.0,6000000.0,Premier League
+2,César Azpilicueta,Chelsea FC,€8.00m ,Spain,"Jul 1, 2006","Jul 1, 2007",CA Osasuna Prom,CA Osasuna,,,Premier League
+2,César Azpilicueta,Chelsea FC,€8.00m ,Spain,,"Jul 1, 2006",CA Osasuna Yout,CA Osasuna Prom,,,Premier League
+15,Hugo Guillamón,Valencia CF,€25.00m ,Spain,"Jul 1, 2020",,Valencia,,,,LaLiga
+15,Hugo Guillamón,Valencia CF,€25.00m ,Spain,"Jul 1, 2018","Jul 1, 2020",Valencia B,Valencia,200000.0,,LaLiga
+15,Hugo Guillamón,Valencia CF,€25.00m ,Spain,"Jul 1, 2017","Jul 1, 2018",Valencia U19,Valencia B,50000.0,,LaLiga
+15,Hugo Guillamón,Valencia CF,€25.00m ,Spain,,"Jul 1, 2017",Valencia CF You,Valencia U19,,,LaLiga
+26,Pedri,FC Barcelona,€100.00m ,Spain,"Jul 31, 2020",,Barcelona,,,,LaLiga
+26,Pedri,FC Barcelona,€100.00m ,Spain,"Sep 3, 2019","Jul 31, 2020",UD Las Palmas,Barcelona,7200000.0,,LaLiga
+26,Pedri,FC Barcelona,€100.00m ,Spain,"Sep 2, 2019","Sep 3, 2019",Barcelona,UD Las Palmas,,,LaLiga
+26,Pedri,FC Barcelona,€100.00m ,Spain,"Jul 1, 2019","Sep 2, 2019",UD Las Palmas,Barcelona,,17500000.0,LaLiga
+26,Pedri,FC Barcelona,€100.00m ,Spain,"May 20, 2018","Jul 1, 2019",Las Palmas U19,UD Las Palmas,,,LaLiga
+26,Pedri,FC Barcelona,€100.00m ,Spain,,"May 20, 2018",J.Laguna Yth.,Las Palmas U19,,,LaLiga
+6,Marcos Llorente,Atlético de Madrid,€35.00m ,Spain,"Jul 1, 2019",,Atlético Madrid,,,,LaLiga
+6,Marcos Llorente,Atlético de Madrid,€35.00m ,Spain,"Jun 30, 2017","Jul 1, 2019",Real Madrid,Atlético Madrid,20000000.0,30000000.0,LaLiga
+6,Marcos Llorente,Atlético de Madrid,€35.00m ,Spain,"Aug 10, 2016","Jun 30, 2017",Alavés,Real Madrid,15000000.0,,LaLiga
+6,Marcos Llorente,Atlético de Madrid,€35.00m ,Spain,"Jul 1, 2016","Aug 10, 2016",Real Madrid,Alavés,800000.0,,LaLiga
+6,Marcos Llorente,Atlético de Madrid,€35.00m ,Spain,"Jul 1, 2014","Jul 1, 2016",RM Castilla,Real Madrid,,,LaLiga
+6,Marcos Llorente,Atlético de Madrid,€35.00m ,Spain,"Jul 1, 2013","Jul 1, 2014",Real Madrid U19,RM Castilla,200000.0,,LaLiga
+6,Marcos Llorente,Atlético de Madrid,€35.00m ,Spain,"Jul 1, 2012","Jul 1, 2013",Real Madrid U18,Real Madrid U19,,,LaLiga
+6,Marcos Llorente,Atlético de Madrid,€35.00m ,Spain,"Jul 1, 2011","Jul 1, 2012",Real Madrid U17,Real Madrid U18,,,LaLiga
+6,Marcos Llorente,Atlético de Madrid,€35.00m ,Spain,"Jul 1, 2008","Jul 1, 2011",R.Madrid Yth.,Real Madrid U17,,,LaLiga
+6,Marcos Llorente,Atlético de Madrid,€35.00m ,Spain,,"Jul 1, 2008",CF Rayo Majadaho,R.Madrid Yth.,,0.0,LaLiga
+8,Koke,Atlético de Madrid,€18.00m ,Spain,"Jan 1, 2011",,Atlético Madrid,,,,LaLiga
+8,Koke,Atlético de Madrid,€18.00m ,Spain,"Jul 1, 2008","Jan 1, 2011",Atl. Madrid B,Atlético Madrid,,,LaLiga
+8,Koke,Atlético de Madrid,€18.00m ,Spain,,"Jul 1, 2008",Atl. Madrid U19,Atl. Madrid B,,,LaLiga
+25,Ansu Fati,FC Barcelona,€50.00m ,Spain,"Sep 23, 2020",,Barcelona,,,,LaLiga
+25,Ansu Fati,FC Barcelona,€50.00m ,Spain,"Dec 4, 2019","Sep 23, 2020",Barcelona B,Barcelona,50000000.0,,LaLiga
+25,Ansu Fati,FC Barcelona,€50.00m ,Spain,"Jul 1, 2018","Dec 4, 2019",Barça U19,Barcelona B,25000000.0,,LaLiga
+25,Ansu Fati,FC Barcelona,€50.00m ,Spain,"Jul 1, 2017","Jul 1, 2018",Barça U18,Barça U19,,,LaLiga
+25,Ansu Fati,FC Barcelona,€50.00m ,Spain,"Jul 1, 2016","Jul 1, 2017",Barça U16,Barça U18,,,LaLiga
+25,Ansu Fati,FC Barcelona,€50.00m ,Spain,"Jul 1, 2012","Jul 1, 2016",Barça Youth,Barça U16,,,LaLiga
+25,Ansu Fati,FC Barcelona,€50.00m ,Spain,,"Jul 1, 2012",Sevilla FC Yth.,Barça Youth,,0.0,LaLiga
+17,Yéremy Pino,Villarreal CF,€38.00m ,Spain,"Aug 1, 2020",,Villarreal,,,,LaLiga
+17,Yéremy Pino,Villarreal CF,€38.00m ,Spain,"Jul 1, 2019","Aug 1, 2020",FC Villarreal C,Villarreal,,,LaLiga
+17,Yéremy Pino,Villarreal CF,€38.00m ,Spain,"Jul 1, 2018","Jul 1, 2019",Roda U19,FC Villarreal C,,,LaLiga
+17,Yéremy Pino,Villarreal CF,€38.00m ,Spain,"Jul 1, 2016","Jul 1, 2018",CD Roda Youth,Roda U19,,,LaLiga
+17,Yéremy Pino,Villarreal CF,€38.00m ,Spain,,"Jul 1, 2016",Las Palmas Yth.,CD Roda Youth,,0.0,LaLiga
+12,Nico Williams,Athletic Bilbao,€25.00m ,Spain,"Jul 1, 2021",,Athletic,,,,LaLiga
+12,Nico Williams,Athletic Bilbao,€25.00m ,Spain,"Jul 1, 2020","Jul 1, 2021",Bilbao Athletic,Athletic,1500000.0,,LaLiga
+12,Nico Williams,Athletic Bilbao,€25.00m ,Spain,"Jul 1, 2019","Jul 1, 2020",Bilbao U19,Bilbao Athletic,,,LaLiga
+12,Nico Williams,Athletic Bilbao,€25.00m ,Spain,"Jul 1, 2013","Jul 1, 2019",Bilbao Youth,Bilbao U19,,,LaLiga
+12,Nico Williams,Athletic Bilbao,€25.00m ,Spain,,"Jul 1, 2013",CA Osasuna Yout,Bilbao Youth,,0.0,LaLiga
+7,Álvaro Morata,Atlético de Madrid,€25.00m ,Spain,"Jun 30, 2022",,Atlético Madrid,,,,LaLiga
+7,Álvaro Morata,Atlético de Madrid,€25.00m ,Spain,"Sep 22, 2020","Jun 30, 2022",Juventus,Atlético Madrid,25000000.0,,LaLiga
+7,Álvaro Morata,Atlético de Madrid,€25.00m ,Spain,"Jul 1, 2020","Sep 22, 2020",Atlético Madrid,Juventus,36000000.0,,LaLiga
+7,Álvaro Morata,Atlético de Madrid,€25.00m ,Spain,"Jun 30, 2020","Jul 1, 2020",Chelsea,Atlético Madrid,36000000.0,35000000.0,LaLiga
+7,Álvaro Morata,Atlético de Madrid,€25.00m ,Spain,"Jan 28, 2019","Jun 30, 2020",Atlético Madrid,Chelsea,36000000.0,,LaLiga
+7,Álvaro Morata,Atlético de Madrid,€25.00m ,Spain,"Jul 21, 2017","Jan 28, 2019",Chelsea,Atlético Madrid,50000000.0,,LaLiga
+7,Álvaro Morata,Atlético de Madrid,€25.00m ,Spain,"Jul 1, 2016","Jul 21, 2017",Real Madrid,Chelsea,40000000.0,66000000.0,LaLiga
+7,Álvaro Morata,Atlético de Madrid,€25.00m ,Spain,"Jul 19, 2014","Jul 1, 2016",Juventus,Real Madrid,30000000.0,30000000.0,LaLiga
+7,Álvaro Morata,Atlético de Madrid,€25.00m ,Spain,"Jul 1, 2013","Jul 19, 2014",Real Madrid,Juventus,12000000.0,20000000.0,LaLiga
+7,Álvaro Morata,Atlético de Madrid,€25.00m ,Spain,"Jul 1, 2010","Jul 1, 2013",RM Castilla,Real Madrid,9000000.0,,LaLiga
+7,Álvaro Morata,Atlético de Madrid,€25.00m ,Spain,"Jul 1, 2009","Jul 1, 2010",Real Madrid U19,RM Castilla,,,LaLiga
+7,Álvaro Morata,Atlético de Madrid,€25.00m ,Spain,"Jul 1, 2008","Jul 1, 2009",Real Madrid U18,Real Madrid U19,,,LaLiga
+7,Álvaro Morata,Atlético de Madrid,€25.00m ,Spain,"Jul 1, 2007","Jul 1, 2008",Getafe CF Youth,Real Madrid U18,,0.0,LaLiga
+7,Álvaro Morata,Atlético de Madrid,€25.00m ,Spain,,"Jul 1, 2007",Atléti Youth,Getafe CF Youth,,0.0,LaLiga
+1,Robert Sánchez,Brighton &amp; Hove Albion,€32.00m ,Spain,"Jul 1, 2020",,Brighton,,,,Premier League
+1,Robert Sánchez,Brighton &amp; Hove Albion,€32.00m ,Spain,"May 31, 2020","Jul 1, 2020",Brighton U23,Brighton,,,Premier League
+1,Robert Sánchez,Brighton &amp; Hove Albion,€32.00m ,Spain,"Jul 24, 2019","May 31, 2020",Rochdale,Brighton U23,,,Premier League
+1,Robert Sánchez,Brighton &amp; Hove Albion,€32.00m ,Spain,"Jan 4, 2019","Jul 24, 2019",Brighton U23,Rochdale,,,Premier League
+1,Robert Sánchez,Brighton &amp; Hove Albion,€32.00m ,Spain,"Jul 1, 2018","Jan 4, 2019",Forest Green,Brighton U23,,,Premier League
+1,Robert Sánchez,Brighton &amp; Hove Albion,€32.00m ,Spain,"Jul 1, 2016","Jul 1, 2018",Brighton U23,Forest Green,,,Premier League
+1,Robert Sánchez,Brighton &amp; Hove Albion,€32.00m ,Spain,"Jul 1, 2013","Jul 1, 2016",Brighton U18,Brighton U23,,,Premier League
+1,Robert Sánchez,Brighton &amp; Hove Albion,€32.00m ,Spain,"Jul 1, 2010","Jul 1, 2013",Levante UD Yout,Brighton U18,,,Premier League
+1,Robert Sánchez,Brighton &amp; Hove Albion,€32.00m ,Spain,,"Jul 1, 2010",Cartagena FC,Levante UD Yout,,0.0,Premier League
+13,David Raya,Brentford FC,€22.00m ,Spain,"Jul 6, 2019",,Brentford,,,,Premier League
+13,David Raya,Brentford FC,€22.00m ,Spain,"Oct 19, 2014","Jul 6, 2019",Blackburn,Brentford,1500000.0,3350000.0,Premier League
+13,David Raya,Brentford FC,€22.00m ,Spain,"Sep 19, 2014","Oct 19, 2014",Southport,Blackburn,,,Premier League
+13,David Raya,Brentford FC,€22.00m ,Spain,"Jul 1, 2013","Sep 19, 2014",Blackburn,Southport,,,Premier League
+13,David Raya,Brentford FC,€22.00m ,Spain,"Jul 1, 2012","Jul 1, 2013",Blackburn U18,Blackburn,,,Premier League
+13,David Raya,Brentford FC,€22.00m ,Spain,,"Jul 1, 2012",Cornellà U19,Blackburn U18,,,Premier League
+24,Aymeric Laporte,Manchester City,€38.00m ,Spain,"Jan 30, 2018",,Man City,,,,Premier League
+24,Aymeric Laporte,Manchester City,€38.00m ,Spain,"Dec 17, 2012","Jan 30, 2018",Athletic,Man City,25000000.0,65000000.0,Premier League
+24,Aymeric Laporte,Manchester City,€38.00m ,Spain,"Jul 1, 2012","Dec 17, 2012",Bilbao Athletic,Athletic,600000.0,,Premier League
+24,Aymeric Laporte,Manchester City,€38.00m ,Spain,"Jul 1, 2011","Jul 1, 2012",CD Basconia,Bilbao Athletic,,,Premier League
+24,Aymeric Laporte,Manchester City,€38.00m ,Spain,"Jul 1, 2010","Jul 1, 2011",Bilbao U19,CD Basconia,,,Premier League
+24,Aymeric Laporte,Manchester City,€38.00m ,Spain,,"Jul 1, 2010",Bayonne U19,Bilbao U19,,0.0,Premier League
+14,Alejandro Balde,FC Barcelona,€15.00m ,Spain,"Jul 1, 2022",,Barcelona,,,,LaLiga
+14,Alejandro Balde,FC Barcelona,€15.00m ,Spain,"Jan 1, 2021","Jul 1, 2022",Barça Atlètic,Barcelona,4000000.0,,LaLiga
+14,Alejandro Balde,FC Barcelona,€15.00m ,Spain,"Jul 1, 2019","Jan 1, 2021",Barça U19,Barcelona B,200000.0,,LaLiga
+14,Alejandro Balde,FC Barcelona,€15.00m ,Spain,"Jul 1, 2018","Jul 1, 2019",Barça U16,Barça U19,,,LaLiga
+14,Alejandro Balde,FC Barcelona,€15.00m ,Spain,,"Jul 1, 2018",Barça Youth,Barça U16,,,LaLiga
+20,Daniel Carvajal,Real Madrid,€18.00m ,Spain,"Jul 1, 2013",,Real Madrid,,,,LaLiga
+20,Daniel Carvajal,Real Madrid,€18.00m ,Spain,"Jul 11, 2012","Jul 1, 2013",B. Leverkusen,Real Madrid,10000000.0,6500000.0,LaLiga
+20,Daniel Carvajal,Real Madrid,€18.00m ,Spain,"Jul 1, 2010","Jul 11, 2012",RM Castilla,B. Leverkusen,,5000000.0,LaLiga
+20,Daniel Carvajal,Real Madrid,€18.00m ,Spain,"Jul 1, 2009","Jul 1, 2010",Real Madrid U19,RM Castilla,,,LaLiga
+20,Daniel Carvajal,Real Madrid,€18.00m ,Spain,"Jul 1, 2008","Jul 1, 2009",Real Madrid U18,Real Madrid U19,,,LaLiga
+20,Daniel Carvajal,Real Madrid,€18.00m ,Spain,,"Jul 1, 2008",R.Madrid Yth.,Real Madrid U18,,,LaLiga
+16,Rodri,Manchester City,€80.00m ,Spain,"Jul 4, 2019",,Man City,,,,Premier League
+16,Rodri,Manchester City,€80.00m ,Spain,"Jul 1, 2018","Jul 4, 2019",Atlético Madrid,Man City,80000000.0,62700000.0,Premier League
+16,Rodri,Manchester City,€80.00m ,Spain,"Jul 1, 2016","Jul 1, 2018",Villarreal,Atlético Madrid,25000000.0,20000000.0,Premier League
+16,Rodri,Manchester City,€80.00m ,Spain,"Jul 1, 2015","Jul 1, 2016",Villarreal CF B,Villarreal,,,Premier League
+16,Rodri,Manchester City,€80.00m ,Spain,"Jul 1, 2013","Jul 1, 2015",Villarreal U19,Villarreal CF B,,,Premier League
+16,Rodri,Manchester City,€80.00m ,Spain,"Jul 1, 2012","Jul 1, 2013",Atl. Madrid U17,Villarreal U19,,0.0,Premier League
+16,Rodri,Manchester City,€80.00m ,Spain,"Jul 1, 2007","Jul 1, 2012",Atléti Youth,Atl. Madrid U17,,,Premier League
+16,Rodri,Manchester City,€80.00m ,Spain,,"Jul 1, 2007",CF Rayo Majadaho,Atléti Youth,,1500000.0,Premier League
+5,Sergio Busquets,FC Barcelona,€5.00m ,Spain,"Jul 1, 2008",,Barcelona,,,,LaLiga
+5,Sergio Busquets,FC Barcelona,€5.00m ,Spain,"Jul 1, 2007","Jul 1, 2008",Barça Atlètic,Barcelona,,,LaLiga
+5,Sergio Busquets,FC Barcelona,€5.00m ,Spain,"Jul 1, 2005","Jul 1, 2007",Barça U19,Barcelona B,,,LaLiga
+5,Sergio Busquets,FC Barcelona,€5.00m ,Spain,"Jul 1, 2003","Jul 1, 2005",Jabac U19,Barça U19,,,LaLiga
+5,Sergio Busquets,FC Barcelona,€5.00m ,Spain,,"Jul 1, 2003",Lleida U19,Jabac U19,,,LaLiga
+9,Gavi,FC Barcelona,€90.00m ,Spain,"Jul 1, 2021",,Barcelona,,,,LaLiga
+9,Gavi,FC Barcelona,€90.00m ,Spain,"Jul 1, 2020","Jul 1, 2021",Barça U19,Barcelona,,,LaLiga
+9,Gavi,FC Barcelona,€90.00m ,Spain,"Jul 1, 2019","Jul 1, 2020",Barça U16,Barça U19,,,LaLiga
+9,Gavi,FC Barcelona,€90.00m ,Spain,"Jul 1, 2015","Jul 1, 2019",Barça Youth,Barça U16,,,LaLiga
+9,Gavi,FC Barcelona,€90.00m ,Spain,,"Jul 1, 2015",Real Betis Yth.,Barça Youth,,0.0,LaLiga
+19,Carlos Soler,Paris Saint-Germain,€35.00m ,Spain,"Sep 1, 2022",,Paris SG,,,,Ligue 1
+19,Carlos Soler,Paris Saint-Germain,€35.00m ,Spain,"Jan 1, 2017","Sep 1, 2022",Valencia,Paris SG,50000000.0,18000000.0,Ligue 1
+19,Carlos Soler,Paris Saint-Germain,€35.00m ,Spain,"Jul 1, 2015","Jan 1, 2017",Valencia B,Valencia,400000.0,,Ligue 1
+19,Carlos Soler,Paris Saint-Germain,€35.00m ,Spain,"Jul 1, 2014","Jul 1, 2015",Valencia U19,Valencia B,,,Ligue 1
+19,Carlos Soler,Paris Saint-Germain,€35.00m ,Spain,,"Jul 1, 2014",Valencia CF You,Valencia U19,,,Ligue 1
+21,Dani Olmo,RB Leipzig,€40.00m ,Spain,"Jan 25, 2020",,RB Leipzig,,,,Bundesliga
+21,Dani Olmo,RB Leipzig,€40.00m ,Spain,"Jan 23, 2015","Jan 25, 2020",Dinamo Zagreb,RB Leipzig,35000000.0,29000000.0,Bundesliga
+21,Dani Olmo,RB Leipzig,€40.00m ,Spain,"Jul 31, 2014","Jan 23, 2015",Din. Zagreb II,Dinamo Zagreb,,,Bundesliga
+21,Dani Olmo,RB Leipzig,€40.00m ,Spain,"Jul 1, 2014","Jul 31, 2014",Barça U18,Din. Zagreb II,,0.0,Bundesliga
+21,Dani Olmo,RB Leipzig,€40.00m ,Spain,"Jul 1, 2013","Jul 1, 2014",Barça U16,Barça U18,,,Bundesliga
+21,Dani Olmo,RB Leipzig,€40.00m ,Spain,"Jul 1, 2007","Jul 1, 2013",Barça Youth,Barça U16,,,Bundesliga
+21,Dani Olmo,RB Leipzig,€40.00m ,Spain,,"Jul 1, 2007",Espanyol Youth,Barça Youth,,0.0,Bundesliga
+11,Ferran Torres,FC Barcelona,€35.00m ,Spain,"Jan 1, 2022",,Barcelona,,,,LaLiga
+11,Ferran Torres,FC Barcelona,€35.00m ,Spain,"Aug 4, 2020","Jan 1, 2022",Man City,Barcelona,45000000.0,55000000.0,LaLiga
+11,Ferran Torres,FC Barcelona,€35.00m ,Spain,"Jan 1, 2018","Aug 4, 2020",Valencia,Man City,45000000.0,33500000.0,LaLiga
+11,Ferran Torres,FC Barcelona,€35.00m ,Spain,"Jul 1, 2017","Jan 1, 2018",Valencia B,Valencia,1000000.0,,LaLiga
+11,Ferran Torres,FC Barcelona,€35.00m ,Spain,"Jul 1, 2016","Jul 1, 2017",Valencia U19,Valencia B,,,LaLiga
+11,Ferran Torres,FC Barcelona,€35.00m ,Spain,,"Jul 1, 2016",Valencia CF You,Valencia U19,,,LaLiga
+10,Marco Asensio,Real Madrid,€25.00m ,Spain,"Jun 30, 2016",,Real Madrid,,,,LaLiga
+10,Marco Asensio,Real Madrid,€25.00m ,Spain,"Aug 20, 2015","Jun 30, 2016",Espanyol,Real Madrid,8000000.0,,LaLiga
+10,Marco Asensio,Real Madrid,€25.00m ,Spain,"Jul 1, 2015","Aug 20, 2015",Real Madrid,Espanyol,3500000.0,,LaLiga
+10,Marco Asensio,Real Madrid,€25.00m ,Spain,"Jul 1, 2014","Jul 1, 2015",RCD Mallorca,Real Madrid,3500000.0,3900000.0,LaLiga
+10,Marco Asensio,Real Madrid,€25.00m ,Spain,"Jul 1, 2013","Jul 1, 2014",RCD Mallorca B,RCD Mallorca,1000000.0,,LaLiga
+10,Marco Asensio,Real Madrid,€25.00m ,Spain,"Jul 1, 2012","Jul 1, 2013",Mallorca U19,RCD Mallorca B,,,LaLiga
+10,Marco Asensio,Real Madrid,€25.00m ,Spain,,"Jul 1, 2012",RCD Mallorca Yo,Mallorca U19,,,LaLiga
+22,Pablo Sarabia,Paris Saint-Germain,€20.00m ,Spain,"Jun 30, 2022",,Paris SG,,,,Ligue 1
+22,Pablo Sarabia,Paris Saint-Germain,€20.00m ,Spain,"Aug 31, 2021","Jun 30, 2022",Sporting CP,Paris SG,25000000.0,,Ligue 1
+22,Pablo Sarabia,Paris Saint-Germain,€20.00m ,Spain,"Jul 2, 2019","Aug 31, 2021",Paris SG,Sporting CP,25000000.0,,Ligue 1
+22,Pablo Sarabia,Paris Saint-Germain,€20.00m ,Spain,"Jul 1, 2016","Jul 2, 2019",Sevilla FC,Paris SG,40000000.0,18000000.0,Ligue 1
+22,Pablo Sarabia,Paris Saint-Germain,€20.00m ,Spain,"Jul 3, 2011","Jul 1, 2016",Getafe,Sevilla FC,5000000.0,1000000.0,Ligue 1
+22,Pablo Sarabia,Paris Saint-Germain,€20.00m ,Spain,"Jul 1, 2010","Jul 3, 2011",RM Castilla,Getafe,,3000000.0,Ligue 1
+22,Pablo Sarabia,Paris Saint-Germain,€20.00m ,Spain,"Jul 1, 2009","Jul 1, 2010",Real Madrid U19,RM Castilla,,,Ligue 1
+22,Pablo Sarabia,Paris Saint-Germain,€20.00m ,Spain,"Jul 1, 2008","Jul 1, 2009",Real Madrid U18,Real Madrid U19,,,Ligue 1
+22,Pablo Sarabia,Paris Saint-Germain,€20.00m ,Spain,"Jul 1, 2007","Jul 1, 2008",Real Madrid U17,Real Madrid U18,,,Ligue 1
+22,Pablo Sarabia,Paris Saint-Germain,€20.00m ,Spain,,"Jul 1, 2007",R.Madrid Yth.,Real Madrid U17,,,Ligue 1

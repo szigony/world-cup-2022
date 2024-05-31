@@ -1,0 +1,163 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+13,Guillermo Ochoa,CF América,€1.20m ,Mexico,"Aug 6, 2019",,América,,,,Liga MX Clausura
+13,Guillermo Ochoa,CF América,€1.20m ,Mexico,"Jul 9, 2017","Aug 6, 2019",Standard Liège,América,3500000.0,1000000.0,Liga MX Clausura
+13,Guillermo Ochoa,CF América,€1.20m ,Mexico,"Jun 30, 2017","Jul 9, 2017",Málaga CF,Standard Liège,3000000.0,0.0,Liga MX Clausura
+13,Guillermo Ochoa,CF América,€1.20m ,Mexico,"Jul 22, 2016","Jun 30, 2017",Granada CF,Málaga CF,3000000.0,,Liga MX Clausura
+13,Guillermo Ochoa,CF América,€1.20m ,Mexico,"Jul 31, 2014","Jul 22, 2016",Málaga CF,Granada CF,3000000.0,,Liga MX Clausura
+13,Guillermo Ochoa,CF América,€1.20m ,Mexico,"Jul 1, 2011","Jul 31, 2014",AC Ajaccio,Málaga CF,5000000.0,0.0,Liga MX Clausura
+13,Guillermo Ochoa,CF América,€1.20m ,Mexico,"Jan 1, 2003","Jul 1, 2011",América,AC Ajaccio,8000000.0,0.0,Liga MX Clausura
+13,Guillermo Ochoa,CF América,€1.20m ,Mexico,,"Jan 1, 2003",CF América U20,América,,,Liga MX Clausura
+3,César Montes,CF Monterrey,€7.00m ,Mexico,"Jul 1, 2015",,Monterrey,,,,Liga MX Clausura
+3,César Montes,CF Monterrey,€7.00m ,Mexico,,"Jul 1, 2015",Monterrey U20,Monterrey,1000000.0,,Liga MX Clausura
+2,Néstor Araújo,CF América,€3.00m ,Mexico,"Jul 1, 2022",,América,,,,Liga MX Clausura
+2,Néstor Araújo,CF América,€3.00m ,Mexico,"Jul 1, 2018","Jul 1, 2022",Celta de Vigo,América,4000000.0,3000000.0,Liga MX Clausura
+2,Néstor Araújo,CF América,€3.00m ,Mexico,"Jul 1, 2014","Jul 1, 2018",Santos Laguna,Celta de Vigo,2800000.0,7000000.0,Liga MX Clausura
+2,Néstor Araújo,CF América,€3.00m ,Mexico,"Jun 30, 2014","Jul 1, 2014",CD Cruz Azul,Santos Laguna,1700000.0,,Liga MX Clausura
+2,Néstor Araújo,CF América,€3.00m ,Mexico,"Jul 1, 2013","Jun 30, 2014",Santos Laguna,CD Cruz Azul,1700000.0,,Liga MX Clausura
+2,Néstor Araújo,CF América,€3.00m ,Mexico,"Jul 1, 2010","Jul 1, 2013",CD Cruz Azul,Santos Laguna,1500000.0,,Liga MX Clausura
+2,Néstor Araújo,CF América,€3.00m ,Mexico,,"Jul 1, 2010",Cruz Azul U20,CD Cruz Azul,,,Liga MX Clausura
+6,Gerardo Arteaga,KRC Genk,€5.00m ,Mexico,"Aug 5, 2020",,KRC Genk,,,,Jupiler Pro League
+6,Gerardo Arteaga,KRC Genk,€5.00m ,Mexico,"Jul 1, 2017","Aug 5, 2020",Santos Laguna,KRC Genk,3500000.0,3500000.0,Jupiler Pro League
+6,Gerardo Arteaga,KRC Genk,€5.00m ,Mexico,"Jul 1, 2015","Jul 1, 2017",Santos U20,Santos Laguna,,,Jupiler Pro League
+6,Gerardo Arteaga,KRC Genk,€5.00m ,Mexico,,"Jul 1, 2015",Santos Jgd.,Santos U20,,,Jupiler Pro League
+19,Jorge Sánchez,Ajax Amsterdam,€6.00m ,Mexico,"Aug 10, 2022",,Ajax,,,,Eredivisie
+19,Jorge Sánchez,Ajax Amsterdam,€6.00m ,Mexico,"Jul 1, 2018","Aug 10, 2022",América,Ajax,5000000.0,5000000.0,Eredivisie
+19,Jorge Sánchez,Ajax Amsterdam,€6.00m ,Mexico,"Jul 1, 2017","Jul 1, 2018",Santos Laguna,América,800000.0,,Eredivisie
+19,Jorge Sánchez,Ajax Amsterdam,€6.00m ,Mexico,,"Jul 1, 2017",Santos U20,Santos Laguna,,,Eredivisie
+4,Edson Álvarez,Ajax Amsterdam,€35.00m ,Mexico,"Jul 22, 2019",,Ajax,,,,Eredivisie
+4,Edson Álvarez,Ajax Amsterdam,€35.00m ,Mexico,"Jan 1, 2017","Jul 22, 2019",América,Ajax,7500000.0,15000000.0,Eredivisie
+4,Edson Álvarez,Ajax Amsterdam,€35.00m ,Mexico,,"Jan 1, 2017",CF América U20,América,500000.0,,Eredivisie
+24,Luis Chávez,CF Pachuca,€6.50m ,Mexico,"Jul 1, 2019",,Pachuca,,,,Liga MX Clausura
+24,Luis Chávez,CF Pachuca,€6.50m ,Mexico,"Jul 1, 2013","Jul 1, 2019",Club Tijuana,Pachuca,1200000.0,,Liga MX Clausura
+24,Luis Chávez,CF Pachuca,€6.50m ,Mexico,,"Jul 1, 2013",Tijuana U20,Club Tijuana,,,Liga MX Clausura
+14,Érick Gutiérrez,PSV Eindhoven,€7.00m ,Mexico,"Aug 30, 2018",,PSV Eindhoven,,,,Eredivisie
+14,Érick Gutiérrez,PSV Eindhoven,€7.00m ,Mexico,"Jan 1, 2014","Aug 30, 2018",Pachuca,PSV Eindhoven,7500000.0,6000000.0,Eredivisie
+14,Érick Gutiérrez,PSV Eindhoven,€7.00m ,Mexico,"Jul 1, 2013","Jan 1, 2014",CF Pachuca U20,Pachuca,,,Eredivisie
+14,Érick Gutiérrez,PSV Eindhoven,€7.00m ,Mexico,,"Jul 1, 2013",CF Pachuca U17,CF Pachuca U20,,,Eredivisie
+16,Héctor Herrera,Houston Dynamo FC,€2.80m ,Mexico,"Jul 7, 2022",,Houston,,,,MLS
+16,Héctor Herrera,Houston Dynamo FC,€2.80m ,Mexico,"Jul 3, 2019","Jul 7, 2022",Atlético Madrid,Houston,5000000.0,0.0,MLS
+16,Héctor Herrera,Houston Dynamo FC,€2.80m ,Mexico,"Jul 1, 2013","Jul 3, 2019",FC Porto,Atlético Madrid,22000000.0,0.0,MLS
+16,Héctor Herrera,Houston Dynamo FC,€2.80m ,Mexico,"Jul 1, 2011","Jul 1, 2013",Pachuca,FC Porto,6000000.0,11000000.0,MLS
+16,Héctor Herrera,Houston Dynamo FC,€2.80m ,Mexico,"Jun 30, 2011","Jul 1, 2011",Pachuca II,Pachuca,100000.0,,MLS
+16,Héctor Herrera,Houston Dynamo FC,€2.80m ,Mexico,"Jan 1, 2011","Jun 30, 2011",Tampico Madero,Pachuca II,100000.0,,MLS
+16,Héctor Herrera,Houston Dynamo FC,€2.80m ,Mexico,"Jul 1, 2010","Jan 1, 2011",Pachuca II,Tampico Madero,100000.0,,MLS
+16,Héctor Herrera,Houston Dynamo FC,€2.80m ,Mexico,"Jun 30, 2008","Jul 1, 2010",CF Pachuca U20,Pachuca II,100000.0,,MLS
+16,Héctor Herrera,Houston Dynamo FC,€2.80m ,Mexico,"Aug 1, 2007","Jun 30, 2008",CD Cuautla,CF Pachuca U20,,,MLS
+16,Héctor Herrera,Houston Dynamo FC,€2.80m ,Mexico,"Jul 1, 2007","Aug 1, 2007",CF Pachuca U20,CD Cuautla,,,MLS
+16,Héctor Herrera,Houston Dynamo FC,€2.80m ,Mexico,,"Jul 1, 2007",CF Pachuca U17,CF Pachuca U20,,,MLS
+10,Alexis Vega,Deportivo Guadalajara,€8.00m ,Mexico,"Jan 1, 2019",,Chivas,,,,Liga MX Clausura
+10,Alexis Vega,Deportivo Guadalajara,€8.00m ,Mexico,"Jul 1, 2016","Jan 1, 2019",Toluca,Chivas,700000.0,5280000.0,Liga MX Clausura
+10,Alexis Vega,Deportivo Guadalajara,€8.00m ,Mexico,,"Jul 1, 2016",Toluca U20,Toluca,,,Liga MX Clausura
+25,Roberto Alvarado,Deportivo Guadalajara,€5.00m ,Mexico,"Jan 1, 2022",,Chivas,,,,Liga MX Clausura
+25,Roberto Alvarado,Deportivo Guadalajara,€5.00m ,Mexico,"Jul 1, 2018","Jan 1, 2022",CD Cruz Azul,Chivas,7000000.0,,Liga MX Clausura
+25,Roberto Alvarado,Deportivo Guadalajara,€5.00m ,Mexico,"Jul 1, 2017","Jul 1, 2018",Necaxa,CD Cruz Azul,1000000.0,3500000.0,Liga MX Clausura
+25,Roberto Alvarado,Deportivo Guadalajara,€5.00m ,Mexico,"Jan 1, 2017","Jul 1, 2017",Pachuca,Necaxa,,,Liga MX Clausura
+25,Roberto Alvarado,Deportivo Guadalajara,€5.00m ,Mexico,"Jul 1, 2016","Jan 1, 2017",Celaya,Pachuca,,,Liga MX Clausura
+25,Roberto Alvarado,Deportivo Guadalajara,€5.00m ,Mexico,,"Jul 1, 2016",Celaya U20,Celaya,,,Liga MX Clausura
+9,Raúl Jiménez,Wolverhampton Wanderers,€12.00m ,Mexico,"Jul 1, 2019",,Wolves,,,,Premier League
+9,Raúl Jiménez,Wolverhampton Wanderers,€12.00m ,Mexico,"Jun 30, 2019","Jul 1, 2019",Benfica,Wolves,35000000.0,38000000.0,Premier League
+9,Raúl Jiménez,Wolverhampton Wanderers,€12.00m ,Mexico,"Jul 1, 2018","Jun 30, 2019",Wolves,Benfica,35000000.0,,Premier League
+9,Raúl Jiménez,Wolverhampton Wanderers,€12.00m ,Mexico,"Aug 13, 2015","Jul 1, 2018",Benfica,Wolves,15000000.0,,Premier League
+9,Raúl Jiménez,Wolverhampton Wanderers,€12.00m ,Mexico,"Aug 13, 2014","Aug 13, 2015",Atlético Madrid,Benfica,5000000.0,22000000.0,Premier League
+9,Raúl Jiménez,Wolverhampton Wanderers,€12.00m ,Mexico,"Jan 1, 2012","Aug 13, 2014",América,Atlético Madrid,10000000.0,10500000.0,Premier League
+9,Raúl Jiménez,Wolverhampton Wanderers,€12.00m ,Mexico,"Jul 1, 2010","Jan 1, 2012",América Coapa,América,,,Premier League
+9,Raúl Jiménez,Wolverhampton Wanderers,€12.00m ,Mexico,,"Jul 1, 2010",CF América U20,América Coapa,,,Premier League
+11,Rogelio Funes Mori,CF Monterrey,€3.50m ,Mexico,"Jul 1, 2015",,Monterrey,,,,Liga MX Clausura
+11,Rogelio Funes Mori,CF Monterrey,€3.50m ,Mexico,"Jun 30, 2015","Jul 1, 2015",Benfica,Monterrey,4250000.0,3600000.0,Liga MX Clausura
+11,Rogelio Funes Mori,CF Monterrey,€3.50m ,Mexico,"Jul 8, 2014","Jun 30, 2015",Eskisehirspor,Benfica,4250000.0,,Liga MX Clausura
+11,Rogelio Funes Mori,CF Monterrey,€3.50m ,Mexico,"Aug 19, 2013","Jul 8, 2014",Benfica,Eskisehirspor,2000000.0,,Liga MX Clausura
+11,Rogelio Funes Mori,CF Monterrey,€3.50m ,Mexico,"Jan 1, 2010","Aug 19, 2013",River Plate,Benfica,2000000.0,2000000.0,Liga MX Clausura
+11,Rogelio Funes Mori,CF Monterrey,€3.50m ,Mexico,,"Jan 1, 2010",River Plate U20,River Plate,,,Liga MX Clausura
+12,Rodolfo Cota,Club León FC,€1.20m ,Mexico,"Jul 1, 2018",,León,,,,Liga MX Clausura
+12,Rodolfo Cota,Club León FC,€1.20m ,Mexico,"Jun 30, 2018","Jul 1, 2018",Pachuca,León,2800000.0,,Liga MX Clausura
+12,Rodolfo Cota,Club León FC,€1.20m ,Mexico,"Jul 1, 2015","Jun 30, 2018",Chivas,Pachuca,2800000.0,,Liga MX Clausura
+12,Rodolfo Cota,Club León FC,€1.20m ,Mexico,"Jun 30, 2015","Jul 1, 2015",Pachuca,Chivas,1000000.0,,Liga MX Clausura
+12,Rodolfo Cota,Club León FC,€1.20m ,Mexico,"Jul 1, 2014","Jun 30, 2015",Puebla FC,Pachuca,1000000.0,,Liga MX Clausura
+12,Rodolfo Cota,Club León FC,€1.20m ,Mexico,"Jul 1, 2007","Jul 1, 2014",Pachuca,Puebla FC,900000.0,,Liga MX Clausura
+12,Rodolfo Cota,Club León FC,€1.20m ,Mexico,"Jun 30, 2006","Jul 1, 2007",Pachuca II,Pachuca,,,Liga MX Clausura
+12,Rodolfo Cota,Club León FC,€1.20m ,Mexico,"Jan 1, 2006","Jun 30, 2006",Indios Chihuahua,Pachuca II,,,Liga MX Clausura
+12,Rodolfo Cota,Club León FC,€1.20m ,Mexico,,"Jan 1, 2006",Pachuca II,Indios Chihuahua,,,Liga MX Clausura
+1,Alfredo Talavera,FC Juárez,€800k ,Mexico,"Jul 1, 2022",,FC Juárez,,,,Liga MX Clausura
+1,Alfredo Talavera,FC Juárez,€800k ,Mexico,"Jul 2, 2020","Jul 1, 2022",UNAM Pumas,FC Juárez,800000.0,0.0,Liga MX Clausura
+1,Alfredo Talavera,FC Juárez,€800k ,Mexico,"Jul 1, 2010","Jul 2, 2020",Toluca,UNAM Pumas,800000.0,,Liga MX Clausura
+1,Alfredo Talavera,FC Juárez,€800k ,Mexico,"Jun 30, 2010","Jul 1, 2010",Chivas,Toluca,1500000.0,2500000.0,Liga MX Clausura
+1,Alfredo Talavera,FC Juárez,€800k ,Mexico,"Jul 1, 2009","Jun 30, 2010",Toluca,Chivas,1500000.0,,Liga MX Clausura
+1,Alfredo Talavera,FC Juárez,€800k ,Mexico,"Jun 30, 2009","Jul 1, 2009",Chivas,Toluca,200000.0,,Liga MX Clausura
+1,Alfredo Talavera,FC Juárez,€800k ,Mexico,"Jul 1, 2008","Jun 30, 2009",Tigres UANL,Chivas,200000.0,,Liga MX Clausura
+1,Alfredo Talavera,FC Juárez,€800k ,Mexico,"Jul 1, 2003","Jul 1, 2008",Chivas,Tigres UANL,215000.0,,Liga MX Clausura
+1,Alfredo Talavera,FC Juárez,€800k ,Mexico,"Jan 1, 2002","Jul 1, 2003",CD Tapatío,Chivas,,,Liga MX Clausura
+1,Alfredo Talavera,FC Juárez,€800k ,Mexico,,"Jan 1, 2002",Guadalajara U20,CD Tapatío,,,Liga MX Clausura
+5,Johan Vásquez,US Cremonese,€3.60m ,Mexico,"Jun 30, 2023",,Genoa,,,,Serie A
+5,Johan Vásquez,US Cremonese,€3.60m ,Mexico,"Jul 1, 2022","Jun 30, 2023",Cremonese,Genoa,3600000.0,,Serie A
+5,Johan Vásquez,US Cremonese,€3.60m ,Mexico,"Jan 3, 2022","Jul 1, 2022",Genoa,Cremonese,4000000.0,,Serie A
+5,Johan Vásquez,US Cremonese,€3.60m ,Mexico,"Jan 2, 2022","Jan 3, 2022",UNAM Pumas,Genoa,4000000.0,3500000.0,Serie A
+5,Johan Vásquez,US Cremonese,€3.60m ,Mexico,"Aug 16, 2021","Jan 2, 2022",Genoa,UNAM Pumas,4000000.0,,Serie A
+5,Johan Vásquez,US Cremonese,€3.60m ,Mexico,"Jan 6, 2020","Aug 16, 2021",UNAM Pumas,Genoa,6000000.0,,Serie A
+5,Johan Vásquez,US Cremonese,€3.60m ,Mexico,"Jan 1, 2020","Jan 6, 2020",Monterrey,UNAM Pumas,1000000.0,3500000.0,Serie A
+5,Johan Vásquez,US Cremonese,€3.60m ,Mexico,"Dec 31, 2019","Jan 1, 2020",Cimarrones,Monterrey,1000000.0,1800000.0,Serie A
+5,Johan Vásquez,US Cremonese,€3.60m ,Mexico,"Jul 1, 2018","Dec 31, 2019",Monterrey,Cimarrones,1000000.0,,Serie A
+5,Johan Vásquez,US Cremonese,€3.60m ,Mexico,"Jan 1, 2018","Jul 1, 2018",Cimarrones,Monterrey,400000.0,,Serie A
+5,Johan Vásquez,US Cremonese,€3.60m ,Mexico,,"Jan 1, 2018",Cimarrones II,Cimarrones,,,Serie A
+15,Héctor Moreno,CF Monterrey,€1.50m ,Mexico,"Jul 1, 2021",,Monterrey,,,,Liga MX Clausura
+15,Héctor Moreno,CF Monterrey,€1.50m ,Mexico,"Jul 29, 2019","Jul 1, 2021",Al-Gharafa SC,Monterrey,2500000.0,0.0,Liga MX Clausura
+15,Héctor Moreno,CF Monterrey,€1.50m ,Mexico,"Jan 31, 2018","Jul 29, 2019",Real Sociedad,Al-Gharafa SC,6000000.0,0.0,Liga MX Clausura
+15,Héctor Moreno,CF Monterrey,€1.50m ,Mexico,"Jul 1, 2017","Jan 31, 2018",AS Roma,Real Sociedad,5000000.0,6000000.0,Liga MX Clausura
+15,Héctor Moreno,CF Monterrey,€1.50m ,Mexico,"Aug 15, 2015","Jul 1, 2017",PSV Eindhoven,AS Roma,8000000.0,5700000.0,Liga MX Clausura
+15,Héctor Moreno,CF Monterrey,€1.50m ,Mexico,"Jul 1, 2011","Aug 15, 2015",Espanyol,PSV Eindhoven,6500000.0,3500000.0,Liga MX Clausura
+15,Héctor Moreno,CF Monterrey,€1.50m ,Mexico,"Jan 1, 2008","Jul 1, 2011",AZ Alkmaar,Espanyol,4500000.0,2500000.0,Liga MX Clausura
+15,Héctor Moreno,CF Monterrey,€1.50m ,Mexico,"Jul 1, 2006","Jan 1, 2008",UNAM Pumas,AZ Alkmaar,2000000.0,4000000.0,Liga MX Clausura
+15,Héctor Moreno,CF Monterrey,€1.50m ,Mexico,,"Jul 1, 2006",UNAM Pumas U20,UNAM Pumas,,,Liga MX Clausura
+23,Jesús Gallardo,CF Monterrey,€3.00m ,Mexico,"Jul 1, 2018",,Monterrey,,,,Liga MX Clausura
+23,Jesús Gallardo,CF Monterrey,€3.00m ,Mexico,"Jul 1, 2016","Jul 1, 2018",UNAM Pumas,Monterrey,3000000.0,5150000.0,Liga MX Clausura
+23,Jesús Gallardo,CF Monterrey,€3.00m ,Mexico,"Jul 1, 2014","Jul 1, 2016",UNAM II,UNAM Pumas,400000.0,,Liga MX Clausura
+23,Jesús Gallardo,CF Monterrey,€3.00m ,Mexico,"Jul 1, 2013","Jul 1, 2014",UNAM Pumas U20,Pumas Naucalpan,,,Liga MX Clausura
+23,Jesús Gallardo,CF Monterrey,€3.00m ,Mexico,,"Jul 1, 2013",Jaguares U20,UNAM Pumas U20,,,Liga MX Clausura
+26,Kevin Álvarez,CF Pachuca,€6.00m ,Mexico,"Jan 1, 2020",,Pachuca,,,,Liga MX Clausura
+26,Kevin Álvarez,CF Pachuca,€6.00m ,Mexico,"Jul 1, 2017","Jan 1, 2020",Pachuca II,Pachuca,200000.0,,Liga MX Clausura
+26,Kevin Álvarez,CF Pachuca,€6.00m ,Mexico,,"Jul 1, 2017",CF Pachuca U17,CF Pachuca U20,,,Liga MX Clausura
+7,Luis Romo,CF Monterrey,€6.50m ,Mexico,"Jan 6, 2022",,Monterrey,,,,Liga MX Clausura
+7,Luis Romo,CF Monterrey,€6.50m ,Mexico,"Jan 1, 2020","Jan 6, 2022",CD Cruz Azul,Monterrey,10000000.0,,Liga MX Clausura
+7,Luis Romo,CF Monterrey,€6.50m ,Mexico,"Jul 1, 2018","Jan 1, 2020",Querétaro FC,CD Cruz Azul,1800000.0,6200000.0,Liga MX Clausura
+7,Luis Romo,CF Monterrey,€6.50m ,Mexico,"Dec 31, 2017","Jul 1, 2018",Querétaro II,Querétaro FC,200000.0,,Liga MX Clausura
+7,Luis Romo,CF Monterrey,€6.50m ,Mexico,"Jul 1, 2017","Dec 31, 2017",Cimarrones,Querétaro II,,,Liga MX Clausura
+7,Luis Romo,CF Monterrey,€6.50m ,Mexico,"Jul 1, 2016","Jul 1, 2017",Querétaro II,Cimarrones,,,Liga MX Clausura
+7,Luis Romo,CF Monterrey,€6.50m ,Mexico,,"Jul 1, 2016",Querétaro U20,Querétaro II,,,Liga MX Clausura
+8,Carlos Rodríguez,CD Cruz Azul,€8.00m ,Mexico,"Jan 6, 2022",,CD Cruz Azul,,,,Liga MX Clausura
+8,Carlos Rodríguez,CD Cruz Azul,€8.00m ,Mexico,"Jul 1, 2018","Jan 6, 2022",Monterrey,CD Cruz Azul,10000000.0,2200000.0,Liga MX Clausura
+8,Carlos Rodríguez,CD Cruz Azul,€8.00m ,Mexico,"Jun 30, 2018","Jul 1, 2018",Monterrey II,Monterrey,200000.0,,Liga MX Clausura
+8,Carlos Rodríguez,CD Cruz Azul,€8.00m ,Mexico,"Sep 1, 2017","Jun 30, 2018",CD Toledo,Monterrey II,200000.0,,Liga MX Clausura
+8,Carlos Rodríguez,CD Cruz Azul,€8.00m ,Mexico,,"Sep 1, 2017",Monterrey II,CD Toledo,,,Liga MX Clausura
+17,Orbelín Pineda,AEK Athens,€4.00m ,Mexico,"Jun 30, 2023",,Celta de Vigo,,,,Super League 1
+17,Orbelín Pineda,AEK Athens,€4.00m ,Mexico,"Jul 15, 2022","Jun 30, 2023",AEK Athens,Celta de Vigo,4000000.0,,Super League 1
+17,Orbelín Pineda,AEK Athens,€4.00m ,Mexico,"Jan 7, 2022","Jul 15, 2022",Celta de Vigo,AEK Athens,4000000.0,,Super League 1
+17,Orbelín Pineda,AEK Athens,€4.00m ,Mexico,"Jan 1, 2019","Jan 7, 2022",CD Cruz Azul,Celta de Vigo,9000000.0,0.0,Super League 1
+17,Orbelín Pineda,AEK Athens,€4.00m ,Mexico,"Jan 1, 2016","Jan 1, 2019",Chivas,CD Cruz Azul,5000000.0,10560000.0,Super League 1
+17,Orbelín Pineda,AEK Athens,€4.00m ,Mexico,"Jul 1, 2014","Jan 1, 2016",Querétaro FC,Chivas,1800000.0,5500000.0,Super League 1
+17,Orbelín Pineda,AEK Athens,€4.00m ,Mexico,,"Jul 1, 2014",Querétaro U20,Querétaro FC,,,Super League 1
+18,Andrés Guardado,Real Betis Balompié,€1.50m ,Mexico,"Jul 7, 2017",,Real Betis,,,,LaLiga
+18,Andrés Guardado,Real Betis Balompié,€1.50m ,Mexico,"Jul 1, 2015","Jul 7, 2017",PSV Eindhoven,Real Betis,6000000.0,2500000.0,LaLiga
+18,Andrés Guardado,Real Betis Balompié,€1.50m ,Mexico,"Jun 30, 2015","Jul 1, 2015",Valencia,PSV Eindhoven,7500000.0,2800000.0,LaLiga
+18,Andrés Guardado,Real Betis Balompié,€1.50m ,Mexico,"Aug 26, 2014","Jun 30, 2015",PSV Eindhoven,Valencia,7000000.0,,LaLiga
+18,Andrés Guardado,Real Betis Balompié,€1.50m ,Mexico,"Jun 30, 2014","Aug 26, 2014",Valencia,PSV Eindhoven,6000000.0,,LaLiga
+18,Andrés Guardado,Real Betis Balompié,€1.50m ,Mexico,"Jan 30, 2014","Jun 30, 2014",B. Leverkusen,Valencia,6000000.0,,LaLiga
+18,Andrés Guardado,Real Betis Balompié,€1.50m ,Mexico,"Jul 1, 2012","Jan 30, 2014",Valencia,B. Leverkusen,6000000.0,,LaLiga
+18,Andrés Guardado,Real Betis Balompié,€1.50m ,Mexico,"Jul 1, 2007","Jul 1, 2012",Dep. La Coruña,Valencia,5000000.0,0.0,LaLiga
+18,Andrés Guardado,Real Betis Balompié,€1.50m ,Mexico,"Jul 1, 2005","Jul 1, 2007",Atlas,Dep. La Coruña,600000.0,7000000.0,LaLiga
+18,Andrés Guardado,Real Betis Balompié,€1.50m ,Mexico,,"Jul 1, 2005",Atlas U20,Atlas,,,LaLiga
+22,Hirving Lozano,SSC Napoli,€28.00m ,Mexico,"Aug 23, 2019",,SSC Napoli,,,,Serie A
+22,Hirving Lozano,SSC Napoli,€28.00m ,Mexico,"Jul 1, 2017","Aug 23, 2019",PSV Eindhoven,SSC Napoli,40000000.0,45000000.0,Serie A
+22,Hirving Lozano,SSC Napoli,€28.00m ,Mexico,"Jan 1, 2014","Jul 1, 2017",Pachuca,PSV Eindhoven,10000000.0,12500000.0,Serie A
+22,Hirving Lozano,SSC Napoli,€28.00m ,Mexico,,"Jan 1, 2014",CF Pachuca U20,Pachuca,,,Serie A
+21,Uriel Antuna,CD Cruz Azul,€4.00m ,Mexico,"Jan 4, 2022",,CD Cruz Azul,,,,Liga MX Clausura
+21,Uriel Antuna,CD Cruz Azul,€4.00m ,Mexico,"Jan 1, 2020","Jan 4, 2022",Chivas,CD Cruz Azul,4500000.0,,Liga MX Clausura
+21,Uriel Antuna,CD Cruz Azul,€4.00m ,Mexico,"Dec 31, 2019","Jan 1, 2020",Man City U23,Chivas,3200000.0,9900000.0,Liga MX Clausura
+21,Uriel Antuna,CD Cruz Azul,€4.00m ,Mexico,"Jan 29, 2019","Dec 31, 2019",Los Angeles,Man City U23,3200000.0,,Liga MX Clausura
+21,Uriel Antuna,CD Cruz Azul,€4.00m ,Mexico,"Dec 31, 2018","Jan 29, 2019",Man City U23,Los Angeles,250000.0,,Liga MX Clausura
+21,Uriel Antuna,CD Cruz Azul,€4.00m ,Mexico,"Jul 2, 2017","Dec 31, 2018",FC Groningen,Man City U23,250000.0,,Liga MX Clausura
+21,Uriel Antuna,CD Cruz Azul,€4.00m ,Mexico,"Jul 1, 2017","Jul 2, 2017",Man City U23,FC Groningen,,,Liga MX Clausura
+21,Uriel Antuna,CD Cruz Azul,€4.00m ,Mexico,"Jul 1, 2015","Jul 1, 2017",Santos U20,Man City U23,,,Liga MX Clausura
+21,Uriel Antuna,CD Cruz Azul,€4.00m ,Mexico,,"Jul 1, 2015",Santos Jgd.,Santos U20,,,Liga MX Clausura
+20,Henry Martín,CF América,€6.00m ,Mexico,"Jan 1, 2018",,América,,,,Liga MX Clausura
+20,Henry Martín,CF América,€6.00m ,Mexico,"Jul 1, 2014","Jan 1, 2018",Club Tijuana,América,1000000.0,,Liga MX Clausura
+20,Henry Martín,CF América,€6.00m ,Mexico,"Jul 1, 2013","Jul 1, 2014",Mérida FC,Club Tijuana,,990000.0,Liga MX Clausura
+20,Henry Martín,CF América,€6.00m ,Mexico,,"Jul 1, 2013",Itzaes,Mérida FC,,,Liga MX Clausura

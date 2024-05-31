@@ -1,0 +1,183 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+22,Bechir Ben Said,US Monastir,€900k ,Tunisia,"Jul 1, 2018",,US Monastir,,,,Ligue I Pro
+22,Bechir Ben Said,US Monastir,€900k ,Tunisia,"Jul 1, 2014","Jul 1, 2018",AS Gabès,US Monastir,75000.0,,Ligue I Pro
+22,Bechir Ben Said,US Monastir,€900k ,Tunisia,,"Jul 1, 2014",AS Gabès U19,AS Gabès,,,Ligue I Pro
+1,Aymen Balbouli,Etoile Sportive du Sahel,€50k ,Tunisia,"Jan 30, 2020",,ES Sahel,,,,Ligue I Pro
+1,Aymen Balbouli,Etoile Sportive du Sahel,€50k ,Tunisia,"Jul 1, 2019","Jan 30, 2020",Al-Adalah FC,ES Sahel,500000.0,0.0,Ligue I Pro
+1,Aymen Balbouli,Etoile Sportive du Sahel,€50k ,Tunisia,"Jul 23, 2018","Jul 1, 2019",Club Africain,Al-Adalah FC,350000.0,,Ligue I Pro
+1,Aymen Balbouli,Etoile Sportive du Sahel,€50k ,Tunisia,"Jan 27, 2018","Jul 23, 2018",Al-Batin FC,Club Africain,700000.0,0.0,Ligue I Pro
+1,Aymen Balbouli,Etoile Sportive du Sahel,€50k ,Tunisia,"Jul 1, 2003","Jan 27, 2018",ES Sahel,Al-Batin FC,900000.0,,Ligue I Pro
+1,Aymen Balbouli,Etoile Sportive du Sahel,€50k ,Tunisia,"Jul 1, 2002","Jul 1, 2003",Club Africain,ES Sahel,,40000.0,Ligue I Pro
+1,Aymen Balbouli,Etoile Sportive du Sahel,€50k ,Tunisia,,"Jul 1, 2002",C. Africain U19,Club Africain,,,Ligue I Pro
+6,Dylan Bronn,US Salernitana 1919,€3.00m ,Tunisia,"Aug 12, 2022",,Salernitana,,,,Serie A
+6,Dylan Bronn,US Salernitana 1919,€3.00m ,Tunisia,"Jan 3, 2020","Aug 12, 2022",FC Metz,Salernitana,4000000.0,1000000.0,Serie A
+6,Dylan Bronn,US Salernitana 1919,€3.00m ,Tunisia,"Jul 31, 2017","Jan 3, 2020",KAA Gent,FC Metz,5000000.0,4000000.0,Serie A
+6,Dylan Bronn,US Salernitana 1919,€3.00m ,Tunisia,"Jul 17, 2016","Jul 31, 2017",Chamois Niort,KAA Gent,800000.0,1000000.0,Serie A
+6,Dylan Bronn,US Salernitana 1919,€3.00m ,Tunisia,"Jul 1, 2013","Jul 17, 2016",Cannes,Chamois Niort,,0.0,Serie A
+6,Dylan Bronn,US Salernitana 1919,€3.00m ,Tunisia,,"Jul 1, 2013",AS Cannes U19,Cannes,,,Serie A
+5,Nader Ghandri,Club Africain Tunis,€650k ,Tunisia,"Aug 30, 2021",,Club Africain,,,,Ligue I Pro
+5,Nader Ghandri,Club Africain Tunis,€650k ,Tunisia,"Jun 30, 2021","Aug 30, 2021",KVC Westerlo,Club Africain,300000.0,,Ligue I Pro
+5,Nader Ghandri,Club Africain Tunis,€650k ,Tunisia,"Feb 10, 2021","Jun 30, 2021",Slavia Sofia,KVC Westerlo,300000.0,,Ligue I Pro
+5,Nader Ghandri,Club Africain Tunis,€650k ,Tunisia,"Jan 1, 2020","Feb 10, 2021",KVC Westerlo,Slavia Sofia,250000.0,,Ligue I Pro
+5,Nader Ghandri,Club Africain Tunis,€650k ,Tunisia,"Jun 30, 2019","Jan 1, 2020",Royal Antwerp,KVC Westerlo,350000.0,0.0,Ligue I Pro
+5,Nader Ghandri,Club Africain Tunis,€650k ,Tunisia,"Aug 31, 2018","Jun 30, 2019",KVC Westerlo,Royal Antwerp,400000.0,,Ligue I Pro
+5,Nader Ghandri,Club Africain Tunis,€650k ,Tunisia,"Aug 11, 2017","Aug 31, 2018",Royal Antwerp,KVC Westerlo,300000.0,,Ligue I Pro
+5,Nader Ghandri,Club Africain Tunis,€650k ,Tunisia,"Jul 7, 2014","Aug 11, 2017",Club Africain,Royal Antwerp,300000.0,317000.0,Ligue I Pro
+5,Nader Ghandri,Club Africain Tunis,€650k ,Tunisia,"Jul 1, 2013","Jul 7, 2014",AC Arles,Club Africain,100000.0,0.0,Ligue I Pro
+5,Nader Ghandri,Club Africain Tunis,€650k ,Tunisia,"Jul 1, 2012","Jul 1, 2013",JA Drancy,AC Arles,,0.0,Ligue I Pro
+5,Nader Ghandri,Club Africain Tunis,€650k ,Tunisia,,"Jul 1, 2012",JA Drancy U19,JA Drancy,,,Ligue I Pro
+12,Ali Maâloul,El Ahly Cairo,€1.50m ,Tunisia,"Jul 25, 2016",,El Ahly,,,,Premier League
+12,Ali Maâloul,El Ahly Cairo,€1.50m ,Tunisia,"Jul 1, 2008","Jul 25, 2016",CS Sfaxien,El Ahly,1000000.0,730000.0,Premier League
+12,Ali Maâloul,El Ahly Cairo,€1.50m ,Tunisia,,"Jul 1, 2008",CS Sfaxien U21,CS Sfaxien,,,Premier League
+20,Mohamed Dräger,FC Luzern,€1.30m ,Tunisia,"Jun 30, 2023",,Nottm Forest,,,,Super League
+20,Mohamed Dräger,FC Luzern,€1.30m ,Tunisia,"Feb 2, 2022","Jun 30, 2023",FC Luzern,Nottm Forest,1300000.0,,Super League
+20,Mohamed Dräger,FC Luzern,€1.30m ,Tunisia,"Aug 31, 2021","Feb 2, 2022",Nottm Forest,FC Luzern,800000.0,,Super League
+20,Mohamed Dräger,FC Luzern,€1.30m ,Tunisia,"Sep 27, 2020","Aug 31, 2021",Olympiacos,Nottm Forest,1000000.0,,Super League
+20,Mohamed Dräger,FC Luzern,€1.30m ,Tunisia,"Jun 30, 2020","Sep 27, 2020",SC Freiburg,Olympiacos,1600000.0,1000000.0,Super League
+20,Mohamed Dräger,FC Luzern,€1.30m ,Tunisia,"Jul 2, 2018","Jun 30, 2020",SC Paderborn,SC Freiburg,1600000.0,,Super League
+20,Mohamed Dräger,FC Luzern,€1.30m ,Tunisia,"Jul 1, 2018","Jul 2, 2018",SC Freiburg,SC Paderborn,200000.0,,Super League
+20,Mohamed Dräger,FC Luzern,€1.30m ,Tunisia,"Jul 1, 2015","Jul 1, 2018",SC Freiburg II,SC Freiburg,200000.0,,Super League
+20,Mohamed Dräger,FC Luzern,€1.30m ,Tunisia,"Jul 1, 2013","Jul 1, 2015",SC Freiburg U19,SC Freiburg II,75000.0,,Super League
+20,Mohamed Dräger,FC Luzern,€1.30m ,Tunisia,"Jul 1, 2011","Jul 1, 2013",SC Freiburg U17,SC Freiburg U19,,,Super League
+20,Mohamed Dräger,FC Luzern,€1.30m ,Tunisia,"Jul 1, 2009","Jul 1, 2011",Freiburg Yth.,SC Freiburg U17,,,Super League
+20,Mohamed Dräger,FC Luzern,€1.30m ,Tunisia,,"Jul 1, 2009",PSV Freib. Yth.,Freiburg Yth.,,0.0,Super League
+17,Ellyes Skhiri,1. FC Köln,€13.00m ,Tunisia,"Jul 29, 2019",,1. FC Köln,,,,Bundesliga
+17,Ellyes Skhiri,1. FC Köln,€13.00m ,Tunisia,"Jul 1, 2015","Jul 29, 2019",Montpellier,1. FC Köln,12000000.0,6000000.0,Bundesliga
+17,Ellyes Skhiri,1. FC Köln,€13.00m ,Tunisia,"Jul 1, 2014","Jul 1, 2015",Montpellier B,Montpellier,,,Bundesliga
+17,Ellyes Skhiri,1. FC Köln,€13.00m ,Tunisia,,"Jul 1, 2014",Montpellier U19,Montpellier B,,,Bundesliga
+25,Anis Slimane,Bröndby IF,€3.50m ,Tunisia,"Aug 1, 2020",,Bröndby IF,,,,Superligaen
+25,Anis Slimane,Bröndby IF,€3.50m ,Tunisia,"Jul 1, 2019","Aug 1, 2020",Bröndby IF U19,Bröndby IF,1500000.0,,Superligaen
+25,Anis Slimane,Bröndby IF,€3.50m ,Tunisia,"Jan 1, 2019","Jul 1, 2019",Akademisk BK,Bröndby IF U19,25000.0,0.0,Superligaen
+25,Anis Slimane,Bröndby IF,€3.50m ,Tunisia,"Jan 1, 2018","Jan 1, 2019",Akademisk U19,Akademisk BK,25000.0,,Superligaen
+25,Anis Slimane,Bröndby IF,€3.50m ,Tunisia,,"Jan 1, 2018",AB Youth,Akademisk U19,,,Superligaen
+13,Ferjani Sassi,Al-Duhail SC,€1.75m ,Tunisia,"Jul 29, 2021",,Al-Duhail SC,,,,Stars League
+13,Ferjani Sassi,Al-Duhail SC,€1.75m ,Tunisia,"Jul 26, 2018","Jul 29, 2021",Zamalek,Al-Duhail SC,2200000.0,0.0,Stars League
+13,Ferjani Sassi,Al-Duhail SC,€1.75m ,Tunisia,"Jan 28, 2018","Jul 26, 2018",Al-Nassr FC,Zamalek,1600000.0,,Stars League
+13,Ferjani Sassi,Al-Duhail SC,€1.75m ,Tunisia,"Jul 9, 2016","Jan 28, 2018",Esperance,Al-Nassr FC,1500000.0,2000000.0,Stars League
+13,Ferjani Sassi,Al-Duhail SC,€1.75m ,Tunisia,"Jan 6, 2015","Jul 9, 2016",FC Metz,Esperance,1250000.0,775000.0,Stars League
+13,Ferjani Sassi,Al-Duhail SC,€1.75m ,Tunisia,"Jan 3, 2011","Jan 6, 2015",CS Sfaxien,FC Metz,800000.0,500000.0,Stars League
+13,Ferjani Sassi,Al-Duhail SC,€1.75m ,Tunisia,,"Jan 3, 2011",ESS U19,CS Sfaxien,,13000.0,Stars League
+8,Hannibal Mejbri,Birmingham City,€6.00m ,Tunisia,"May 31, 2023",,Man Utd U21,,,,Championship
+8,Hannibal Mejbri,Birmingham City,€6.00m ,Tunisia,"Aug 29, 2022","May 31, 2023",Birmingham,Man Utd U21,6000000.0,,Championship
+8,Hannibal Mejbri,Birmingham City,€6.00m ,Tunisia,"Jul 1, 2020","Aug 29, 2022",Man Utd U21,Birmingham,6000000.0,,Championship
+8,Hannibal Mejbri,Birmingham City,€6.00m ,Tunisia,"Aug 11, 2019","Jul 1, 2020",Man Utd U18,Man Utd U23,,,Championship
+8,Hannibal Mejbri,Birmingham City,€6.00m ,Tunisia,"Jul 2, 2018","Aug 11, 2019",Monaco Youth,Man Utd U18,,10000000.0,Championship
+8,Hannibal Mejbri,Birmingham City,€6.00m ,Tunisia,"Jul 1, 2017","Jul 2, 2018",ACBB Youth,Monaco Youth,,1100000.0,Championship
+8,Hannibal Mejbri,Birmingham City,€6.00m ,Tunisia,,"Jul 1, 2017",Paris FC Youth,ACBB Youth,,0.0,Championship
+7,Youssef Msakni,Al-Arabi SC,€1.20m ,Tunisia,"Jun 30, 2023",,Al-Duhail SC,,,,Stars League
+7,Youssef Msakni,Al-Arabi SC,€1.20m ,Tunisia,"Jul 14, 2022","Jun 30, 2023",Al-Arabi SC,Al-Duhail SC,1200000.0,,Stars League
+7,Youssef Msakni,Al-Arabi SC,€1.20m ,Tunisia,"Jun 30, 2022","Jul 14, 2022",Al-Duhail SC,Al-Arabi SC,1200000.0,,Stars League
+7,Youssef Msakni,Al-Arabi SC,€1.20m ,Tunisia,"Jan 23, 2021","Jun 30, 2022",Al-Arabi SC,Al-Duhail SC,1200000.0,,Stars League
+7,Youssef Msakni,Al-Arabi SC,€1.20m ,Tunisia,"Jun 30, 2019","Jan 23, 2021",Al-Duhail SC,Al-Arabi SC,2000000.0,,Stars League
+7,Youssef Msakni,Al-Arabi SC,€1.20m ,Tunisia,"Jan 9, 2019","Jun 30, 2019",KAS Eupen,Al-Duhail SC,3500000.0,,Stars League
+7,Youssef Msakni,Al-Arabi SC,€1.20m ,Tunisia,"Jan 1, 2013","Jan 9, 2019",Al-Duhail SC,KAS Eupen,4500000.0,,Stars League
+7,Youssef Msakni,Al-Arabi SC,€1.20m ,Tunisia,"Aug 26, 2008","Jan 1, 2013",Esperance,Lekhwiya,2750000.0,4250000.0,Stars League
+7,Youssef Msakni,Al-Arabi SC,€1.20m ,Tunisia,,"Aug 26, 2008",Stade Tunisien,Esperance,,125000.0,Stars League
+10,Wahbi Khazri,Montpellier HSC,€3.00m ,Tunisia,"Jul 1, 2022",,Montpellier,,,,Ligue 1
+10,Wahbi Khazri,Montpellier HSC,€3.00m ,Tunisia,"Jul 17, 2018","Jul 1, 2022",Saint-Étienne,Montpellier,4000000.0,0.0,Ligue 1
+10,Wahbi Khazri,Montpellier HSC,€3.00m ,Tunisia,"Jun 30, 2018","Jul 17, 2018",Sunderland,Saint-Étienne,10000000.0,7000000.0,Ligue 1
+10,Wahbi Khazri,Montpellier HSC,€3.00m ,Tunisia,"Aug 31, 2017","Jun 30, 2018",Rennes,Sunderland,10000000.0,,Ligue 1
+10,Wahbi Khazri,Montpellier HSC,€3.00m ,Tunisia,"Jan 30, 2016","Aug 31, 2017",Sunderland,Rennes,7000000.0,,Ligue 1
+10,Wahbi Khazri,Montpellier HSC,€3.00m ,Tunisia,"Jul 1, 2014","Jan 30, 2016",G. Bordeaux,Sunderland,7500000.0,11800000.0,Ligue 1
+10,Wahbi Khazri,Montpellier HSC,€3.00m ,Tunisia,"Jul 1, 2009","Jul 1, 2014",SC Bastia,G. Bordeaux,5000000.0,2000000.0,Ligue 1
+10,Wahbi Khazri,Montpellier HSC,€3.00m ,Tunisia,"Feb 20, 2009","Jul 1, 2009",SC Bastia B,SC Bastia,400000.0,,Ligue 1
+10,Wahbi Khazri,Montpellier HSC,€3.00m ,Tunisia,,"Feb 20, 2009",SC Bastia U19,SC Bastia B,,,Ligue 1
+11,Taha Yassine Khenissi,Kuwait SC,€600k ,Tunisia,"Jan 7, 2022",,Kuwait SC,,,,
+11,Taha Yassine Khenissi,Kuwait SC,€600k ,Tunisia,"Jul 1, 2021","Jan 7, 2022",Without Club,Kuwait SC,500000.0,,
+11,Taha Yassine Khenissi,Kuwait SC,€600k ,Tunisia,"Aug 5, 2015","Jul 1, 2021",Esperance,Without Club,800000.0,,
+11,Taha Yassine Khenissi,Kuwait SC,€600k ,Tunisia,"Aug 26, 2012","Aug 5, 2015",CS Sfaxien,Esperance,400000.0,0.0,
+11,Taha Yassine Khenissi,Kuwait SC,€600k ,Tunisia,"Oct 3, 2009","Aug 26, 2012",Esperance,CS Sfaxien,75000.0,0.0,
+11,Taha Yassine Khenissi,Kuwait SC,€600k ,Tunisia,,"Oct 3, 2009",Esperance U19,Esperance,,,
+16,Aymen Dahmen,Club Sportif Sfaxien,€950k ,Tunisia,"Jul 1, 2018",,CS Sfaxien,,,,Ligue I Pro
+16,Aymen Dahmen,Club Sportif Sfaxien,€950k ,Tunisia,,"Jul 1, 2018",CS Sfaxien U21,CS Sfaxien,25000.0,,Ligue I Pro
+26,Mouez Hassen,Club Africain Tunis,€450k ,Tunisia,"Sep 8, 2021",,Club Africain,,,,Ligue I Pro
+26,Mouez Hassen,Club Africain Tunis,€450k ,Tunisia,"Nov 13, 2020","Sep 8, 2021",Stade Brestois,Club Africain,400000.0,0.0,Ligue I Pro
+26,Mouez Hassen,Club Africain Tunis,€450k ,Tunisia,"Jul 1, 2020","Nov 13, 2020",Without Club,Stade Brestois,475000.0,,Ligue I Pro
+26,Mouez Hassen,Club Africain Tunis,€450k ,Tunisia,"Nov 1, 2019","Jul 1, 2020",Cercle Brugge,Without Club,475000.0,,Ligue I Pro
+26,Mouez Hassen,Club Africain Tunis,€450k ,Tunisia,"Jul 1, 2019","Nov 1, 2019",Without Club,Cercle Brugge,1000000.0,,Ligue I Pro
+26,Mouez Hassen,Club Africain Tunis,€450k ,Tunisia,"Jun 30, 2018","Jul 1, 2019",OGC Nice,Without Club,1000000.0,,Ligue I Pro
+26,Mouez Hassen,Club Africain Tunis,€450k ,Tunisia,"Jul 9, 2017","Jun 30, 2018",LB Châteauroux,OGC Nice,1000000.0,,Ligue I Pro
+26,Mouez Hassen,Club Africain Tunis,€450k ,Tunisia,"Jun 30, 2017","Jul 9, 2017",OGC Nice,LB Châteauroux,1000000.0,,Ligue I Pro
+26,Mouez Hassen,Club Africain Tunis,€450k ,Tunisia,"Jan 31, 2017","Jun 30, 2017",Southampton,OGC Nice,1000000.0,,Ligue I Pro
+26,Mouez Hassen,Club Africain Tunis,€450k ,Tunisia,"Jul 1, 2013","Jan 31, 2017",OGC Nice,Southampton,1000000.0,,Ligue I Pro
+26,Mouez Hassen,Club Africain Tunis,€450k ,Tunisia,,"Jul 1, 2013",Nizza U19,OGC Nice,250000.0,,Ligue I Pro
+3,Montassar Talbi,FC Lorient,€4.00m ,Tunisia,"Jul 18, 2022",,FC Lorient,,,,Ligue 1
+3,Montassar Talbi,FC Lorient,€4.00m ,Tunisia,"Aug 9, 2021","Jul 18, 2022",Rubin Kazan,FC Lorient,1200000.0,1500000.0,Ligue 1
+3,Montassar Talbi,FC Lorient,€4.00m ,Tunisia,"Jul 1, 2021","Aug 9, 2021",Benevento,Rubin Kazan,950000.0,900000.0,Ligue 1
+3,Montassar Talbi,FC Lorient,€4.00m ,Tunisia,"Jul 1, 2018","Jul 1, 2021",C. Rizespor,Benevento,950000.0,0.0,Ligue 1
+3,Montassar Talbi,FC Lorient,€4.00m ,Tunisia,"Sep 1, 2016","Jul 1, 2018",Esperance,C. Rizespor,350000.0,0.0,Ligue 1
+3,Montassar Talbi,FC Lorient,€4.00m ,Tunisia,,"Sep 1, 2016",Esperance U19,Esperance,,,Ligue 1
+4,Yassine Meriah,Esperance Tunis,€2.00m ,Tunisia,"Aug 4, 2022",,Esperance,,,,Ligue I Pro
+4,Yassine Meriah,Esperance Tunis,€2.00m ,Tunisia,"Jul 28, 2021","Aug 4, 2022",Al-Ain FC,Esperance,2000000.0,0.0,Ligue I Pro
+4,Yassine Meriah,Esperance Tunis,€2.00m ,Tunisia,"Jun 30, 2021","Jul 28, 2021",Olympiacos,Al-Ain FC,2000000.0,1500000.0,Ligue I Pro
+4,Yassine Meriah,Esperance Tunis,€2.00m ,Tunisia,"Sep 13, 2020","Jun 30, 2021",C. Rizespor,Olympiacos,2000000.0,,Ligue I Pro
+4,Yassine Meriah,Esperance Tunis,€2.00m ,Tunisia,"Aug 3, 2020","Sep 13, 2020",Olympiacos,C. Rizespor,2700000.0,,Ligue I Pro
+4,Yassine Meriah,Esperance Tunis,€2.00m ,Tunisia,"Jan 31, 2020","Aug 3, 2020",Kasimpasa,Olympiacos,2400000.0,,Ligue I Pro
+4,Yassine Meriah,Esperance Tunis,€2.00m ,Tunisia,"Jul 28, 2018","Jan 31, 2020",Olympiacos,Kasimpasa,3500000.0,,Ligue I Pro
+4,Yassine Meriah,Esperance Tunis,€2.00m ,Tunisia,"Jan 1, 2015","Jul 28, 2018",CS Sfaxien,Olympiacos,1200000.0,1800000.0,Ligue I Pro
+4,Yassine Meriah,Esperance Tunis,€2.00m ,Tunisia,"Dec 23, 2013","Jan 1, 2015",ES Metlaoui,CS Sfaxien,50000.0,,Ligue I Pro
+4,Yassine Meriah,Esperance Tunis,€2.00m ,Tunisia,,"Dec 23, 2013",AS Ariana,ES Metlaoui,,0.0,Ligue I Pro
+2,Bilel Ifa,Kuwait SC,€350k ,Tunisia,"Aug 31, 2022",,Kuwait SC,,,,
+2,Bilel Ifa,Kuwait SC,€350k ,Tunisia,"Jan 12, 2022","Aug 31, 2022",Abha,Kuwait SC,250000.0,0.0,
+2,Bilel Ifa,Kuwait SC,€350k ,Tunisia,"Dec 3, 2007","Jan 12, 2022",Club Africain,Abha,350000.0,718000.0,
+2,Bilel Ifa,Kuwait SC,€350k ,Tunisia,,"Dec 3, 2007",C. Africain U19,Club Africain,,,
+24,Ali Abdi,SM Caen,€1.50m ,Tunisia,"Jul 21, 2021",,SM Caen,,,,Ligue 2
+24,Ali Abdi,SM Caen,€1.50m ,Tunisia,"Jul 23, 2019","Jul 21, 2021",Paris FC,SM Caen,1100000.0,0.0,Ligue 2
+24,Ali Abdi,SM Caen,€1.50m ,Tunisia,"Jul 1, 2016","Jul 23, 2019",Club Africain,Paris FC,800000.0,0.0,Ligue 2
+24,Ali Abdi,SM Caen,€1.50m ,Tunisia,"Jun 30, 2014","Jul 1, 2016",Esperance,Club Africain,175000.0,0.0,Ligue 2
+24,Ali Abdi,SM Caen,€1.50m ,Tunisia,"Jan 12, 2014","Jun 30, 2014",Stade Tunisien,Esperance,100000.0,,Ligue 2
+24,Ali Abdi,SM Caen,€1.50m ,Tunisia,"Jul 21, 2012","Jan 12, 2014",Esperance,Stade Tunisien,100000.0,,Ligue 2
+24,Ali Abdi,SM Caen,€1.50m ,Tunisia,"Aug 30, 2011","Jul 21, 2012",JS Kairouan,Esperance,75000.0,150000.0,Ligue 2
+24,Ali Abdi,SM Caen,€1.50m ,Tunisia,,"Aug 30, 2011",Sfax Railways,JS Kairouan,,0.0,Ligue 2
+21,Wajdi Kechrida,Atromitos Athen,€800k ,Tunisia,"Aug 29, 2022",,Atromitos Athen,,,,Super League 1
+21,Wajdi Kechrida,Atromitos Athen,€800k ,Tunisia,"Jul 31, 2021","Aug 29, 2022",Salernitana,Atromitos Athen,800000.0,0.0,Super League 1
+21,Wajdi Kechrida,Atromitos Athen,€800k ,Tunisia,"Jul 1, 2016","Jul 31, 2021",ES Sahel,Salernitana,1500000.0,0.0,Super League 1
+21,Wajdi Kechrida,Atromitos Athen,€800k ,Tunisia,"Jan 1, 2015","Jul 1, 2016",ES Sahel U21,ES Sahel,,,Super League 1
+21,Wajdi Kechrida,Atromitos Athen,€800k ,Tunisia,,"Jan 1, 2015",Unknown,ES Sahel U21,,0.0,Super League 1
+14,Aïssa Laïdouni,Ferencvárosi TC,€4.00m ,Tunisia,"Aug 5, 2020",,Ferencváros,,,,NB I.
+14,Aïssa Laïdouni,Ferencvárosi TC,€4.00m ,Tunisia,"Jul 14, 2018","Aug 5, 2020",FC Voluntari,Ferencváros,500000.0,600000.0,NB I.
+14,Aïssa Laïdouni,Ferencvárosi TC,€4.00m ,Tunisia,"Jun 30, 2018","Jul 14, 2018",Angers SCO B,FC Voluntari,200000.0,,NB I.
+14,Aïssa Laïdouni,Ferencvárosi TC,€4.00m ,Tunisia,"Aug 31, 2017","Jun 30, 2018",FC Chambly,Angers SCO B,200000.0,,NB I.
+14,Aïssa Laïdouni,Ferencvárosi TC,€4.00m ,Tunisia,"Jun 30, 2017","Aug 31, 2017",Angers SCO B,FC Chambly,175000.0,,NB I.
+14,Aïssa Laïdouni,Ferencvárosi TC,€4.00m ,Tunisia,"Sep 7, 2016","Jun 30, 2017",Les Herbiers VF,Angers SCO B,175000.0,,NB I.
+14,Aïssa Laïdouni,Ferencvárosi TC,€4.00m ,Tunisia,"Jul 1, 2016","Sep 7, 2016",Angers SCO B,Les Herbiers VF,100000.0,,NB I.
+14,Aïssa Laïdouni,Ferencvárosi TC,€4.00m ,Tunisia,,"Jul 1, 2016",Angers SCO U19,Angers SCO B,,,NB I.
+15,Mohamed Ali Ben Romdhane,Esperance Tunis,€2.70m ,Tunisia,"Jul 1, 2018",,Esperance,,,,Ligue I Pro
+15,Mohamed Ali Ben Romdhane,Esperance Tunis,€2.70m ,Tunisia,,"Jul 1, 2018",Esperance U19,Esperance,,,Ligue I Pro
+18,Ghaylen Chaaleli,Esperance Tunis,€1.20m ,Tunisia,"Jul 10, 2020",,Esperance,,,,Ligue I Pro
+18,Ghaylen Chaaleli,Esperance Tunis,€1.20m ,Tunisia,"Jul 22, 2019","Jul 10, 2020",Y. Malatyaspor,Esperance,800000.0,0.0,Ligue I Pro
+18,Ghaylen Chaaleli,Esperance Tunis,€1.20m ,Tunisia,"Jul 1, 2014","Jul 22, 2019",Esperance,Y. Malatyaspor,1100000.0,0.0,Ligue I Pro
+18,Ghaylen Chaaleli,Esperance Tunis,€1.20m ,Tunisia,,"Jul 1, 2014",Esp. Tunis U21,Esperance,,,Ligue I Pro
+23,Naïm Sliti,Ettifaq FC,€6.00m ,Tunisia,"Aug 11, 2019",,Ettifaq FC,,,,Saudi Pro League
+23,Naïm Sliti,Ettifaq FC,€6.00m ,Tunisia,"Jul 1, 2018","Aug 11, 2019",Dijon,Ettifaq FC,7000000.0,5000000.0,Saudi Pro League
+23,Naïm Sliti,Ettifaq FC,€6.00m ,Tunisia,"Jun 30, 2018","Jul 1, 2018",LOSC Lille,Dijon,7000000.0,2000000.0,Saudi Pro League
+23,Naïm Sliti,Ettifaq FC,€6.00m ,Tunisia,"Jul 25, 2017","Jun 30, 2018",Dijon,LOSC Lille,7000000.0,,Saudi Pro League
+23,Naïm Sliti,Ettifaq FC,€6.00m ,Tunisia,"Jul 1, 2017","Jul 25, 2017",LOSC Lille,Dijon,1750000.0,,Saudi Pro League
+23,Naïm Sliti,Ettifaq FC,€6.00m ,Tunisia,"Jun 30, 2017","Jul 1, 2017",Red Star FC,LOSC Lille,1750000.0,2000000.0,Saudi Pro League
+23,Naïm Sliti,Ettifaq FC,€6.00m ,Tunisia,"Aug 31, 2016","Jun 30, 2017",LOSC Lille,Red Star FC,1750000.0,,Saudi Pro League
+23,Naïm Sliti,Ettifaq FC,€6.00m ,Tunisia,"Jul 1, 2014","Aug 31, 2016",Red Star FC,LOSC Lille,1500000.0,,Saudi Pro League
+23,Naïm Sliti,Ettifaq FC,€6.00m ,Tunisia,"Aug 6, 2013","Jul 1, 2014",Paris FC,Red Star FC,400000.0,0.0,Saudi Pro League
+23,Naïm Sliti,Ettifaq FC,€6.00m ,Tunisia,"Apr 14, 2011","Aug 6, 2013",CS Sedan,Paris FC,400000.0,0.0,Saudi Pro League
+23,Naïm Sliti,Ettifaq FC,€6.00m ,Tunisia,"Jul 1, 2010","Apr 14, 2011",CS Sedan B,CS Sedan,,,Saudi Pro League
+23,Naïm Sliti,Ettifaq FC,€6.00m ,Tunisia,,"Jul 1, 2010",CS Sedan U19,CS Sedan B,,,Saudi Pro League
+9,Issam Jebali,Odense Boldklub,€500k ,Tunisia,"Jul 30, 2019",,Odense BK,,,,Superligaen
+9,Issam Jebali,Odense Boldklub,€500k ,Tunisia,"Jan 31, 2019","Jul 30, 2019",Al-Wehda FC,Odense BK,700000.0,0.0,Superligaen
+9,Issam Jebali,Odense Boldklub,€500k ,Tunisia,"Aug 7, 2018","Jan 31, 2019",Rosenborg,Al-Wehda FC,900000.0,1400000.0,Superligaen
+9,Issam Jebali,Odense Boldklub,€500k ,Tunisia,"Jul 18, 2016","Aug 7, 2018",Elfsborg,Rosenborg,900000.0,1100000.0,Superligaen
+9,Issam Jebali,Odense Boldklub,€500k ,Tunisia,"Feb 9, 2015","Jul 18, 2016",Värnamo,Elfsborg,200000.0,,Superligaen
+9,Issam Jebali,Odense Boldklub,€500k ,Tunisia,"Jun 30, 2013","Feb 9, 2015",ES Sahel,Värnamo,450000.0,,Superligaen
+9,Issam Jebali,Odense Boldklub,€500k ,Tunisia,"Jan 1, 2013","Jun 30, 2013",ES Zarzis,ES Sahel,350000.0,,Superligaen
+9,Issam Jebali,Odense Boldklub,€500k ,Tunisia,"Jul 1, 2009","Jan 1, 2013",ES Sahel,ES Zarzis,400000.0,,Superligaen
+9,Issam Jebali,Odense Boldklub,€500k ,Tunisia,,"Jul 1, 2009",ESS U19,ES Sahel,,,Superligaen
+19,Seifeddine Jaziri,Zamalek SC,€1.50m ,Tunisia,"Oct 1, 2021",,Zamalek,,,,Premier League
+19,Seifeddine Jaziri,Zamalek SC,€1.50m ,Tunisia,"Sep 30, 2021","Oct 1, 2021",El Mokawloon,Zamalek,600000.0,660000.0,Premier League
+19,Seifeddine Jaziri,Zamalek SC,€1.50m ,Tunisia,"Jan 30, 2021","Sep 30, 2021",Zamalek,El Mokawloon,600000.0,,Premier League
+19,Seifeddine Jaziri,Zamalek SC,€1.50m ,Tunisia,"Jan 10, 2019","Jan 30, 2021",El Mokawloon,Zamalek,600000.0,,Premier League
+19,Seifeddine Jaziri,Zamalek SC,€1.50m ,Tunisia,"Sep 13, 2018","Jan 10, 2019",Stade Gabèsien,El Mokawloon,400000.0,44000.0,Premier League
+19,Seifeddine Jaziri,Zamalek SC,€1.50m ,Tunisia,"Sep 6, 2017","Sep 13, 2018",Tanta SC,Stade Gabèsien,400000.0,0.0,Premier League
+19,Seifeddine Jaziri,Zamalek SC,€1.50m ,Tunisia,"Jun 30, 2017","Sep 6, 2017",Club Africain,Tanta SC,250000.0,,Premier League
+19,Seifeddine Jaziri,Zamalek SC,€1.50m ,Tunisia,"Jan 15, 2017","Jun 30, 2017",US Ben Guerdane,Club Africain,250000.0,,Premier League
+19,Seifeddine Jaziri,Zamalek SC,€1.50m ,Tunisia,"Jun 30, 2014","Jan 15, 2017",Club Africain,US Ben Guerdane,300000.0,,Premier League
+19,Seifeddine Jaziri,Zamalek SC,€1.50m ,Tunisia,"Sep 6, 2013","Jun 30, 2014",CS Hammam-Lif,Club Africain,200000.0,,Premier League
+19,Seifeddine Jaziri,Zamalek SC,€1.50m ,Tunisia,"Aug 3, 2011","Sep 6, 2013",Club Africain,CS Hammam-Lif,200000.0,,Premier League
+19,Seifeddine Jaziri,Zamalek SC,€1.50m ,Tunisia,,"Aug 3, 2011",C. Africain U19,Club Africain,,,Premier League

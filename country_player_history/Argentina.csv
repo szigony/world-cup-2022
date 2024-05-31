@@ -1,0 +1,193 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+12,Gerónimo Rulli,Villarreal CF,€10.00m ,Argentina,"Sep 4, 2020",,Villarreal,,,,LaLiga
+12,Gerónimo Rulli,Villarreal CF,€10.00m ,Argentina,"Jun 30, 2020","Sep 4, 2020",Real Sociedad,Villarreal,8000000.0,5000000.0,LaLiga
+12,Gerónimo Rulli,Villarreal CF,€10.00m ,Argentina,"Aug 14, 2019","Jun 30, 2020",Montpellier,Real Sociedad,8000000.0,,LaLiga
+12,Gerónimo Rulli,Villarreal CF,€10.00m ,Argentina,"Jan 1, 2017","Aug 14, 2019",Real Sociedad,Montpellier,10000000.0,,LaLiga
+12,Gerónimo Rulli,Villarreal CF,€10.00m ,Argentina,"Dec 31, 2016","Jan 1, 2017",Man City,Real Sociedad,8000000.0,7000000.0,LaLiga
+12,Gerónimo Rulli,Villarreal CF,€10.00m ,Argentina,"Aug 9, 2016","Dec 31, 2016",Real Sociedad,Man City,8000000.0,,LaLiga
+12,Gerónimo Rulli,Villarreal CF,€10.00m ,Argentina,"Aug 8, 2016","Aug 9, 2016",Man City,Real Sociedad,8000000.0,,LaLiga
+12,Gerónimo Rulli,Villarreal CF,€10.00m ,Argentina,"Jun 30, 2016","Aug 8, 2016",Maldonado,Man City,8000000.0,4700000.0,LaLiga
+12,Gerónimo Rulli,Villarreal CF,€10.00m ,Argentina,"Jul 24, 2014","Jun 30, 2016",Real Sociedad,Maldonado,6000000.0,,LaLiga
+12,Gerónimo Rulli,Villarreal CF,€10.00m ,Argentina,"Jul 1, 2014","Jul 24, 2014",Maldonado,Real Sociedad,800000.0,,LaLiga
+12,Gerónimo Rulli,Villarreal CF,€10.00m ,Argentina,"Jul 1, 2011","Jul 1, 2014",Estudiantes,Maldonado,800000.0,3500000.0,LaLiga
+12,Gerónimo Rulli,Villarreal CF,€10.00m ,Argentina,,"Jul 1, 2011",Estudiantes U20,Estudiantes,,,LaLiga
+13,Cristian Romero,Tottenham Hotspur,€55.00m ,Argentina,"Aug 30, 2022",,Spurs,,,,Premier League
+13,Cristian Romero,Tottenham Hotspur,€55.00m ,Argentina,"Aug 29, 2022","Aug 30, 2022",Atalanta BC,Spurs,48000000.0,50000000.0,Premier League
+13,Cristian Romero,Tottenham Hotspur,€55.00m ,Argentina,"Aug 6, 2021","Aug 29, 2022",Spurs,Atalanta BC,48000000.0,,Premier League
+13,Cristian Romero,Tottenham Hotspur,€55.00m ,Argentina,"Aug 5, 2021","Aug 6, 2021",Atalanta BC,Spurs,35000000.0,,Premier League
+13,Cristian Romero,Tottenham Hotspur,€55.00m ,Argentina,"Aug 4, 2021","Aug 5, 2021",Juventus,Atalanta BC,35000000.0,17000000.0,Premier League
+13,Cristian Romero,Tottenham Hotspur,€55.00m ,Argentina,"Sep 5, 2020","Aug 4, 2021",Atalanta BC,Juventus,35000000.0,,Premier League
+13,Cristian Romero,Tottenham Hotspur,€55.00m ,Argentina,"Aug 31, 2020","Sep 5, 2020",Juventus,Atalanta BC,14000000.0,,Premier League
+13,Cristian Romero,Tottenham Hotspur,€55.00m ,Argentina,"Jul 13, 2019","Aug 31, 2020",Genoa,Juventus,14000000.0,,Premier League
+13,Cristian Romero,Tottenham Hotspur,€55.00m ,Argentina,"Jul 12, 2019","Jul 13, 2019",Juventus,Genoa,15000000.0,,Premier League
+13,Cristian Romero,Tottenham Hotspur,€55.00m ,Argentina,"Jul 1, 2018","Jul 12, 2019",Genoa,Juventus,15000000.0,31500000.0,Premier League
+13,Cristian Romero,Tottenham Hotspur,€55.00m ,Argentina,"Jul 1, 2016","Jul 1, 2018",Belgrano,Genoa,750000.0,4250000.0,Premier League
+13,Cristian Romero,Tottenham Hotspur,€55.00m ,Argentina,"Jul 1, 2015","Jul 1, 2016",Belgrano II,Belgrano,150000.0,,Premier League
+13,Cristian Romero,Tottenham Hotspur,€55.00m ,Argentina,,"Jul 1, 2015",Belgrano U20,Belgrano II,,,Premier League
+6,Germán Pezzella,Real Betis Balompié,€5.00m ,Argentina,"Aug 19, 2021",,Real Betis,,,,LaLiga
+6,Germán Pezzella,Real Betis Balompié,€5.00m ,Argentina,"Jul 1, 2018","Aug 19, 2021",Fiorentina,Real Betis,7500000.0,3500000.0,LaLiga
+6,Germán Pezzella,Real Betis Balompié,€5.00m ,Argentina,"Jun 30, 2018","Jul 1, 2018",Real Betis,Fiorentina,13000000.0,9750000.0,LaLiga
+6,Germán Pezzella,Real Betis Balompié,€5.00m ,Argentina,"Aug 18, 2017","Jun 30, 2018",Fiorentina,Real Betis,13000000.0,,LaLiga
+6,Germán Pezzella,Real Betis Balompié,€5.00m ,Argentina,"Jul 1, 2015","Aug 18, 2017",Real Betis,Fiorentina,6000000.0,,LaLiga
+6,Germán Pezzella,Real Betis Balompié,€5.00m ,Argentina,"Jul 1, 2012","Jul 1, 2015",River Plate,Real Betis,2500000.0,2250000.0,LaLiga
+6,Germán Pezzella,Real Betis Balompié,€5.00m ,Argentina,"Jul 1, 2010","Jul 1, 2012",River Plate II,River Plate,50000.0,,LaLiga
+6,Germán Pezzella,Real Betis Balompié,€5.00m ,Argentina,,"Jul 1, 2010",River Plate U20,River Plate II,25000.0,,LaLiga
+8,Marcos Acuña,Sevilla FC,€14.00m ,Argentina,"Sep 14, 2020",,Sevilla FC,,,,LaLiga
+8,Marcos Acuña,Sevilla FC,€14.00m ,Argentina,"Jul 21, 2017","Sep 14, 2020",Sporting CP,Sevilla FC,12000000.0,11250000.0,LaLiga
+8,Marcos Acuña,Sevilla FC,€14.00m ,Argentina,"Jul 18, 2014","Jul 21, 2017",Racing Club,Sporting CP,7000000.0,9590000.0,LaLiga
+8,Marcos Acuña,Sevilla FC,€14.00m ,Argentina,"Jul 1, 2010","Jul 18, 2014",Ferro,Racing Club,50000.0,445000.0,LaLiga
+8,Marcos Acuña,Sevilla FC,€14.00m ,Argentina,,"Jul 1, 2010",Ferro U20,Ferro,500000.0,,LaLiga
+2,Juan Foyth,Villarreal CF,€25.00m ,Argentina,"Jul 1, 2021",,Villarreal,,,,LaLiga
+2,Juan Foyth,Villarreal CF,€25.00m ,Argentina,"Jun 30, 2021","Jul 1, 2021",Spurs,Villarreal,12000000.0,15000000.0,LaLiga
+2,Juan Foyth,Villarreal CF,€25.00m ,Argentina,"Oct 4, 2020","Jun 30, 2021",Villarreal,Spurs,12000000.0,,LaLiga
+2,Juan Foyth,Villarreal CF,€25.00m ,Argentina,"Aug 30, 2017","Oct 4, 2020",Spurs,Villarreal,13500000.0,,LaLiga
+2,Juan Foyth,Villarreal CF,€25.00m ,Argentina,"Jan 1, 2017","Aug 30, 2017",Estudiantes,Spurs,5000000.0,13000000.0,LaLiga
+2,Juan Foyth,Villarreal CF,€25.00m ,Argentina,,"Jan 1, 2017",Estudiantes II,Estudiantes,,,LaLiga
+4,Gonzalo Montiel,Sevilla FC,€12.00m ,Argentina,"Aug 13, 2021",,Sevilla FC,,,,LaLiga
+4,Gonzalo Montiel,Sevilla FC,€12.00m ,Argentina,"Jul 1, 2017","Aug 13, 2021",River Plate,Sevilla FC,17000000.0,11000000.0,LaLiga
+4,Gonzalo Montiel,Sevilla FC,€12.00m ,Argentina,"Jan 1, 2015","Jul 1, 2017",River Plate II,River Plate,500000.0,,LaLiga
+4,Gonzalo Montiel,Sevilla FC,€12.00m ,Argentina,,"Jan 1, 2015",River Plate U20,River Plate II,,,LaLiga
+5,Leandro Paredes,Juventus FC,€15.00m ,Argentina,"Jun 30, 2023",,Paris SG,,,,Serie A
+5,Leandro Paredes,Juventus FC,€15.00m ,Argentina,"Aug 31, 2022","Jun 30, 2023",Juventus,Paris SG,15000000.0,,Serie A
+5,Leandro Paredes,Juventus FC,€15.00m ,Argentina,"Jan 29, 2019","Aug 31, 2022",Paris SG,Juventus,17000000.0,,Serie A
+5,Leandro Paredes,Juventus FC,€15.00m ,Argentina,"Jul 1, 2017","Jan 29, 2019",Zenit S-Pb,Paris SG,25000000.0,40000000.0,Serie A
+5,Leandro Paredes,Juventus FC,€15.00m ,Argentina,"Jun 30, 2016","Jul 1, 2017",AS Roma,Zenit S-Pb,13000000.0,23000000.0,Serie A
+5,Leandro Paredes,Juventus FC,€15.00m ,Argentina,"Aug 31, 2015","Jun 30, 2016",Empoli,AS Roma,6000000.0,,Serie A
+5,Leandro Paredes,Juventus FC,€15.00m ,Argentina,"Jul 1, 2015","Aug 31, 2015",AS Roma,Empoli,3500000.0,,Serie A
+5,Leandro Paredes,Juventus FC,€15.00m ,Argentina,"Jun 30, 2015","Jul 1, 2015",Boca Juniors,AS Roma,3500000.0,6000000.0,Serie A
+5,Leandro Paredes,Juventus FC,€15.00m ,Argentina,"Jul 1, 2014","Jun 30, 2015",AS Roma,Boca Juniors,3700000.0,,Serie A
+5,Leandro Paredes,Juventus FC,€15.00m ,Argentina,"Jun 30, 2014","Jul 1, 2014",Boca Juniors,AS Roma,4000000.0,,Serie A
+5,Leandro Paredes,Juventus FC,€15.00m ,Argentina,"Jan 29, 2014","Jun 30, 2014",Chievo Verona,Boca Juniors,4000000.0,,Serie A
+5,Leandro Paredes,Juventus FC,€15.00m ,Argentina,"Jul 1, 2012","Jan 29, 2014",Boca Juniors,Chievo Verona,3500000.0,,Serie A
+5,Leandro Paredes,Juventus FC,€15.00m ,Argentina,,"Jul 1, 2012",CABJ U20,Boca Juniors,50000.0,,Serie A
+24,Enzo Fernández,SL Benfica,€35.00m ,Argentina,"Jul 14, 2022",,Benfica,,,,Liga Portugal
+24,Enzo Fernández,SL Benfica,€35.00m ,Argentina,"Jul 1, 2021","Jul 14, 2022",River Plate,Benfica,15000000.0,12000000.0,Liga Portugal
+24,Enzo Fernández,SL Benfica,€35.00m ,Argentina,"Jun 30, 2021","Jul 1, 2021",River Plate II,River Plate,5000000.0,,Liga Portugal
+24,Enzo Fernández,SL Benfica,€35.00m ,Argentina,"Aug 22, 2020","Jun 30, 2021",Defensa,River Plate II,5000000.0,,Liga Portugal
+24,Enzo Fernández,SL Benfica,€35.00m ,Argentina,"Jul 1, 2018","Aug 22, 2020",River Plate II,Defensa,,,Liga Portugal
+24,Enzo Fernández,SL Benfica,€35.00m ,Argentina,,"Jul 1, 2018",River Plate U20,River Plate II,,,Liga Portugal
+14,Exequiel Palacios,Bayer 04 Leverkusen,€15.00m ,Argentina,"Jan 1, 2020",,B. Leverkusen,,,,Bundesliga
+14,Exequiel Palacios,Bayer 04 Leverkusen,€15.00m ,Argentina,"Jan 1, 2017","Jan 1, 2020",River Plate,B. Leverkusen,25000000.0,17000000.0,Bundesliga
+14,Exequiel Palacios,Bayer 04 Leverkusen,€15.00m ,Argentina,"Jul 1, 2015","Jan 1, 2017",River Plate II,River Plate,300000.0,,Bundesliga
+14,Exequiel Palacios,Bayer 04 Leverkusen,€15.00m ,Argentina,,"Jul 1, 2015",River Plate U20,River Plate II,,,Bundesliga
+17,Papu Gómez,Sevilla FC,€4.00m ,Argentina,"Jan 26, 2021",,Sevilla FC,,,,LaLiga
+17,Papu Gómez,Sevilla FC,€4.00m ,Argentina,"Sep 1, 2014","Jan 26, 2021",Atalanta BC,Sevilla FC,15000000.0,5500000.0,LaLiga
+17,Papu Gómez,Sevilla FC,€4.00m ,Argentina,"Aug 2, 2013","Sep 1, 2014",Metalist,Atalanta BC,8000000.0,4470000.0,LaLiga
+17,Papu Gómez,Sevilla FC,€4.00m ,Argentina,"Jul 21, 2010","Aug 2, 2013",Catania,Metalist,11000000.0,7000000.0,LaLiga
+17,Papu Gómez,Sevilla FC,€4.00m ,Argentina,"Jan 29, 2009","Jul 21, 2010",San Lorenzo,Catania,2500000.0,2500000.0,LaLiga
+17,Papu Gómez,Sevilla FC,€4.00m ,Argentina,"Jul 1, 2005","Jan 29, 2009",Arsenal Sarandí,San Lorenzo,3500000.0,1550000.0,LaLiga
+17,Papu Gómez,Sevilla FC,€4.00m ,Argentina,,"Jul 1, 2005",Arsenal FC U20,Arsenal Sarandí,,,LaLiga
+15,Ángel Correa,Atlético de Madrid,€40.00m ,Argentina,"Jan 1, 2015",,Atlético Madrid,,,,LaLiga
+15,Ángel Correa,Atlético de Madrid,€40.00m ,Argentina,"Jan 1, 2013","Jan 1, 2015",San Lorenzo,Atlético Madrid,5000000.0,10500000.0,LaLiga
+15,Ángel Correa,Atlético de Madrid,€40.00m ,Argentina,,"Jan 1, 2013",San Lorenzo II,San Lorenzo,,,LaLiga
+21,Paulo Dybala,AS Roma,€30.00m ,Argentina,"Jul 20, 2022",,AS Roma,,,,Serie A
+21,Paulo Dybala,AS Roma,€30.00m ,Argentina,"Jul 1, 2015","Jul 20, 2022",Juventus,AS Roma,35000000.0,0.0,Serie A
+21,Paulo Dybala,AS Roma,€30.00m ,Argentina,"Jul 20, 2012","Jul 1, 2015",US Palermo,Juventus,28000000.0,41000000.0,Serie A
+21,Paulo Dybala,AS Roma,€30.00m ,Argentina,"Jul 1, 2011","Jul 20, 2012",Instituto AC,US Palermo,2000000.0,11900000.0,Serie A
+21,Paulo Dybala,AS Roma,€30.00m ,Argentina,,"Jul 1, 2011",Instituto U19,Instituto AC,,,Serie A
+9,Julián Álvarez,Manchester City,€32.00m ,Argentina,"Jul 7, 2022",,Man City,,,,Premier League
+9,Julián Álvarez,Manchester City,€32.00m ,Argentina,"Feb 1, 2022","Jul 7, 2022",River Plate,Man City,23000000.0,,Premier League
+9,Julián Álvarez,Manchester City,€32.00m ,Argentina,"Jan 31, 2022","Feb 1, 2022",Man City,River Plate,20000000.0,,Premier League
+9,Julián Álvarez,Manchester City,€32.00m ,Argentina,"Jan 1, 2019","Jan 31, 2022",River Plate,Man City,20000000.0,21400000.0,Premier League
+9,Julián Álvarez,Manchester City,€32.00m ,Argentina,"Jan 1, 2018","Jan 1, 2019",River Plate II,River Plate,1000000.0,,Premier League
+9,Julián Álvarez,Manchester City,€32.00m ,Argentina,"Jan 1, 2016","Jan 1, 2018",River Plate U20,River Plate II,,,Premier League
+9,Julián Álvarez,Manchester City,€32.00m ,Argentina,,"Jan 1, 2016",CA Atalaya,River Plate U20,,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"Sep 16, 2020",,Aston Villa,,,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"May 31, 2019","Sep 16, 2020",Arsenal,Aston Villa,8000000.0,17400000.0,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"Jan 23, 2019","May 31, 2019",Reading,Arsenal,1000000.0,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"Jun 30, 2018","Jan 23, 2019",Arsenal,Reading,1000000.0,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"Aug 2, 2017","Jun 30, 2018",Getafe,Arsenal,1000000.0,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"May 31, 2016","Aug 2, 2017",Arsenal,Getafe,1000000.0,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"Aug 11, 2015","May 31, 2016",Wolves,Arsenal,1500000.0,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"May 4, 2015","Aug 11, 2015",Arsenal,Wolves,1500000.0,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"Mar 20, 2015","May 4, 2015",Rotherham,Arsenal,1000000.0,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"May 31, 2014","Mar 20, 2015",Arsenal,Rotherham,1000000.0,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"Oct 15, 2013","May 31, 2014",Sheff Wed,Arsenal,300000.0,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"Jul 1, 2012","Oct 15, 2013",Arsenal,Sheff Wed,,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"May 7, 2012","Jul 1, 2012",Arsenal U21,Arsenal,,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"May 4, 2012","May 7, 2012",Oxford United,Arsenal Res.,,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,"Jul 1, 2010","May 4, 2012",Arsenal Res.,Oxford United,,,Premier League
+23,Emiliano Martínez,Aston Villa,€25.00m ,Argentina,,"Jul 1, 2010",Indep'te U20,Arsenal Res.,,1500000.0,Premier League
+1,Franco Armani,CA River Plate,€3.20m ,Argentina,"Jan 3, 2018",,River Plate,,,,Liga Profesional
+1,Franco Armani,CA River Plate,€3.20m ,Argentina,"Jul 1, 2010","Jan 3, 2018",Atl. Nacional,River Plate,1600000.0,3150000.0,Liga Profesional
+1,Franco Armani,CA River Plate,€3.20m ,Argentina,"Jun 30, 2010","Jul 1, 2010",Estudiantes II,Atl. Nacional,200000.0,,Liga Profesional
+1,Franco Armani,CA River Plate,€3.20m ,Argentina,"Jul 1, 2008","Jun 30, 2010",Deportivo Merlo,Estudiantes II,200000.0,,Liga Profesional
+1,Franco Armani,CA River Plate,€3.20m ,Argentina,"Jun 30, 2008","Jul 1, 2008",Estudiantes II,Deportivo Merlo,,,Liga Profesional
+1,Franco Armani,CA River Plate,€3.20m ,Argentina,"Jul 1, 2007","Jun 30, 2008",Ferro,Estudiantes II,,,Liga Profesional
+1,Franco Armani,CA River Plate,€3.20m ,Argentina,"Jan 1, 2006","Jul 1, 2007",Estudiantes II,Ferro,,,Liga Profesional
+1,Franco Armani,CA River Plate,€3.20m ,Argentina,,"Jan 1, 2006",Estudiantes U20,Estudiantes II,,,Liga Profesional
+25,Lisandro Martínez,Manchester United,€50.00m ,Argentina,"Jul 27, 2022",,Man Utd,,,,Premier League
+25,Lisandro Martínez,Manchester United,€50.00m ,Argentina,"Jul 1, 2019","Jul 27, 2022",Ajax,Man Utd,32000000.0,57370000.0,Premier League
+25,Lisandro Martínez,Manchester United,€50.00m ,Argentina,"Jul 1, 2018","Jul 1, 2019",Defensa,Ajax,6000000.0,7000000.0,Premier League
+25,Lisandro Martínez,Manchester United,€50.00m ,Argentina,"Jun 30, 2018","Jul 1, 2018",Newell's II,Defensa,2000000.0,725000.0,Premier League
+25,Lisandro Martínez,Manchester United,€50.00m ,Argentina,"Aug 11, 2017","Jun 30, 2018",Defensa,Newell's II,2000000.0,,Premier League
+25,Lisandro Martínez,Manchester United,€50.00m ,Argentina,"Jul 1, 2015","Aug 11, 2017",Newell's II,Defensa,,,Premier League
+25,Lisandro Martínez,Manchester United,€50.00m ,Argentina,,"Jul 1, 2015",Newell's U20,Newell's II,,,Premier League
+19,Nicolás Otamendi,SL Benfica,€3.00m ,Argentina,"Sep 29, 2020",,Benfica,,,,Liga Portugal
+19,Nicolás Otamendi,SL Benfica,€3.00m ,Argentina,"Aug 20, 2015","Sep 29, 2020",Man City,Benfica,14500000.0,15000000.0,Liga Portugal
+19,Nicolás Otamendi,SL Benfica,€3.00m ,Argentina,"Jul 1, 2014","Aug 20, 2015",Valencia,Man City,25000000.0,44500000.0,Liga Portugal
+19,Nicolás Otamendi,SL Benfica,€3.00m ,Argentina,"Jun 30, 2014","Jul 1, 2014",FC Porto,Valencia,12000000.0,12000000.0,Liga Portugal
+19,Nicolás Otamendi,SL Benfica,€3.00m ,Argentina,"Jan 31, 2014","Jun 30, 2014",Atlético-MG,FC Porto,12000000.0,,Liga Portugal
+19,Nicolás Otamendi,SL Benfica,€3.00m ,Argentina,"Aug 31, 2010","Jan 31, 2014",FC Porto,Atlético-MG,13000000.0,,Liga Portugal
+19,Nicolás Otamendi,SL Benfica,€3.00m ,Argentina,"Jan 1, 2009","Aug 31, 2010",Vélez Sarsfield,FC Porto,5000000.0,4000000.0,Liga Portugal
+19,Nicolás Otamendi,SL Benfica,€3.00m ,Argentina,"Jul 1, 2007","Jan 1, 2009",Vélez II,Vélez Sarsfield,50000.0,,Liga Portugal
+19,Nicolás Otamendi,SL Benfica,€3.00m ,Argentina,,"Jul 1, 2007",Vélez U20,Vélez II,,,Liga Portugal
+3,Nicolás Tagliafico,Olympique Lyon,€9.00m ,Argentina,"Jul 23, 2022",,Olympique Lyon,,,,Ligue 1
+3,Nicolás Tagliafico,Olympique Lyon,€9.00m ,Argentina,"Jan 5, 2018","Jul 23, 2022",Ajax,Olympique Lyon,11000000.0,4200000.0,Ligue 1
+3,Nicolás Tagliafico,Olympique Lyon,€9.00m ,Argentina,"Feb 10, 2015","Jan 5, 2018",Independiente,Ajax,6000000.0,4000000.0,Ligue 1
+3,Nicolás Tagliafico,Olympique Lyon,€9.00m ,Argentina,"Jun 30, 2013","Feb 10, 2015",Banfield,Independiente,1000000.0,2780000.0,Ligue 1
+3,Nicolás Tagliafico,Olympique Lyon,€9.00m ,Argentina,"Aug 30, 2012","Jun 30, 2013",Real Murcia,Banfield,500000.0,,Ligue 1
+3,Nicolás Tagliafico,Olympique Lyon,€9.00m ,Argentina,"Jul 1, 2010","Aug 30, 2012",Banfield,Real Murcia,100000.0,,Ligue 1
+3,Nicolás Tagliafico,Olympique Lyon,€9.00m ,Argentina,,"Jul 1, 2010",CA Banfield U20,Banfield,50000.0,,Ligue 1
+26,Nahuel Molina,Atlético de Madrid,€18.00m ,Argentina,"Jul 28, 2022",,Atlético Madrid,,,,LaLiga
+26,Nahuel Molina,Atlético de Madrid,€18.00m ,Argentina,"Sep 15, 2020","Jul 28, 2022",Udinese Calcio,Atlético Madrid,20000000.0,20000000.0,LaLiga
+26,Nahuel Molina,Atlético de Madrid,€18.00m ,Argentina,"Dec 31, 2019","Sep 15, 2020",Boca Juniors II,Udinese Calcio,2000000.0,0.0,LaLiga
+26,Nahuel Molina,Atlético de Madrid,€18.00m ,Argentina,"Jan 25, 2019","Dec 31, 2019",Rosario Central,Boca Juniors II,2500000.0,,LaLiga
+26,Nahuel Molina,Atlético de Madrid,€18.00m ,Argentina,"Dec 31, 2018","Jan 25, 2019",Boca Juniors II,Rosario Central,750000.0,,LaLiga
+26,Nahuel Molina,Atlético de Madrid,€18.00m ,Argentina,"Jan 10, 2018","Dec 31, 2018",Defensa,Boca Juniors II,750000.0,,LaLiga
+26,Nahuel Molina,Atlético de Madrid,€18.00m ,Argentina,"Jul 1, 2015","Jan 10, 2018",Boca Juniors II,Defensa,300000.0,,LaLiga
+26,Nahuel Molina,Atlético de Madrid,€18.00m ,Argentina,,"Jul 1, 2015",CABJ U20,Boca Juniors II,,,LaLiga
+18,Guido Rodríguez,Real Betis Balompié,€28.00m ,Argentina,"Jan 14, 2020",,Real Betis,,,,LaLiga
+18,Guido Rodríguez,Real Betis Balompié,€28.00m ,Argentina,"Jul 1, 2017","Jan 14, 2020",América,Real Betis,10000000.0,4000000.0,LaLiga
+18,Guido Rodríguez,Real Betis Balompié,€28.00m ,Argentina,"Jul 1, 2016","Jul 1, 2017",Club Tijuana,América,2500000.0,6280000.0,LaLiga
+18,Guido Rodríguez,Real Betis Balompié,€28.00m ,Argentina,"Jun 30, 2016","Jul 1, 2016",River Plate,Club Tijuana,1250000.0,1750000.0,LaLiga
+18,Guido Rodríguez,Real Betis Balompié,€28.00m ,Argentina,"Jan 12, 2016","Jun 30, 2016",Defensa,River Plate,1250000.0,,LaLiga
+18,Guido Rodríguez,Real Betis Balompié,€28.00m ,Argentina,"Jul 1, 2014","Jan 12, 2016",River Plate,Defensa,750000.0,,LaLiga
+18,Guido Rodríguez,Real Betis Balompié,€28.00m ,Argentina,,"Jul 1, 2014",River Plate U20,River Plate,,,LaLiga
+7,Rodrigo de Paul,Atlético de Madrid,€35.00m ,Argentina,"Jul 12, 2021",,Atlético Madrid,,,,LaLiga
+7,Rodrigo de Paul,Atlético de Madrid,€35.00m ,Argentina,"Jul 20, 2016","Jul 12, 2021",Udinese Calcio,Atlético Madrid,38000000.0,35000000.0,LaLiga
+7,Rodrigo de Paul,Atlético de Madrid,€35.00m ,Argentina,"Jun 30, 2016","Jul 20, 2016",Valencia,Udinese Calcio,2500000.0,10000000.0,LaLiga
+7,Rodrigo de Paul,Atlético de Madrid,€35.00m ,Argentina,"Feb 4, 2016","Jun 30, 2016",Racing Club,Valencia,4500000.0,,LaLiga
+7,Rodrigo de Paul,Atlético de Madrid,€35.00m ,Argentina,"Jul 1, 2014","Feb 4, 2016",Valencia,Racing Club,5000000.0,,LaLiga
+7,Rodrigo de Paul,Atlético de Madrid,€35.00m ,Argentina,"Jul 1, 2012","Jul 1, 2014",Racing Club,Valencia,3500000.0,6550000.0,LaLiga
+7,Rodrigo de Paul,Atlético de Madrid,€35.00m ,Argentina,,"Jul 1, 2012",Racing Club U20,Racing Club,,,LaLiga
+20,Alexis Mac Allister,Brighton &amp; Hove Albion,€32.00m ,Argentina,"Jan 31, 2020",,Brighton,,,,Premier League
+20,Alexis Mac Allister,Brighton &amp; Hove Albion,€32.00m ,Argentina,"Jul 1, 2019","Jan 31, 2020",Boca Juniors,Brighton,12500000.0,,Premier League
+20,Alexis Mac Allister,Brighton &amp; Hove Albion,€32.00m ,Argentina,"Jun 30, 2019","Jul 1, 2019",Brighton,Boca Juniors,5000000.0,,Premier League
+20,Alexis Mac Allister,Brighton &amp; Hove Albion,€32.00m ,Argentina,"Jan 25, 2019","Jun 30, 2019",Argentinos Jrs.,Brighton,5000000.0,,Premier League
+20,Alexis Mac Allister,Brighton &amp; Hove Albion,€32.00m ,Argentina,"Jan 24, 2019","Jan 25, 2019",Brighton,Argentinos Jrs.,5000000.0,,Premier League
+20,Alexis Mac Allister,Brighton &amp; Hove Albion,€32.00m ,Argentina,"Jul 1, 2017","Jan 24, 2019",Argentinos Jrs.,Brighton,5000000.0,8000000.0,Premier League
+20,Alexis Mac Allister,Brighton &amp; Hove Albion,€32.00m ,Argentina,"Jul 1, 2015","Jul 1, 2017",Argentinos II,Argentinos Jrs.,,,Premier League
+20,Alexis Mac Allister,Brighton &amp; Hove Albion,€32.00m ,Argentina,,"Jul 1, 2015",Argentinos U20,Argentinos II,,,Premier League
+16,Thiago Almada,Atlanta United FC,€15.00m ,Argentina,"Feb 9, 2022",,Atlanta,,,,MLS
+16,Thiago Almada,Atlanta United FC,€15.00m ,Argentina,"Jul 1, 2018","Feb 9, 2022",Vélez Sarsfield,Atlanta,20000000.0,14550000.0,MLS
+16,Thiago Almada,Atlanta United FC,€15.00m ,Argentina,,"Jul 1, 2018",Vélez U20,Vélez Sarsfield,,,MLS
+10,Lionel Messi,Paris Saint-Germain,€50.00m ,Argentina,"Aug 10, 2021",,Paris SG,,,,Ligue 1
+10,Lionel Messi,Paris Saint-Germain,€50.00m ,Argentina,"Jul 1, 2005","Aug 10, 2021",Barcelona,Paris SG,80000000.0,0.0,Ligue 1
+10,Lionel Messi,Paris Saint-Germain,€50.00m ,Argentina,"Mar 5, 2004","Jul 1, 2005",Barcelona B,Barcelona,3000000.0,,Ligue 1
+10,Lionel Messi,Paris Saint-Germain,€50.00m ,Argentina,"Nov 28, 2003","Mar 5, 2004",Barcelona C,Barcelona B,,,Ligue 1
+10,Lionel Messi,Paris Saint-Germain,€50.00m ,Argentina,"Sep 13, 2003","Nov 28, 2003",Barça U19,Barcelona C,,,Ligue 1
+10,Lionel Messi,Paris Saint-Germain,€50.00m ,Argentina,"Jul 1, 2002","Sep 13, 2003",Barça U16,Barça U19,,,Ligue 1
+10,Lionel Messi,Paris Saint-Germain,€50.00m ,Argentina,"Jul 1, 2000","Jul 1, 2002",Barça Youth,Barça U16,,,Ligue 1
+10,Lionel Messi,Paris Saint-Germain,€50.00m ,Argentina,,"Jul 1, 2000",Newell's Youth,Barça Youth,,0.0,Ligue 1
+11,Ángel Di María,Juventus FC,€10.00m ,Argentina,"Jul 8, 2022",,Juventus,,,,Serie A
+11,Ángel Di María,Juventus FC,€10.00m ,Argentina,"Aug 6, 2015","Jul 8, 2022",Paris SG,Juventus,12000000.0,0.0,Serie A
+11,Ángel Di María,Juventus FC,€10.00m ,Argentina,"Aug 26, 2014","Aug 6, 2015",Man Utd,Paris SG,50000000.0,63000000.0,Serie A
+11,Ángel Di María,Juventus FC,€10.00m ,Argentina,"Jul 1, 2010","Aug 26, 2014",Real Madrid,Man Utd,50000000.0,75000000.0,Serie A
+11,Ángel Di María,Juventus FC,€10.00m ,Argentina,"Jul 27, 2007","Jul 1, 2010",Benfica,Real Madrid,9500000.0,33000000.0,Serie A
+11,Ángel Di María,Juventus FC,€10.00m ,Argentina,"Jul 1, 2006","Jul 27, 2007",Rosario Central,Benfica,,8000000.0,Serie A
+11,Ángel Di María,Juventus FC,€10.00m ,Argentina,,"Jul 1, 2006",CA Rosario U20,Rosario Central,,,Serie A
+22,Lautaro Martínez,Inter Milan,€75.00m ,Argentina,"Jul 4, 2018",,Inter,,,,Serie A
+22,Lautaro Martínez,Inter Milan,€75.00m ,Argentina,"Jan 1, 2016","Jul 4, 2018",Racing Club,Inter,25000000.0,25000000.0,Serie A
+22,Lautaro Martínez,Inter Milan,€75.00m ,Argentina,"Jul 10, 2014","Jan 1, 2016",Racing Club U20,Racing Club,,,Serie A
+22,Lautaro Martínez,Inter Milan,€75.00m ,Argentina,,"Jul 10, 2014",Liniers,Racing Club U20,,,Serie A

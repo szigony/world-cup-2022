@@ -1,0 +1,248 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+12,José Sá,Wolverhampton Wanderers,€18.00m ,Portugal,"Jul 15, 2021",,Wolves,,,,Premier League
+12,José Sá,Wolverhampton Wanderers,€18.00m ,Portugal,"Jul 1, 2019","Jul 15, 2021",Olympiacos,Wolves,7500000.0,8000000.0,Premier League
+12,José Sá,Wolverhampton Wanderers,€18.00m ,Portugal,"Jun 30, 2019","Jul 1, 2019",FC Porto,Olympiacos,2500000.0,2500000.0,Premier League
+12,José Sá,Wolverhampton Wanderers,€18.00m ,Portugal,"Aug 31, 2018","Jun 30, 2019",Olympiacos,FC Porto,2500000.0,,Premier League
+12,José Sá,Wolverhampton Wanderers,€18.00m ,Portugal,"Jan 25, 2016","Aug 31, 2018",FC Porto,Olympiacos,2500000.0,,Premier League
+12,José Sá,Wolverhampton Wanderers,€18.00m ,Portugal,"Jul 1, 2013","Jan 25, 2016",Marítimo,FC Porto,1600000.0,1200000.0,Premier League
+12,José Sá,Wolverhampton Wanderers,€18.00m ,Portugal,"Jul 1, 2012","Jul 1, 2013",Marítimo B,Marítimo,100000.0,,Premier League
+12,José Sá,Wolverhampton Wanderers,€18.00m ,Portugal,"Jul 1, 2011","Jul 1, 2012",Marítimo U19,Marítimo B,,,Premier League
+12,José Sá,Wolverhampton Wanderers,€18.00m ,Portugal,"Jan 1, 2011","Jul 1, 2011",Benfica U19,Marítimo U19,,0.0,Premier League
+12,José Sá,Wolverhampton Wanderers,€18.00m ,Portugal,"Jul 1, 2010","Jan 1, 2011",Merelinense Y19,Benfica U19,,0.0,Premier League
+12,José Sá,Wolverhampton Wanderers,€18.00m ,Portugal,"Jul 1, 2009","Jul 1, 2010",Merelinense S17,Merelinense Y19,,,Premier League
+12,José Sá,Wolverhampton Wanderers,€18.00m ,Portugal,"Jul 1, 2008","Jul 1, 2009",Palmeiras U17,Merelinense S17,,0.0,Premier League
+12,José Sá,Wolverhampton Wanderers,€18.00m ,Portugal,,"Jul 1, 2008",Palmeiras U15,Palmeiras U17,,,Premier League
+4,Rúben Dias,Manchester City,€75.00m ,Portugal,"Sep 29, 2020",,Man City,,,,Premier League
+4,Rúben Dias,Manchester City,€75.00m ,Portugal,"Jul 1, 2017","Sep 29, 2020",Benfica,Man City,35000000.0,71600000.0,Premier League
+4,Rúben Dias,Manchester City,€75.00m ,Portugal,"Jul 1, 2015","Jul 1, 2017",Benfica B,Benfica,1000000.0,,Premier League
+4,Rúben Dias,Manchester City,€75.00m ,Portugal,"Jul 1, 2014","Jul 1, 2015",Benfica U19,Benfica B,,,Premier League
+4,Rúben Dias,Manchester City,€75.00m ,Portugal,"Jul 1, 2012","Jul 1, 2014",Benfica U17,Benfica U19,,,Premier League
+4,Rúben Dias,Manchester City,€75.00m ,Portugal,"Jul 1, 2010","Jul 1, 2012",Benfica U15,Benfica U17,,,Premier League
+4,Rúben Dias,Manchester City,€75.00m ,Portugal,"Jul 1, 2008","Jul 1, 2010",SL Benfica Yout,Benfica U15,,,Premier League
+4,Rúben Dias,Manchester City,€75.00m ,Portugal,,"Jul 1, 2008",Estrela A. F,SL Benfica Yout,,,Premier League
+3,Pepe,FC Porto,€1.00m ,Portugal,"Jan 8, 2019",,FC Porto,,,,Liga Portugal
+3,Pepe,FC Porto,€1.00m ,Portugal,"Dec 17, 2018","Jan 8, 2019",Without Club,FC Porto,1500000.0,,Liga Portugal
+3,Pepe,FC Porto,€1.00m ,Portugal,"Jul 4, 2017","Dec 17, 2018",Besiktas,Without Club,2000000.0,,Liga Portugal
+3,Pepe,FC Porto,€1.00m ,Portugal,"Jul 10, 2007","Jul 4, 2017",Real Madrid,Besiktas,3000000.0,0.0,Liga Portugal
+3,Pepe,FC Porto,€1.00m ,Portugal,"Jul 1, 2004","Jul 10, 2007",FC Porto,Real Madrid,30000000.0,30000000.0,Liga Portugal
+3,Pepe,FC Porto,€1.00m ,Portugal,"Jul 1, 2002","Jul 1, 2004",Marítimo,FC Porto,,2000000.0,Liga Portugal
+3,Pepe,FC Porto,€1.00m ,Portugal,"Jul 1, 2001","Jul 1, 2002",Marítimo B,Marítimo,,,Liga Portugal
+3,Pepe,FC Porto,€1.00m ,Portugal,,"Jul 1, 2001",Alagoano U19,Marítimo B,,0.0,Liga Portugal
+5,Raphaël Guerreiro,Borussia Dortmund,€20.00m ,Portugal,"Jul 1, 2016",,Bor. Dortmund,,,,Bundesliga
+5,Raphaël Guerreiro,Borussia Dortmund,€20.00m ,Portugal,"Jul 1, 2013","Jul 1, 2016",FC Lorient,Bor. Dortmund,9000000.0,12000000.0,Bundesliga
+5,Raphaël Guerreiro,Borussia Dortmund,€20.00m ,Portugal,"Jul 1, 2012","Jul 1, 2013",SM Caen,FC Lorient,1500000.0,2500000.0,Bundesliga
+5,Raphaël Guerreiro,Borussia Dortmund,€20.00m ,Portugal,"Jul 1, 2010","Jul 1, 2012",SM Caen B,SM Caen,,,Bundesliga
+5,Raphaël Guerreiro,Borussia Dortmund,€20.00m ,Portugal,"Jul 1, 2008","Jul 1, 2010",Caen U19,SM Caen B,,,Bundesliga
+5,Raphaël Guerreiro,Borussia Dortmund,€20.00m ,Portugal,"Jul 1, 2006","Jul 1, 2008",Clairef. U17,Caen U19,,,Bundesliga
+5,Raphaël Guerreiro,Borussia Dortmund,€20.00m ,Portugal,,"Jul 1, 2006",Clairef. Yth.,Clairef. U17,,,Bundesliga
+2,Diogo Dalot,Manchester United,€32.00m ,Portugal,"Jun 30, 2021",,Man Utd,,,,Premier League
+2,Diogo Dalot,Manchester United,€32.00m ,Portugal,"Oct 4, 2020","Jun 30, 2021",AC Milan,Man Utd,10000000.0,,Premier League
+2,Diogo Dalot,Manchester United,€32.00m ,Portugal,"Jul 1, 2018","Oct 4, 2020",Man Utd,AC Milan,12000000.0,,Premier League
+2,Diogo Dalot,Manchester United,€32.00m ,Portugal,"Feb 21, 2018","Jul 1, 2018",FC Porto,Man Utd,15000000.0,22000000.0,Premier League
+2,Diogo Dalot,Manchester United,€32.00m ,Portugal,"Jan 1, 2017","Feb 21, 2018",FC Porto B,FC Porto,600000.0,,Premier League
+2,Diogo Dalot,Manchester United,€32.00m ,Portugal,"Jan 1, 2016","Jan 1, 2017",FC Porto U19,FC Porto B,50000.0,,Premier League
+2,Diogo Dalot,Manchester United,€32.00m ,Portugal,"Jul 1, 2015","Jan 1, 2016",FC Porto U17,FC Porto U19,,,Premier League
+2,Diogo Dalot,Manchester United,€32.00m ,Portugal,"Jul 1, 2014","Jul 1, 2015",Padroense U17,FC Porto U17,,,Premier League
+2,Diogo Dalot,Manchester United,€32.00m ,Portugal,"Jul 1, 2012","Jul 1, 2014",FC Porto U15,Padroense U17,,,Premier League
+2,Diogo Dalot,Manchester United,€32.00m ,Portugal,,"Jul 1, 2012",FC Porto Youth,FC Porto U15,,,Premier League
+6,João Palhinha,Fulham FC,€28.00m ,Portugal,"Jul 4, 2022",,Fulham,,,,Premier League
+6,João Palhinha,Fulham FC,€28.00m ,Portugal,"Jul 31, 2020","Jul 4, 2022",Sporting CP,Fulham,25000000.0,20000000.0,Premier League
+6,João Palhinha,Fulham FC,€28.00m ,Portugal,"Aug 7, 2018","Jul 31, 2020",SC Braga,Sporting CP,4800000.0,,Premier League
+6,João Palhinha,Fulham FC,€28.00m ,Portugal,"Jan 4, 2017","Aug 7, 2018",Sporting CP,SC Braga,1500000.0,,Premier League
+6,João Palhinha,Fulham FC,€28.00m ,Portugal,"Aug 9, 2016","Jan 4, 2017",Belenenses,Sporting CP,1250000.0,,Premier League
+6,João Palhinha,Fulham FC,€28.00m ,Portugal,"Jul 1, 2016","Aug 9, 2016",Sporting CP,Belenenses,1250000.0,,Premier League
+6,João Palhinha,Fulham FC,€28.00m ,Portugal,"Jun 30, 2016","Jul 1, 2016",Sporting B,Sporting CP,500000.0,,Premier League
+6,João Palhinha,Fulham FC,€28.00m ,Portugal,"Aug 12, 2015","Jun 30, 2016",Moreirense,Sporting B,500000.0,,Premier League
+6,João Palhinha,Fulham FC,€28.00m ,Portugal,"Jul 1, 2014","Aug 12, 2015",Sporting B,Moreirense,75000.0,,Premier League
+6,João Palhinha,Fulham FC,€28.00m ,Portugal,"Jan 1, 2013","Jul 1, 2014",Sporting U19,Sporting B,,,Premier League
+6,João Palhinha,Fulham FC,€28.00m ,Portugal,"Jul 1, 2012","Jan 1, 2013",Sacavenense U19,Sporting U19,,37000.0,Premier League
+6,João Palhinha,Fulham FC,€28.00m ,Portugal,"Jul 1, 2010","Jul 1, 2012",Sacavenense S17,Sacavenense U19,,,Premier League
+6,João Palhinha,Fulham FC,€28.00m ,Portugal,,"Jul 1, 2010",Sacavenense S15,Sacavenense S17,,,Premier League
+13,Danilo Pereira,Paris Saint-Germain,€12.00m ,Portugal,"Jul 1, 2021",,Paris SG,,,,Ligue 1
+13,Danilo Pereira,Paris Saint-Germain,€12.00m ,Portugal,"Jun 30, 2021","Jul 1, 2021",FC Porto,Paris SG,20000000.0,16000000.0,Ligue 1
+13,Danilo Pereira,Paris Saint-Germain,€12.00m ,Portugal,"Oct 5, 2020","Jun 30, 2021",Paris SG,FC Porto,20000000.0,,Ligue 1
+13,Danilo Pereira,Paris Saint-Germain,€12.00m ,Portugal,"Jul 2, 2015","Oct 5, 2020",FC Porto,Paris SG,24000000.0,,Ligue 1
+13,Danilo Pereira,Paris Saint-Germain,€12.00m ,Portugal,"Aug 1, 2013","Jul 2, 2015",Marítimo,FC Porto,5000000.0,4500000.0,Ligue 1
+13,Danilo Pereira,Paris Saint-Germain,€12.00m ,Portugal,"Jun 30, 2013","Aug 1, 2013",Parma,Marítimo,650000.0,0.0,Ligue 1
+13,Danilo Pereira,Paris Saint-Germain,€12.00m ,Portugal,"Jul 1, 2012","Jun 30, 2013",Roda JC,Parma,650000.0,,Ligue 1
+13,Danilo Pereira,Paris Saint-Germain,€12.00m ,Portugal,"Jun 30, 2011","Jul 1, 2012",Parma,Roda JC,500000.0,,Ligue 1
+13,Danilo Pereira,Paris Saint-Germain,€12.00m ,Portugal,"Jan 1, 2011","Jun 30, 2011",Aris Saloniki,Parma,400000.0,,Ligue 1
+13,Danilo Pereira,Paris Saint-Germain,€12.00m ,Portugal,"Jul 1, 2010","Jan 1, 2011",Parma,Aris Saloniki,150000.0,,Ligue 1
+13,Danilo Pereira,Paris Saint-Germain,€12.00m ,Portugal,"Jul 1, 2008","Jul 1, 2010",Benfica U19,Parma,,0.0,Ligue 1
+13,Danilo Pereira,Paris Saint-Germain,€12.00m ,Portugal,"Jul 1, 2007","Jul 1, 2008",Estoril U19,Benfica U19,,0.0,Ligue 1
+13,Danilo Pereira,Paris Saint-Germain,€12.00m ,Portugal,,"Jul 1, 2007",Estoril U17,Estoril U19,,,Ligue 1
+23,Matheus Nunes,Wolverhampton Wanderers,€45.00m ,Portugal,"Aug 18, 2022",,Wolves,,,,Premier League
+23,Matheus Nunes,Wolverhampton Wanderers,€45.00m ,Portugal,"May 1, 2020","Aug 18, 2022",Sporting CP,Wolves,35000000.0,45000000.0,Premier League
+23,Matheus Nunes,Wolverhampton Wanderers,€45.00m ,Portugal,"Jan 31, 2019","May 1, 2020",Sporting CP U23,Sporting CP,,,Premier League
+23,Matheus Nunes,Wolverhampton Wanderers,€45.00m ,Portugal,"Jul 1, 2018","Jan 31, 2019",Estoril Praia,Sporting CP U23,,950000.0,Premier League
+23,Matheus Nunes,Wolverhampton Wanderers,€45.00m ,Portugal,,"Jul 1, 2018",Ericeirense,Estoril Praia,,,Premier League
+10,Bernardo Silva,Manchester City,€80.00m ,Portugal,"Jul 1, 2017",,Man City,,,,Premier League
+10,Bernardo Silva,Manchester City,€80.00m ,Portugal,"Jan 20, 2015","Jul 1, 2017",Monaco,Man City,40000000.0,50000000.0,Premier League
+10,Bernardo Silva,Manchester City,€80.00m ,Portugal,"Jan 19, 2015","Jan 20, 2015",Benfica,Monaco,3500000.0,15750000.0,Premier League
+10,Bernardo Silva,Manchester City,€80.00m ,Portugal,"Aug 7, 2014","Jan 19, 2015",Monaco,Benfica,3500000.0,,Premier League
+10,Bernardo Silva,Manchester City,€80.00m ,Portugal,"Jul 1, 2014","Aug 7, 2014",Benfica,Monaco,2500000.0,,Premier League
+10,Bernardo Silva,Manchester City,€80.00m ,Portugal,"Jul 1, 2013","Jul 1, 2014",Benfica B,Benfica,2500000.0,,Premier League
+10,Bernardo Silva,Manchester City,€80.00m ,Portugal,"Jul 1, 2011","Jul 1, 2013",Benfica U19,Benfica B,,,Premier League
+10,Bernardo Silva,Manchester City,€80.00m ,Portugal,"Jul 1, 2009","Jul 1, 2011",Benfica U17,Benfica U19,,,Premier League
+10,Bernardo Silva,Manchester City,€80.00m ,Portugal,"Jul 1, 2007","Jul 1, 2009",Benfica U15,Benfica U17,,,Premier League
+10,Bernardo Silva,Manchester City,€80.00m ,Portugal,,"Jul 1, 2007",SL Benfica Yout,Benfica U15,,,Premier League
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Jul 13, 2021",,Benfica,,,,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Jun 30, 2021","Jul 13, 2021",Inter,Benfica,12000000.0,0.0,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Oct 6, 2020","Jun 30, 2021",Sporting CP,Inter,12000000.0,,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Jul 31, 2020","Oct 6, 2020",Inter,Sporting CP,13000000.0,,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Aug 27, 2019","Jul 31, 2020",Loko Moscow,Inter,13000000.0,,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Jun 30, 2018","Aug 27, 2019",Inter,Loko Moscow,18000000.0,,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Jan 26, 2018","Jun 30, 2018",West Ham,Inter,25000000.0,,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Aug 28, 2016","Jan 26, 2018",Inter,West Ham,26000000.0,,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Jul 1, 2014","Aug 28, 2016",Sporting CP,Inter,30000000.0,44780000.0,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Jun 30, 2014","Jul 1, 2014",Sporting B,Sporting CP,2000000.0,,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Jan 9, 2014","Jun 30, 2014",Vitória Setúbal,Sporting B,2000000.0,,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Jul 1, 2012","Jan 9, 2014",Sporting B,Vitória Setúbal,2000000.0,,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Jul 1, 2010","Jul 1, 2012",Sporting U19,Sporting B,,,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Jul 1, 2008","Jul 1, 2010",Sporting U17,Sporting U19,,,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Jul 1, 2006","Jul 1, 2008",Sporting Sub-15,Sporting U17,,,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,"Jul 1, 2004","Jul 1, 2006",Sporting Yth.,Sporting Sub-15,,,Liga Portugal
+17,João Mário,SL Benfica,€12.00m ,Portugal,,"Jul 1, 2004",FC Porto Youth,Sporting Yth.,,,Liga Portugal
+21,Ricardo Horta,SC Braga,€20.00m ,Portugal,"Jul 18, 2017",,SC Braga,,,,Liga Portugal
+21,Ricardo Horta,SC Braga,€20.00m ,Portugal,"Jun 30, 2017","Jul 18, 2017",Málaga CF,SC Braga,1750000.0,0.0,Liga Portugal
+21,Ricardo Horta,SC Braga,€20.00m ,Portugal,"Jul 5, 2016","Jun 30, 2017",SC Braga,Málaga CF,1750000.0,,Liga Portugal
+21,Ricardo Horta,SC Braga,€20.00m ,Portugal,"Jul 12, 2014","Jul 5, 2016",Málaga CF,SC Braga,1500000.0,,Liga Portugal
+21,Ricardo Horta,SC Braga,€20.00m ,Portugal,"Jan 1, 2013","Jul 12, 2014",Vitória Setúbal,Málaga CF,1000000.0,500000.0,Liga Portugal
+21,Ricardo Horta,SC Braga,€20.00m ,Portugal,"Jul 1, 2011","Jan 1, 2013",Setúbal U19,Vitória Setúbal,,,Liga Portugal
+21,Ricardo Horta,SC Braga,€20.00m ,Portugal,"Jul 1, 2009","Jul 1, 2011",Benfica U17,Setúbal U19,,,Liga Portugal
+21,Ricardo Horta,SC Braga,€20.00m ,Portugal,"Jul 1, 2007","Jul 1, 2009",Benfica U15,Benfica U17,,,Liga Portugal
+21,Ricardo Horta,SC Braga,€20.00m ,Portugal,,"Jul 1, 2007",SL Benfica Yout,Benfica U15,,,Liga Portugal
+9,André Silva,RB Leipzig,€24.00m ,Portugal,"Jul 2, 2021",,RB Leipzig,,,,Bundesliga
+9,André Silva,RB Leipzig,€24.00m ,Portugal,"Sep 10, 2020","Jul 2, 2021",E. Frankfurt,RB Leipzig,45000000.0,23000000.0,Bundesliga
+9,André Silva,RB Leipzig,€24.00m ,Portugal,"Sep 9, 2020","Sep 10, 2020",AC Milan,E. Frankfurt,24000000.0,3000000.0,Bundesliga
+9,André Silva,RB Leipzig,€24.00m ,Portugal,"Sep 2, 2019","Sep 9, 2020",E. Frankfurt,AC Milan,24000000.0,,Bundesliga
+9,André Silva,RB Leipzig,€24.00m ,Portugal,"Jun 30, 2019","Sep 2, 2019",AC Milan,E. Frankfurt,22000000.0,,Bundesliga
+9,André Silva,RB Leipzig,€24.00m ,Portugal,"Aug 11, 2018","Jun 30, 2019",Sevilla FC,AC Milan,22000000.0,,Bundesliga
+9,André Silva,RB Leipzig,€24.00m ,Portugal,"Jul 1, 2017","Aug 11, 2018",AC Milan,Sevilla FC,22000000.0,,Bundesliga
+9,André Silva,RB Leipzig,€24.00m ,Portugal,"Jul 1, 2016","Jul 1, 2017",FC Porto,AC Milan,22000000.0,38000000.0,Bundesliga
+9,André Silva,RB Leipzig,€24.00m ,Portugal,"Jul 1, 2013","Jul 1, 2016",FC Porto B,FC Porto,2000000.0,,Bundesliga
+9,André Silva,RB Leipzig,€24.00m ,Portugal,"Jul 1, 2012","Jul 1, 2013",FC Porto U19,FC Porto B,,,Bundesliga
+9,André Silva,RB Leipzig,€24.00m ,Portugal,"Jul 1, 2011","Jul 1, 2012",FC Porto U17,FC Porto U19,,,Bundesliga
+9,André Silva,RB Leipzig,€24.00m ,Portugal,"Jul 1, 2010","Jul 1, 2011",Padroense U17,FC Porto U17,,,Bundesliga
+9,André Silva,RB Leipzig,€24.00m ,Portugal,"Jul 1, 2008","Jul 1, 2010",Salgueiros Y15,Padroense U17,,,Bundesliga
+9,André Silva,RB Leipzig,€24.00m ,Portugal,"Jul 1, 2007","Jul 1, 2008",Boavista CJ,Salgueiros Y15,,,Bundesliga
+9,André Silva,RB Leipzig,€24.00m ,Portugal,,"Jul 1, 2007",Salgueiros Y,Boavista CJ,,,Bundesliga
+7,Cristiano Ronaldo,Without ClubWithout Club,€20.00m ,Portugal,"Nov 22, 2022",,Without Club,,,,
+7,Cristiano Ronaldo,Without ClubWithout Club,€20.00m ,Portugal,"Aug 31, 2021","Nov 22, 2022",Man Utd,Without Club,20000000.0,,
+7,Cristiano Ronaldo,Without ClubWithout Club,€20.00m ,Portugal,"Jul 10, 2018","Aug 31, 2021",Juventus,Man Utd,45000000.0,17000000.0,
+7,Cristiano Ronaldo,Without ClubWithout Club,€20.00m ,Portugal,"Jul 6, 2009","Jul 10, 2018",Real Madrid,Juventus,100000000.0,117000000.0,
+7,Cristiano Ronaldo,Without ClubWithout Club,€20.00m ,Portugal,"Aug 12, 2003","Jul 6, 2009",Man Utd,Real Madrid,60000000.0,94000000.0,
+7,Cristiano Ronaldo,Without ClubWithout Club,€20.00m ,Portugal,"Jul 1, 2002","Aug 12, 2003",Sporting CP,Man Utd,,19000000.0,
+7,Cristiano Ronaldo,Without ClubWithout Club,€20.00m ,Portugal,"Jul 1, 2000","Jul 1, 2002",Sporting U19,Sporting CP,,,
+7,Cristiano Ronaldo,Without ClubWithout Club,€20.00m ,Portugal,"Jul 1, 1998","Jul 1, 2000",Sporting U17,Sporting U19,,,
+7,Cristiano Ronaldo,Without ClubWithout Club,€20.00m ,Portugal,"Jul 1, 1997","Jul 1, 1998",Sporting Sub-15,Sporting U17,,,
+7,Cristiano Ronaldo,Without ClubWithout Club,€20.00m ,Portugal,"Jul 1, 1996","Jul 1, 1997",Nacional U15,Sporting Sub-15,,,
+7,Cristiano Ronaldo,Without ClubWithout Club,€20.00m ,Portugal,"Jul 1, 1995","Jul 1, 1996",Nacional Yth.,Nacional U15,,,
+7,Cristiano Ronaldo,Without ClubWithout Club,€20.00m ,Portugal,,"Jul 1, 1995",Andorinha Yth.,Nacional Yth.,,0.0,
+22,Diogo Costa,FC Porto,€35.00m ,Portugal,"Jul 1, 2019",,FC Porto,,,,Liga Portugal
+22,Diogo Costa,FC Porto,€35.00m ,Portugal,"Jul 1, 2016","Jul 1, 2019",FC Porto B,FC Porto,4000000.0,,Liga Portugal
+22,Diogo Costa,FC Porto,€35.00m ,Portugal,"Jul 1, 2015","Jul 1, 2016",FC Porto U19,FC Porto B,,,Liga Portugal
+22,Diogo Costa,FC Porto,€35.00m ,Portugal,"Jul 1, 2014","Jul 1, 2015",FC Porto U17,FC Porto U19,,,Liga Portugal
+22,Diogo Costa,FC Porto,€35.00m ,Portugal,"Jul 1, 2012","Jul 1, 2014",FC Porto U15,FC Porto U17,,,Liga Portugal
+22,Diogo Costa,FC Porto,€35.00m ,Portugal,,"Jul 1, 2012",FC Porto Youth,FC Porto U15,,,Liga Portugal
+1,Rui Patrício,AS Roma,€5.00m ,Portugal,"Jul 13, 2021",,AS Roma,,,,Serie A
+1,Rui Patrício,AS Roma,€5.00m ,Portugal,"Jul 1, 2018","Jul 13, 2021",Wolves,AS Roma,10000000.0,11800000.0,Serie A
+1,Rui Patrício,AS Roma,€5.00m ,Portugal,"Jul 1, 2006","Jul 1, 2018",Sporting CP,Wolves,16000000.0,18000000.0,Serie A
+1,Rui Patrício,AS Roma,€5.00m ,Portugal,"Jul 1, 2005","Jul 1, 2006",Sporting U19,Sporting CP,,,Serie A
+1,Rui Patrício,AS Roma,€5.00m ,Portugal,"Jul 1, 2003","Jul 1, 2005",Sporting U17,Sporting U19,,,Serie A
+1,Rui Patrício,AS Roma,€5.00m ,Portugal,"Jul 1, 2001","Jul 1, 2003",Sporting Sub-15,Sporting U17,,,Serie A
+1,Rui Patrício,AS Roma,€5.00m ,Portugal,,"Jul 1, 2001",Sporting Yth.,Sporting Sub-15,,,Serie A
+24,António Silva,SL Benfica,€15.00m ,Portugal,"Jul 1, 2022",,Benfica,,,,Liga Portugal
+24,António Silva,SL Benfica,€15.00m ,Portugal,"Jul 1, 2020","Jul 1, 2022",Benfica U23,Benfica,300000.0,,Liga Portugal
+24,António Silva,SL Benfica,€15.00m ,Portugal,"Jul 1, 2018","Jul 1, 2020",Benfica U17,Benfica U23,,,Liga Portugal
+24,António Silva,SL Benfica,€15.00m ,Portugal,,"Jul 1, 2018",Benfica U15,Benfica U17,,,Liga Portugal
+19,Nuno Mendes,Paris Saint-Germain,€60.00m ,Portugal,"Jul 1, 2022",,Paris SG,,,,Ligue 1
+19,Nuno Mendes,Paris Saint-Germain,€60.00m ,Portugal,"Jun 30, 2022","Jul 1, 2022",Sporting CP,Paris SG,40000000.0,38000000.0,Ligue 1
+19,Nuno Mendes,Paris Saint-Germain,€60.00m ,Portugal,"Aug 31, 2021","Jun 30, 2022",Paris SG,Sporting CP,40000000.0,,Ligue 1
+19,Nuno Mendes,Paris Saint-Germain,€60.00m ,Portugal,"Jul 1, 2019","Aug 31, 2021",Sporting CP,Paris SG,40000000.0,,Ligue 1
+19,Nuno Mendes,Paris Saint-Germain,€60.00m ,Portugal,"Jul 1, 2019","Jul 1, 2019",Sporting CP U23,Sporting CP,,,Ligue 1
+19,Nuno Mendes,Paris Saint-Germain,€60.00m ,Portugal,"Jul 1, 2017","Jul 1, 2019",Sporting U17,Sporting CP U23,,,Ligue 1
+19,Nuno Mendes,Paris Saint-Germain,€60.00m ,Portugal,"Jul 1, 2015","Jul 1, 2017",Sporting Sub-15,Sporting U17,,,Ligue 1
+19,Nuno Mendes,Paris Saint-Germain,€60.00m ,Portugal,"Jan 1, 2012","Jul 1, 2015",Sporting Yth.,Sporting Sub-15,,,Ligue 1
+19,Nuno Mendes,Paris Saint-Germain,€60.00m ,Portugal,,"Jan 1, 2012",O Despertar Fo.,Sporting Yth.,,,Ligue 1
+20,João Cancelo,Manchester City,€70.00m ,Portugal,"Aug 7, 2019",,Man City,,,,Premier League
+20,João Cancelo,Manchester City,€70.00m ,Portugal,"Jul 1, 2018","Aug 7, 2019",Juventus,Man City,55000000.0,65000000.0,Premier League
+20,João Cancelo,Manchester City,€70.00m ,Portugal,"Jun 30, 2018","Jul 1, 2018",Valencia,Juventus,35000000.0,40400000.0,Premier League
+20,João Cancelo,Manchester City,€70.00m ,Portugal,"Aug 22, 2017","Jun 30, 2018",Inter,Valencia,35000000.0,,Premier League
+20,João Cancelo,Manchester City,€70.00m ,Portugal,"Jul 1, 2015","Aug 22, 2017",Valencia,Inter,20000000.0,,Premier League
+20,João Cancelo,Manchester City,€70.00m ,Portugal,"Jun 30, 2015","Jul 1, 2015",Benfica,Valencia,5000000.0,15000000.0,Premier League
+20,João Cancelo,Manchester City,€70.00m ,Portugal,"Aug 20, 2014","Jun 30, 2015",Valencia,Benfica,2000000.0,,Premier League
+20,João Cancelo,Manchester City,€70.00m ,Portugal,"Jul 1, 2014","Aug 20, 2014",Benfica,Valencia,2000000.0,,Premier League
+20,João Cancelo,Manchester City,€70.00m ,Portugal,"Jan 1, 2013","Jul 1, 2014",Benfica B,Benfica,2000000.0,,Premier League
+20,João Cancelo,Manchester City,€70.00m ,Portugal,"Jul 1, 2011","Jan 1, 2013",Benfica U19,Benfica B,1000000.0,,Premier League
+20,João Cancelo,Manchester City,€70.00m ,Portugal,"Jul 1, 2009","Jul 1, 2011",Benfica U17,Benfica U19,,,Premier League
+20,João Cancelo,Manchester City,€70.00m ,Portugal,"Jul 1, 2007","Jul 1, 2009",Benfica U15,Benfica U17,,,Premier League
+20,João Cancelo,Manchester City,€70.00m ,Portugal,,"Jul 1, 2007",Barreir. F,Benfica U15,,,Premier League
+18,Rúben Neves,Wolverhampton Wanderers,€40.00m ,Portugal,"Jul 8, 2017",,Wolves,,,,Premier League
+18,Rúben Neves,Wolverhampton Wanderers,€40.00m ,Portugal,"Jul 1, 2014","Jul 8, 2017",FC Porto,Wolves,10000000.0,17900000.0,Premier League
+18,Rúben Neves,Wolverhampton Wanderers,€40.00m ,Portugal,"Jan 1, 2013","Jul 1, 2014",FC Porto U17,FC Porto,,,Premier League
+18,Rúben Neves,Wolverhampton Wanderers,€40.00m ,Portugal,"Jul 1, 2012","Jan 1, 2013",Padroense U17,FC Porto U17,,,Premier League
+18,Rúben Neves,Wolverhampton Wanderers,€40.00m ,Portugal,"Jul 1, 2010","Jul 1, 2012",FC Porto U15,Padroense U17,,,Premier League
+18,Rúben Neves,Wolverhampton Wanderers,€40.00m ,Portugal,,"Jul 1, 2010",FC Porto Youth,FC Porto U15,,,Premier League
+14,William Carvalho,Real Betis Balompié,€16.00m ,Portugal,"Jul 13, 2018",,Real Betis,,,,LaLiga
+14,William Carvalho,Real Betis Balompié,€16.00m ,Portugal,"Jun 30, 2013","Jul 13, 2018",Sporting CP,Real Betis,25000000.0,16000000.0,LaLiga
+14,William Carvalho,Real Betis Balompié,€16.00m ,Portugal,"Jan 1, 2012","Jun 30, 2013",Cercle Brugge,Sporting CP,800000.0,,LaLiga
+14,William Carvalho,Real Betis Balompié,€16.00m ,Portugal,"Dec 31, 2011","Jan 1, 2012",Sporting CP,Cercle Brugge,,,LaLiga
+14,William Carvalho,Real Betis Balompié,€16.00m ,Portugal,"Aug 1, 2011","Dec 31, 2011",CD Fátima,Sporting CP,,,LaLiga
+14,William Carvalho,Real Betis Balompié,€16.00m ,Portugal,"Jul 1, 2011","Aug 1, 2011",Sporting CP,CD Fátima,,,LaLiga
+14,William Carvalho,Real Betis Balompié,€16.00m ,Portugal,"Jul 1, 2009","Jul 1, 2011",Sporting U19,Sporting CP,,,LaLiga
+14,William Carvalho,Real Betis Balompié,€16.00m ,Portugal,"Jul 1, 2007","Jul 1, 2009",Sporting U17,Sporting U19,,,LaLiga
+14,William Carvalho,Real Betis Balompié,€16.00m ,Portugal,,"Jul 1, 2007",Sporting Sub-15,Sporting U17,,,LaLiga
+16,Vitinha,Paris Saint-Germain,€45.00m ,Portugal,"Jul 1, 2022",,Paris SG,,,,Ligue 1
+16,Vitinha,Paris Saint-Germain,€45.00m ,Portugal,"Jun 30, 2021","Jul 1, 2022",FC Porto,Paris SG,30000000.0,41500000.0,Ligue 1
+16,Vitinha,Paris Saint-Germain,€45.00m ,Portugal,"Sep 10, 2020","Jun 30, 2021",Wolves,FC Porto,7000000.0,,Ligue 1
+16,Vitinha,Paris Saint-Germain,€45.00m ,Portugal,"Jan 9, 2020","Sep 10, 2020",FC Porto,Wolves,5000000.0,,Ligue 1
+16,Vitinha,Paris Saint-Germain,€45.00m ,Portugal,"Jul 1, 2019","Jan 9, 2020",FC Porto B,FC Porto,1500000.0,,Ligue 1
+16,Vitinha,Paris Saint-Germain,€45.00m ,Portugal,"Jul 1, 2017","Jul 1, 2019",FC Porto U19,FC Porto B,,,Ligue 1
+16,Vitinha,Paris Saint-Germain,€45.00m ,Portugal,"Jun 30, 2016","Jul 1, 2017",FC Porto U17,FC Porto U19,,,Ligue 1
+16,Vitinha,Paris Saint-Germain,€45.00m ,Portugal,"Aug 1, 2015","Jun 30, 2016",Padroense U17,FC Porto U17,,,Ligue 1
+16,Vitinha,Paris Saint-Germain,€45.00m ,Portugal,"Jul 1, 2015","Aug 1, 2015",FC Porto U17,Padroense U17,,,Ligue 1
+16,Vitinha,Paris Saint-Germain,€45.00m ,Portugal,"Jul 1, 2013","Jul 1, 2015",FC Porto U15,FC Porto U17,,,Ligue 1
+16,Vitinha,Paris Saint-Germain,€45.00m ,Portugal,,"Jul 1, 2013",FC Porto Youth,FC Porto U15,,,Ligue 1
+25,Otávio,FC Porto,€30.00m ,Portugal,"Jun 30, 2016",,FC Porto,,,,Liga Portugal
+25,Otávio,FC Porto,€30.00m ,Portugal,"Feb 2, 2015","Jun 30, 2016",Vit. Guimarães,FC Porto,3250000.0,,Liga Portugal
+25,Otávio,FC Porto,€30.00m ,Portugal,"Sep 1, 2014","Feb 2, 2015",FC Porto,Vit. Guimarães,4500000.0,,Liga Portugal
+25,Otávio,FC Porto,€30.00m ,Portugal,"Jul 1, 2012","Sep 1, 2014",Internacional,FC Porto,2000000.0,2500000.0,Liga Portugal
+25,Otávio,FC Porto,€30.00m ,Portugal,"Jan 1, 2010","Jul 1, 2012",Inter B,Internacional,,,Liga Portugal
+25,Otávio,FC Porto,€30.00m ,Portugal,,"Jan 1, 2010",Santa Cruz U20,Inter B,,,Liga Portugal
+8,Bruno Fernandes,Manchester United,€75.00m ,Portugal,"Jan 29, 2020",,Man Utd,,,,Premier League
+8,Bruno Fernandes,Manchester United,€75.00m ,Portugal,"Jul 2, 2017","Jan 29, 2020",Sporting CP,Man Utd,60000000.0,63000000.0,Premier League
+8,Bruno Fernandes,Manchester United,€75.00m ,Portugal,"Jul 1, 2017","Jul 2, 2017",Sampdoria,Sporting CP,7500000.0,9700000.0,Premier League
+8,Bruno Fernandes,Manchester United,€75.00m ,Portugal,"Jun 30, 2017","Jul 1, 2017",Udinese Calcio,Sampdoria,7500000.0,6000000.0,Premier League
+8,Bruno Fernandes,Manchester United,€75.00m ,Portugal,"Aug 16, 2016","Jun 30, 2017",Sampdoria,Udinese Calcio,7500000.0,,Premier League
+8,Bruno Fernandes,Manchester United,€75.00m ,Portugal,"Jul 1, 2013","Aug 16, 2016",Udinese Calcio,Sampdoria,6500000.0,,Premier League
+8,Bruno Fernandes,Manchester United,€75.00m ,Portugal,"Aug 27, 2012","Jul 1, 2013",Novara,Udinese Calcio,3500000.0,2500000.0,Premier League
+8,Bruno Fernandes,Manchester United,€75.00m ,Portugal,"Jul 1, 2011","Aug 27, 2012",Boavista Y19,Novara,,40000.0,Premier League
+8,Bruno Fernandes,Manchester United,€75.00m ,Portugal,"Jul 1, 2009","Jul 1, 2011",Boavista U17,Boavista Y19,,,Premier League
+8,Bruno Fernandes,Manchester United,€75.00m ,Portugal,"Jul 1, 2007","Jul 1, 2009",Boavista U15,Boavista U17,,,Premier League
+8,Bruno Fernandes,Manchester United,€75.00m ,Portugal,"Jul 1, 2004","Jul 1, 2007",Boavista CJ,Boavista U15,,,Premier League
+8,Bruno Fernandes,Manchester United,€75.00m ,Portugal,,"Jul 1, 2004",Infesta For.,Boavista CJ,,,Premier League
+15,Rafael Leão,AC Milan,€85.00m ,Portugal,"Aug 1, 2019",,AC Milan,,,,Serie A
+15,Rafael Leão,AC Milan,€85.00m ,Portugal,"Aug 8, 2018","Aug 1, 2019",LOSC Lille,AC Milan,15000000.0,29500000.0,Serie A
+15,Rafael Leão,AC Milan,€85.00m ,Portugal,"Feb 5, 2018","Aug 8, 2018",Sporting CP,LOSC Lille,6000000.0,0.0,Serie A
+15,Rafael Leão,AC Milan,€85.00m ,Portugal,"Jul 1, 2017","Feb 5, 2018",Sporting B,Sporting CP,500000.0,,Serie A
+15,Rafael Leão,AC Milan,€85.00m ,Portugal,"Jul 1, 2016","Jul 1, 2017",Sporting U19,Sporting B,,,Serie A
+15,Rafael Leão,AC Milan,€85.00m ,Portugal,"Jul 1, 2014","Jul 1, 2016",Sporting U17,Sporting U19,,,Serie A
+15,Rafael Leão,AC Milan,€85.00m ,Portugal,"Jul 1, 2012","Jul 1, 2014",Sporting Sub-15,Sporting U17,,,Serie A
+15,Rafael Leão,AC Milan,€85.00m ,Portugal,,"Jul 1, 2012",Sporting Yth.,Sporting Sub-15,,,Serie A
+11,João Félix,Atlético de Madrid,€50.00m ,Portugal,"Jul 3, 2019",,Atlético Madrid,,,,LaLiga
+11,João Félix,Atlético de Madrid,€50.00m ,Portugal,"Jul 1, 2018","Jul 3, 2019",Benfica,Atlético Madrid,70000000.0,127200000.0,LaLiga
+11,João Félix,Atlético de Madrid,€50.00m ,Portugal,"Dec 1, 2017","Jul 1, 2018",Benfica B,Benfica,2000000.0,,LaLiga
+11,João Félix,Atlético de Madrid,€50.00m ,Portugal,"Sep 29, 2016","Dec 1, 2017",Benfica U19,Benfica B,500000.0,,LaLiga
+11,João Félix,Atlético de Madrid,€50.00m ,Portugal,"Jul 1, 2015","Sep 29, 2016",Benfica U17,Benfica U19,,,LaLiga
+11,João Félix,Atlético de Madrid,€50.00m ,Portugal,"Jul 1, 2014","Jul 1, 2015",Padroense U17,Benfica U17,,0.0,LaLiga
+11,João Félix,Atlético de Madrid,€50.00m ,Portugal,"Jul 1, 2012","Jul 1, 2014",FC Porto U15,Padroense U17,,,LaLiga
+11,João Félix,Atlético de Madrid,€50.00m ,Portugal,,"Jul 1, 2012",FC Porto Youth,FC Porto U15,,,LaLiga
+26,Gonçalo Ramos,SL Benfica,€24.00m ,Portugal,"Oct 1, 2020",,Benfica,,,,Liga Portugal
+26,Gonçalo Ramos,SL Benfica,€24.00m ,Portugal,"Jul 1, 2019","Oct 1, 2020",Benfica B,Benfica,675000.0,,Liga Portugal
+26,Gonçalo Ramos,SL Benfica,€24.00m ,Portugal,"Jul 1, 2018","Jul 1, 2019",Benfica U19,Benfica B,,,Liga Portugal
+26,Gonçalo Ramos,SL Benfica,€24.00m ,Portugal,"Jul 1, 2016","Jul 1, 2018",Benfica U17,Benfica U19,,,Liga Portugal
+26,Gonçalo Ramos,SL Benfica,€24.00m ,Portugal,"Jul 1, 2014","Jul 1, 2016",Benfica U15,Benfica U17,,,Liga Portugal
+26,Gonçalo Ramos,SL Benfica,€24.00m ,Portugal,"Jul 1, 2013","Jul 1, 2014",SL Benfica Yout,Benfica U15,,,Liga Portugal
+26,Gonçalo Ramos,SL Benfica,€24.00m ,Portugal,"Jul 1, 2011","Jul 1, 2013",Unknown,SL Benfica Yout,,,Liga Portugal
+26,Gonçalo Ramos,SL Benfica,€24.00m ,Portugal,,"Jul 1, 2011",Olhanense CJ,Unknown,,,Liga Portugal

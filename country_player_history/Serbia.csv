@@ -1,0 +1,277 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+1,Marko Dmitrović,Sevilla FC,€5.00m ,Serbia,"Jul 4, 2021",,Sevilla FC,,,,LaLiga
+1,Marko Dmitrović,Sevilla FC,€5.00m ,Serbia,"Jul 1, 2017","Jul 4, 2021",SD Eibar,Sevilla FC,8000000.0,0.0,LaLiga
+1,Marko Dmitrović,Sevilla FC,€5.00m ,Serbia,"Jul 7, 2016","Jul 1, 2017",Alcorcón,SD Eibar,1000000.0,1000000.0,LaLiga
+1,Marko Dmitrović,Sevilla FC,€5.00m ,Serbia,"Jun 30, 2016","Jul 7, 2016",Charlton,Alcorcón,800000.0,0.0,LaLiga
+1,Marko Dmitrović,Sevilla FC,€5.00m ,Serbia,"Jul 27, 2015","Jun 30, 2016",Alcorcón,Charlton,800000.0,,LaLiga
+1,Marko Dmitrović,Sevilla FC,€5.00m ,Serbia,"Jan 6, 2015","Jul 27, 2015",Charlton,Alcorcón,300000.0,,LaLiga
+1,Marko Dmitrović,Sevilla FC,€5.00m ,Serbia,"Sep 2, 2013","Jan 6, 2015",Újpest FC,Charlton,300000.0,0.0,LaLiga
+1,Marko Dmitrović,Sevilla FC,€5.00m ,Serbia,"Feb 1, 2013","Sep 2, 2013",Without Club,Újpest FC,300000.0,,LaLiga
+1,Marko Dmitrović,Sevilla FC,€5.00m ,Serbia,"Jul 1, 2010","Feb 1, 2013",Red Star,Without Club,300000.0,,LaLiga
+1,Marko Dmitrović,Sevilla FC,€5.00m ,Serbia,"Jul 1, 2009","Jul 1, 2010",Red Star U19,Red Star,,,LaLiga
+1,Marko Dmitrović,Sevilla FC,€5.00m ,Serbia,"Jul 1, 2007","Jul 1, 2009",Red Star U17,Red Star U19,,,LaLiga
+1,Marko Dmitrović,Sevilla FC,€5.00m ,Serbia,,"Jul 1, 2007",Red Star U15,Red Star U17,,,LaLiga
+2,Strahinja Pavlovic,Red Bull Salzburg,€20.00m ,Serbia,"Jul 1, 2022",,RB Salzburg,,,,Bundesliga
+2,Strahinja Pavlovic,Red Bull Salzburg,€20.00m ,Serbia,"Jun 30, 2022","Jul 1, 2022",Monaco,RB Salzburg,5000000.0,7000000.0,Bundesliga
+2,Strahinja Pavlovic,Red Bull Salzburg,€20.00m ,Serbia,"Feb 15, 2022","Jun 30, 2022",FC Basel,Monaco,5000000.0,,Bundesliga
+2,Strahinja Pavlovic,Red Bull Salzburg,€20.00m ,Serbia,"Jun 30, 2021","Feb 15, 2022",Monaco,FC Basel,8000000.0,,Bundesliga
+2,Strahinja Pavlovic,Red Bull Salzburg,€20.00m ,Serbia,"Jan 21, 2021","Jun 30, 2021",Cercle Brugge,Monaco,8000000.0,,Bundesliga
+2,Strahinja Pavlovic,Red Bull Salzburg,€20.00m ,Serbia,"Jun 30, 2020","Jan 21, 2021",Monaco,Cercle Brugge,8000000.0,,Bundesliga
+2,Strahinja Pavlovic,Red Bull Salzburg,€20.00m ,Serbia,"Jan 14, 2020","Jun 30, 2020",Partizan,Monaco,10000000.0,,Bundesliga
+2,Strahinja Pavlovic,Red Bull Salzburg,€20.00m ,Serbia,"Jan 1, 2020","Jan 14, 2020",Monaco,Partizan,8000000.0,,Bundesliga
+2,Strahinja Pavlovic,Red Bull Salzburg,€20.00m ,Serbia,"Jan 1, 2019","Jan 1, 2020",Partizan,Monaco,8000000.0,10000000.0,Bundesliga
+2,Strahinja Pavlovic,Red Bull Salzburg,€20.00m ,Serbia,"Jul 1, 2018","Jan 1, 2019",Partizan U19,Partizan,,,Bundesliga
+2,Strahinja Pavlovic,Red Bull Salzburg,€20.00m ,Serbia,"Jun 30, 2017","Jul 1, 2018",Partizan U17,Partizan U19,,,Bundesliga
+2,Strahinja Pavlovic,Red Bull Salzburg,€20.00m ,Serbia,"Aug 1, 2016","Jun 30, 2017",Teleoptik U17,Partizan U17,,,Bundesliga
+2,Strahinja Pavlovic,Red Bull Salzburg,€20.00m ,Serbia,"Jul 1, 2016","Aug 1, 2016",Partizan U17,Teleoptik U17,,,Bundesliga
+2,Strahinja Pavlovic,Red Bull Salzburg,€20.00m ,Serbia,,"Jul 1, 2016",Partizan U15,Partizan U17,,,Bundesliga
+3,Strahinja Eraković,Red Star Belgrade,€7.00m ,Serbia,"Jul 1, 2020",,Red Star,,,,Super liga Srbije
+3,Strahinja Eraković,Red Star Belgrade,€7.00m ,Serbia,"Jun 30, 2020","Jul 1, 2020",Red Star U19,Red Star,300000.0,,Super liga Srbije
+3,Strahinja Eraković,Red Star Belgrade,€7.00m ,Serbia,"Jul 1, 2019","Jun 30, 2020",Graficar,Red Star U19,300000.0,,Super liga Srbije
+3,Strahinja Eraković,Red Star Belgrade,€7.00m ,Serbia,"Jul 1, 2018","Jul 1, 2019",Red Star U19,Graficar,50000.0,,Super liga Srbije
+3,Strahinja Eraković,Red Star Belgrade,€7.00m ,Serbia,"Jul 1, 2016","Jul 1, 2018",Red Star U17,Red Star U19,,,Super liga Srbije
+3,Strahinja Eraković,Red Star Belgrade,€7.00m ,Serbia,,"Jul 1, 2016",Red Star U15,Red Star U17,,,Super liga Srbije
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Jul 1, 2022",,UD Almería,,,,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Jun 30, 2022","Jul 1, 2022",Red Star,UD Almería,2000000.0,1100000.0,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Aug 30, 2021","Jun 30, 2022",UD Almería,Red Star,2000000.0,,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Jun 30, 2021","Aug 30, 2021",Red Star,UD Almería,1500000.0,,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Aug 31, 2020","Jun 30, 2021",Famalicão,Red Star,1500000.0,,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Jul 1, 2018","Aug 31, 2020",Red Star,Famalicão,1400000.0,,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Jun 30, 2018","Jul 1, 2018",Real Sociedad,Red Star,850000.0,800000.0,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Jul 1, 2017","Jun 30, 2018",Red Star,Real Sociedad,850000.0,,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Jun 30, 2017","Jul 1, 2017",Real Sociedad,Red Star,600000.0,,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Aug 31, 2016","Jun 30, 2017",Reus Deportiu,Real Sociedad,600000.0,,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Jul 8, 2015","Aug 31, 2016",Real Sociedad B,Reus Deportiu,1000000.0,,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Feb 1, 2014","Jul 8, 2015",Vojvodina,Real Sociedad B,1250000.0,1000000.0,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Jul 1, 2013","Feb 1, 2014",Vojvodina U19,Vojvodina,,,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Jul 1, 2012","Jul 1, 2013",Vojvodina U17,Vojvodina U19,,,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,"Jul 1, 2011","Jul 1, 2012",Vojvodina U15,Vojvodina U17,,,LaLiga
+15,Srdjan Babic,UD Almería,€3.00m ,Serbia,,"Jul 1, 2011",Banja Luka Yth,Vojvodina U15,,0.0,LaLiga
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Jul 1, 2022",,FC Porto,,,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Jun 30, 2022","Jul 1, 2022",Liverpool,FC Porto,12000000.0,9000000.0,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Jul 20, 2021","Jun 30, 2022",FC Porto,Liverpool,12000000.0,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Jun 30, 2021","Jul 20, 2021",Liverpool,FC Porto,15000000.0,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Oct 6, 2020","Jun 30, 2021",FC Porto,Liverpool,15000000.0,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Jun 30, 2020","Oct 6, 2020",Liverpool,FC Porto,14500000.0,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Jul 1, 2019","Jun 30, 2020",Hertha BSC,Liverpool,14500000.0,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Jun 30, 2019","Jul 1, 2019",Liverpool,Hertha BSC,20000000.0,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Aug 19, 2018","Jun 30, 2019",Hertha BSC,Liverpool,20000000.0,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"May 31, 2018","Aug 19, 2018",Liverpool,Hertha BSC,5000000.0,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Jan 17, 2018","May 31, 2018",Cardiff,Liverpool,5000000.0,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Jun 30, 2016","Jan 17, 2018",Liverpool,Cardiff,5000000.0,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Jan 7, 2016","Jun 30, 2016",Red Star,Liverpool,5000000.0,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Jan 6, 2016","Jan 7, 2016",Liverpool,Red Star,3000000.0,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Dec 31, 2014","Jan 6, 2016",Red Star,Liverpool,3000000.0,7000000.0,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Sep 1, 2014","Dec 31, 2014",Kolubara,Red Star,,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Jul 1, 2014","Sep 1, 2014",Red Star,Kolubara,,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Jul 1, 2011","Jul 1, 2014",Red Star U19,Red Star,,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,"Jul 1, 2009","Jul 1, 2011",Red Star U17,Red Star U19,,,Liga Portugal
+26,Marko Grujić,FC Porto,€9.00m ,Serbia,,"Jul 1, 2009",Red Star U15,Red Star U17,,,Liga Portugal
+8,Nemanja Gudelj,Sevilla FC,€4.00m ,Serbia,"Jul 23, 2019",,Sevilla FC,,,,LaLiga
+8,Nemanja Gudelj,Sevilla FC,€4.00m ,Serbia,"Jun 30, 2019","Jul 23, 2019",GZ Evergrande,Sevilla FC,6500000.0,0.0,LaLiga
+8,Nemanja Gudelj,Sevilla FC,€4.00m ,Serbia,"Aug 23, 2018","Jun 30, 2019",Sporting CP,GZ Evergrande,6500000.0,,LaLiga
+8,Nemanja Gudelj,Sevilla FC,€4.00m ,Serbia,"Jan 28, 2018","Aug 23, 2018",GZ Evergrande,Sporting CP,5000000.0,,LaLiga
+8,Nemanja Gudelj,Sevilla FC,€4.00m ,Serbia,"Jan 25, 2017","Jan 28, 2018",TJ Teda,GZ Evergrande,5000000.0,4300000.0,LaLiga
+8,Nemanja Gudelj,Sevilla FC,€4.00m ,Serbia,"Jul 1, 2015","Jan 25, 2017",Ajax,TJ Teda,6500000.0,5500000.0,LaLiga
+8,Nemanja Gudelj,Sevilla FC,€4.00m ,Serbia,"Jul 1, 2013","Jul 1, 2015",AZ Alkmaar,Ajax,6000000.0,6000000.0,LaLiga
+8,Nemanja Gudelj,Sevilla FC,€4.00m ,Serbia,"Jul 1, 2009","Jul 1, 2013",NAC Breda,AZ Alkmaar,3000000.0,3000000.0,LaLiga
+8,Nemanja Gudelj,Sevilla FC,€4.00m ,Serbia,,"Jul 1, 2009",NAC Breda U19,NAC Breda,,,LaLiga
+16,Saša Lukić,Torino FC,€13.00m ,Serbia,"Jun 30, 2018",,Torino,,,,Serie A
+16,Saša Lukić,Torino FC,€13.00m ,Serbia,"Aug 15, 2017","Jun 30, 2018",Levante,Torino,1500000.0,,Serie A
+16,Saša Lukić,Torino FC,€13.00m ,Serbia,"Jul 29, 2016","Aug 15, 2017",Torino,Levante,2200000.0,,Serie A
+16,Saša Lukić,Torino FC,€13.00m ,Serbia,"Jun 30, 2014","Jul 29, 2016",Partizan,Torino,700000.0,1700000.0,Serie A
+16,Saša Lukić,Torino FC,€13.00m ,Serbia,"Aug 13, 2013","Jun 30, 2014",Teleoptik,Partizan,,,Serie A
+16,Saša Lukić,Torino FC,€13.00m ,Serbia,"Aug 12, 2013","Aug 13, 2013",Partizan,Teleoptik,,,Serie A
+16,Saša Lukić,Torino FC,€13.00m ,Serbia,,"Aug 12, 2013",Partizan U19,Partizan,,,Serie A
+6,Nemanja Maksimović,Getafe CF,€10.00m ,Serbia,"Jul 16, 2018",,Getafe,,,,LaLiga
+6,Nemanja Maksimović,Getafe CF,€10.00m ,Serbia,"Jul 1, 2017","Jul 16, 2018",Valencia,Getafe,5000000.0,10000000.0,LaLiga
+6,Nemanja Maksimović,Getafe CF,€10.00m ,Serbia,"Feb 7, 2015","Jul 1, 2017",FC Astana,Valencia,3000000.0,0.0,LaLiga
+6,Nemanja Maksimović,Getafe CF,€10.00m ,Serbia,"Sep 27, 2013","Feb 7, 2015",NK Domzale,FC Astana,500000.0,2000000.0,LaLiga
+6,Nemanja Maksimović,Getafe CF,€10.00m ,Serbia,"Jan 16, 2013","Sep 27, 2013",Verona U19,NK Domzale,,0.0,LaLiga
+6,Nemanja Maksimović,Getafe CF,€10.00m ,Serbia,"Jul 1, 2012","Jan 16, 2013",Red Star U19,Verona U19,,0.0,LaLiga
+6,Nemanja Maksimović,Getafe CF,€10.00m ,Serbia,,"Jul 1, 2012",Red Star U17,Red Star U19,,,LaLiga
+22,Darko Lazović,Hellas Verona,€2.50m ,Serbia,"Aug 6, 2019",,Hellas Verona,,,,Serie A
+22,Darko Lazović,Hellas Verona,€2.50m ,Serbia,"Jul 1, 2015","Aug 6, 2019",Genoa,Hellas Verona,3000000.0,0.0,Serie A
+22,Darko Lazović,Hellas Verona,€2.50m ,Serbia,"Jul 1, 2009","Jul 1, 2015",Red Star,Genoa,3000000.0,0.0,Serie A
+22,Darko Lazović,Hellas Verona,€2.50m ,Serbia,"Jan 1, 2008","Jul 1, 2009",Borac Cacak,Red Star,800000.0,472000.0,Serie A
+22,Darko Lazović,Hellas Verona,€2.50m ,Serbia,,"Jan 1, 2008",Borac Cacak U19,Borac Cacak,,,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Aug 1, 2022",,Sampdoria,,,,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Jul 1, 2018","Aug 1, 2022",Sassuolo,Sampdoria,4000000.0,0.0,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Jun 30, 2018","Jul 1, 2018",Sampdoria,Sassuolo,1500000.0,0.0,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Jan 18, 2018","Jun 30, 2018",Benevento,Sampdoria,1500000.0,,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Jan 30, 2017","Jan 18, 2018",Sampdoria,Benevento,1500000.0,,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Jan 29, 2017","Jan 30, 2017",Benfica,Sampdoria,3000000.0,0.0,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Jul 22, 2016","Jan 29, 2017",Sampdoria,Benfica,3000000.0,,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Jun 30, 2016","Jul 22, 2016",Benfica,Sampdoria,4000000.0,,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Jan 25, 2016","Jun 30, 2016",RSC Anderlecht,Benfica,4500000.0,,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Jun 30, 2015","Jan 25, 2016",Benfica,RSC Anderlecht,5000000.0,,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Feb 2, 2015","Jun 30, 2015",Southampton,Benfica,5000000.0,,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Feb 1, 2015","Feb 2, 2015",Benfica,Southampton,5000000.0,,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Jul 23, 2014","Feb 1, 2015",1.FSV Mainz 05,Benfica,5000000.0,,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Jul 1, 2013","Jul 23, 2014",Benfica,1.FSV Mainz 05,7000000.0,,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Jan 1, 2010","Jul 1, 2013",Heerenveen,Benfica,7000000.0,8000000.0,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Jul 1, 2008","Jan 1, 2010",Radnicki Obrenovac,Heerenveen,,0.0,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,"Jul 1, 2007","Jul 1, 2008",Olympiacos U17,Radnicki Obrenovac,,0.0,Serie A
+21,Filip Djuricic,UC Sampdoria,€2.50m ,Serbia,,"Jul 1, 2007",Red Star U17,Olympiacos U17,,0.0,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Jun 30, 2023",,Marseille,,,,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Jul 7, 2022","Jun 30, 2023",Torino,Marseille,4000000.0,,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Jun 30, 2022","Jul 7, 2022",Marseille,Torino,4000000.0,,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Aug 23, 2021","Jun 30, 2022",Benfica,Marseille,4000000.0,,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Jun 30, 2021","Aug 23, 2021",Marseille,Benfica,6000000.0,,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Feb 1, 2021","Jun 30, 2021",Hertha BSC,Marseille,6000000.0,,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Aug 30, 2018","Feb 1, 2021",Marseille,Hertha BSC,4500000.0,,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Jul 21, 2017","Aug 30, 2018",Red Star,Marseille,6000000.0,12000000.0,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Jun 30, 2017","Jul 21, 2017",AS Roma,Red Star,300000.0,3000000.0,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Jan 1, 2016","Jun 30, 2017",Čukarički,AS Roma,300000.0,,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Jul 1, 2015","Jan 1, 2016",AS Roma,Čukarički,50000.0,,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Sep 1, 2014","Jul 1, 2015",Empoli U19,AS Roma,50000.0,4000000.0,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Feb 16, 2014","Sep 1, 2014",Academia Hagi,Empoli U19,,0.0,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Feb 1, 2014","Feb 16, 2014",Roma U19,Academia Hagi,,,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Oct 1, 2013","Feb 1, 2014",Academia Hagi,Roma U19,,,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,"Jul 1, 2011","Oct 1, 2013",Partizan U17,Academia Hagi,,0.0,Serie A
+7,Nemanja Radonjić,Torino FC,€4.00m ,Serbia,,"Jul 1, 2011",Partizan U15,Partizan U17,,,Serie A
+18,Dušan Vlahović,Juventus FC,€80.00m ,Serbia,"Jan 28, 2022",,Juventus,,,,Serie A
+18,Dušan Vlahović,Juventus FC,€80.00m ,Serbia,"Jul 1, 2018","Jan 28, 2022",Fiorentina,Juventus,70000000.0,81600000.0,Serie A
+18,Dušan Vlahović,Juventus FC,€80.00m ,Serbia,"Jan 1, 2016","Jul 1, 2018",Partizan,Fiorentina,1000000.0,3200000.0,Serie A
+18,Dušan Vlahović,Juventus FC,€80.00m ,Serbia,"Jul 1, 2015","Jan 1, 2016",Partizan U19,Partizan,50000.0,,Serie A
+18,Dušan Vlahović,Juventus FC,€80.00m ,Serbia,,"Jul 1, 2015",Partizan U17,Partizan U19,50000.0,,Serie A
+11,Luka Jović,ACF Fiorentina,€14.00m ,Serbia,"Jul 8, 2022",,Fiorentina,,,,Serie A
+11,Luka Jović,ACF Fiorentina,€14.00m ,Serbia,"Jun 30, 2021","Jul 8, 2022",Real Madrid,Fiorentina,16000000.0,0.0,Serie A
+11,Luka Jović,ACF Fiorentina,€14.00m ,Serbia,"Jan 14, 2021","Jun 30, 2021",E. Frankfurt,Real Madrid,20000000.0,,Serie A
+11,Luka Jović,ACF Fiorentina,€14.00m ,Serbia,"Jul 2, 2019","Jan 14, 2021",Real Madrid,E. Frankfurt,20000000.0,,Serie A
+11,Luka Jović,ACF Fiorentina,€14.00m ,Serbia,"Jul 1, 2019","Jul 2, 2019",E. Frankfurt,Real Madrid,60000000.0,63000000.0,Serie A
+11,Luka Jović,ACF Fiorentina,€14.00m ,Serbia,"Jun 30, 2019","Jul 1, 2019",Benfica,E. Frankfurt,60000000.0,22340000.0,Serie A
+11,Luka Jović,ACF Fiorentina,€14.00m ,Serbia,"Jul 1, 2017","Jun 30, 2019",E. Frankfurt,Benfica,60000000.0,,Serie A
+11,Luka Jović,ACF Fiorentina,€14.00m ,Serbia,"Jan 31, 2016","Jul 1, 2017",Benfica,E. Frankfurt,2000000.0,,Serie A
+11,Luka Jović,ACF Fiorentina,€14.00m ,Serbia,"Jan 25, 2016","Jan 31, 2016",Apol. Limassol,Benfica,1750000.0,6600000.0,Serie A
+11,Luka Jović,ACF Fiorentina,€14.00m ,Serbia,"Jul 1, 2014","Jan 25, 2016",Red Star,Apol. Limassol,1750000.0,2000000.0,Serie A
+11,Luka Jović,ACF Fiorentina,€14.00m ,Serbia,"Jul 1, 2013","Jul 1, 2014",Red Star U19,Red Star,,,Serie A
+11,Luka Jović,ACF Fiorentina,€14.00m ,Serbia,"Jul 1, 2012","Jul 1, 2013",Red Star U17,Red Star U19,,,Serie A
+11,Luka Jović,ACF Fiorentina,€14.00m ,Serbia,,"Jul 1, 2012",Red Star U15,Red Star U17,,,Serie A
+12,Predrag Rajković,RCD Mallorca,€10.00m ,Serbia,"Jul 22, 2022",,RCD Mallorca,,,,LaLiga
+12,Predrag Rajković,RCD Mallorca,€10.00m ,Serbia,"Jul 1, 2019","Jul 22, 2022",Stade Reims,RCD Mallorca,9000000.0,2000000.0,LaLiga
+12,Predrag Rajković,RCD Mallorca,€10.00m ,Serbia,"Aug 29, 2015","Jul 1, 2019",M. Tel Aviv,Stade Reims,3500000.0,5000000.0,LaLiga
+12,Predrag Rajković,RCD Mallorca,€10.00m ,Serbia,"Aug 28, 2013","Aug 29, 2015",Red Star,M. Tel Aviv,2000000.0,3000000.0,LaLiga
+12,Predrag Rajković,RCD Mallorca,€10.00m ,Serbia,"Jan 1, 2012","Aug 28, 2013",Jagodina,Red Star,300000.0,140000.0,LaLiga
+12,Predrag Rajković,RCD Mallorca,€10.00m ,Serbia,,"Jan 1, 2012",Jagodina U19,Jagodina,,,LaLiga
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Jun 30, 2020",,Torino,,,,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Jul 1, 2019","Jun 30, 2020",Standard Liège,Torino,725000.0,,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Jun 30, 2019","Jul 1, 2019",Torino,Standard Liège,1200000.0,,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Jan 31, 2019","Jun 30, 2019",Ascoli,Torino,1200000.0,,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Jan 30, 2019","Jan 31, 2019",Torino,Ascoli,1800000.0,,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Jul 6, 2018","Jan 30, 2019",SPAL,Torino,1800000.0,,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Jul 1, 2017","Jul 6, 2018",Torino,SPAL,2000000.0,,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Jan 1, 2016","Jul 1, 2017",Lechia Gdansk,Torino,1500000.0,2600000.0,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Jun 30, 2015","Jan 1, 2016",Man Utd,Lechia Gdansk,750000.0,0.0,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Jul 2, 2014","Jun 30, 2015",Vojvodina,Man Utd,750000.0,,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Jul 1, 2014","Jul 2, 2014",Man Utd,Vojvodina,,,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Apr 2, 2014","Jul 1, 2014",Vojvodina,Man Utd,,1750000.0,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Jul 1, 2013","Apr 2, 2014",Vojvodina II,Vojvodina,,,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Jul 1, 2006","Jul 1, 2013",Vojvodina U19,Vojvodina II,,,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,"Oct 5, 2004","Jul 1, 2006",GAK Youth,Vojvodina U19,,,Serie A
+23,Vanja Milinković-Savić,Torino FC,€2.50m ,Serbia,,"Oct 5, 2004",Unknown,GAK Youth,,,Serie A
+4,Nikola Milenković,ACF Fiorentina,€20.00m ,Serbia,"Jul 1, 2017",,Fiorentina,,,,Serie A
+4,Nikola Milenković,ACF Fiorentina,€20.00m ,Serbia,"Jan 18, 2016","Jul 1, 2017",Partizan,Fiorentina,5000000.0,5500000.0,Serie A
+4,Nikola Milenković,ACF Fiorentina,€20.00m ,Serbia,"Dec 31, 2015","Jan 18, 2016",Partizan U19,Partizan,,,Serie A
+4,Nikola Milenković,ACF Fiorentina,€20.00m ,Serbia,"Aug 12, 2015","Dec 31, 2015",Teleoptik,Partizan U19,,,Serie A
+4,Nikola Milenković,ACF Fiorentina,€20.00m ,Serbia,"Jul 1, 2014","Aug 12, 2015",Partizan U19,Teleoptik,,,Serie A
+4,Nikola Milenković,ACF Fiorentina,€20.00m ,Serbia,"Jun 30, 2014","Jul 1, 2014",Partizan U17,Partizan U19,,,Serie A
+4,Nikola Milenković,ACF Fiorentina,€20.00m ,Serbia,"Jul 1, 2013","Jun 30, 2014",Teleoptik U17,Partizan U17,,,Serie A
+4,Nikola Milenković,ACF Fiorentina,€20.00m ,Serbia,,"Jul 1, 2013",Partizan U15,Teleoptik U17,,,Serie A
+5,Miloš Veljković,SV Werder Bremen,€5.00m ,Serbia,"Feb 1, 2016",,Werder Bremen,,,,Bundesliga
+5,Miloš Veljković,SV Werder Bremen,€5.00m ,Serbia,"May 31, 2015","Feb 1, 2016",Tottenham U21,Werder Bremen,250000.0,330000.0,Bundesliga
+5,Miloš Veljković,SV Werder Bremen,€5.00m ,Serbia,"Jan 20, 2015","May 31, 2015",Charlton,Tottenham U21,250000.0,,Bundesliga
+5,Miloš Veljković,SV Werder Bremen,€5.00m ,Serbia,"Jan 15, 2015","Jan 20, 2015",Tottenham U21,Charlton,,,Bundesliga
+5,Miloš Veljković,SV Werder Bremen,€5.00m ,Serbia,"Oct 16, 2014","Jan 15, 2015",Middlesbrough,Tottenham U21,,,Bundesliga
+5,Miloš Veljković,SV Werder Bremen,€5.00m ,Serbia,"Jul 1, 2013","Oct 16, 2014",Tottenham U21,Middlesbrough,,,Bundesliga
+5,Miloš Veljković,SV Werder Bremen,€5.00m ,Serbia,"Aug 1, 2011","Jul 1, 2013",Spurs U18,Tottenham U21,,,Bundesliga
+5,Miloš Veljković,SV Werder Bremen,€5.00m ,Serbia,,"Aug 1, 2011",FC Basel U16,Spurs U18,,0.0,Bundesliga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jul 6, 2021",,Getafe,,,,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jul 1, 2018","Jul 6, 2021",R. Strasbourg,Getafe,2200000.0,1000000.0,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jul 1, 2016","Jul 1, 2018",KAA Gent,R. Strasbourg,2200000.0,3000000.0,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jun 30, 2016","Jul 1, 2016",SC Freiburg,KAA Gent,2000000.0,1500000.0,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Aug 17, 2015","Jun 30, 2016",KAA Gent,SC Freiburg,2000000.0,,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jul 16, 2014","Aug 17, 2015",SC Freiburg,KAA Gent,1500000.0,,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jun 30, 2014","Jul 16, 2014",Benfica,SC Freiburg,1000000.0,1500000.0,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jan 21, 2014","Jun 30, 2014",Real Valladolid,Benfica,1000000.0,,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jul 1, 2013","Jan 21, 2014",Benfica,Real Valladolid,1100000.0,,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jul 1, 2012","Jul 1, 2013",KV Kortrijk,Benfica,1100000.0,1100000.0,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jul 1, 2011","Jul 1, 2012",Metalac,KV Kortrijk,250000.0,,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jul 1, 2010","Jul 1, 2011",Zbrojovka Brno,Metalac,50000.0,0.0,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jul 1, 2009","Jul 1, 2010",Petrzalka,Zbrojovka Brno,50000.0,0.0,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jul 1, 2008","Jul 1, 2009",Rad U19,Petrzalka,,0.0,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jul 1, 2007","Jul 1, 2008",Red Star U19,Rad U19,,0.0,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jul 1, 2005","Jul 1, 2007",Red Star U17,Red Star U19,,,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,"Jul 1, 2003","Jul 1, 2005",Red Star U15,Red Star U17,,,LaLiga
+13,Stefan Mitrović,Getafe CF,€2.00m ,Serbia,,"Jul 1, 2003",FK Rad Youth,Red Star U15,,0.0,LaLiga
+19,Uroš Račić,SC Braga,€6.50m ,Serbia,"Jun 30, 2023",,Valencia,,,,Liga Portugal
+19,Uroš Račić,SC Braga,€6.50m ,Serbia,"Sep 1, 2022","Jun 30, 2023",SC Braga,Valencia,6500000.0,,Liga Portugal
+19,Uroš Račić,SC Braga,€6.50m ,Serbia,"Jul 31, 2020","Sep 1, 2022",Valencia,SC Braga,7000000.0,,Liga Portugal
+19,Uroš Račić,SC Braga,€6.50m ,Serbia,"Aug 8, 2019","Jul 31, 2020",Famalicão,Valencia,2300000.0,,Liga Portugal
+19,Uroš Račić,SC Braga,€6.50m ,Serbia,"Jun 30, 2019","Aug 8, 2019",Valencia,Famalicão,5000000.0,,Liga Portugal
+19,Uroš Račić,SC Braga,€6.50m ,Serbia,"Jan 14, 2019","Jun 30, 2019",CD Tenerife,Valencia,5000000.0,,Liga Portugal
+19,Uroš Račić,SC Braga,€6.50m ,Serbia,"Jul 1, 2018","Jan 14, 2019",Valencia,CD Tenerife,2000000.0,,Liga Portugal
+19,Uroš Račić,SC Braga,€6.50m ,Serbia,"Jul 1, 2016","Jul 1, 2018",Red Star,Valencia,1000000.0,2200000.0,Liga Portugal
+19,Uroš Račić,SC Braga,€6.50m ,Serbia,"Mar 13, 2016","Jul 1, 2016",Red Star U19,Red Star,,,Liga Portugal
+19,Uroš Račić,SC Braga,€6.50m ,Serbia,,"Mar 13, 2016",OFK Beograd U19,Red Star U19,,90000.0,Liga Portugal
+20,Sergej Milinković-Savić,SS Lazio,€60.00m ,Serbia,"Aug 6, 2015",,Lazio,,,,Serie A
+20,Sergej Milinković-Savić,SS Lazio,€60.00m ,Serbia,"Jul 1, 2014","Aug 6, 2015",KRC Genk,Lazio,4000000.0,12000000.0,Serie A
+20,Sergej Milinković-Savić,SS Lazio,€60.00m ,Serbia,"Jul 1, 2013","Jul 1, 2014",Vojvodina,KRC Genk,400000.0,1000000.0,Serie A
+20,Sergej Milinković-Savić,SS Lazio,€60.00m ,Serbia,"Jul 1, 2012","Jul 1, 2013",Vojvodina U19,Vojvodina,100000.0,,Serie A
+20,Sergej Milinković-Savić,SS Lazio,€60.00m ,Serbia,"Jul 1, 2010","Jul 1, 2012",Vojvodina U17,Vojvodina U19,,,Serie A
+20,Sergej Milinković-Savić,SS Lazio,€60.00m ,Serbia,"Aug 1, 2006","Jul 1, 2010",Vojvodina U15,Vojvodina U17,,,Serie A
+20,Sergej Milinković-Savić,SS Lazio,€60.00m ,Serbia,"Jan 1, 2002","Aug 1, 2006",GAK Youth,Vojvodina U15,,0.0,Serie A
+20,Sergej Milinković-Savić,SS Lazio,€60.00m ,Serbia,,"Jan 1, 2002",Unknown,GAK Youth,,,Serie A
+24,Ivan Ilić,Hellas Verona,€13.00m ,Serbia,"Aug 12, 2021",,Hellas Verona,,,,Serie A
+24,Ivan Ilić,Hellas Verona,€13.00m ,Serbia,"Jun 30, 2021","Aug 12, 2021",Man City U23,Hellas Verona,8000000.0,7500000.0,Serie A
+24,Ivan Ilić,Hellas Verona,€13.00m ,Serbia,"Sep 8, 2020","Jun 30, 2021",Hellas Verona,Man City U23,8000000.0,,Serie A
+24,Ivan Ilić,Hellas Verona,€13.00m ,Serbia,"Jun 30, 2020","Sep 8, 2020",Man City U23,Hellas Verona,700000.0,,Serie A
+24,Ivan Ilić,Hellas Verona,€13.00m ,Serbia,"Aug 2, 2019","Jun 30, 2020",NAC Breda,Man City U23,700000.0,,Serie A
+24,Ivan Ilić,Hellas Verona,€13.00m ,Serbia,"Jul 1, 2019","Aug 2, 2019",Man City U23,NAC Breda,600000.0,,Serie A
+24,Ivan Ilić,Hellas Verona,€13.00m ,Serbia,"Jun 30, 2019","Jul 1, 2019",Man City U18,Man City U23,600000.0,,Serie A
+24,Ivan Ilić,Hellas Verona,€13.00m ,Serbia,"Jan 14, 2019","Jun 30, 2019",FK Zemun,Man City U18,600000.0,,Serie A
+24,Ivan Ilić,Hellas Verona,€13.00m ,Serbia,"Dec 31, 2018","Jan 14, 2019",Man City U18,FK Zemun,500000.0,,Serie A
+24,Ivan Ilić,Hellas Verona,€13.00m ,Serbia,"Jul 11, 2017","Dec 31, 2018",Red Star U19,Man City U18,500000.0,,Serie A
+24,Ivan Ilić,Hellas Verona,€13.00m ,Serbia,"Jul 10, 2017","Jul 11, 2017",Man City U18,Red Star U19,50000.0,,Serie A
+24,Ivan Ilić,Hellas Verona,€13.00m ,Serbia,"Jul 1, 2016","Jul 10, 2017",Red Star U17,Man City U18,50000.0,2500000.0,Serie A
+24,Ivan Ilić,Hellas Verona,€13.00m ,Serbia,,"Jul 1, 2016",Real Nis U17,Red Star U17,,0.0,Serie A
+17,Filip Kostić,Juventus FC,€24.00m ,Serbia,"Aug 12, 2022",,Juventus,,,,Serie A
+17,Filip Kostić,Juventus FC,€24.00m ,Serbia,"Jul 1, 2019","Aug 12, 2022",E. Frankfurt,Juventus,24000000.0,13000000.0,Serie A
+17,Filip Kostić,Juventus FC,€24.00m ,Serbia,"Jun 30, 2019","Jul 1, 2019",Hamburger SV,E. Frankfurt,22000000.0,6300000.0,Serie A
+17,Filip Kostić,Juventus FC,€24.00m ,Serbia,"Aug 20, 2018","Jun 30, 2019",E. Frankfurt,Hamburger SV,22000000.0,,Serie A
+17,Filip Kostić,Juventus FC,€24.00m ,Serbia,"Jul 25, 2016","Aug 20, 2018",Hamburger SV,E. Frankfurt,6000000.0,,Serie A
+17,Filip Kostić,Juventus FC,€24.00m ,Serbia,"Aug 9, 2014","Jul 25, 2016",VfB Stuttgart,Hamburger SV,10000000.0,14000000.0,Serie A
+17,Filip Kostić,Juventus FC,€24.00m ,Serbia,"Jul 1, 2012","Aug 9, 2014",FC Groningen,VfB Stuttgart,2500000.0,6000000.0,Serie A
+17,Filip Kostić,Juventus FC,€24.00m ,Serbia,"Jul 1, 2010","Jul 1, 2012",Radnicki 1923,FC Groningen,1250000.0,1250000.0,Serie A
+17,Filip Kostić,Juventus FC,€24.00m ,Serbia,,"Jul 1, 2010",Kragujevac U19,Radnicki 1923,,,Serie A
+25,Filip Mladenovic,Legia Warszawa,€1.50m ,Serbia,"Jul 21, 2020",,Legia Warszawa,,,,Ekstraklasa
+25,Filip Mladenovic,Legia Warszawa,€1.50m ,Serbia,"Jan 27, 2018","Jul 21, 2020",Lechia Gdansk,Legia Warszawa,1200000.0,0.0,Ekstraklasa
+25,Filip Mladenovic,Legia Warszawa,€1.50m ,Serbia,"Jan 1, 2017","Jan 27, 2018",Standard Liège,Lechia Gdansk,750000.0,0.0,Ekstraklasa
+25,Filip Mladenovic,Legia Warszawa,€1.50m ,Serbia,"Jan 5, 2016","Jan 1, 2017",1. FC Köln,Standard Liège,2000000.0,1200000.0,Ekstraklasa
+25,Filip Mladenovic,Legia Warszawa,€1.50m ,Serbia,"Mar 13, 2014","Jan 5, 2016",BATE Borisov,1. FC Köln,1800000.0,1500000.0,Ekstraklasa
+25,Filip Mladenovic,Legia Warszawa,€1.50m ,Serbia,"Nov 22, 2013","Mar 13, 2014",Without Club,BATE Borisov,750000.0,,Ekstraklasa
+25,Filip Mladenovic,Legia Warszawa,€1.50m ,Serbia,"Dec 17, 2011","Nov 22, 2013",Red Star,Without Club,1000000.0,,Ekstraklasa
+25,Filip Mladenovic,Legia Warszawa,€1.50m ,Serbia,"Jul 1, 2010","Dec 17, 2011",Borac Cacak,Red Star,500000.0,354000.0,Ekstraklasa
+25,Filip Mladenovic,Legia Warszawa,€1.50m ,Serbia,,"Jul 1, 2010",Borac Cacak U19,Borac Cacak,,,Ekstraklasa
+10,Dusan Tadić,Ajax Amsterdam,€7.00m ,Serbia,"Jul 3, 2018",,Ajax,,,,Eredivisie
+10,Dusan Tadić,Ajax Amsterdam,€7.00m ,Serbia,"Jul 8, 2014","Jul 3, 2018",Southampton,Ajax,15000000.0,13700000.0,Eredivisie
+10,Dusan Tadić,Ajax Amsterdam,€7.00m ,Serbia,"Jul 1, 2012","Jul 8, 2014",Twente FC,Southampton,10000000.0,14000000.0,Eredivisie
+10,Dusan Tadić,Ajax Amsterdam,€7.00m ,Serbia,"Jul 1, 2010","Jul 1, 2012",FC Groningen,Twente FC,7500000.0,5500000.0,Eredivisie
+10,Dusan Tadić,Ajax Amsterdam,€7.00m ,Serbia,"Jul 1, 2006","Jul 1, 2010",Vojvodina,FC Groningen,2750000.0,1100000.0,Eredivisie
+10,Dusan Tadić,Ajax Amsterdam,€7.00m ,Serbia,"Jan 1, 2005","Jul 1, 2006",Vojvodina U19,Vojvodina,,,Eredivisie
+10,Dusan Tadić,Ajax Amsterdam,€7.00m ,Serbia,"Jul 1, 2003","Jan 1, 2005",Vojvodina U17,Vojvodina U19,,,Eredivisie
+10,Dusan Tadić,Ajax Amsterdam,€7.00m ,Serbia,,"Jul 1, 2003",Vojvodina U15,Vojvodina U17,,,Eredivisie
+14,Andrija Zivkovic,PAOK Thessaloniki,€6.00m ,Serbia,"Sep 8, 2020",,PAOK Salonika,,,,Super League 1
+14,Andrija Zivkovic,PAOK Thessaloniki,€6.00m ,Serbia,"Jul 5, 2016","Sep 8, 2020",Benfica,PAOK Salonika,4000000.0,0.0,Super League 1
+14,Andrija Zivkovic,PAOK Thessaloniki,€6.00m ,Serbia,"Aug 23, 2013","Jul 5, 2016",Partizan,Benfica,6500000.0,0.0,Super League 1
+14,Andrija Zivkovic,PAOK Thessaloniki,€6.00m ,Serbia,,"Aug 23, 2013",Partizan U19,Partizan,,,Super League 1
+9,Aleksandar Mitrović,Fulham FC,€28.00m ,Serbia,"Jul 30, 2018",,Fulham,,,,Premier League
+9,Aleksandar Mitrović,Fulham FC,€28.00m ,Serbia,"May 31, 2018","Jul 30, 2018",Newcastle,Fulham,15000000.0,24700000.0,Premier League
+9,Aleksandar Mitrović,Fulham FC,€28.00m ,Serbia,"Jan 31, 2018","May 31, 2018",Fulham,Newcastle,8000000.0,,Premier League
+9,Aleksandar Mitrović,Fulham FC,€28.00m ,Serbia,"Jul 21, 2015","Jan 31, 2018",Newcastle,Fulham,8000000.0,,Premier League
+9,Aleksandar Mitrović,Fulham FC,€28.00m ,Serbia,"Aug 30, 2013","Jul 21, 2015",RSC Anderlecht,Newcastle,11000000.0,18500000.0,Premier League
+9,Aleksandar Mitrović,Fulham FC,€28.00m ,Serbia,"Jul 1, 2012","Aug 30, 2013",Partizan,RSC Anderlecht,3000000.0,5000000.0,Premier League
+9,Aleksandar Mitrović,Fulham FC,€28.00m ,Serbia,"Jun 30, 2012","Jul 1, 2012",Partizan U19,Partizan,,,Premier League
+9,Aleksandar Mitrović,Fulham FC,€28.00m ,Serbia,"Jul 1, 2011","Jun 30, 2012",Teleoptik,Partizan U19,,,Premier League
+9,Aleksandar Mitrović,Fulham FC,€28.00m ,Serbia,"Jul 1, 2010","Jul 1, 2011",Partizan U19,Teleoptik,,,Premier League
+9,Aleksandar Mitrović,Fulham FC,€28.00m ,Serbia,,"Jul 1, 2010",Partizan U17,Partizan U19,,,Premier League

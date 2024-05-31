@@ -1,0 +1,222 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+12,Jonas Omlin,Montpellier HSC,€7.00m ,Switzerland,"Aug 15, 2020",,Montpellier,,,,Ligue 1
+12,Jonas Omlin,Montpellier HSC,€7.00m ,Switzerland,"Jul 1, 2018","Aug 15, 2020",FC Basel,Montpellier,4800000.0,6000000.0,Ligue 1
+12,Jonas Omlin,Montpellier HSC,€7.00m ,Switzerland,"Jun 30, 2016","Jul 1, 2018",FC Luzern,FC Basel,1000000.0,2000000.0,Ligue 1
+12,Jonas Omlin,Montpellier HSC,€7.00m ,Switzerland,"Jul 6, 2015","Jun 30, 2016",Le Mont LS,FC Luzern,100000.0,,Ligue 1
+12,Jonas Omlin,Montpellier HSC,€7.00m ,Switzerland,"Jul 1, 2014","Jul 6, 2015",FC Luzern,Le Mont LS,100000.0,,Ligue 1
+12,Jonas Omlin,Montpellier HSC,€7.00m ,Switzerland,"Jul 1, 2012","Jul 1, 2014",SC Kriens,FC Luzern,,0.0,Ligue 1
+12,Jonas Omlin,Montpellier HSC,€7.00m ,Switzerland,,"Jul 1, 2012",Luzern U21,SC Kriens,,,Ligue 1
+24,Philipp Köhn,Red Bull Salzburg,€4.00m ,Switzerland,"Jun 30, 2021",,RB Salzburg,,,,Bundesliga
+24,Philipp Köhn,Red Bull Salzburg,€4.00m ,Switzerland,"Jul 29, 2020","Jun 30, 2021",FC Wil 1900,RB Salzburg,400000.0,,Bundesliga
+24,Philipp Köhn,Red Bull Salzburg,€4.00m ,Switzerland,"Jul 6, 2018","Jul 29, 2020",RB Salzburg,FC Wil 1900,300000.0,,Bundesliga
+24,Philipp Köhn,Red Bull Salzburg,€4.00m ,Switzerland,"Jul 1, 2017","Jul 6, 2018",RB Leipzig,RB Salzburg,100000.0,900000.0,Bundesliga
+24,Philipp Köhn,Red Bull Salzburg,€4.00m ,Switzerland,"Jul 1, 2015","Jul 1, 2017",Stuttgart U19,RB Leipzig,,0.0,Bundesliga
+24,Philipp Köhn,Red Bull Salzburg,€4.00m ,Switzerland,"Jul 1, 2014","Jul 1, 2015",Stuttgart U17,Stuttgart U19,,,Bundesliga
+24,Philipp Köhn,Red Bull Salzburg,€4.00m ,Switzerland,"Jul 1, 2013","Jul 1, 2014",Stuttgart U16,Stuttgart U17,,,Bundesliga
+24,Philipp Köhn,Red Bull Salzburg,€4.00m ,Switzerland,"Jul 1, 2007","Jul 1, 2013",Schalke 04 Yth.,Stuttgart U16,,0.0,Bundesliga
+24,Philipp Köhn,Red Bull Salzburg,€4.00m ,Switzerland,"Jul 1, 2005","Jul 1, 2007",Duisburg Yth.,Schalke 04 Yth.,,0.0,Bundesliga
+24,Philipp Köhn,Red Bull Salzburg,€4.00m ,Switzerland,,"Jul 1, 2005",Dinslaken Yth.,Duisburg Yth.,,0.0,Bundesliga
+4,Nico Elvedi,Borussia Mönchengladbach,€20.00m ,Switzerland,"Jul 1, 2015",,Bor. M'gladbach,,,,Bundesliga
+4,Nico Elvedi,Borussia Mönchengladbach,€20.00m ,Switzerland,"Jan 1, 2014","Jul 1, 2015",FC Zürich,Bor. M'gladbach,4000000.0,4000000.0,Bundesliga
+4,Nico Elvedi,Borussia Mönchengladbach,€20.00m ,Switzerland,"Jul 1, 2013","Jan 1, 2014",FC Zürich U21,FC Zürich,,,Bundesliga
+4,Nico Elvedi,Borussia Mönchengladbach,€20.00m ,Switzerland,"Jul 1, 2012","Jul 1, 2013",FC Zürich U18,FC Zürich U21,,,Bundesliga
+4,Nico Elvedi,Borussia Mönchengladbach,€20.00m ,Switzerland,,"Jul 1, 2012",FC Zürich U16,FC Zürich U17,,,Bundesliga
+18,Eray Cömert,Valencia CF,€4.00m ,Switzerland,"Jan 25, 2022",,Valencia,,,,LaLiga
+18,Eray Cömert,Valencia CF,€4.00m ,Switzerland,"Jun 30, 2018","Jan 25, 2022",FC Basel,Valencia,1800000.0,800000.0,LaLiga
+18,Eray Cömert,Valencia CF,€4.00m ,Switzerland,"Jul 6, 2017","Jun 30, 2018",FC Sion,FC Basel,900000.0,,LaLiga
+18,Eray Cömert,Valencia CF,€4.00m ,Switzerland,"Jun 30, 2017","Jul 6, 2017",FC Basel,FC Sion,250000.0,,LaLiga
+18,Eray Cömert,Valencia CF,€4.00m ,Switzerland,"Mar 3, 2017","Jun 30, 2017",FC Lugano,FC Basel,250000.0,,LaLiga
+18,Eray Cömert,Valencia CF,€4.00m ,Switzerland,"Jul 1, 2016","Mar 3, 2017",FC Basel,FC Lugano,100000.0,,LaLiga
+18,Eray Cömert,Valencia CF,€4.00m ,Switzerland,"Jul 1, 2014","Jul 1, 2016",FC Basel U18,FC Basel,,,LaLiga
+18,Eray Cömert,Valencia CF,€4.00m ,Switzerland,,"Jul 1, 2014",FC Basel U16,FC Basel U18,,,LaLiga
+3,Silvan Widmer,1.FSV Mainz 05,€5.00m ,Switzerland,"Jul 9, 2021",,1.FSV Mainz 05,,,,Bundesliga
+3,Silvan Widmer,1.FSV Mainz 05,€5.00m ,Switzerland,"Jul 12, 2018","Jul 9, 2021",FC Basel,1.FSV Mainz 05,4000000.0,2500000.0,Bundesliga
+3,Silvan Widmer,1.FSV Mainz 05,€5.00m ,Switzerland,"Jul 1, 2013","Jul 12, 2018",Udinese Calcio,FC Basel,8500000.0,4500000.0,Bundesliga
+3,Silvan Widmer,1.FSV Mainz 05,€5.00m ,Switzerland,"Jun 30, 2013","Jul 1, 2013",Granada CF,Udinese Calcio,950000.0,,Bundesliga
+3,Silvan Widmer,1.FSV Mainz 05,€5.00m ,Switzerland,"Jul 2, 2012","Jun 30, 2013",FC Aarau,Granada CF,950000.0,,Bundesliga
+3,Silvan Widmer,1.FSV Mainz 05,€5.00m ,Switzerland,"Jul 1, 2012","Jul 2, 2012",Granada CF,FC Aarau,800000.0,,Bundesliga
+3,Silvan Widmer,1.FSV Mainz 05,€5.00m ,Switzerland,"Jul 1, 2011","Jul 1, 2012",FC Aarau,Granada CF,800000.0,750000.0,Bundesliga
+3,Silvan Widmer,1.FSV Mainz 05,€5.00m ,Switzerland,,"Jul 1, 2011",Aarau U18,FC Aarau,,,Bundesliga
+6,Denis Zakaria,Chelsea FC,€20.00m ,Switzerland,"Jun 30, 2023",,Juventus,,,,Premier League
+6,Denis Zakaria,Chelsea FC,€20.00m ,Switzerland,"Sep 1, 2022","Jun 30, 2023",Chelsea,Juventus,20000000.0,,Premier League
+6,Denis Zakaria,Chelsea FC,€20.00m ,Switzerland,"Jan 31, 2022","Sep 1, 2022",Juventus,Chelsea,27000000.0,,Premier League
+6,Denis Zakaria,Chelsea FC,€20.00m ,Switzerland,"Jul 1, 2017","Jan 31, 2022",Bor. M'gladbach,Juventus,27000000.0,10100000.0,Premier League
+6,Denis Zakaria,Chelsea FC,€20.00m ,Switzerland,"Jul 1, 2015","Jul 1, 2017",BSC Young Boys,Bor. M'gladbach,4000000.0,12000000.0,Premier League
+6,Denis Zakaria,Chelsea FC,€20.00m ,Switzerland,"Jan 1, 2015","Jul 1, 2015",Servette FC,BSC Young Boys,100000.0,400000.0,Premier League
+6,Denis Zakaria,Chelsea FC,€20.00m ,Switzerland,"Jul 1, 2014","Jan 1, 2015",Servette U21,Servette FC,,,Premier League
+6,Denis Zakaria,Chelsea FC,€20.00m ,Switzerland,,"Jul 1, 2014",Servette U18,Servette U21,,,Premier League
+20,Fabian Frei,FC Basel 1893,€500k ,Switzerland,"Jan 1, 2018",,FC Basel,,,,Super League
+20,Fabian Frei,FC Basel 1893,€500k ,Switzerland,"Jul 1, 2015","Jan 1, 2018",1.FSV Mainz 05,FC Basel,2250000.0,1500000.0,Super League
+20,Fabian Frei,FC Basel 1893,€500k ,Switzerland,"Jun 30, 2011","Jul 1, 2015",FC Basel,1.FSV Mainz 05,5000000.0,3600000.0,Super League
+20,Fabian Frei,FC Basel 1893,€500k ,Switzerland,"Jul 1, 2009","Jun 30, 2011",FC St. Gallen,FC Basel,900000.0,,Super League
+20,Fabian Frei,FC Basel 1893,€500k ,Switzerland,"Jul 1, 2007","Jul 1, 2009",FC Basel,FC St. Gallen,800000.0,,Super League
+20,Fabian Frei,FC Basel 1893,€500k ,Switzerland,"Jul 1, 2005","Jul 1, 2007",FC Basel U21,FC Basel,,,Super League
+20,Fabian Frei,FC Basel 1893,€500k ,Switzerland,"Jul 1, 2004","Jul 1, 2005",FC Basel U18,FC Basel U21,,,Super League
+20,Fabian Frei,FC Basel 1893,€500k ,Switzerland,,"Jul 1, 2004",Winterthur Yth.,FC Basel U18,,,Super League
+8,Remo Freuler,Nottingham Forest,€13.00m ,Switzerland,"Aug 14, 2022",,Nottm Forest,,,,Premier League
+8,Remo Freuler,Nottingham Forest,€13.00m ,Switzerland,"Jan 19, 2016","Aug 14, 2022",Atalanta BC,Nottm Forest,20000000.0,9000000.0,Premier League
+8,Remo Freuler,Nottingham Forest,€13.00m ,Switzerland,"Feb 18, 2014","Jan 19, 2016",FC Luzern,Atalanta BC,2000000.0,3450000.0,Premier League
+8,Remo Freuler,Nottingham Forest,€13.00m ,Switzerland,"Jul 1, 2013","Feb 18, 2014",FC Winterthur,FC Luzern,450000.0,,Premier League
+8,Remo Freuler,Nottingham Forest,€13.00m ,Switzerland,"Jun 30, 2013","Jul 1, 2013",Grasshoppers,FC Winterthur,250000.0,,Premier League
+8,Remo Freuler,Nottingham Forest,€13.00m ,Switzerland,"Feb 1, 2012","Jun 30, 2013",FC Winterthur,Grasshoppers,250000.0,,Premier League
+8,Remo Freuler,Nottingham Forest,€13.00m ,Switzerland,"Jul 1, 2011","Feb 1, 2012",Grasshoppers,FC Winterthur,50000.0,,Premier League
+8,Remo Freuler,Nottingham Forest,€13.00m ,Switzerland,"Jul 1, 2010","Jul 1, 2011",GC Zürich U21,Grasshoppers,50000.0,,Premier League
+8,Remo Freuler,Nottingham Forest,€13.00m ,Switzerland,"Jul 1, 2009","Jul 1, 2010",Winterthur U21,GC Zürich U21,50000.0,,Premier League
+8,Remo Freuler,Nottingham Forest,€13.00m ,Switzerland,"Jul 1, 2007","Jul 1, 2009",Winterthur U18,Winterthur U21,,,Premier League
+8,Remo Freuler,Nottingham Forest,€13.00m ,Switzerland,,"Jul 1, 2007",Winterthur Yth.,Winterthur U18,,,Premier League
+2,Edimilson Fernandes,1.FSV Mainz 05,€3.00m ,Switzerland,"Jun 30, 2022",,1.FSV Mainz 05,,,,Bundesliga
+2,Edimilson Fernandes,1.FSV Mainz 05,€3.00m ,Switzerland,"Feb 15, 2022","Jun 30, 2022",BSC Young Boys,1.FSV Mainz 05,2000000.0,,Bundesliga
+2,Edimilson Fernandes,1.FSV Mainz 05,€3.00m ,Switzerland,"Feb 14, 2022","Feb 15, 2022",1.FSV Mainz 05,BSC Young Boys,2800000.0,,Bundesliga
+2,Edimilson Fernandes,1.FSV Mainz 05,€3.00m ,Switzerland,"Aug 31, 2021","Feb 14, 2022",Arm. Bielefeld,1.FSV Mainz 05,2800000.0,,Bundesliga
+2,Edimilson Fernandes,1.FSV Mainz 05,€3.00m ,Switzerland,"Jul 1, 2019","Aug 31, 2021",1.FSV Mainz 05,Arm. Bielefeld,5000000.0,,Bundesliga
+2,Edimilson Fernandes,1.FSV Mainz 05,€3.00m ,Switzerland,"Jun 30, 2019","Jul 1, 2019",West Ham,1.FSV Mainz 05,8000000.0,7500000.0,Bundesliga
+2,Edimilson Fernandes,1.FSV Mainz 05,€3.00m ,Switzerland,"Aug 13, 2018","Jun 30, 2019",Fiorentina,West Ham,8000000.0,,Bundesliga
+2,Edimilson Fernandes,1.FSV Mainz 05,€3.00m ,Switzerland,"Aug 25, 2016","Aug 13, 2018",West Ham,Fiorentina,5000000.0,,Bundesliga
+2,Edimilson Fernandes,1.FSV Mainz 05,€3.00m ,Switzerland,"Feb 1, 2015","Aug 25, 2016",FC Sion,West Ham,4500000.0,6400000.0,Bundesliga
+2,Edimilson Fernandes,1.FSV Mainz 05,€3.00m ,Switzerland,"Jan 1, 2013","Feb 1, 2015",FC Sion U21,FC Sion,200000.0,,Bundesliga
+2,Edimilson Fernandes,1.FSV Mainz 05,€3.00m ,Switzerland,,"Jan 1, 2013",FC Sion U18,FC Sion U21,,,Bundesliga
+17,Rubén Vargas,FC Augsburg,€6.00m ,Switzerland,"Jul 1, 2019",,FC Augsburg,,,,Bundesliga
+17,Rubén Vargas,FC Augsburg,€6.00m ,Switzerland,"Jul 1, 2017","Jul 1, 2019",FC Luzern,FC Augsburg,4000000.0,4000000.0,Bundesliga
+17,Rubén Vargas,FC Augsburg,€6.00m ,Switzerland,"Jul 1, 2016","Jul 1, 2017",Luzern U21,FC Luzern,,,Bundesliga
+17,Rubén Vargas,FC Augsburg,€6.00m ,Switzerland,"Jul 1, 2015","Jul 1, 2016",Luzern U18,Luzern U21,,,Bundesliga
+17,Rubén Vargas,FC Augsburg,€6.00m ,Switzerland,,"Jul 1, 2015",Luzern U17,Luzern U18,,,Bundesliga
+16,Christian Fassnacht,BSC Young Boys,€3.00m ,Switzerland,"Jul 1, 2017",,BSC Young Boys,,,,Super League
+16,Christian Fassnacht,BSC Young Boys,€3.00m ,Switzerland,"Jul 1, 2016","Jul 1, 2017",FC Thun,BSC Young Boys,1000000.0,0.0,Super League
+16,Christian Fassnacht,BSC Young Boys,€3.00m ,Switzerland,"Jan 1, 2015","Jul 1, 2016",FC Winterthur,FC Thun,200000.0,200000.0,Super League
+16,Christian Fassnacht,BSC Young Boys,€3.00m ,Switzerland,"Dec 31, 2014","Jan 1, 2015",FC Thalwil,FC Winterthur,100000.0,0.0,Super League
+16,Christian Fassnacht,BSC Young Boys,€3.00m ,Switzerland,"Jul 1, 2014","Dec 31, 2014",FC Tuggen,FC Thalwil,100000.0,,Super League
+16,Christian Fassnacht,BSC Young Boys,€3.00m ,Switzerland,"Jul 1, 2010","Jul 1, 2014",FC Thalwil,FC Tuggen,,,Super League
+16,Christian Fassnacht,BSC Young Boys,€3.00m ,Switzerland,"Jul 1, 2009","Jul 1, 2010",Red Star ZH,FC Thalwil,,0.0,Super League
+16,Christian Fassnacht,BSC Young Boys,€3.00m ,Switzerland,"Jul 1, 2008","Jul 1, 2009",Red Star Yth.,Red Star ZH,,,Super League
+16,Christian Fassnacht,BSC Young Boys,€3.00m ,Switzerland,,"Jul 1, 2008",FC Zürich U16,Red Star Yth.,,,Super League
+19,Noah Okafor,Red Bull Salzburg,€25.00m ,Switzerland,"Jan 31, 2020",,RB Salzburg,,,,Bundesliga
+19,Noah Okafor,Red Bull Salzburg,€25.00m ,Switzerland,"Jan 31, 2018","Jan 31, 2020",FC Basel,RB Salzburg,8000000.0,11200000.0,Bundesliga
+19,Noah Okafor,Red Bull Salzburg,€25.00m ,Switzerland,"Oct 17, 2017","Jan 31, 2018",FC Basel U21,FC Basel,400000.0,,Bundesliga
+19,Noah Okafor,Red Bull Salzburg,€25.00m ,Switzerland,"Jul 1, 2016","Oct 17, 2017",FC Basel U18,FC Basel U21,,,Bundesliga
+19,Noah Okafor,Red Bull Salzburg,€25.00m ,Switzerland,"Jul 1, 2015","Jul 1, 2016",FC Basel U16,FC Basel U18,,,Bundesliga
+19,Noah Okafor,Red Bull Salzburg,€25.00m ,Switzerland,,"Jul 1, 2015",FC Basel Yth.,FC Basel U16,,,Bundesliga
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jun 30, 2023",,Benfica,,,,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jul 20, 2022","Jun 30, 2023",Galatasaray,Benfica,6000000.0,,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jul 1, 2017","Jul 20, 2022",Benfica,Galatasaray,8000000.0,,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Aug 1, 2014","Jul 1, 2017",E. Frankfurt,Benfica,3000000.0,0.0,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jul 11, 2013","Aug 1, 2014",Real Sociedad,E. Frankfurt,4000000.0,3200000.0,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jun 30, 2013","Jul 11, 2013",Fiorentina,Real Sociedad,2800000.0,3000000.0,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jan 30, 2013","Jun 30, 2013",Novara,Fiorentina,2800000.0,,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jun 30, 2012","Jan 30, 2013",Fiorentina,Novara,1000000.0,,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jan 23, 2012","Jun 30, 2012",Lecce,Fiorentina,1000000.0,,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jan 4, 2012","Jan 23, 2012",Fiorentina,Lecce,1000000.0,,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Aug 3, 2011","Jan 4, 2012",Neuchâtel Xamax,Fiorentina,1000000.0,,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jan 29, 2010","Aug 3, 2011",Fiorentina,Neuchâtel Xamax,500000.0,,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jul 1, 2009","Jan 29, 2010",Grasshoppers,Fiorentina,50000.0,1350000.0,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jul 1, 2007","Jul 1, 2009",GC Zürich U18,Grasshoppers,50000.0,,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jul 1, 2006","Jul 1, 2007",Luzern U18,GC Zürich U18,,,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jul 1, 2005","Jul 1, 2006",Luzern U17,Luzern U18,,,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,"Jul 1, 2004","Jul 1, 2005",Luzern U16,Luzern U17,,,Süper Lig
+9,Haris Seferovic,Galatasaray,€6.00m ,Switzerland,,"Jul 1, 2004",FC Sursee Jug,Luzern U16,,,Süper Lig
+21,Gregor Kobel,Borussia Dortmund,€25.00m ,Switzerland,"Jul 1, 2021",,Bor. Dortmund,,,,Bundesliga
+21,Gregor Kobel,Borussia Dortmund,€25.00m ,Switzerland,"Jul 28, 2020","Jul 1, 2021",VfB Stuttgart,Bor. Dortmund,13000000.0,15000000.0,Bundesliga
+21,Gregor Kobel,Borussia Dortmund,€25.00m ,Switzerland,"Jun 30, 2020","Jul 28, 2020",TSG Hoffenheim,VfB Stuttgart,4000000.0,7200000.0,Bundesliga
+21,Gregor Kobel,Borussia Dortmund,€25.00m ,Switzerland,"Jul 1, 2019","Jun 30, 2020",VfB Stuttgart,TSG Hoffenheim,4000000.0,,Bundesliga
+21,Gregor Kobel,Borussia Dortmund,€25.00m ,Switzerland,"Jun 30, 2019","Jul 1, 2019",TSG Hoffenheim,VfB Stuttgart,6000000.0,,Bundesliga
+21,Gregor Kobel,Borussia Dortmund,€25.00m ,Switzerland,"Jan 3, 2019","Jun 30, 2019",FC Augsburg,TSG Hoffenheim,6000000.0,,Bundesliga
+21,Gregor Kobel,Borussia Dortmund,€25.00m ,Switzerland,"Jul 1, 2016","Jan 3, 2019",TSG Hoffenheim,FC Augsburg,1000000.0,,Bundesliga
+21,Gregor Kobel,Borussia Dortmund,€25.00m ,Switzerland,"Jun 30, 2016","Jul 1, 2016",GC Zürich U18,TSG Hoffenheim,25000.0,138000.0,Bundesliga
+21,Gregor Kobel,Borussia Dortmund,€25.00m ,Switzerland,"Sep 1, 2014","Jun 30, 2016",Hoffenheim U19,GC Zürich U18,25000.0,,Bundesliga
+21,Gregor Kobel,Borussia Dortmund,€25.00m ,Switzerland,"Jul 1, 2013","Sep 1, 2014",GC Zürich U18,Hoffenheim U19,,,Bundesliga
+21,Gregor Kobel,Borussia Dortmund,€25.00m ,Switzerland,"Jul 1, 2011","Jul 1, 2013",GC Zürich U16,GC Zürich U18,,,Bundesliga
+21,Gregor Kobel,Borussia Dortmund,€25.00m ,Switzerland,,"Jul 1, 2011",Grasshopper Club,GC Zürich U16,,,Bundesliga
+1,Yann Sommer,Borussia Mönchengladbach,€5.00m ,Switzerland,"Jul 1, 2014",,Bor. M'gladbach,,,,Bundesliga
+1,Yann Sommer,Borussia Mönchengladbach,€5.00m ,Switzerland,"Jun 30, 2010","Jul 1, 2014",FC Basel,Bor. M'gladbach,8000000.0,9000000.0,Bundesliga
+1,Yann Sommer,Borussia Mönchengladbach,€5.00m ,Switzerland,"Jul 1, 2009","Jun 30, 2010",Grasshoppers,FC Basel,1500000.0,,Bundesliga
+1,Yann Sommer,Borussia Mönchengladbach,€5.00m ,Switzerland,"Jan 7, 2009","Jul 1, 2009",FC Basel,Grasshoppers,700000.0,,Bundesliga
+1,Yann Sommer,Borussia Mönchengladbach,€5.00m ,Switzerland,"Jul 1, 2007","Jan 7, 2009",FC Vaduz,FC Basel,500000.0,,Bundesliga
+1,Yann Sommer,Borussia Mönchengladbach,€5.00m ,Switzerland,"Jul 1, 2006","Jul 1, 2007",FC Basel,FC Vaduz,100000.0,,Bundesliga
+1,Yann Sommer,Borussia Mönchengladbach,€5.00m ,Switzerland,"Jul 1, 2005","Jul 1, 2006",FC Basel U18,FC Basel,,,Bundesliga
+1,Yann Sommer,Borussia Mönchengladbach,€5.00m ,Switzerland,"Jul 1, 2003","Jul 1, 2005",FC Basel U16,FC Basel U18,,,Bundesliga
+1,Yann Sommer,Borussia Mönchengladbach,€5.00m ,Switzerland,,"Jul 1, 2003",FCC Basel Yth.,FC Basel U16,,,Bundesliga
+5,Manuel Akanji,Manchester City,€30.00m ,Switzerland,"Sep 1, 2022",,Man City,,,,Premier League
+5,Manuel Akanji,Manchester City,€30.00m ,Switzerland,"Jan 15, 2018","Sep 1, 2022",Bor. Dortmund,Man City,30000000.0,17500000.0,Premier League
+5,Manuel Akanji,Manchester City,€30.00m ,Switzerland,"Jul 1, 2015","Jan 15, 2018",FC Basel,Bor. Dortmund,5000000.0,21500000.0,Premier League
+5,Manuel Akanji,Manchester City,€30.00m ,Switzerland,"Jul 1, 2014","Jul 1, 2015",FC Winterthur,FC Basel,250000.0,700000.0,Premier League
+5,Manuel Akanji,Manchester City,€30.00m ,Switzerland,"Jul 1, 2013","Jul 1, 2014",Winterthur U21,FC Winterthur,,,Premier League
+5,Manuel Akanji,Manchester City,€30.00m ,Switzerland,,"Jul 1, 2013",Winterthur U18,Winterthur U21,,,Premier League
+22,Fabian Schär,Newcastle United,€10.00m ,Switzerland,"Jul 26, 2018",,Newcastle,,,,Premier League
+22,Fabian Schär,Newcastle United,€10.00m ,Switzerland,"Jul 21, 2017","Jul 26, 2018",Dep. La Coruña,Newcastle,3000000.0,4000000.0,Premier League
+22,Fabian Schär,Newcastle United,€10.00m ,Switzerland,"Jul 1, 2015","Jul 21, 2017",TSG Hoffenheim,Dep. La Coruña,2500000.0,3000000.0,Premier League
+22,Fabian Schär,Newcastle United,€10.00m ,Switzerland,"Jul 4, 2012","Jul 1, 2015",FC Basel,TSG Hoffenheim,8000000.0,4000000.0,Premier League
+22,Fabian Schär,Newcastle United,€10.00m ,Switzerland,"Jan 1, 2010","Jul 4, 2012",FC Wil 1900,FC Basel,500000.0,,Premier League
+22,Fabian Schär,Newcastle United,€10.00m ,Switzerland,"Jul 1, 2007","Jan 1, 2010",FC Wil II,FC Wil 1900,,,Premier League
+22,Fabian Schär,Newcastle United,€10.00m ,Switzerland,,"Jul 1, 2007",FC Wil Yth.,FC Wil II,,,Premier League
+13,Ricardo Rodríguez,Torino FC,€3.50m ,Switzerland,"Sep 1, 2020",,Torino,,,,Serie A
+13,Ricardo Rodríguez,Torino FC,€3.50m ,Switzerland,"Jun 30, 2020","Sep 1, 2020",AC Milan,Torino,3500000.0,1950000.0,Serie A
+13,Ricardo Rodríguez,Torino FC,€3.50m ,Switzerland,"Jan 30, 2020","Jun 30, 2020",PSV Eindhoven,AC Milan,5500000.0,,Serie A
+13,Ricardo Rodríguez,Torino FC,€3.50m ,Switzerland,"Jul 1, 2017","Jan 30, 2020",AC Milan,PSV Eindhoven,10000000.0,,Serie A
+13,Ricardo Rodríguez,Torino FC,€3.50m ,Switzerland,"Jan 13, 2012","Jul 1, 2017",VfL Wolfsburg,AC Milan,17000000.0,15000000.0,Serie A
+13,Ricardo Rodríguez,Torino FC,€3.50m ,Switzerland,"Jan 1, 2010","Jan 13, 2012",FC Zürich,VfL Wolfsburg,7500000.0,8500000.0,Serie A
+13,Ricardo Rodríguez,Torino FC,€3.50m ,Switzerland,"Jul 1, 2009","Jan 1, 2010",FC Zürich U21,FC Zürich,,,Serie A
+13,Ricardo Rodríguez,Torino FC,€3.50m ,Switzerland,"Jul 1, 2008","Jul 1, 2009",FC Zürich U17,FC Zürich U21,,,Serie A
+13,Ricardo Rodríguez,Torino FC,€3.50m ,Switzerland,"Jul 1, 2007","Jul 1, 2008",FC Zürich U16,FC Zürich U17,,,Serie A
+13,Ricardo Rodríguez,Torino FC,€3.50m ,Switzerland,,"Jul 1, 2007",FC Zürich Yth.,FC Zürich U16,,,Serie A
+10,Granit Xhaka,Arsenal FC,€28.00m ,Switzerland,"Jul 1, 2016",,Arsenal,,,,Premier League
+10,Granit Xhaka,Arsenal FC,€28.00m ,Switzerland,"Jul 1, 2012","Jul 1, 2016",Bor. M'gladbach,Arsenal,35000000.0,45000000.0,Premier League
+10,Granit Xhaka,Arsenal FC,€28.00m ,Switzerland,"Jul 1, 2010","Jul 1, 2012",FC Basel,Bor. M'gladbach,8500000.0,8500000.0,Premier League
+10,Granit Xhaka,Arsenal FC,€28.00m ,Switzerland,"Jul 1, 2008","Jul 1, 2010",FC Basel U21,FC Basel,,,Premier League
+10,Granit Xhaka,Arsenal FC,€28.00m ,Switzerland,"Jul 1, 2007","Jul 1, 2008",FC Basel U18,FC Basel U21,,,Premier League
+10,Granit Xhaka,Arsenal FC,€28.00m ,Switzerland,"Jul 1, 2006","Jul 1, 2007",FC Basel U16,FC Basel U18,,,Premier League
+10,Granit Xhaka,Arsenal FC,€28.00m ,Switzerland,"Jul 1, 2005","Jul 1, 2006",FC Basel U15,FC Basel U16,,,Premier League
+10,Granit Xhaka,Arsenal FC,€28.00m ,Switzerland,"Jan 1, 2003","Jul 1, 2005",FC Basel Yth.,FC Basel U15,,,Premier League
+10,Granit Xhaka,Arsenal FC,€28.00m ,Switzerland,,"Jan 1, 2003",FCC Basel Yth.,FC Basel Yth.,,0.0,Premier League
+26,Ardon Jashari,FC Luzern,€2.50m ,Switzerland,"Jan 27, 2022",,FC Luzern,,,,Super League
+26,Ardon Jashari,FC Luzern,€2.50m ,Switzerland,"Jul 1, 2020","Jan 27, 2022",Luzern U21,FC Luzern,100000.0,,Super League
+26,Ardon Jashari,FC Luzern,€2.50m ,Switzerland,"Jul 1, 2018","Jul 1, 2020",Luzern U18,Luzern U21,,,Super League
+26,Ardon Jashari,FC Luzern,€2.50m ,Switzerland,,"Jul 1, 2018",Luzern U17,Luzern U18,,,Super League
+15,Djibril Sow,Eintracht Frankfurt,€22.00m ,Switzerland,"Jul 1, 2019",,E. Frankfurt,,,,Bundesliga
+15,Djibril Sow,Eintracht Frankfurt,€22.00m ,Switzerland,"Jul 1, 2017","Jul 1, 2019",BSC Young Boys,E. Frankfurt,9000000.0,10000000.0,Bundesliga
+15,Djibril Sow,Eintracht Frankfurt,€22.00m ,Switzerland,"Jul 1, 2016","Jul 1, 2017",Bor. M'gladbach,BSC Young Boys,1000000.0,2000000.0,Bundesliga
+15,Djibril Sow,Eintracht Frankfurt,€22.00m ,Switzerland,"Jul 1, 2015","Jul 1, 2016",M'gladbach II,Bor. M'gladbach,1000000.0,,Bundesliga
+15,Djibril Sow,Eintracht Frankfurt,€22.00m ,Switzerland,"Jul 1, 2014","Jul 1, 2015",FC Zürich U21,M'gladbach II,1250000.0,1500000.0,Bundesliga
+15,Djibril Sow,Eintracht Frankfurt,€22.00m ,Switzerland,"Jul 1, 2013","Jul 1, 2014",FC Zürich U18,FC Zürich U21,,,Bundesliga
+15,Djibril Sow,Eintracht Frankfurt,€22.00m ,Switzerland,,"Jul 1, 2013",FC Zürich U16,FC Zürich U18,,,Bundesliga
+14,Michel Aebischer,Bologna FC 1909,€3.50m ,Switzerland,"Jul 1, 2022",,Bologna,,,,Serie A
+14,Michel Aebischer,Bologna FC 1909,€3.50m ,Switzerland,"Jun 30, 2022","Jul 1, 2022",BSC Young Boys,Bologna,3500000.0,4000000.0,Serie A
+14,Michel Aebischer,Bologna FC 1909,€3.50m ,Switzerland,"Jan 25, 2022","Jun 30, 2022",Bologna,BSC Young Boys,3500000.0,,Serie A
+14,Michel Aebischer,Bologna FC 1909,€3.50m ,Switzerland,"Feb 17, 2017","Jan 25, 2022",BSC Young Boys,Bologna,3500000.0,,Serie A
+14,Michel Aebischer,Bologna FC 1909,€3.50m ,Switzerland,"Jul 1, 2015","Feb 17, 2017",BSC YB U21,BSC Young Boys,100000.0,,Serie A
+14,Michel Aebischer,Bologna FC 1909,€3.50m ,Switzerland,"Jul 1, 2014","Jul 1, 2015",BSC YB U18,BSC YB U21,,,Serie A
+14,Michel Aebischer,Bologna FC 1909,€3.50m ,Switzerland,"Jul 1, 2013","Jul 1, 2014",BSC YB U17,BSC YB U18,,,Serie A
+14,Michel Aebischer,Bologna FC 1909,€3.50m ,Switzerland,,"Jul 1, 2013",Fribourg Youth,BSC YB U17,,,Serie A
+25,Fabian Rieder,BSC Young Boys,€10.00m ,Switzerland,"Jan 14, 2021",,BSC Young Boys,,,,Super League
+25,Fabian Rieder,BSC Young Boys,€10.00m ,Switzerland,"Jul 1, 2019","Jan 14, 2021",BSC YB U21,BSC Young Boys,2000000.0,,Super League
+25,Fabian Rieder,BSC Young Boys,€10.00m ,Switzerland,"Jan 1, 2018","Jul 1, 2019",BSC YB U18,BSC YB U21,225000.0,,Super League
+25,Fabian Rieder,BSC Young Boys,€10.00m ,Switzerland,"Jul 1, 2017","Jan 1, 2018",BSC YB U16,BSC YB U18,,,Super League
+25,Fabian Rieder,BSC Young Boys,€10.00m ,Switzerland,,"Jul 1, 2017",Solothurn Yth.,BSC YB U16,,,Super League
+23,Xherdan Shaqiri,Chicago Fire FC,€4.00m ,Switzerland,"Feb 9, 2022",,Chicago,,,,MLS
+23,Xherdan Shaqiri,Chicago Fire FC,€4.00m ,Switzerland,"Aug 23, 2021","Feb 9, 2022",Olympique Lyon,Chicago,8000000.0,7000000.0,MLS
+23,Xherdan Shaqiri,Chicago Fire FC,€4.00m ,Switzerland,"Jul 13, 2018","Aug 23, 2021",Liverpool,Olympique Lyon,12000000.0,6000000.0,MLS
+23,Xherdan Shaqiri,Chicago Fire FC,€4.00m ,Switzerland,"Aug 11, 2015","Jul 13, 2018",Stoke City,Liverpool,18000000.0,14700000.0,MLS
+23,Xherdan Shaqiri,Chicago Fire FC,€4.00m ,Switzerland,"Jul 1, 2015","Aug 11, 2015",Inter,Stoke City,17000000.0,17000000.0,MLS
+23,Xherdan Shaqiri,Chicago Fire FC,€4.00m ,Switzerland,"Jun 30, 2015","Jul 1, 2015",Bayern Munich,Inter,17000000.0,15000000.0,MLS
+23,Xherdan Shaqiri,Chicago Fire FC,€4.00m ,Switzerland,"Jan 9, 2015","Jun 30, 2015",Inter,Bayern Munich,18000000.0,,MLS
+23,Xherdan Shaqiri,Chicago Fire FC,€4.00m ,Switzerland,"Jul 1, 2012","Jan 9, 2015",Bayern Munich,Inter,20000000.0,,MLS
+23,Xherdan Shaqiri,Chicago Fire FC,€4.00m ,Switzerland,"Jul 1, 2009","Jul 1, 2012",FC Basel,Bayern Munich,12500000.0,11800000.0,MLS
+23,Xherdan Shaqiri,Chicago Fire FC,€4.00m ,Switzerland,"Jul 1, 2008","Jul 1, 2009",FC Basel U21,FC Basel,50000.0,,MLS
+23,Xherdan Shaqiri,Chicago Fire FC,€4.00m ,Switzerland,"Jul 1, 2007","Jul 1, 2008",FC Basel U18,FC Basel U21,,,MLS
+23,Xherdan Shaqiri,Chicago Fire FC,€4.00m ,Switzerland,,"Jul 1, 2007",FC Basel U16,FC Basel U18,,,MLS
+11,Renato Steffen,FC Lugano,€1.00m ,Switzerland,"Aug 30, 2022",,FC Lugano,,,,Super League
+11,Renato Steffen,FC Lugano,€1.00m ,Switzerland,"Jan 10, 2018","Aug 30, 2022",VfL Wolfsburg,FC Lugano,2000000.0,750000.0,Super League
+11,Renato Steffen,FC Lugano,€1.00m ,Switzerland,"Jan 12, 2016","Jan 10, 2018",FC Basel,VfL Wolfsburg,3500000.0,1750000.0,Super League
+11,Renato Steffen,FC Lugano,€1.00m ,Switzerland,"Jul 1, 2013","Jan 12, 2016",BSC Young Boys,FC Basel,3250000.0,1200000.0,Super League
+11,Renato Steffen,FC Lugano,€1.00m ,Switzerland,"Jul 4, 2012","Jul 1, 2013",FC Thun,BSC Young Boys,600000.0,500000.0,Super League
+11,Renato Steffen,FC Lugano,€1.00m ,Switzerland,"Jul 6, 2011","Jul 4, 2012",FC Solothurn,FC Thun,,0.0,Super League
+11,Renato Steffen,FC Lugano,€1.00m ,Switzerland,"Aug 10, 2007","Jul 6, 2011",SC Schöftland,FC Solothurn,,0.0,Super League
+11,Renato Steffen,FC Lugano,€1.00m ,Switzerland,,"Aug 10, 2007",Aarau U16,SC Schöftland,,0.0,Super League
+7,Breel Embolo,AS Monaco,€20.00m ,Switzerland,"Jul 15, 2022",,Monaco,,,,Ligue 1
+7,Breel Embolo,AS Monaco,€20.00m ,Switzerland,"Jul 1, 2019","Jul 15, 2022",Bor. M'gladbach,Monaco,15000000.0,12500000.0,Ligue 1
+7,Breel Embolo,AS Monaco,€20.00m ,Switzerland,"Jul 1, 2016","Jul 1, 2019",FC Schalke 04,Bor. M'gladbach,14000000.0,11000000.0,Ligue 1
+7,Breel Embolo,AS Monaco,€20.00m ,Switzerland,"Jul 1, 2014","Jul 1, 2016",FC Basel,FC Schalke 04,20000000.0,26500000.0,Ligue 1
+7,Breel Embolo,AS Monaco,€20.00m ,Switzerland,"Jan 1, 2014","Jul 1, 2014",FC Basel U21,FC Basel,100000.0,,Ligue 1
+7,Breel Embolo,AS Monaco,€20.00m ,Switzerland,"Jul 1, 2013","Jan 1, 2014",FC Basel U18,FC Basel U21,,,Ligue 1
+7,Breel Embolo,AS Monaco,€20.00m ,Switzerland,"Jul 1, 2012","Jul 1, 2013",FC Basel U16,FC Basel U18,,,Ligue 1
+7,Breel Embolo,AS Monaco,€20.00m ,Switzerland,"Jul 1, 2010","Jul 1, 2012",FC Basel Yth.,FC Basel U16,,,Ligue 1
+7,Breel Embolo,AS Monaco,€20.00m ,Switzerland,"Jul 1, 2008","Jul 1, 2010",Old Boys Youth,FC Basel Yth.,,0.0,Ligue 1
+7,Breel Embolo,AS Monaco,€20.00m ,Switzerland,,"Jul 1, 2008",Nordstern Jgd.,Old Boys Youth,,0.0,Ligue 1

@@ -1,0 +1,240 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+22,Kamil Grabara,FC Copenhagen,€5.00m ,Poland,"Jul 3, 2021",,FC Copenhagen,,,,Superligaen
+22,Kamil Grabara,FC Copenhagen,€5.00m ,Poland,"Jun 30, 2021","Jul 3, 2021",Liverpool U23,FC Copenhagen,2500000.0,3500000.0,Superligaen
+22,Kamil Grabara,FC Copenhagen,€5.00m ,Poland,"Sep 28, 2020","Jun 30, 2021",Aarhus GF,Liverpool U23,2500000.0,,Superligaen
+22,Kamil Grabara,FC Copenhagen,€5.00m ,Poland,"Jun 30, 2020","Sep 28, 2020",Liverpool U23,Aarhus GF,4500000.0,,Superligaen
+22,Kamil Grabara,FC Copenhagen,€5.00m ,Poland,"Jul 15, 2019","Jun 30, 2020",Huddersfield,Liverpool U23,4500000.0,,Superligaen
+22,Kamil Grabara,FC Copenhagen,€5.00m ,Poland,"Jun 30, 2019","Jul 15, 2019",Liverpool U23,Huddersfield,400000.0,,Superligaen
+22,Kamil Grabara,FC Copenhagen,€5.00m ,Poland,"Jan 6, 2019","Jun 30, 2019",Aarhus GF,Liverpool U23,400000.0,,Superligaen
+22,Kamil Grabara,FC Copenhagen,€5.00m ,Poland,"Jul 1, 2017","Jan 6, 2019",Liverpool U23,Aarhus GF,100000.0,,Superligaen
+22,Kamil Grabara,FC Copenhagen,€5.00m ,Poland,"Jan 15, 2016","Jul 1, 2017",Liverpool U18,Liverpool U23,100000.0,,Superligaen
+22,Kamil Grabara,FC Copenhagen,€5.00m ,Poland,"Jul 1, 2014","Jan 15, 2016",Ruch U19,Liverpool U18,100000.0,330000.0,Superligaen
+22,Kamil Grabara,FC Copenhagen,€5.00m ,Poland,,"Jul 1, 2014",Chorzów Youth,Ruch U19,,,Superligaen
+5,Jan Bednarek,Aston Villa,€18.00m ,Poland,"May 31, 2023",,Southampton,,,,Premier League
+5,Jan Bednarek,Aston Villa,€18.00m ,Poland,"Sep 1, 2022","May 31, 2023",Aston Villa,Southampton,18000000.0,,Premier League
+5,Jan Bednarek,Aston Villa,€18.00m ,Poland,"Jul 1, 2017","Sep 1, 2022",Southampton,Aston Villa,22000000.0,,Premier League
+5,Jan Bednarek,Aston Villa,€18.00m ,Poland,"Jun 30, 2016","Jul 1, 2017",Lech Poznan,Southampton,500000.0,6000000.0,Premier League
+5,Jan Bednarek,Aston Villa,€18.00m ,Poland,"Jul 13, 2015","Jun 30, 2016",Gornik Leczna,Lech Poznan,150000.0,,Premier League
+5,Jan Bednarek,Aston Villa,€18.00m ,Poland,"Sep 1, 2013","Jul 13, 2015",Lech Poznan,Gornik Leczna,150000.0,,Premier League
+5,Jan Bednarek,Aston Villa,€18.00m ,Poland,"Jul 1, 2012","Sep 1, 2013",Lech Poznan II,Lech Poznan,,,Premier League
+5,Jan Bednarek,Aston Villa,€18.00m ,Poland,,"Jul 1, 2012",MSP Szamotuly,Lech Poznan II,,,Premier League
+4,Mateusz Wieteska,Clermont Foot 63,€3.00m ,Poland,"Jul 25, 2022",,Clermont Foot,,,,Ligue 1
+4,Mateusz Wieteska,Clermont Foot 63,€3.00m ,Poland,"Jul 1, 2018","Jul 25, 2022",Legia Warszawa,Clermont Foot,1300000.0,1300000.0,Ligue 1
+4,Mateusz Wieteska,Clermont Foot 63,€3.00m ,Poland,"Jul 7, 2017","Jul 1, 2018",Górnik Zabrze,Legia Warszawa,500000.0,125000.0,Ligue 1
+4,Mateusz Wieteska,Clermont Foot 63,€3.00m ,Poland,"Jun 30, 2017","Jul 7, 2017",Legia Warszawa,Górnik Zabrze,200000.0,0.0,Ligue 1
+4,Mateusz Wieteska,Clermont Foot 63,€3.00m ,Poland,"Jan 27, 2017","Jun 30, 2017",Chrobry Glogow,Legia Warszawa,200000.0,,Ligue 1
+4,Mateusz Wieteska,Clermont Foot 63,€3.00m ,Poland,"Feb 28, 2016","Jan 27, 2017",Legia Warszawa,Chrobry Glogow,200000.0,,Ligue 1
+4,Mateusz Wieteska,Clermont Foot 63,€3.00m ,Poland,"Jul 18, 2015","Feb 28, 2016",Dolcan Zabki,Legia Warszawa,125000.0,,Ligue 1
+4,Mateusz Wieteska,Clermont Foot 63,€3.00m ,Poland,"Jul 1, 2014","Jul 18, 2015",Legia Warszawa,Dolcan Zabki,150000.0,,Ligue 1
+4,Mateusz Wieteska,Clermont Foot 63,€3.00m ,Poland,"Jan 1, 2014","Jul 1, 2014",Legia II,Legia Warszawa,,,Ligue 1
+4,Mateusz Wieteska,Clermont Foot 63,€3.00m ,Poland,,"Jan 1, 2014",Legia U19,Legia II,,,Ligue 1
+3,Artur Jedrzejczyk,Legia Warszawa,€300k ,Poland,"Jan 4, 2017",,Legia Warszawa,,,,Ekstraklasa
+3,Artur Jedrzejczyk,Legia Warszawa,€300k ,Poland,"Jun 30, 2016","Jan 4, 2017",Krasnodar,Legia Warszawa,4000000.0,900000.0,Ekstraklasa
+3,Artur Jedrzejczyk,Legia Warszawa,€300k ,Poland,"Jan 1, 2016","Jun 30, 2016",Legia Warszawa,Krasnodar,2700000.0,,Ekstraklasa
+3,Artur Jedrzejczyk,Legia Warszawa,€300k ,Poland,"Jul 1, 2013","Jan 1, 2016",Krasnodar,Legia Warszawa,3500000.0,,Ekstraklasa
+3,Artur Jedrzejczyk,Legia Warszawa,€300k ,Poland,"Jun 30, 2010","Jul 1, 2013",Legia Warszawa,Krasnodar,2000000.0,2200000.0,Ekstraklasa
+3,Artur Jedrzejczyk,Legia Warszawa,€300k ,Poland,"Jan 7, 2010","Jun 30, 2010",Korona Kielce,Legia Warszawa,175000.0,,Ekstraklasa
+3,Artur Jedrzejczyk,Legia Warszawa,€300k ,Poland,"Jun 30, 2009","Jan 7, 2010",Legia Warszawa,Korona Kielce,175000.0,,Ekstraklasa
+3,Artur Jedrzejczyk,Legia Warszawa,€300k ,Poland,"Jul 23, 2008","Jun 30, 2009",Dolcan Zabki,Legia Warszawa,175000.0,,Ekstraklasa
+3,Artur Jedrzejczyk,Legia Warszawa,€300k ,Poland,"Jun 30, 2008","Jul 23, 2008",Legia Warszawa,Dolcan Zabki,50000.0,,Ekstraklasa
+3,Artur Jedrzejczyk,Legia Warszawa,€300k ,Poland,"Jul 14, 2007","Jun 30, 2008",GKS Jastrzebie,Legia Warszawa,50000.0,,Ekstraklasa
+3,Artur Jedrzejczyk,Legia Warszawa,€300k ,Poland,"Jul 1, 2006","Jul 14, 2007",Legia Warszawa,GKS Jastrzebie,50000.0,,Ekstraklasa
+3,Artur Jedrzejczyk,Legia Warszawa,€300k ,Poland,,"Jul 1, 2006",Igloopol Debica,Legia Warszawa,,,Ekstraklasa
+25,Robert Gumny,FC Augsburg,€3.50m ,Poland,"Sep 2, 2020",,FC Augsburg,,,,Bundesliga
+25,Robert Gumny,FC Augsburg,€3.50m ,Poland,"Jun 30, 2017","Sep 2, 2020",Lech Poznan,FC Augsburg,3500000.0,2000000.0,Bundesliga
+25,Robert Gumny,FC Augsburg,€3.50m ,Poland,"Jan 6, 2017","Jun 30, 2017",Podbeskidzie,Lech Poznan,175000.0,,Bundesliga
+25,Robert Gumny,FC Augsburg,€3.50m ,Poland,"Jul 1, 2016","Jan 6, 2017",Lech Poznan,Podbeskidzie,100000.0,,Bundesliga
+25,Robert Gumny,FC Augsburg,€3.50m ,Poland,"Jul 1, 2014","Jul 1, 2016",Lech U19,Lech Poznan,50000.0,,Bundesliga
+25,Robert Gumny,FC Augsburg,€3.50m ,Poland,,"Jul 1, 2014",Lech Academy,Lech U19,,,Bundesliga
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jun 30, 2023",,Krasnodar,,,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jul 9, 2022","Jun 30, 2023",Al-Shabab,Krasnodar,6000000.0,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jun 30, 2022","Jul 9, 2022",Krasnodar,Al-Shabab,8000000.0,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Mar 15, 2022","Jun 30, 2022",AEK Athens,Krasnodar,8000000.0,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Aug 2, 2021","Mar 15, 2022",Krasnodar,AEK Athens,11000000.0,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jul 3, 2019","Aug 2, 2021",Loko Moscow,Krasnodar,15000000.0,4000000.0,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jun 30, 2019","Jul 3, 2019",Paris SG,Loko Moscow,18000000.0,12000000.0,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jul 24, 2018","Jun 30, 2019",Loko Moscow,Paris SG,18000000.0,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jun 30, 2018","Jul 24, 2018",Paris SG,Loko Moscow,18000000.0,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Aug 30, 2017","Jun 30, 2018",West Brom,Paris SG,18000000.0,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jul 3, 2016","Aug 30, 2017",Paris SG,West Brom,25000000.0,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jul 23, 2014","Jul 3, 2016",Sevilla FC,Paris SG,30000000.0,27500000.0,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jul 1, 2012","Jul 23, 2014",Stade Reims,Sevilla FC,5000000.0,5500000.0,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jun 30, 2012","Jul 1, 2012",G. Bordeaux,Stade Reims,1000000.0,800000.0,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Nov 17, 2011","Jun 30, 2012",FC Nantes,G. Bordeaux,1000000.0,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jun 30, 2011","Nov 17, 2011",G. Bordeaux,FC Nantes,1000000.0,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Nov 26, 2009","Jun 30, 2011",Stade Reims,G. Bordeaux,1000000.0,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jul 1, 2009","Nov 26, 2009",G. Bordeaux,Stade Reims,100000.0,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jul 1, 2008","Jul 1, 2009",G. Bordeaux B,G. Bordeaux,100000.0,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jan 1, 2007","Jul 1, 2008",Bordeaux U19,G. Bordeaux B,100000.0,,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,"Jan 1, 2005","Jan 1, 2007",Arka Gdynia U19,Bordeaux U19,,270000.0,Saudi Pro League
+10,Grzegorz Krychowiak,Al-Shabab Club (Riyadh),€6.00m ,Poland,,"Jan 1, 2005",Stal U19,Arka Gdynia U19,,0.0,Saudi Pro League
+17,Szymon Zurkowski,ACF Fiorentina,€5.80m ,Poland,"Jun 30, 2022",,Fiorentina,,,,Serie A
+17,Szymon Zurkowski,ACF Fiorentina,€5.80m ,Poland,"Jan 30, 2020","Jun 30, 2022",FC Empoli,Fiorentina,7000000.0,,Serie A
+17,Szymon Zurkowski,ACF Fiorentina,€5.80m ,Poland,"Jun 30, 2019","Jan 30, 2020",Fiorentina,Empoli,3800000.0,,Serie A
+17,Szymon Zurkowski,ACF Fiorentina,€5.80m ,Poland,"Jan 29, 2019","Jun 30, 2019",Górnik Zabrze,Fiorentina,4000000.0,,Serie A
+17,Szymon Zurkowski,ACF Fiorentina,€5.80m ,Poland,"Jan 28, 2019","Jan 29, 2019",Fiorentina,Górnik Zabrze,4000000.0,,Serie A
+17,Szymon Zurkowski,ACF Fiorentina,€5.80m ,Poland,"Jul 1, 2016","Jan 28, 2019",Górnik Zabrze,Fiorentina,4000000.0,4500000.0,Serie A
+17,Szymon Zurkowski,ACF Fiorentina,€5.80m ,Poland,"Jul 1, 2014","Jul 1, 2016",Gwarek Zabrze,Górnik Zabrze,,0.0,Serie A
+17,Szymon Zurkowski,ACF Fiorentina,€5.80m ,Poland,"Jul 1, 2012","Jul 1, 2014",Gwarek U19,Gwarek Zabrze,,,Serie A
+17,Szymon Zurkowski,ACF Fiorentina,€5.80m ,Poland,,"Jul 1, 2012",MOSiR Jastrzebie Zdroj U19,Gwarek U19,,,Serie A
+24,Przemyslaw Frankowski,RC Lens,€7.00m ,Poland,"Aug 5, 2021",,Lens,,,,Ligue 1
+24,Przemyslaw Frankowski,RC Lens,€7.00m ,Poland,"Jan 22, 2019","Aug 5, 2021",Chicago,Lens,2000000.0,2300000.0,Ligue 1
+24,Przemyslaw Frankowski,RC Lens,€7.00m ,Poland,"Aug 1, 2014","Jan 22, 2019",Jagiellonia,Chicago,1500000.0,1500000.0,Ligue 1
+24,Przemyslaw Frankowski,RC Lens,€7.00m ,Poland,"Oct 24, 2012","Aug 1, 2014",Lechia Gdansk,Jagiellonia,300000.0,75000.0,Ligue 1
+24,Przemyslaw Frankowski,RC Lens,€7.00m ,Poland,"Jul 1, 2011","Oct 24, 2012",Lechia II,Lechia Gdansk,,,Ligue 1
+24,Przemyslaw Frankowski,RC Lens,€7.00m ,Poland,,"Jul 1, 2011",Lechia U19,Lechia II,,,Ligue 1
+20,Piotr Zielinski,SSC Napoli,€40.00m ,Poland,"Aug 4, 2016",,SSC Napoli,,,,Serie A
+20,Piotr Zielinski,SSC Napoli,€40.00m ,Poland,"Jun 30, 2016","Aug 4, 2016",Udinese Calcio,SSC Napoli,12000000.0,16000000.0,Serie A
+20,Piotr Zielinski,SSC Napoli,€40.00m ,Poland,"Aug 31, 2014","Jun 30, 2016",Empoli,Udinese Calcio,12000000.0,,Serie A
+20,Piotr Zielinski,SSC Napoli,€40.00m ,Poland,"Jul 1, 2012","Aug 31, 2014",Udinese Calcio,Empoli,2500000.0,,Serie A
+20,Piotr Zielinski,SSC Napoli,€40.00m ,Poland,"Jul 1, 2011","Jul 1, 2012",Udinese U19,Udinese Calcio,100000.0,,Serie A
+20,Piotr Zielinski,SSC Napoli,€40.00m ,Poland,"Jul 1, 2010","Jul 1, 2011",Lubin II,Udinese U19,50000.0,100000.0,Serie A
+20,Piotr Zielinski,SSC Napoli,€40.00m ,Poland,,"Jul 1, 2010",Lubin U19,Lubin II,,,Serie A
+13,Jakub Kaminski,VfL Wolfsburg,€10.00m ,Poland,"Jul 1, 2022",,VfL Wolfsburg,,,,Bundesliga
+13,Jakub Kaminski,VfL Wolfsburg,€10.00m ,Poland,"Dec 18, 2018","Jul 1, 2022",Lech Poznan,VfL Wolfsburg,10000000.0,10000000.0,Bundesliga
+13,Jakub Kaminski,VfL Wolfsburg,€10.00m ,Poland,"Mar 1, 2018","Dec 18, 2018",Lech U19,Lech Poznan,,,Bundesliga
+13,Jakub Kaminski,VfL Wolfsburg,€10.00m ,Poland,"Jul 1, 2015","Mar 1, 2018",Lech Academy,Lech U19,,,Bundesliga
+13,Jakub Kaminski,VfL Wolfsburg,€10.00m ,Poland,,"Jul 1, 2015",Szombierki B.,Lech Academy,,,Bundesliga
+26,Michal Skoras,Lech Poznan,€3.50m ,Poland,"Dec 31, 2019",,Lech Poznan,,,,Ekstraklasa
+26,Michal Skoras,Lech Poznan,€3.50m ,Poland,"Jul 5, 2019","Dec 31, 2019",Rakow,Lech Poznan,750000.0,,Ekstraklasa
+26,Michal Skoras,Lech Poznan,€3.50m ,Poland,"Jul 1, 2019","Jul 5, 2019",Lech Poznan,Rakow,750000.0,,Ekstraklasa
+26,Michal Skoras,Lech Poznan,€3.50m ,Poland,"Jun 30, 2019","Jul 1, 2019",Lech Poznan II,Lech Poznan,750000.0,,Ekstraklasa
+26,Michal Skoras,Lech Poznan,€3.50m ,Poland,"Jul 1, 2018","Jun 30, 2019",Termalica,Lech Poznan II,750000.0,,Ekstraklasa
+26,Michal Skoras,Lech Poznan,€3.50m ,Poland,"Jul 1, 2017","Jul 1, 2018",Lech Poznan II,Termalica,,,Ekstraklasa
+26,Michal Skoras,Lech Poznan,€3.50m ,Poland,"Jan 1, 2015","Jul 1, 2017",Lech U19,Lech Poznan II,,,Ekstraklasa
+26,Michal Skoras,Lech Poznan,€3.50m ,Poland,,"Jan 1, 2015",MOSiR Jastrzebie Zdroj U19,Lech U19,,,Ekstraklasa
+23,Krzysztof Piatek,US Salernitana 1919,€11.00m ,Poland,"Jun 30, 2023",,Hertha BSC,,,,Serie A
+23,Krzysztof Piatek,US Salernitana 1919,€11.00m ,Poland,"Sep 1, 2022","Jun 30, 2023",Salernitana,Hertha BSC,11000000.0,,Serie A
+23,Krzysztof Piatek,US Salernitana 1919,€11.00m ,Poland,"Jun 30, 2022","Sep 1, 2022",Hertha BSC,Salernitana,12000000.0,,Serie A
+23,Krzysztof Piatek,US Salernitana 1919,€11.00m ,Poland,"Jan 8, 2022","Jun 30, 2022",Fiorentina,Hertha BSC,12000000.0,,Serie A
+23,Krzysztof Piatek,US Salernitana 1919,€11.00m ,Poland,"Jan 30, 2020","Jan 8, 2022",Hertha BSC,Fiorentina,10000000.0,,Serie A
+23,Krzysztof Piatek,US Salernitana 1919,€11.00m ,Poland,"Jan 23, 2019","Jan 30, 2020",AC Milan,Hertha BSC,32000000.0,24000000.0,Serie A
+23,Krzysztof Piatek,US Salernitana 1919,€11.00m ,Poland,"Jul 1, 2018","Jan 23, 2019",Genoa,AC Milan,15000000.0,35000000.0,Serie A
+23,Krzysztof Piatek,US Salernitana 1919,€11.00m ,Poland,"Aug 28, 2016","Jul 1, 2018",Cracovia,Genoa,900000.0,4500000.0,Serie A
+23,Krzysztof Piatek,US Salernitana 1919,€11.00m ,Poland,"May 14, 2014","Aug 28, 2016",Zaglebie Lubin,Cracovia,500000.0,700000.0,Serie A
+23,Krzysztof Piatek,US Salernitana 1919,€11.00m ,Poland,"Feb 20, 2013","May 14, 2014",Lubin II,Zaglebie Lubin,,,Serie A
+23,Krzysztof Piatek,US Salernitana 1919,€11.00m ,Poland,"Jul 1, 2012","Feb 20, 2013",L. Dzierzoniow,Lubin II,,12000.0,Serie A
+23,Krzysztof Piatek,US Salernitana 1919,€11.00m ,Poland,,"Jul 1, 2012",Dzierzoniow U19,L. Dzierzoniow,,,Serie A
+16,Karol Swiderski,Charlotte FC,€5.00m ,Poland,"Jan 26, 2022",,Charlotte,,,,MLS
+16,Karol Swiderski,Charlotte FC,€5.00m ,Poland,"Jan 20, 2019","Jan 26, 2022",PAOK Salonika,Charlotte,6000000.0,4550000.0,MLS
+16,Karol Swiderski,Charlotte FC,€5.00m ,Poland,"Jul 18, 2014","Jan 20, 2019",Jagiellonia,PAOK Salonika,750000.0,2500000.0,MLS
+16,Karol Swiderski,Charlotte FC,€5.00m ,Poland,"Jul 1, 2013","Jul 18, 2014",SMS Lodz,Jagiellonia,,,MLS
+16,Karol Swiderski,Charlotte FC,€5.00m ,Poland,,"Jul 1, 2013",UKS SMS U19,SMS Lodz,,,MLS
+1,Wojciech Szczesny,Juventus FC,€13.00m ,Poland,"Jul 19, 2017",,Juventus,,,,Serie A
+1,Wojciech Szczesny,Juventus FC,€13.00m ,Poland,"Jun 30, 2017","Jul 19, 2017",Arsenal,Juventus,17000000.0,18000000.0,Serie A
+1,Wojciech Szczesny,Juventus FC,€13.00m ,Poland,"Jul 29, 2015","Jun 30, 2017",AS Roma,Arsenal,17000000.0,,Serie A
+1,Wojciech Szczesny,Juventus FC,€13.00m ,Poland,"May 30, 2010","Jul 29, 2015",Arsenal,AS Roma,10000000.0,,Serie A
+1,Wojciech Szczesny,Juventus FC,€13.00m ,Poland,"Nov 15, 2009","May 30, 2010",Brentford,Arsenal,475000.0,,Serie A
+1,Wojciech Szczesny,Juventus FC,€13.00m ,Poland,"Jul 1, 2008","Nov 15, 2009",Arsenal,Brentford,50000.0,,Serie A
+1,Wojciech Szczesny,Juventus FC,€13.00m ,Poland,"Jan 1, 2006","Jul 1, 2008",Arsenal U18,Arsenal,100000.0,,Serie A
+1,Wojciech Szczesny,Juventus FC,€13.00m ,Poland,"Jul 1, 2004","Jan 1, 2006",Legia Yth.,Arsenal U18,,50000.0,Serie A
+1,Wojciech Szczesny,Juventus FC,€13.00m ,Poland,,"Jul 1, 2004",Agrykola Warszawa,Legia Yth.,,,Serie A
+12,Lukasz Skorupski,Bologna FC 1909,€3.00m ,Poland,"Jul 1, 2018",,Bologna,,,,Serie A
+12,Lukasz Skorupski,Bologna FC 1909,€3.00m ,Poland,"Jun 30, 2017","Jul 1, 2018",AS Roma,Bologna,7000000.0,9000000.0,Serie A
+12,Lukasz Skorupski,Bologna FC 1909,€3.00m ,Poland,"Jul 1, 2015","Jun 30, 2017",Empoli,AS Roma,7000000.0,,Serie A
+12,Lukasz Skorupski,Bologna FC 1909,€3.00m ,Poland,"Jul 12, 2013","Jul 1, 2015",AS Roma,Empoli,1500000.0,,Serie A
+12,Lukasz Skorupski,Bologna FC 1909,€3.00m ,Poland,"Jun 30, 2011","Jul 12, 2013",Górnik Zabrze,AS Roma,1000000.0,890000.0,Serie A
+12,Lukasz Skorupski,Bologna FC 1909,€3.00m ,Poland,"Feb 25, 2011","Jun 30, 2011",Radzionkow,Górnik Zabrze,125000.0,,Serie A
+12,Lukasz Skorupski,Bologna FC 1909,€3.00m ,Poland,"Jul 1, 2008","Feb 25, 2011",Górnik Zabrze,Radzionkow,50000.0,,Serie A
+12,Lukasz Skorupski,Bologna FC 1909,€3.00m ,Poland,,"Jul 1, 2008",Gornik U19,Górnik Zabrze,,,Serie A
+14,Jakub Kiwior,Spezia Calcio,€6.00m ,Poland,"Aug 31, 2021",,Spezia Calcio,,,,Serie A
+14,Jakub Kiwior,Spezia Calcio,€6.00m ,Poland,"Aug 2, 2019","Aug 31, 2021",MSK Zilina,Spezia Calcio,400000.0,2200000.0,Serie A
+14,Jakub Kiwior,Spezia Calcio,€6.00m ,Poland,"Jan 16, 2019","Aug 2, 2019",Podbrezova,MSK Zilina,200000.0,250000.0,Serie A
+14,Jakub Kiwior,Spezia Calcio,€6.00m ,Poland,"Jul 1, 2018","Jan 16, 2019",Anderlecht U21,Podbrezova,,10000.0,Serie A
+14,Jakub Kiwior,Spezia Calcio,€6.00m ,Poland,"Jul 1, 2017","Jul 1, 2018",Anderlecht U19,Anderlecht U21,,,Serie A
+14,Jakub Kiwior,Spezia Calcio,€6.00m ,Poland,"Jul 15, 2016","Jul 1, 2017",Anderlecht U17,Anderlecht U19,,,Serie A
+14,Jakub Kiwior,Spezia Calcio,€6.00m ,Poland,"Mar 7, 2016","Jul 15, 2016",GKS Tychy,Anderlecht U17,,13000.0,Serie A
+14,Jakub Kiwior,Spezia Calcio,€6.00m ,Poland,,"Mar 7, 2016",GKS Tychy U19,GKS Tychy,,,Serie A
+15,Kamil Glik,Benevento Calcio,€800k ,Poland,"Sep 1, 2020",,Benevento,,,,Serie B
+15,Kamil Glik,Benevento Calcio,€800k ,Poland,"Jul 4, 2016","Sep 1, 2020",Monaco,Benevento,3500000.0,3000000.0,Serie B
+15,Kamil Glik,Benevento Calcio,€800k ,Poland,"Jul 1, 2011","Jul 4, 2016",Torino,Monaco,10000000.0,11000000.0,Serie B
+15,Kamil Glik,Benevento Calcio,€800k ,Poland,"Jun 30, 2011","Jul 1, 2011",US Palermo,Torino,1200000.0,2350000.0,Serie B
+15,Kamil Glik,Benevento Calcio,€800k ,Poland,"Jan 1, 2011","Jun 30, 2011",Bari,US Palermo,1200000.0,,Serie B
+15,Kamil Glik,Benevento Calcio,€800k ,Poland,"Jul 1, 2010","Jan 1, 2011",US Palermo,Bari,1500000.0,,Serie B
+15,Kamil Glik,Benevento Calcio,€800k ,Poland,"Jul 1, 2008","Jul 1, 2010",Piast Gliwice,US Palermo,500000.0,1000000.0,Serie B
+15,Kamil Glik,Benevento Calcio,€800k ,Poland,"Jan 1, 2007","Jul 1, 2008",Real Madrid C,Piast Gliwice,,0.0,Serie B
+15,Kamil Glik,Benevento Calcio,€800k ,Poland,"Jan 1, 2006","Jan 1, 2007",UD Horadada,Real Madrid C,,0.0,Serie B
+15,Kamil Glik,Benevento Calcio,€800k ,Poland,"Jul 1, 2005","Jan 1, 2006",Silesia Lubomia,UD Horadada,,0.0,Serie B
+15,Kamil Glik,Benevento Calcio,€800k ,Poland,,"Jul 1, 2005",WSP Wodzislaw,Silesia Lubomia,,0.0,Serie B
+2,Matty Cash,Aston Villa,€22.00m ,Poland,"Sep 3, 2020",,Aston Villa,,,,Premier League
+2,Matty Cash,Aston Villa,€22.00m ,Poland,"Jul 1, 2016","Sep 3, 2020",Nottm Forest,Aston Villa,4800000.0,15750000.0,Premier League
+2,Matty Cash,Aston Villa,€22.00m ,Poland,"May 31, 2016","Jul 1, 2016",Nottingham U18,Nottm Forest,,,Premier League
+2,Matty Cash,Aston Villa,€22.00m ,Poland,"Mar 4, 2016","May 31, 2016",Dag & Red FC,Nottingham U18,,,Premier League
+2,Matty Cash,Aston Villa,€22.00m ,Poland,,"Mar 4, 2016",Nottingham U18,Dag & Red FC,,,Premier League
+18,Bartosz Bereszynski,UC Sampdoria,€3.00m ,Poland,"Jan 3, 2017",,Sampdoria,,,,Serie A
+18,Bartosz Bereszynski,UC Sampdoria,€3.00m ,Poland,"Jan 23, 2013","Jan 3, 2017",Legia Warszawa,Sampdoria,1500000.0,1800000.0,Serie A
+18,Bartosz Bereszynski,UC Sampdoria,€3.00m ,Poland,"Jun 30, 2012","Jan 23, 2013",Lech Poznan,Legia Warszawa,100000.0,100000.0,Serie A
+18,Bartosz Bereszynski,UC Sampdoria,€3.00m ,Poland,"Jul 1, 2011","Jun 30, 2012",Warta Poznan,Lech Poznan,100000.0,,Serie A
+18,Bartosz Bereszynski,UC Sampdoria,€3.00m ,Poland,"Jan 1, 2010","Jul 1, 2011",Lech Poznan,Warta Poznan,100000.0,,Serie A
+18,Bartosz Bereszynski,UC Sampdoria,€3.00m ,Poland,"Jul 1, 2008","Jan 1, 2010",Lech U19,Lech Poznan,,,Serie A
+18,Bartosz Bereszynski,UC Sampdoria,€3.00m ,Poland,,"Jul 1, 2008",Wa. Poznan U17,Lech U19,,0.0,Serie A
+6,Krystian Bielik,Birmingham City,€3.00m ,Poland,"May 31, 2023",,Derby,,,,Championship
+6,Krystian Bielik,Birmingham City,€3.00m ,Poland,"Jul 29, 2022","May 31, 2023",Birmingham,Derby,3000000.0,,Championship
+6,Krystian Bielik,Birmingham City,€3.00m ,Poland,"Aug 2, 2019","Jul 29, 2022",Derby,Birmingham,4000000.0,,Championship
+6,Krystian Bielik,Birmingham City,€3.00m ,Poland,"May 31, 2019","Aug 2, 2019",Arsenal,Derby,2000000.0,8199999.999999999,Championship
+6,Krystian Bielik,Birmingham City,€3.00m ,Poland,"Aug 16, 2018","May 31, 2019",Charlton,Arsenal,2000000.0,,Championship
+6,Krystian Bielik,Birmingham City,€3.00m ,Poland,"May 31, 2018","Aug 16, 2018",Arsenal,Charlton,2000000.0,,Championship
+6,Krystian Bielik,Birmingham City,€3.00m ,Poland,"Jan 31, 2018","May 31, 2018",Walsall,Arsenal,2000000.0,,Championship
+6,Krystian Bielik,Birmingham City,€3.00m ,Poland,"May 31, 2017","Jan 31, 2018",Arsenal,Walsall,2000000.0,,Championship
+6,Krystian Bielik,Birmingham City,€3.00m ,Poland,"Jan 31, 2017","May 31, 2017",Birmingham,Arsenal,1500000.0,,Championship
+6,Krystian Bielik,Birmingham City,€3.00m ,Poland,"Jan 21, 2015","Jan 31, 2017",Arsenal,Birmingham,1500000.0,,Championship
+6,Krystian Bielik,Birmingham City,€3.00m ,Poland,"Jul 4, 2014","Jan 21, 2015",Legia Warszawa,Arsenal,,2250000.0,Championship
+6,Krystian Bielik,Birmingham City,€3.00m ,Poland,,"Jul 4, 2014",Lech U19,Legia Warszawa,,13000.0,Championship
+8,Damian Szymanski,AEK Athens,€2.00m ,Poland,"Jul 1, 2020",,AEK Athens,,,,Super League 1
+8,Damian Szymanski,AEK Athens,€2.00m ,Poland,"Jun 30, 2020","Jul 1, 2020",Akhmat Grozny,AEK Athens,800000.0,1300000.0,Super League 1
+8,Damian Szymanski,AEK Athens,€2.00m ,Poland,"Jan 14, 2020","Jun 30, 2020",AEK Athens,Akhmat Grozny,800000.0,,Super League 1
+8,Damian Szymanski,AEK Athens,€2.00m ,Poland,"Jan 12, 2019","Jan 14, 2020",Akhmat Grozny,AEK Athens,1000000.0,,Super League 1
+8,Damian Szymanski,AEK Athens,€2.00m ,Poland,"Aug 17, 2017","Jan 12, 2019",Wisla Plock,Akhmat Grozny,1000000.0,1500000.0,Super League 1
+8,Damian Szymanski,AEK Athens,€2.00m ,Poland,"Jul 1, 2016","Aug 17, 2017",Jagiellonia,Wisla Plock,200000.0,25000.0,Super League 1
+8,Damian Szymanski,AEK Athens,€2.00m ,Poland,"Feb 22, 2013","Jul 1, 2016",GKS Belchatow,Jagiellonia,150000.0,0.0,Super League 1
+8,Damian Szymanski,AEK Athens,€2.00m ,Poland,"Jul 1, 2012","Feb 22, 2013",Belchatow II,GKS Belchatow,,,Super League 1
+8,Damian Szymanski,AEK Athens,€2.00m ,Poland,,"Jul 1, 2012",Belchatow U19,Belchatow II,,,Super League 1
+21,Nicola Zalewski,AS Roma,€15.00m ,Poland,"Jul 1, 2021",,AS Roma,,,,Serie A
+21,Nicola Zalewski,AS Roma,€15.00m ,Poland,"Jul 1, 2019","Jul 1, 2021",Roma U19,AS Roma,900000.0,,Serie A
+21,Nicola Zalewski,AS Roma,€15.00m ,Poland,"Jul 1, 2018","Jul 1, 2019",Roma U17,Roma U19,,,Serie A
+21,Nicola Zalewski,AS Roma,€15.00m ,Poland,,"Jul 1, 2018",AS Rom Youth,Roma U17,,,Serie A
+19,Sebastian Szymanski,Feyenoord Rotterdam,€14.00m ,Poland,"Jun 30, 2023",,Dynamo Moscow,,,,Eredivisie
+19,Sebastian Szymanski,Feyenoord Rotterdam,€14.00m ,Poland,"Jul 22, 2022","Jun 30, 2023",Feyenoord,Dynamo Moscow,14000000.0,,Eredivisie
+19,Sebastian Szymanski,Feyenoord Rotterdam,€14.00m ,Poland,"Jul 1, 2019","Jul 22, 2022",Dynamo Moscow,Feyenoord,14000000.0,,Eredivisie
+19,Sebastian Szymanski,Feyenoord Rotterdam,€14.00m ,Poland,"Jul 7, 2016","Jul 1, 2019",Legia Warszawa,Dinamo Moscow,6000000.0,5500000.0,Eredivisie
+19,Sebastian Szymanski,Feyenoord Rotterdam,€14.00m ,Poland,"Jul 1, 2015","Jul 7, 2016",Legia II,Legia Warszawa,,,Eredivisie
+19,Sebastian Szymanski,Feyenoord Rotterdam,€14.00m ,Poland,"Jul 1, 2013","Jul 1, 2015",Legia U19,Legia II,,,Eredivisie
+19,Sebastian Szymanski,Feyenoord Rotterdam,€14.00m ,Poland,"Jan 1, 2013","Jul 1, 2013",Legia Yth.,Legia U19,,,Eredivisie
+19,Sebastian Szymanski,Feyenoord Rotterdam,€14.00m ,Poland,,"Jan 1, 2013",TOP 54 B.P. U19,Legia Yth.,,0.0,Eredivisie
+11,Kamil Grosicki,Pogon Szczecin,€700k ,Poland,"Aug 21, 2021",,Pogon Szczecin,,,,Ekstraklasa
+11,Kamil Grosicki,Pogon Szczecin,€700k ,Poland,"Jan 31, 2020","Aug 21, 2021",West Brom,Pogon Szczecin,1000000.0,0.0,Ekstraklasa
+11,Kamil Grosicki,Pogon Szczecin,€700k ,Poland,"Jan 31, 2017","Jan 31, 2020",Hull City,West Brom,4000000.0,950000.0,Ekstraklasa
+11,Kamil Grosicki,Pogon Szczecin,€700k ,Poland,"Jan 29, 2014","Jan 31, 2017",Rennes,Hull City,6000000.0,9000000.0,Ekstraklasa
+11,Kamil Grosicki,Pogon Szczecin,€700k ,Poland,"Jan 10, 2011","Jan 29, 2014",Sivasspor,Rennes,3800000.0,800000.0,Ekstraklasa
+11,Kamil Grosicki,Pogon Szczecin,€700k ,Poland,"Jul 1, 2009","Jan 10, 2011",Jagiellonia,Sivasspor,1600000.0,900000.0,Ekstraklasa
+11,Kamil Grosicki,Pogon Szczecin,€700k ,Poland,"Jun 30, 2009","Jul 1, 2009",Legia Warszawa,Jagiellonia,450000.0,110000.0,Ekstraklasa
+11,Kamil Grosicki,Pogon Szczecin,€700k ,Poland,"Jan 1, 2009","Jun 30, 2009",Jagiellonia,Legia Warszawa,450000.0,,Ekstraklasa
+11,Kamil Grosicki,Pogon Szczecin,€700k ,Poland,"Sep 3, 2008","Jan 1, 2009",Legia Warszawa,Jagiellonia,450000.0,,Ekstraklasa
+11,Kamil Grosicki,Pogon Szczecin,€700k ,Poland,"Feb 14, 2008","Sep 3, 2008",FC Sion,Legia Warszawa,450000.0,,Ekstraklasa
+11,Kamil Grosicki,Pogon Szczecin,€700k ,Poland,"Jul 1, 2007","Feb 14, 2008",Legia Warszawa,FC Sion,300000.0,,Ekstraklasa
+11,Kamil Grosicki,Pogon Szczecin,€700k ,Poland,"Jul 1, 2006","Jul 1, 2007",Pogon Szczecin,Legia Warszawa,200000.0,225000.0,Ekstraklasa
+11,Kamil Grosicki,Pogon Szczecin,€700k ,Poland,"Jan 1, 2005","Jul 1, 2006",Pogon II,Pogon Szczecin,50000.0,,Ekstraklasa
+11,Kamil Grosicki,Pogon Szczecin,€700k ,Poland,,"Jan 1, 2005",Pogon U19,Pogon II,,,Ekstraklasa
+9,Robert Lewandowski,FC Barcelona,€45.00m ,Poland,"Jul 19, 2022",,Barcelona,,,,LaLiga
+9,Robert Lewandowski,FC Barcelona,€45.00m ,Poland,"Jul 1, 2014","Jul 19, 2022",Bayern Munich,Barcelona,45000000.0,45000000.0,LaLiga
+9,Robert Lewandowski,FC Barcelona,€45.00m ,Poland,"Jul 1, 2010","Jul 1, 2014",Bor. Dortmund,Bayern Munich,50000000.0,0.0,LaLiga
+9,Robert Lewandowski,FC Barcelona,€45.00m ,Poland,"Jul 1, 2008","Jul 1, 2010",Lech Poznan,Bor. Dortmund,4500000.0,4750000.0,LaLiga
+9,Robert Lewandowski,FC Barcelona,€45.00m ,Poland,"Jul 1, 2006","Jul 1, 2008",Znicz Pruszkow,Lech Poznan,500000.0,380000.0,LaLiga
+9,Robert Lewandowski,FC Barcelona,€45.00m ,Poland,"Jul 1, 2005","Jul 1, 2006",Legia II,Znicz Pruszkow,,15000.0,LaLiga
+9,Robert Lewandowski,FC Barcelona,€45.00m ,Poland,,"Jul 1, 2005",Delta Warszawa,Legia II,,0.0,LaLiga
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Jun 30, 2023",,Marseille,,,,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Aug 26, 2022","Jun 30, 2023",Juventus,Marseille,10000000.0,,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Jul 1, 2022","Aug 26, 2022",Marseille,Juventus,16000000.0,,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Jun 30, 2022","Jul 1, 2022",SSC Napoli,Marseille,16000000.0,8000000.0,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Jan 21, 2021","Jun 30, 2022",Marseille,SSC Napoli,16000000.0,,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Aug 1, 2016","Jan 21, 2021",SSC Napoli,Marseille,22000000.0,,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Jul 1, 2015","Aug 1, 2016",Ajax,SSC Napoli,12000000.0,32000000.0,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Jun 30, 2015","Jul 1, 2015",B. Leverkusen,Ajax,6500000.0,2800000.0,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Jul 1, 2014","Jun 30, 2015",Ajax,B. Leverkusen,5000000.0,,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Jun 30, 2014","Jul 1, 2014",B. Leverkusen,Ajax,2500000.0,,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Aug 30, 2013","Jun 30, 2014",FC Augsburg,B. Leverkusen,2500000.0,,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Jan 1, 2013","Aug 30, 2013",B. Leverkusen,FC Augsburg,2500000.0,,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Jul 1, 2011","Jan 1, 2013",Górnik Zabrze,B. Leverkusen,2500000.0,2600000.0,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Jul 1, 2010","Jul 1, 2011",Rozwój Katowice,Górnik Zabrze,,75000.0,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,"Jan 1, 2010","Jul 1, 2010",Rozwoj II,Rozwój Katowice,,,Serie A
+7,Arkadiusz Milik,Juventus FC,€10.00m ,Poland,,"Jan 1, 2010",Rozwoj U19,Rozwoj II,,,Serie A

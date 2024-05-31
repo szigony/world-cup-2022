@@ -1,0 +1,235 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+13,Koen Casteels,VfL Wolfsburg,€8.00m ,Belgium,"Jun 30, 2015",,VfL Wolfsburg,,,,Bundesliga
+13,Koen Casteels,VfL Wolfsburg,€8.00m ,Belgium,"Jan 22, 2015","Jun 30, 2015",Werder Bremen,VfL Wolfsburg,1500000.0,,Bundesliga
+13,Koen Casteels,VfL Wolfsburg,€8.00m ,Belgium,"Jan 21, 2015","Jan 22, 2015",VfL Wolfsburg,Werder Bremen,2500000.0,,Bundesliga
+13,Koen Casteels,VfL Wolfsburg,€8.00m ,Belgium,"Aug 1, 2011","Jan 21, 2015",TSG Hoffenheim,VfL Wolfsburg,2500000.0,1500000.0,Bundesliga
+13,Koen Casteels,VfL Wolfsburg,€8.00m ,Belgium,"Jul 1, 2009","Aug 1, 2011",KRC Genk,TSG Hoffenheim,800000.0,1200000.0,Bundesliga
+13,Koen Casteels,VfL Wolfsburg,€8.00m ,Belgium,"Jul 1, 2008","Jul 1, 2009",KRC Genk U19,KRC Genk,50000.0,,Bundesliga
+13,Koen Casteels,VfL Wolfsburg,€8.00m ,Belgium,"Jul 1, 2007","Jul 1, 2008",KRC Genk U17,KRC Genk U19,,,Bundesliga
+13,Koen Casteels,VfL Wolfsburg,€8.00m ,Belgium,,"Jul 1, 2007",KRC Genk Youth,KRC Genk U17,,,Bundesliga
+3,Arthur Theate,Stade Rennais FC,€20.00m ,Belgium,"Jul 29, 2022",,Rennes,,,,Ligue 1
+3,Arthur Theate,Stade Rennais FC,€20.00m ,Belgium,"Jul 1, 2022","Jul 29, 2022",Bologna,Rennes,15000000.0,19000000.0,Ligue 1
+3,Arthur Theate,Stade Rennais FC,€20.00m ,Belgium,"Jun 30, 2022","Jul 1, 2022",KV Oostende,Bologna,15000000.0,6000000.0,Ligue 1
+3,Arthur Theate,Stade Rennais FC,€20.00m ,Belgium,"Aug 26, 2021","Jun 30, 2022",Bologna,KV Oostende,15000000.0,,Ligue 1
+3,Arthur Theate,Stade Rennais FC,€20.00m ,Belgium,"Jul 13, 2020","Aug 26, 2021",KV Oostende,Bologna,5000000.0,,Ligue 1
+3,Arthur Theate,Stade Rennais FC,€20.00m ,Belgium,"Aug 26, 2019","Jul 13, 2020",Standard U21,KV Oostende,,0.0,Ligue 1
+3,Arthur Theate,Stade Rennais FC,€20.00m ,Belgium,"Jul 1, 2018","Aug 26, 2019",KRC Genk U21,Standard U21,,0.0,Ligue 1
+3,Arthur Theate,Stade Rennais FC,€20.00m ,Belgium,"Jul 1, 2017","Jul 1, 2018",KRC Genk U19,KRC Genk U21,,,Ligue 1
+3,Arthur Theate,Stade Rennais FC,€20.00m ,Belgium,"Jul 1, 2015","Jul 1, 2017",Standard U17,KRC Genk U19,,0.0,Ligue 1
+3,Arthur Theate,Stade Rennais FC,€20.00m ,Belgium,"Jul 1, 2014","Jul 1, 2015",Standard Liège,Standard U17,,,Ligue 1
+3,Arthur Theate,Stade Rennais FC,€20.00m ,Belgium,,"Jul 1, 2014",KRC Genk Youth,Standard Liège,,0.0,Ligue 1
+26,Zeno Debast,RSC Anderlecht,€8.00m ,Belgium,"Jul 1, 2021",,RSC Anderlecht,,,,Jupiler Pro League
+26,Zeno Debast,RSC Anderlecht,€8.00m ,Belgium,"Jan 1, 2020","Jul 1, 2021",Anderlecht U21,RSC Anderlecht,800000.0,,Jupiler Pro League
+26,Zeno Debast,RSC Anderlecht,€8.00m ,Belgium,"Jul 1, 2019","Jan 1, 2020",Anderlecht U18,Anderlecht U21,,,Jupiler Pro League
+26,Zeno Debast,RSC Anderlecht,€8.00m ,Belgium,,"Jul 1, 2019",Anderlecht Yth.,Anderlecht U18,,,Jupiler Pro League
+5,Jan Vertonghen,RSC Anderlecht,€1.80m ,Belgium,"Sep 2, 2022",,RSC Anderlecht,,,,Jupiler Pro League
+5,Jan Vertonghen,RSC Anderlecht,€1.80m ,Belgium,"Aug 14, 2020","Sep 2, 2022",Benfica,RSC Anderlecht,2000000.0,0.0,Jupiler Pro League
+5,Jan Vertonghen,RSC Anderlecht,€1.80m ,Belgium,"Jul 12, 2012","Aug 14, 2020",Spurs,Benfica,14500000.0,0.0,Jupiler Pro League
+5,Jan Vertonghen,RSC Anderlecht,€1.80m ,Belgium,"Jun 30, 2007","Jul 12, 2012",Ajax,Spurs,15000000.0,12500000.0,Jupiler Pro League
+5,Jan Vertonghen,RSC Anderlecht,€1.80m ,Belgium,"Jan 31, 2007","Jun 30, 2007",RKC Waalwijk,Ajax,700000.0,,Jupiler Pro League
+5,Jan Vertonghen,RSC Anderlecht,€1.80m ,Belgium,"Jul 1, 2006","Jan 31, 2007",Ajax,RKC Waalwijk,350000.0,,Jupiler Pro League
+5,Jan Vertonghen,RSC Anderlecht,€1.80m ,Belgium,"Jul 1, 2005","Jul 1, 2006",Ajax U21,Ajax,,,Jupiler Pro League
+5,Jan Vertonghen,RSC Anderlecht,€1.80m ,Belgium,"Jul 1, 2004","Jul 1, 2005",Ajax U19,Ajax U21,,,Jupiler Pro League
+5,Jan Vertonghen,RSC Anderlecht,€1.80m ,Belgium,"Jul 1, 2003","Jul 1, 2004",Ajax U17,Ajax U19,,,Jupiler Pro League
+5,Jan Vertonghen,RSC Anderlecht,€1.80m ,Belgium,,"Jul 1, 2003",GBA Youth,Ajax U17,,0.0,Jupiler Pro League
+15,Thomas Meunier,Borussia Dortmund,€6.50m ,Belgium,"Jul 1, 2020",,Bor. Dortmund,,,,Bundesliga
+15,Thomas Meunier,Borussia Dortmund,€6.50m ,Belgium,"Jul 3, 2016","Jul 1, 2020",Paris SG,Bor. Dortmund,24000000.0,0.0,Bundesliga
+15,Thomas Meunier,Borussia Dortmund,€6.50m ,Belgium,"Jul 1, 2011","Jul 3, 2016",Club Brugge,Paris SG,6000000.0,6000000.0,Bundesliga
+15,Thomas Meunier,Borussia Dortmund,€6.50m ,Belgium,"Jul 1, 2009","Jul 1, 2011",RE Virton,Club Brugge,300000.0,200000.0,Bundesliga
+15,Thomas Meunier,Borussia Dortmund,€6.50m ,Belgium,"Jul 1, 2006","Jul 1, 2009",RE Virton U19,RE Virton,,,Bundesliga
+15,Thomas Meunier,Borussia Dortmund,€6.50m ,Belgium,,"Jul 1, 2006",Standard Liège,RE Virton U19,,0.0,Bundesliga
+19,Leander Dendoncker,Aston Villa,€22.00m ,Belgium,"Sep 1, 2022",,Aston Villa,,,,Premier League
+19,Leander Dendoncker,Aston Villa,€22.00m ,Belgium,"Jul 1, 2019","Sep 1, 2022",Wolves,Aston Villa,28000000.0,15000000.0,Premier League
+19,Leander Dendoncker,Aston Villa,€22.00m ,Belgium,"Jun 30, 2019","Jul 1, 2019",RSC Anderlecht,Wolves,18000000.0,13800000.0,Premier League
+19,Leander Dendoncker,Aston Villa,€22.00m ,Belgium,"Aug 9, 2018","Jun 30, 2019",Wolves,RSC Anderlecht,18000000.0,,Premier League
+19,Leander Dendoncker,Aston Villa,€22.00m ,Belgium,"Jul 1, 2014","Aug 9, 2018",RSC Anderlecht,Wolves,17000000.0,,Premier League
+19,Leander Dendoncker,Aston Villa,€22.00m ,Belgium,"Jul 1, 2013","Jul 1, 2014",Anderlecht U21,RSC Anderlecht,500000.0,,Premier League
+19,Leander Dendoncker,Aston Villa,€22.00m ,Belgium,"Jul 1, 2012","Jul 1, 2013",Anderlecht U19,Anderlecht U21,100000.0,,Premier League
+19,Leander Dendoncker,Aston Villa,€22.00m ,Belgium,"Jul 1, 2011","Jul 1, 2012",Anderlecht U17,Anderlecht U19,,,Premier League
+19,Leander Dendoncker,Aston Villa,€22.00m ,Belgium,"Jul 1, 2009","Jul 1, 2011",Anderlecht Yth.,Anderlecht U17,,,Premier League
+19,Leander Dendoncker,Aston Villa,€22.00m ,Belgium,,"Jul 1, 2009",Roeselare Yth.,Anderlecht Yth.,,,Premier League
+8,Youri Tielemans,Leicester City,€40.00m ,Belgium,"Jul 8, 2019",,Leicester,,,,Premier League
+8,Youri Tielemans,Leicester City,€40.00m ,Belgium,"Jun 30, 2019","Jul 8, 2019",Monaco,Leicester,38000000.0,45000000.0,Premier League
+8,Youri Tielemans,Leicester City,€40.00m ,Belgium,"Jan 31, 2019","Jun 30, 2019",Leicester,Monaco,38000000.0,,Premier League
+8,Youri Tielemans,Leicester City,€40.00m ,Belgium,"Jul 1, 2017","Jan 31, 2019",Monaco,Leicester,18000000.0,,Premier League
+8,Youri Tielemans,Leicester City,€40.00m ,Belgium,"Jul 1, 2013","Jul 1, 2017",RSC Anderlecht,Monaco,22000000.0,25000000.0,Premier League
+8,Youri Tielemans,Leicester City,€40.00m ,Belgium,"Jul 1, 2012","Jul 1, 2013",Anderlecht U17,RSC Anderlecht,,,Premier League
+8,Youri Tielemans,Leicester City,€40.00m ,Belgium,,"Jul 1, 2012",Anderlecht Yth.,Anderlecht U17,,,Premier League
+22,Charles De Ketelaere,AC Milan,€30.00m ,Belgium,"Aug 2, 2022",,AC Milan,,,,Serie A
+22,Charles De Ketelaere,AC Milan,€30.00m ,Belgium,"Jul 1, 2019","Aug 2, 2022",Club Brugge,AC Milan,30000000.0,32000000.0,Serie A
+22,Charles De Ketelaere,AC Milan,€30.00m ,Belgium,"Jan 1, 2018","Jul 1, 2019",FC Brügge U21,Club Brugge,,,Serie A
+22,Charles De Ketelaere,AC Milan,€30.00m ,Belgium,"Jul 1, 2017","Jan 1, 2018",FC Brügge U17,FC Brügge U21,,,Serie A
+22,Charles De Ketelaere,AC Milan,€30.00m ,Belgium,,"Jul 1, 2017",Club Brugge Yth,FC Brügge U17,,,Serie A
+11,Yannick Carrasco,Atlético de Madrid,€30.00m ,Belgium,"Sep 8, 2020",,Atlético Madrid,,,,LaLiga
+11,Yannick Carrasco,Atlético de Madrid,€30.00m ,Belgium,"Aug 24, 2020","Sep 8, 2020",DL Pro,Atlético Madrid,22500000.0,27000000.0,LaLiga
+11,Yannick Carrasco,Atlético de Madrid,€30.00m ,Belgium,"Jan 31, 2020","Aug 24, 2020",Atlético Madrid,DL Pro,22500000.0,,LaLiga
+11,Yannick Carrasco,Atlético de Madrid,€30.00m ,Belgium,"Feb 26, 2018","Jan 31, 2020",DL Pro,Atlético Madrid,28000000.0,,LaLiga
+11,Yannick Carrasco,Atlético de Madrid,€30.00m ,Belgium,"Jul 10, 2015","Feb 26, 2018",Atlético Madrid,DL Yifang,40000000.0,30000000.0,LaLiga
+11,Yannick Carrasco,Atlético de Madrid,€30.00m ,Belgium,"Jul 1, 2012","Jul 10, 2015",Monaco,Atlético Madrid,9000000.0,15000000.0,LaLiga
+11,Yannick Carrasco,Atlético de Madrid,€30.00m ,Belgium,"Jul 1, 2011","Jul 1, 2012",Monaco B,Monaco,,,LaLiga
+11,Yannick Carrasco,Atlético de Madrid,€30.00m ,Belgium,"Jul 1, 2010","Jul 1, 2011",Monaco U19,Monaco B,,,LaLiga
+11,Yannick Carrasco,Atlético de Madrid,€30.00m ,Belgium,"Jul 1, 2009","Jul 1, 2010",KRC Genk U17,Monaco U19,,450000.0,LaLiga
+11,Yannick Carrasco,Atlético de Madrid,€30.00m ,Belgium,"Jul 1, 2005","Jul 1, 2009",KRC Genk Youth,KRC Genk U17,,,LaLiga
+11,Yannick Carrasco,Atlético de Madrid,€30.00m ,Belgium,,"Jul 1, 2005",Diegem Yth.,KRC Genk Youth,,,LaLiga
+16,Thorgan Hazard,Borussia Dortmund,€9.00m ,Belgium,"Jul 1, 2019",,Bor. Dortmund,,,,Bundesliga
+16,Thorgan Hazard,Borussia Dortmund,€9.00m ,Belgium,"Jul 1, 2015","Jul 1, 2019",Bor. M'gladbach,Bor. Dortmund,38000000.0,25500000.0,Bundesliga
+16,Thorgan Hazard,Borussia Dortmund,€9.00m ,Belgium,"Jun 30, 2015","Jul 1, 2015",Chelsea,Bor. M'gladbach,10000000.0,8000000.0,Bundesliga
+16,Thorgan Hazard,Borussia Dortmund,€9.00m ,Belgium,"Jul 5, 2014","Jun 30, 2015",Bor. M'gladbach,Chelsea,10000000.0,,Bundesliga
+16,Thorgan Hazard,Borussia Dortmund,€9.00m ,Belgium,"Jun 30, 2014","Jul 5, 2014",Chelsea,Bor. M'gladbach,10000000.0,,Bundesliga
+16,Thorgan Hazard,Borussia Dortmund,€9.00m ,Belgium,"Aug 31, 2012","Jun 30, 2014",Zulte Waregem,Chelsea,10000000.0,,Bundesliga
+16,Thorgan Hazard,Borussia Dortmund,€9.00m ,Belgium,"Jul 24, 2012","Aug 31, 2012",Chelsea,Zulte Waregem,500000.0,,Bundesliga
+16,Thorgan Hazard,Borussia Dortmund,€9.00m ,Belgium,"Jul 1, 2011","Jul 24, 2012",Lens,Chelsea,500000.0,500000.0,Bundesliga
+16,Thorgan Hazard,Borussia Dortmund,€9.00m ,Belgium,"Jul 1, 2010","Jul 1, 2011",RC Lens B,Lens,,,Bundesliga
+16,Thorgan Hazard,Borussia Dortmund,€9.00m ,Belgium,"Jul 1, 2007","Jul 1, 2010",RC Lens U19,RC Lens B,,,Bundesliga
+16,Thorgan Hazard,Borussia Dortmund,€9.00m ,Belgium,,"Jul 1, 2007",Tubize Yth.,RC Lens U19,,0.0,Bundesliga
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,"Jun 30, 2023",,Chelsea,,,,Serie A
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,"Jul 1, 2022","Jun 30, 2023",Inter,Chelsea,55000000.0,,Serie A
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,"Aug 12, 2021","Jul 1, 2022",Chelsea,Inter,70000000.0,,Serie A
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,"Aug 8, 2019","Aug 12, 2021",Inter,Chelsea,100000000.0,113000000.0,Serie A
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,"Jul 10, 2017","Aug 8, 2019",Man Utd,Inter,75000000.0,74000000.0,Serie A
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,"Jul 30, 2014","Jul 10, 2017",Everton,Man Utd,50000000.0,84700000.0,Serie A
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,"May 31, 2014","Jul 30, 2014",Chelsea,Everton,25000000.0,35360000.0,Serie A
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,"Sep 2, 2013","May 31, 2014",Everton,Chelsea,25000000.0,,Serie A
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,"May 31, 2013","Sep 2, 2013",Chelsea,Everton,24000000.0,,Serie A
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,"Aug 10, 2012","May 31, 2013",West Brom,Chelsea,19000000.0,,Serie A
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,"Aug 8, 2011","Aug 10, 2012",Chelsea,West Brom,14000000.0,,Serie A
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,"Jul 1, 2009","Aug 8, 2011",RSC Anderlecht,Chelsea,15000000.0,15000000.0,Serie A
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,"Jul 1, 2008","Jul 1, 2009",Anderlecht U17,RSC Anderlecht,400000.0,,Serie A
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,"Jul 1, 2006","Jul 1, 2008",Anderlecht Yth.,Anderlecht U17,,,Serie A
+9,Romelu Lukaku,Inter Milan,€55.00m ,Belgium,,"Jul 1, 2006",Lierse SK Yth.,Anderlecht Yth.,,,Serie A
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"Sep 2, 2022",,Fenerbahce,,,,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"Jun 30, 2022","Sep 2, 2022",Chelsea,Fenerbahce,10000000.0,3500000.0,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"Aug 18, 2021","Jun 30, 2022",Besiktas,Chelsea,10000000.0,,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"May 31, 2021","Aug 18, 2021",Chelsea,Besiktas,10000000.0,,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"Sep 10, 2020","May 31, 2021",Crystal Palace,Chelsea,10000000.0,,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"Jun 30, 2019","Sep 10, 2020",Chelsea,Crystal Palace,14000000.0,,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"Jan 31, 2019","Jun 30, 2019",Crystal Palace,Chelsea,30000000.0,,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"Jan 30, 2019","Jan 31, 2019",Chelsea,Crystal Palace,30000000.0,,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"Aug 10, 2018","Jan 30, 2019",Valencia,Chelsea,30000000.0,,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"Jun 30, 2018","Aug 10, 2018",Chelsea,Valencia,40000000.0,,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"Jan 31, 2018","Jun 30, 2018",Bor. Dortmund,Chelsea,40000000.0,,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"Jul 3, 2016","Jan 31, 2018",Chelsea,Bor. Dortmund,25000000.0,,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"Jul 1, 2014","Jul 3, 2016",Marseille,Chelsea,15000000.0,39000000.0,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"Jul 1, 2011","Jul 1, 2014",Standard Liège,Marseille,8000000.0,6000000.0,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,"Jul 1, 2010","Jul 1, 2011",Standard U21,Standard Liège,,,Süper Lig
+23,Michy Batshuayi,Fenerbahce,€10.00m ,Belgium,,"Jul 1, 2010",Standard U17,Standard U21,,,Süper Lig
+1,Thibaut Courtois,Real Madrid,€60.00m ,Belgium,"Aug 9, 2018",,Real Madrid,,,,LaLiga
+1,Thibaut Courtois,Real Madrid,€60.00m ,Belgium,"Jun 30, 2014","Aug 9, 2018",Chelsea,Real Madrid,65000000.0,35000000.0,LaLiga
+1,Thibaut Courtois,Real Madrid,€60.00m ,Belgium,"Jul 27, 2011","Jun 30, 2014",Atlético Madrid,Chelsea,25000000.0,,LaLiga
+1,Thibaut Courtois,Real Madrid,€60.00m ,Belgium,"Jul 26, 2011","Jul 27, 2011",Chelsea,Atlético Madrid,4000000.0,,LaLiga
+1,Thibaut Courtois,Real Madrid,€60.00m ,Belgium,"Jul 1, 2009","Jul 26, 2011",KRC Genk,Chelsea,4000000.0,8950000.0,LaLiga
+1,Thibaut Courtois,Real Madrid,€60.00m ,Belgium,"Jul 1, 2008","Jul 1, 2009",KRC Genk U19,KRC Genk,50000.0,,LaLiga
+1,Thibaut Courtois,Real Madrid,€60.00m ,Belgium,"Jul 1, 2007","Jul 1, 2008",KRC Genk U17,KRC Genk U19,,,LaLiga
+1,Thibaut Courtois,Real Madrid,€60.00m ,Belgium,,"Jul 1, 2007",KRC Genk Youth,KRC Genk U17,,,LaLiga
+12,Simon Mignolet,Club Brugge KV,€5.00m ,Belgium,"Aug 5, 2019",,Club Brugge,,,,Jupiler Pro League
+12,Simon Mignolet,Club Brugge KV,€5.00m ,Belgium,"Jul 1, 2013","Aug 5, 2019",Liverpool,Club Brugge,8000000.0,7000000.0,Jupiler Pro League
+12,Simon Mignolet,Club Brugge KV,€5.00m ,Belgium,"Jul 1, 2010","Jul 1, 2013",Sunderland,Liverpool,5500000.0,10600000.0,Jupiler Pro League
+12,Simon Mignolet,Club Brugge KV,€5.00m ,Belgium,"Jul 1, 2006","Jul 1, 2010",Sint-Truiden,Sunderland,2500000.0,2500000.0,Jupiler Pro League
+12,Simon Mignolet,Club Brugge KV,€5.00m ,Belgium,"Jul 1, 2005","Jul 1, 2006",St.Truiden U21,Sint-Truiden,,,Jupiler Pro League
+12,Simon Mignolet,Club Brugge KV,€5.00m ,Belgium,,"Jul 1, 2005",St. Truiden U17,St.Truiden U21,,,Jupiler Pro League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,"Sep 1, 2022",,Leicester,,,,Premier League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,"Jun 30, 2020","Sep 1, 2022",Stade Reims,Leicester,10000000.0,17000000.0,Premier League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,"Jan 31, 2020","Jun 30, 2020",KV Oostende,Stade Reims,2700000.0,,Premier League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,"Jan 30, 2020","Jan 31, 2020",Stade Reims,KV Oostende,3000000.0,,Premier League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,"Jul 1, 2018","Jan 30, 2020",KV Oostende,Stade Reims,3000000.0,,Premier League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,"Jun 30, 2018","Jul 1, 2018",RSC Anderlecht,KV Oostende,800000.0,300000.0,Premier League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,"Jul 12, 2017","Jun 30, 2018",Excelsior,RSC Anderlecht,800000.0,,Premier League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,"Jun 30, 2017","Jul 12, 2017",RSC Anderlecht,Excelsior,350000.0,,Premier League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,"Jan 31, 2017","Jun 30, 2017",Heerenveen,RSC Anderlecht,350000.0,,Premier League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,"Jul 1, 2016","Jan 31, 2017",RSC Anderlecht,Heerenveen,350000.0,,Premier League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,"Jul 1, 2015","Jul 1, 2016",Anderlecht U21,RSC Anderlecht,,,Premier League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,"Jul 1, 2014","Jul 1, 2015",Anderlecht U19,Anderlecht U21,,,Premier League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,"Jul 1, 2013","Jul 1, 2014",Anderlecht U17,Anderlecht U19,,,Premier League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,"Jul 1, 2012","Jul 1, 2013",Anderlecht Yth.,Anderlecht U17,,,Premier League
+4,Wout Faes,Leicester City,€20.00m ,Belgium,,"Jul 1, 2012",Lierse SK Yth.,Anderlecht Yth.,,0.0,Premier League
+2,Toby Alderweireld,Royal Antwerp FC,€4.00m ,Belgium,"Jul 15, 2022",,Royal Antwerp,,,,Jupiler Pro League
+2,Toby Alderweireld,Royal Antwerp FC,€4.00m ,Belgium,"Jul 27, 2021","Jul 15, 2022",Al-Duhail SC,Royal Antwerp,7000000.0,4000000.0,Jupiler Pro League
+2,Toby Alderweireld,Royal Antwerp FC,€4.00m ,Belgium,"Jul 8, 2015","Jul 27, 2021",Spurs,Al-Duhail SC,11000000.0,13000000.0,Jupiler Pro League
+2,Toby Alderweireld,Royal Antwerp FC,€4.00m ,Belgium,"Jun 30, 2015","Jul 8, 2015",Atlético Madrid,Spurs,15000000.0,16000000.0,Jupiler Pro League
+2,Toby Alderweireld,Royal Antwerp FC,€4.00m ,Belgium,"Sep 1, 2014","Jun 30, 2015",Southampton,Atlético Madrid,11000000.0,,Jupiler Pro League
+2,Toby Alderweireld,Royal Antwerp FC,€4.00m ,Belgium,"Sep 2, 2013","Sep 1, 2014",Atlético Madrid,Southampton,10000000.0,,Jupiler Pro League
+2,Toby Alderweireld,Royal Antwerp FC,€4.00m ,Belgium,"Jan 1, 2009","Sep 2, 2013",Ajax,Atlético Madrid,10000000.0,7000000.0,Jupiler Pro League
+2,Toby Alderweireld,Royal Antwerp FC,€4.00m ,Belgium,"Jul 1, 2008","Jan 1, 2009",Ajax U21,Ajax,50000.0,,Jupiler Pro League
+2,Toby Alderweireld,Royal Antwerp FC,€4.00m ,Belgium,"Jul 1, 2006","Jul 1, 2008",Ajax U19,Ajax U21,,,Jupiler Pro League
+2,Toby Alderweireld,Royal Antwerp FC,€4.00m ,Belgium,"Jul 1, 2005","Jul 1, 2006",Ajax U17,Ajax U19,,,Jupiler Pro League
+2,Toby Alderweireld,Royal Antwerp FC,€4.00m ,Belgium,"Jul 1, 2004","Jul 1, 2005",Ajax Youth,Ajax U17,,,Jupiler Pro League
+2,Toby Alderweireld,Royal Antwerp FC,€4.00m ,Belgium,,"Jul 1, 2004",GBA Youth,Ajax Youth,,0.0,Jupiler Pro League
+21,Timothy Castagne,Leicester City,€28.00m ,Belgium,"Sep 3, 2020",,Leicester,,,,Premier League
+21,Timothy Castagne,Leicester City,€28.00m ,Belgium,"Jul 7, 2017","Sep 3, 2020",Atalanta BC,Leicester,18000000.0,20900000.0,Premier League
+21,Timothy Castagne,Leicester City,€28.00m ,Belgium,"Jul 1, 2014","Jul 7, 2017",KRC Genk,Atalanta BC,3000000.0,6500000.0,Premier League
+21,Timothy Castagne,Leicester City,€28.00m ,Belgium,"Jul 1, 2013","Jul 1, 2014",KRC Genk U21,KRC Genk,,,Premier League
+21,Timothy Castagne,Leicester City,€28.00m ,Belgium,"Jul 1, 2012","Jul 1, 2013",KRC Genk U19,KRC Genk U21,,,Premier League
+21,Timothy Castagne,Leicester City,€28.00m ,Belgium,"Jul 1, 2011","Jul 1, 2012",KRC Genk U17,KRC Genk U19,,,Premier League
+21,Timothy Castagne,Leicester City,€28.00m ,Belgium,,"Jul 1, 2011",RE Virton U17,KRC Genk U17,,0.0,Premier League
+18,Amadou Onana,Everton FC,€35.00m ,Belgium,"Aug 9, 2022",,Everton,,,,Premier League
+18,Amadou Onana,Everton FC,€35.00m ,Belgium,"Aug 5, 2021","Aug 9, 2022",LOSC Lille,Everton,10000000.0,35000000.0,Premier League
+18,Amadou Onana,Everton FC,€35.00m ,Belgium,"Jul 1, 2020","Aug 5, 2021",Hamburger SV,LOSC Lille,3000000.0,12600000.0,Premier League
+18,Amadou Onana,Everton FC,€35.00m ,Belgium,"Jul 1, 2018","Jul 1, 2020",Hoffenheim U19,Hamburger SV,,0.0,Premier League
+18,Amadou Onana,Everton FC,€35.00m ,Belgium,"Jul 1, 2017","Jul 1, 2018",Hoffenheim U17,Hoffenheim U19,,,Premier League
+18,Amadou Onana,Everton FC,€35.00m ,Belgium,,"Jul 1, 2017",Zulte W. Youth,Hoffenheim U17,,,Premier League
+6,Axel Witsel,Atlético de Madrid,€5.00m ,Belgium,"Jul 6, 2022",,Atlético Madrid,,,,LaLiga
+6,Axel Witsel,Atlético de Madrid,€5.00m ,Belgium,"Aug 6, 2018","Jul 6, 2022",Bor. Dortmund,Atlético Madrid,4000000.0,0.0,LaLiga
+6,Axel Witsel,Atlético de Madrid,€5.00m ,Belgium,"Jan 3, 2017","Aug 6, 2018",TJ Tianhai,Bor. Dortmund,20000000.0,20000000.0,LaLiga
+6,Axel Witsel,Atlético de Madrid,€5.00m ,Belgium,"Sep 3, 2012","Jan 3, 2017",Zenit S-Pb,TJ Quanjian,20000000.0,20000000.0,LaLiga
+6,Axel Witsel,Atlético de Madrid,€5.00m ,Belgium,"Jul 13, 2011","Sep 3, 2012",Benfica,Zenit S-Pb,20000000.0,40000000.0,LaLiga
+6,Axel Witsel,Atlético de Madrid,€5.00m ,Belgium,"Jul 1, 2006","Jul 13, 2011",Standard Liège,Benfica,10000000.0,9000000.0,LaLiga
+6,Axel Witsel,Atlético de Madrid,€5.00m ,Belgium,"Jul 1, 2005","Jul 1, 2006",Standard U19,Standard Liège,,,LaLiga
+6,Axel Witsel,Atlético de Madrid,€5.00m ,Belgium,"Jul 1, 2004","Jul 1, 2005",Standard U17,Standard U19,,,LaLiga
+6,Axel Witsel,Atlético de Madrid,€5.00m ,Belgium,,"Jul 1, 2004",Standard Liège,Standard U17,,,LaLiga
+7,Kevin De Bruyne,Manchester City,€80.00m ,Belgium,"Aug 30, 2015",,Man City,,,,Premier League
+7,Kevin De Bruyne,Manchester City,€80.00m ,Belgium,"Jan 18, 2014","Aug 30, 2015",VfL Wolfsburg,Man City,45000000.0,76000000.0,Premier League
+7,Kevin De Bruyne,Manchester City,€80.00m ,Belgium,"Jun 30, 2013","Jan 18, 2014",Chelsea,VfL Wolfsburg,15000000.0,22000000.0,Premier League
+7,Kevin De Bruyne,Manchester City,€80.00m ,Belgium,"Aug 2, 2012","Jun 30, 2013",Werder Bremen,Chelsea,10000000.0,,Premier League
+7,Kevin De Bruyne,Manchester City,€80.00m ,Belgium,"Jun 30, 2012","Aug 2, 2012",Chelsea,Werder Bremen,9000000.0,,Premier League
+7,Kevin De Bruyne,Manchester City,€80.00m ,Belgium,"Feb 1, 2012","Jun 30, 2012",KRC Genk,Chelsea,9000000.0,,Premier League
+7,Kevin De Bruyne,Manchester City,€80.00m ,Belgium,"Jan 31, 2012","Feb 1, 2012",Chelsea,KRC Genk,9000000.0,,Premier League
+7,Kevin De Bruyne,Manchester City,€80.00m ,Belgium,"Jul 1, 2008","Jan 31, 2012",KRC Genk,Chelsea,9000000.0,8000000.0,Premier League
+7,Kevin De Bruyne,Manchester City,€80.00m ,Belgium,"Jul 1, 2007","Jul 1, 2008",KRC Genk U19,KRC Genk,,,Premier League
+7,Kevin De Bruyne,Manchester City,€80.00m ,Belgium,"Jul 1, 2006","Jul 1, 2007",KRC Genk U17,KRC Genk U19,,,Premier League
+7,Kevin De Bruyne,Manchester City,€80.00m ,Belgium,"Jul 1, 2005","Jul 1, 2006",KRC Genk Youth,KRC Genk U17,,,Premier League
+7,Kevin De Bruyne,Manchester City,€80.00m ,Belgium,,"Jul 1, 2005",KAA Gent Youth,KRC Genk Youth,,0.0,Premier League
+20,Hans Vanaken,Club Brugge KV,€15.00m ,Belgium,"Jul 1, 2015",,Club Brugge,,,,Jupiler Pro League
+20,Hans Vanaken,Club Brugge KV,€15.00m ,Belgium,"Jul 1, 2013","Jul 1, 2015",KSC Lokeren,Club Brugge,6000000.0,4250000.0,Jupiler Pro League
+20,Hans Vanaken,Club Brugge KV,€15.00m ,Belgium,"Jul 1, 2010","Jul 1, 2013",Lommel United,KSC Lokeren,400000.0,175000.0,Jupiler Pro League
+20,Hans Vanaken,Club Brugge KV,€15.00m ,Belgium,"Jul 1, 2008","Jul 1, 2010",Lommel U19,Lommel United,,,Jupiler Pro League
+20,Hans Vanaken,Club Brugge KV,€15.00m ,Belgium,"Jul 1, 2007","Jul 1, 2008",Lommel SK U17,KVSK United U19,,,Jupiler Pro League
+20,Hans Vanaken,Club Brugge KV,€15.00m ,Belgium,"Jul 1, 2006","Jul 1, 2007",Lommel SK Yth,Lommel SK U17,,,Jupiler Pro League
+20,Hans Vanaken,Club Brugge KV,€15.00m ,Belgium,,"Jul 1, 2006",PSV Eindhoven Y,Lommel SK Yth,,0.0,Jupiler Pro League
+17,Leandro Trossard,Brighton &amp; Hove Albion,€30.00m ,Belgium,"Jul 1, 2019",,Brighton,,,,Premier League
+17,Leandro Trossard,Brighton &amp; Hove Albion,€30.00m ,Belgium,"Jun 30, 2016","Jul 1, 2019",KRC Genk,Brighton,16000000.0,15560000.0,Premier League
+17,Leandro Trossard,Brighton &amp; Hove Albion,€30.00m ,Belgium,"Jul 6, 2015","Jun 30, 2016",OH Leuven,KRC Genk,2000000.0,,Premier League
+17,Leandro Trossard,Brighton &amp; Hove Albion,€30.00m ,Belgium,"Jun 30, 2015","Jul 6, 2015",KRC Genk,OH Leuven,500000.0,,Premier League
+17,Leandro Trossard,Brighton &amp; Hove Albion,€30.00m ,Belgium,"Jul 1, 2014","Jun 30, 2015",Lommel United,KRC Genk,500000.0,,Premier League
+17,Leandro Trossard,Brighton &amp; Hove Albion,€30.00m ,Belgium,"Jun 30, 2014","Jul 1, 2014",KRC Genk,Lommel United,200000.0,,Premier League
+17,Leandro Trossard,Brighton &amp; Hove Albion,€30.00m ,Belgium,"Jul 1, 2013","Jun 30, 2014",KVC Westerlo,KRC Genk,200000.0,,Premier League
+17,Leandro Trossard,Brighton &amp; Hove Albion,€30.00m ,Belgium,"Jun 30, 2013","Jul 1, 2013",KRC Genk,KVC Westerlo,200000.0,,Premier League
+17,Leandro Trossard,Brighton &amp; Hove Albion,€30.00m ,Belgium,"Jan 29, 2013","Jun 30, 2013",Lommel United,KRC Genk,200000.0,,Premier League
+17,Leandro Trossard,Brighton &amp; Hove Albion,€30.00m ,Belgium,"Jul 1, 2012","Jan 29, 2013",KRC Genk,Lommel United,200000.0,,Premier League
+17,Leandro Trossard,Brighton &amp; Hove Albion,€30.00m ,Belgium,"Jul 1, 2010","Jul 1, 2012",KRC Genk U19,KRC Genk,100000.0,,Premier League
+17,Leandro Trossard,Brighton &amp; Hove Albion,€30.00m ,Belgium,,"Jul 1, 2010",Bocholt VV U21,KRC Genk U19,,,Premier League
+25,Jérémy Doku,Stade Rennais FC,€18.00m ,Belgium,"Oct 5, 2020",,Rennes,,,,Ligue 1
+25,Jérémy Doku,Stade Rennais FC,€18.00m ,Belgium,"Jul 1, 2019","Oct 5, 2020",RSC Anderlecht,Rennes,9000000.0,26000000.0,Ligue 1
+25,Jérémy Doku,Stade Rennais FC,€18.00m ,Belgium,"Jul 1, 2018","Jul 1, 2019",Anderlecht U21,RSC Anderlecht,2000000.0,,Ligue 1
+25,Jérémy Doku,Stade Rennais FC,€18.00m ,Belgium,"Jul 1, 2017","Jul 1, 2018",Anderlecht U17,Anderlecht U21,,,Ligue 1
+25,Jérémy Doku,Stade Rennais FC,€18.00m ,Belgium,"Jul 1, 2012","Jul 1, 2017",Anderlecht Yth.,Anderlecht U17,,,Ligue 1
+25,Jérémy Doku,Stade Rennais FC,€18.00m ,Belgium,,"Jul 1, 2012",Beerschot Yth,Anderlecht Yth.,,,Ligue 1
+24,Loïs Openda,RC Lens,€12.00m ,Belgium,"Jul 6, 2022",,Lens,,,,Ligue 1
+24,Loïs Openda,RC Lens,€12.00m ,Belgium,"Jun 30, 2022","Jul 6, 2022",Club Brugge,Lens,7500000.0,9800000.0,Ligue 1
+24,Loïs Openda,RC Lens,€12.00m ,Belgium,"Jul 21, 2020","Jun 30, 2022",Vitesse,Club Brugge,7500000.0,,Ligue 1
+24,Loïs Openda,RC Lens,€12.00m ,Belgium,"Jul 1, 2018","Jul 21, 2020",Club Brugge,Vitesse,4000000.0,,Ligue 1
+24,Loïs Openda,RC Lens,€12.00m ,Belgium,"Jul 1, 2016","Jul 1, 2018",FC Brügge U21,Club Brugge,,,Ligue 1
+24,Loïs Openda,RC Lens,€12.00m ,Belgium,"Jan 1, 2016","Jul 1, 2016",Club Bruges U19,FC Brügge U21,,,Ligue 1
+24,Loïs Openda,RC Lens,€12.00m ,Belgium,"Jul 1, 2015","Jan 1, 2016",Club Brugge Yth,Club Bruges U19,,,Ligue 1
+24,Loïs Openda,RC Lens,€12.00m ,Belgium,,"Jul 1, 2015",Standard Liège,Club Brugge Yth,,,Ligue 1
+14,Dries Mertens,Galatasaray,€3.40m ,Belgium,"Aug 8, 2022",,Galatasaray,,,,Süper Lig
+14,Dries Mertens,Galatasaray,€3.40m ,Belgium,"Jul 1, 2013","Aug 8, 2022",SSC Napoli,Galatasaray,4000000.0,0.0,Süper Lig
+14,Dries Mertens,Galatasaray,€3.40m ,Belgium,"Jul 1, 2011","Jul 1, 2013",PSV Eindhoven,SSC Napoli,13000000.0,9480000.0,Süper Lig
+14,Dries Mertens,Galatasaray,€3.40m ,Belgium,"Jul 1, 2009","Jul 1, 2011",FC Utrecht,PSV Eindhoven,6000000.0,7000000.0,Süper Lig
+14,Dries Mertens,Galatasaray,€3.40m ,Belgium,"Jul 1, 2007","Jul 1, 2009",AGOVV,FC Utrecht,750000.0,600000.0,Süper Lig
+14,Dries Mertens,Galatasaray,€3.40m ,Belgium,"Jun 30, 2007","Jul 1, 2007",KAA Gent U21,AGOVV,,46000.0,Süper Lig
+14,Dries Mertens,Galatasaray,€3.40m ,Belgium,"Jul 1, 2006","Jun 30, 2007",AGOVV,KAA Gent U21,,,Süper Lig
+14,Dries Mertens,Galatasaray,€3.40m ,Belgium,"Jun 30, 2006","Jul 1, 2006",KAA Gent U21,AGOVV,,,Süper Lig
+14,Dries Mertens,Galatasaray,€3.40m ,Belgium,"Jul 1, 2005","Jun 30, 2006",Eendracht Aalst,KAA Gent U21,,,Süper Lig
+14,Dries Mertens,Galatasaray,€3.40m ,Belgium,"Jul 1, 2004","Jul 1, 2005",KAA Gent U21,Eendracht Aalst,,,Süper Lig
+14,Dries Mertens,Galatasaray,€3.40m ,Belgium,"Jul 1, 2003","Jul 1, 2004",KAA Gent U17,KAA Gent U21,,,Süper Lig
+14,Dries Mertens,Galatasaray,€3.40m ,Belgium,,"Jul 1, 2003",Anderlecht Yth.,KAA Gent U17,,,Süper Lig

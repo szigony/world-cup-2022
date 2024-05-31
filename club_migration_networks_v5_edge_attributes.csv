@@ -1,0 +1,1208 @@
+Source,Target,Type,Id,Label,timeset,Weight
+Man Utd,Ajax,Directed,0,,,16000000
+Man Utd,Olympique Lyon,Directed,1,,,16000000
+Man Utd,Leeds,Directed,2,,,29100000
+Man Utd,Real Madrid,Directed,3,,,94000000
+Man Utd,Inter,Directed,4,,,74000000
+Man Utd,Paris SG,Directed,5,,,63000000
+Ajax,Man Utd,Directed,6,,,169870000
+Ajax,Everton,Directed,7,,,27000000
+Ajax,Barcelona,Directed,8,,,107000000
+Ajax,Juventus,Directed,9,,,85500000
+Ajax,Club Brugge,Directed,10,,,6000000
+Ajax,Spurs,Directed,11,,,26650000
+Ajax,OGC Nice,Directed,12,,,20500000
+Ajax,RB Salzburg,Directed,13,,,5000000
+Ajax,Chelsea,Directed,14,,,40000000
+Ajax,Liverpool,Directed,15,,,26500000
+Ajax,TJ Teda,Directed,16,,,5500000
+Ajax,Atlético Madrid,Directed,17,,,7000000
+Ajax,Olympique Lyon,Directed,18,,,4200000
+Ajax,SSC Napoli,Directed,19,,,32000000
+Werder Bremen,Ajax,Directed,20,,,11700000
+Werder Bremen,Bor. Dortmund,Directed,21,,,20000000
+Werder Bremen,Norwich,Directed,22,,,9500000
+Werder Bremen,1.FC Nuremberg,Directed,23,,,300000
+Werder Bremen,Bayern Munich,Directed,24,,,8000000
+Everton,Werder Bremen,Directed,25,,,13500000
+Everton,CSKA Moscow,Directed,26,,,23000000
+Everton,Sunderland,Directed,27,,,2000000
+Everton,Spurs,Directed,28,,,58000000
+Everton,Man Utd,Directed,29,,,84700000
+Everton,Man City,Directed,30,,,55600000
+Everton,Paris SG,Directed,31,,,30000000
+PSV Eindhoven,Inter,Directed,32,,,14250000
+PSV Eindhoven,Sevilla FC,Directed,33,,,12500000
+PSV Eindhoven,Man Utd,Directed,34,,,34000000
+PSV Eindhoven,Vitesse,Directed,35,,,450000
+PSV Eindhoven,Spurs,Directed,36,,,30000000
+PSV Eindhoven,Real Betis,Directed,37,,,2500000
+PSV Eindhoven,SSC Napoli,Directed,38,,,54480000
+PSV Eindhoven,AS Roma,Directed,39,,,5700000
+PSV Eindhoven,SC Freiburg,Directed,40,,,8500000
+PSV Eindhoven,E. Frankfurt,Directed,41,,,3000000
+PSV Eindhoven,Basaksehir,Directed,42,,,1000000
+Inter,Paris SG,Directed,43,,,68000000
+Inter,Galatasaray,Directed,44,,,2500000
+Inter,Atalanta BC,Directed,45,,,5050000
+Inter,Real Madrid,Directed,46,,,38000000
+Inter,Chelsea,Directed,47,,,113000000
+Inter,Stoke City,Directed,48,,,17000000
+Heerenveen,PSV Eindhoven,Directed,49,,,5500000
+Heerenveen,Atalanta BC,Directed,50,,,1300000
+Heerenveen,Twente FC,Directed,51,,,3500000
+Heerenveen,Benfica,Directed,52,,,8000000
+Sparta R.,Heerenveen,Directed,53,,,750000
+Barcelona,Atlético Madrid,Directed,54,,,29000000
+Barcelona,Sevilla FC,Directed,55,,,3000000
+Barcelona,Paris SG,Directed,56,,,222000000
+Willem II,Ajax U21,Directed,57,,,1
+Celtic,B. Leverkusen,Directed,58,,,11000000
+Celtic,Southampton,Directed,59,,,15700000
+B. Leverkusen,Dinamo Zagreb,Directed,60,,,1300000
+B. Leverkusen,Bor. Dortmund,Directed,61,,,25000000
+B. Leverkusen,Chelsea,Directed,62,,,80000000
+B. Leverkusen,Real Madrid,Directed,63,,,6500000
+B. Leverkusen,Spurs,Directed,64,,,30000000
+B. Leverkusen,Ajax,Directed,65,,,2800000
+Man City U23,Celtic,Directed,66,,,5380000
+Man City U23,Chivas,Directed,67,,,9900000
+Man City U23,Hellas Verona,Directed,68,,,7500000
+Sevilla FC,PSV Eindhoven,Directed,69,,,3000000
+Sevilla FC,AC Milan,Directed,70,,,3680000
+Sevilla FC,Juventus,Directed,71,,,8000000
+Sevilla FC,Barcelona,Directed,72,,,85500000
+Sevilla FC,Paris SG,Directed,73,,,45500000
+Bor. M'gladbach,PSV Eindhoven,Directed,74,,,5500000
+Bor. M'gladbach,Barcelona,Directed,75,,,12000000
+Bor. M'gladbach,Bor. Dortmund,Directed,76,,,25500000
+Bor. M'gladbach,FSV Frankfurt,Directed,77,,,300000
+Bor. M'gladbach,Monaco,Directed,78,,,12500000
+Bor. M'gladbach,Juventus,Directed,79,,,10100000
+Bor. M'gladbach,BSC Young Boys,Directed,80,,,2000000
+Bor. M'gladbach,Arsenal,Directed,81,,,45000000
+Twente FC,Bor. M'gladbach,Directed,82,,,12000000
+Twente FC,AZ Alkmaar,Directed,83,,,500000
+Twente FC,Sampdoria,Directed,84,,,1750000
+Twente FC,Ajax,Directed,85,,,11000000
+Twente FC,Southampton,Directed,86,,,14000000
+Twente FC,Fulham,Directed,87,,,12000000
+De Graafschap,Twente FC,Directed,88,,,900000
+Middlesbrough,Atalanta BC,Directed,89,,,16700000
+Middlesbrough,CD Leganés,Directed,90,,,5000000
+Atalanta BC,Middlesbrough,Directed,91,,,10500000
+Atalanta BC,Parma,Directed,92,,,8400000
+Atalanta BC,Rubin Kazan,Directed,93,,,6500000
+Atalanta BC,Leicester,Directed,94,,,20900000
+Atalanta BC,Nottm Forest,Directed,95,,,9000000
+Atalanta BC,Spurs,Directed,96,,,50000000
+Atalanta BC,Sevilla FC,Directed,97,,,5500000
+Juventus,Bayern Munich,Directed,98,,,88000000
+Juventus,Spurs,Directed,99,,,19000000
+Juventus,Man Utd,Directed,100,,,17000000
+Juventus,Man City,Directed,101,,,65000000
+Juventus,Real Madrid,Directed,102,,,30000000
+Juventus,Atalanta BC,Directed,103,,,17000000
+Bayern Munich,Southampton,Directed,104,,,15000000
+Bayern Munich,Bor. Dortmund,Directed,105,,,22000000
+Bayern Munich,Inter,Directed,106,,,15000000
+Bayern Munich,Barcelona,Directed,107,,,45000000
+Olympique Lyon,Crystal Palace,Directed,108,,,17500000
+Olympique Lyon,Southampton,Directed,109,,,10000000
+Olympique Lyon,Spurs,Directed,110,,,12600000
+Olympique Lyon,Real Madrid,Directed,111,,,35000000
+Olympique Lyon,Newcastle,Directed,112,,,42100000
+Olympique Lyon,West Ham,Directed,113,,,42950000
+Olympique Lyon,Torino,Directed,114,,,3500000
+Olympique Lyon,Chicago,Directed,115,,,7000000
+Olympique Lyon,KAA Gent,Directed,116,,,1000000
+Bournemouth,Man City,Directed,117,,,45300000
+Bournemouth,Sheff Utd,Directed,118,,,20500000
+Bournemouth,Newcastle,Directed,119,,,22250000
+Man City,Bor. M'gladbach,Directed,120,,,5000000
+Man City,Bayern Munich,Directed,121,,,49000000
+Man City,Barcelona,Directed,122,,,55000000
+Man City,Juventus,Directed,123,,,37000000
+Man City,Arsenal,Directed,124,,,52200000
+Man City,Chelsea,Directed,125,,,56200000
+Man City,Huddersfield,Directed,126,,,9100000
+Man City,Real Sociedad,Directed,127,,,7000000
+Man City,Benfica,Directed,128,,,15000000
+Chelsea,Bournemouth,Directed,129,,,22800000
+Chelsea,Atalanta BC,Directed,130,,,14500000
+Chelsea,Real Madrid,Directed,131,,,35000000
+Chelsea,AC Milan,Directed,132,,,2850000
+Chelsea,Atlético Madrid,Directed,133,,,35000000
+Chelsea,VfL Wolfsburg,Directed,134,,,22000000
+Chelsea,Fenerbahce,Directed,135,,,3500000
+Chelsea,Everton,Directed,136,,,35360000
+Chelsea,Bor. M'gladbach,Directed,137,,,8000000
+Feyenoord U17,Chelsea U18,Directed,138,,,800000
+Club Brugge,Hellas Verona,Directed,139,,,3650000
+Club Brugge,Bor. Dortmund,Directed,140,,,4000000
+Club Brugge,Espanyol,Directed,141,,,1150000
+Club Brugge,AC Milan,Directed,142,,,32000000
+Club Brugge,Lens,Directed,143,,,9800000
+Club Brugge,Paris SG,Directed,144,,,6000000
+Club Brugge,Valencia,Directed,145,,,7000000
+Club Brugge,Adelaide United,Directed,146,,,950000
+Club Brugge,Monaco,Directed,147,,,16700000
+Feyenoord,Lazio,Directed,148,,,7000000
+Feyenoord,Ajax,Directed,149,,,5500000
+Feyenoord,Man Utd,Directed,150,,,15000000
+Feyenoord,Club Brugge,Directed,151,,,2500000
+Lazio,Galatasaray,Directed,152,,,6750000
+Watford,Feyenoord,Directed,153,,,6500000
+Watford,Everton,Directed,154,,,39200000
+Watford,Villarreal,Directed,155,,,16400000
+AZ Alkmaar,Watford,Directed,156,,,6500000
+AZ Alkmaar,Atalanta BC,Directed,157,,,14000000
+AZ Alkmaar,Spurs,Directed,158,,,22000000
+AZ Alkmaar,VfL Wolfsburg,Directed,159,,,10500000
+AZ Alkmaar,Espanyol,Directed,160,,,2500000
+AZ Alkmaar,Toulouse,Directed,161,,,2000000
+AZ Alkmaar,Ajax,Directed,162,,,6000000
+AZ Alkmaar,Brighton,Directed,163,,,19000000
+Spurs,Ajax,Directed,164,,,31250000
+Spurs,Monterrey,Directed,165,,,9000000
+Spurs,Inter,Directed,166,,,27000000
+Spurs,Real Madrid,Directed,167,,,136000000
+Spurs,Celtic,Directed,168,,,7000000
+Spurs,Newcastle,Directed,169,,,5900000
+Spurs,Nottm Forest,Directed,170,,,2000000
+Spurs,Al-Duhail SC,Directed,171,,,13000000
+Spurs,Atlético Madrid,Directed,172,,,22000000
+Spurs,Man City,Directed,173,,,52700000
+Spurs,Besiktas,Directed,174,,,4500000
+Spurs,Villarreal,Directed,175,,,15000000
+Ajax Youth,PSV Eindhoven Y,Directed,176,,,120000
+Monterrey,Royal Antwerp,Directed,177,,,5500000
+Monterrey,CD Cruz Azul,Directed,178,,,2200000
+Monterrey,UNAM Pumas,Directed,179,,,3500000
+Monterrey,Vélez Sarsfield,Directed,180,,,850000
+Royal Antwerp,Hellas Verona,Directed,181,,,3700000
+Almere City,AZ Alkmaar,Directed,182,,,500000
+Southampton,Liverpool,Directed,183,,,109950000
+Southampton,Spurs,Directed,184,,,31300000
+Southampton,Ajax,Directed,185,,,13700000
+Southampton,Man Utd,Directed,186,,,37500000
+Liverpool,Monaco,Directed,187,,,15000000
+Liverpool,Barcelona,Directed,188,,,81720000
+Liverpool,Sunderland,Directed,189,,,2800000
+Liverpool,Zenit S-Pb,Directed,190,,,12000000
+Liverpool,Leicester,Directed,191,,,14000000
+Liverpool,Fulham,Directed,192,,,14000000
+Liverpool,Stoke City,Directed,193,,,15500000
+Liverpool,Nottm Forest,Directed,194,,,20000000
+Liverpool,FC Porto,Directed,195,,,9000000
+Liverpool,Club Brugge,Directed,196,,,7000000
+Liverpool,Man City,Directed,197,,,63700000
+Liverpool,Olympique Lyon,Directed,198,,,6000000
+FC Groningen,Celtic,Directed,199,,,2750000
+FC Groningen,PSV Eindhoven,Directed,200,,,7500000
+FC Groningen,Ajax,Directed,201,,,7500000
+FC Groningen,Twente FC,Directed,202,,,5500000
+FC Groningen,VfB Stuttgart,Directed,203,,,6000000
+FC Groningen,E. Frankfurt,Directed,204,,,1000000
+VfL Wolfsburg,Burnley,Directed,205,,,17500000
+VfL Wolfsburg,LOSC Lille,Directed,206,,,2500000
+VfL Wolfsburg,Inter,Directed,207,,,19000000
+VfL Wolfsburg,Man City,Directed,208,,,76000000
+VfL Wolfsburg,FC Lugano,Directed,209,,,750000
+VfL Wolfsburg,AC Milan,Directed,210,,,15000000
+Burnley,Spurs,Directed,211,,,4900000
+Burnley,Newcastle,Directed,212,,,11500000
+Heracles Almelo,AZ Alkmaar,Directed,213,,,1500000
+Heracles Almelo,Celta de Vigo,Directed,214,,,1400000
+Slavia Prague,Benfica,Directed,215,,,8000000
+Benfica,Évian,Directed,216,,,1200000
+Benfica,Wolves,Directed,217,,,38000000
+Benfica,Monterrey,Directed,218,,,3600000
+Benfica,Liverpool,Directed,219,,,80000000
+Benfica,E. Frankfurt,Directed,220,,,22340000
+Benfica,SC Freiburg,Directed,221,,,1500000
+Benfica,Monaco,Directed,222,,,15750000
+Benfica,Valencia,Directed,223,,,15000000
+Benfica,Atlético Madrid,Directed,224,,,127200000
+Benfica,Man City,Directed,225,,,111600000
+Benfica,Zenit S-Pb,Directed,226,,,40000000
+Benfica,Real Madrid,Directed,227,,,33000000
+SönderjyskE,Slavia Prague,Directed,228,,,1750000
+SönderjyskE,Antalyaspor,Directed,229,,,1880000
+HB Köge,SönderjyskE,Directed,230,,,530000
+Trabzonspor,FC Copenhagen,Directed,231,,,6000000
+FC Copenhagen,Atalanta BC,Directed,232,,,6000000
+FC Copenhagen,Cardiff,Directed,233,,,8700000
+FC Copenhagen,VfL Wolfsburg,Directed,234,,,12000000
+FC Copenhagen,TSG Hoffenheim,Directed,235,,,10000000
+FC Copenhagen,Werder Bremen,Directed,236,,,2000000
+FC Copenhagen,Galatasaray,Directed,237,,,7000000
+FC Copenhagen,Dynamo Moscow,Directed,238,,,1000000
+FC Copenhagen,Everton,Directed,239,,,4500000
+FC Copenhagen,Leicester,Directed,240,,,6600000
+Parma,Trabzonspor,Directed,241,,,5120000
+Parma,Bari,Directed,242,,,180000
+Cardiff,FC Copenhagen,Directed,243,,,3500000
+Cardiff,Arsenal,Directed,244,,,6400000
+Cardiff,Spurs,Directed,245,,,3200000
+Cardiff,Bournemouth,Directed,246,,,4200000
+Bologna,Club Brugge,Directed,247,,,7000000
+Bologna,Arsenal,Directed,248,,,18600000
+Bologna,Dinamo Zagreb,Directed,249,,,1000000
+Bologna,Rennes,Directed,250,,,19000000
+Nordsjaelland,Bologna,Directed,251,,,6000000
+Nordsjaelland,Austria Vienna,Directed,252,,,670000
+Nordsjaelland,Celta de Vigo,Directed,253,,,5000000
+Nordsjaelland,Sampdoria,Directed,254,,,6750000
+Nordsjaelland,FC Copenhagen,Directed,255,,,3600000
+Nordsjaelland,Rennes,Directed,256,,,15000000
+Nordsjaelland,Ajax,Directed,257,,,9000000
+Odense BK U19,Ajax U19,Directed,258,,,1500000
+Fiorentina,Brentford,Directed,259,,,3500000
+Fiorentina,Inter,Directed,260,,,24000000
+Fiorentina,Juventus,Directed,261,,,81600000
+Fiorentina,AS Roma,Directed,262,,,17500000
+Fiorentina,Flamengo,Directed,263,,,14000000
+Fiorentina,Real Sociedad,Directed,264,,,3000000
+Fiorentina,Real Betis,Directed,265,,,3500000
+Brentford,Bournemouth,Directed,266,,,13600000
+Bröndby IF,Fiorentina,Directed,267,,,3500000
+Bröndby IF,E. Frankfurt,Directed,268,,,9800000
+Hamburger SV,Bröndby IF,Directed,269,,,350000
+Hamburger SV,E. Frankfurt,Directed,270,,,6300000
+Hamburger SV,LOSC Lille,Directed,271,,,12600000
+Hamburger SV,B. Leverkusen,Directed,272,,,12500000
+Lyngby BK U19,Hamburger SV II,Directed,273,,,400000
+Atlético Madrid,Bröndby IF,Directed,274,,,1750000
+Atlético Madrid,Benfica,Directed,275,,,22000000
+Atlético Madrid,Barcelona,Directed,276,,,120000000
+Atlético Madrid,Bayern Munich,Directed,277,,,80000000
+Atlético Madrid,Real Madrid,Directed,278,,,24000000
+Atlético Madrid,Man City,Directed,279,,,62700000
+Atlético Madrid,Spurs,Directed,280,,,16000000
+Atlético Madrid,DL Yifang,Directed,281,,,30000000
+Atlético Madrid,Newcastle,Directed,282,,,14000000
+Atlético Madrid,Arsenal,Directed,283,,,50000000
+Valencia,Atlético Madrid,Directed,284,,,2700000
+Valencia,PSV Eindhoven,Directed,285,,,2800000
+Valencia,Trabzonspor,Directed,286,,,3000000
+Valencia,Getafe,Directed,287,,,10000000
+Valencia,Juventus,Directed,288,,,40400000
+Valencia,Paris SG,Directed,289,,,18000000
+Valencia,Man City,Directed,290,,,78000000
+Valencia,Barcelona,Directed,291,,,14000000
+Valencia,Brighton,Directed,292,,,6000000
+Valencia,Udinese Calcio,Directed,293,,,10000000
+Celta de Vigo,Valencia,Directed,294,,,20500000
+Celta de Vigo,Brentford,Directed,295,,,3800000
+Celta de Vigo,América,Directed,296,,,3000000
+Évian,Celta de Vigo,Directed,297,,,3000000
+E. Frankfurt,Union Berlin,Directed,298,,,1000000
+E. Frankfurt,Paris SG,Directed,299,,,9500000
+E. Frankfurt,Juventus,Directed,300,,,13000000
+E. Frankfurt,Real Madrid,Directed,301,,,63000000
+E. Frankfurt,RB Leipzig,Directed,302,,,23000000
+E. Frankfurt,Hellas Verona,Directed,303,,,500000
+AC Horsens,Bröndby IF,Directed,304,,,350000
+Austria Vienna,Udinese Calcio,Directed,305,,,500000
+Udinese Calcio,Sampdoria,Directed,306,,,6000000
+Udinese Calcio,FC Basel,Directed,307,,,4500000
+Udinese Calcio,Atlético Madrid,Directed,308,,,55000000
+Udinese Calcio,SSC Napoli,Directed,309,,,16000000
+Crystal Palace,Marseille,Directed,310,,,3000000
+Sampdoria,Olympique Lyon,Directed,311,,,24000000
+Sampdoria,Brentford,Directed,312,,,15000000
+Sampdoria,Arsenal,Directed,313,,,28650000
+Sampdoria,Crotone,Directed,314,,,1700000
+Sampdoria,Sporting CP,Directed,315,,,9700000
+Midtjylland U19,FC Twente U19,Directed,316,,,670000
+KRC Genk,Atalanta BC,Directed,317,,,20200000
+KRC Genk,Stade Reims,Directed,318,,,10000000
+KRC Genk,Troyes,Directed,319,,,3000000
+KRC Genk,Lazio,Directed,320,,,12000000
+KRC Genk,Chelsea,Directed,321,,,16950000
+KRC Genk,TSG Hoffenheim,Directed,322,,,1200000
+KRC Genk,Brighton,Directed,323,,,15560000
+KRC Genk,SSC Napoli,Directed,324,,,7750000
+KRC Genk,Celta de Vigo,Directed,325,,,8000000
+Aalborg BK,KRC Genk,Directed,326,,,1300000
+Aalborg BK,HN Jianye,Directed,327,,,6000000
+OGC Nice,Olympique Lyon,Directed,328,,,8500000
+OGC Nice,Leicester,Directed,329,,,15500000
+Silkeborg U19,Ajax U19,Directed,330,,,270000
+Leicester,OGC Nice,Directed,331,,,1000000
+Leicester,TSG Hoffenheim,Directed,332,,,11000000
+Leicester,Man Utd,Directed,333,,,87000000
+Leeds,Leicester,Directed,334,,,1680000
+Leeds,Barcelona,Directed,335,,,58000000
+Leeds,Man City,Directed,336,,,49000000
+CD Leganés,Barcelona,Directed,337,,,18000000
+CD Leganés,Sevilla FC,Directed,338,,,20000000
+Toulouse,Middlesbrough,Directed,339,,,11300000
+Esbjerg fB,Toulouse,Directed,340,,,2000000
+Odense BK,Hertha BSC,Directed,341,,,3000000
+RB Salzburg,Leeds,Directed,342,,,45840000
+RB Salzburg,Liverpool,Directed,343,,,8500000
+RB Salzburg,Bor. Dortmund,Directed,344,,,30000000
+RB Salzburg,RB Leipzig,Directed,345,,,30500000
+FC Midtjylland,Ajax,Directed,346,,,5500000
+FC Midtjylland,US Palermo,Directed,347,,,4000000
+TSG Hoffenheim,RB Leipzig,Directed,348,,,26000000
+TSG Hoffenheim,Bayern Munich,Directed,349,,,20000000
+TSG Hoffenheim,VfL Wolfsburg,Directed,350,,,1500000
+TSG Hoffenheim,Jeonbuk Hyundai,Directed,351,,,1400000
+TSG Hoffenheim,Dep. La Coruña,Directed,352,,,3000000
+TSG Hoffenheim,VfB Stuttgart,Directed,353,,,7200000
+Silkeborg IF,FC Copenhagen,Directed,354,,,1000000
+AC Milan,E. Frankfurt,Directed,355,,,3000000
+AC Milan,Olympique Lyon,Directed,356,,,23440000
+AC Milan,Paris SG,Directed,357,,,42000000
+AC Milan,Torino,Directed,358,,,1950000
+AC Milan,Hertha BSC,Directed,359,,,24000000
+Fenerbahce,Sevilla FC,Directed,360,,,12500000
+Fenerbahce,SSC Napoli,Directed,361,,,18050000
+LOSC Lille,Fenerbahce,Directed,362,,,7650000
+LOSC Lille,Southampton,Directed,363,,,18700000
+LOSC Lille,VfB Stuttgart,Directed,364,,,5000000
+LOSC Lille,AC Milan,Directed,365,,,29500000
+LOSC Lille,Everton,Directed,366,,,35000000
+LOSC Lille,Monaco,Directed,367,,,11000000
+LOSC Lille,Aston Villa,Directed,368,,,9000000
+LOSC Lille,Dijon,Directed,369,,,2000000
+US Palermo,VfL Wolfsburg,Directed,370,,,12500000
+US Palermo,SSC Napoli,Directed,371,,,12000000
+US Palermo,Juventus,Directed,372,,,41000000
+US Palermo,Torino,Directed,373,,,2350000
+Bor. Dortmund,Sevilla FC,Directed,374,,,6000000
+Bor. Dortmund,VfL Wolfsburg,Directed,375,,,8000000
+Bor. Dortmund,Chelsea,Directed,376,,,64000000
+Bor. Dortmund,Man City,Directed,377,,,44500000
+Bor. Dortmund,Bor. M'gladbach,Directed,378,,,25000000
+Bor. Dortmund,Bayern Munich,Directed,379,,,37000000
+Bor. Dortmund,Barcelona,Directed,380,,,140000000
+Bor. Dortmund,Paris SG,Directed,381,,,32000000
+Galatasaray,FC Porto,Directed,382,,,7350000
+Lyngby BK,RB Leipzig,Directed,383,,,1550000
+RB Leipzig,Leeds,Directed,384,,,17000000
+RB Leipzig,VfB Stuttgart,Directed,385,,,1500000
+RB Leipzig,Bayern Munich,Directed,386,,,42500000
+RB Leipzig,Liverpool,Directed,387,,,40000000
+RB Leipzig,Wolves,Directed,388,,,16700000
+RB Leipzig,RB Salzburg,Directed,389,,,900000
+Toluca,Chivas,Directed,390,,,5280000
+Chivas,Toluca,Directed,391,,,2500000
+Chivas,CD Cruz Azul,Directed,392,,,10560000
+Real Betis,Fiorentina,Directed,393,,,9750000
+Atlas,Dep. La Coruña,Directed,394,,,7000000
+Dep. La Coruña,Göztepe,Directed,395,,,1500000
+Dep. La Coruña,Newcastle,Directed,396,,,4000000
+CD Cruz Azul,Paços Ferreira,Directed,397,,,2500000
+América,Ajax,Directed,398,,,20000000
+América,Atlético Madrid,Directed,399,,,10500000
+América,Real Betis,Directed,400,,,4000000
+Santos Laguna,KRC Genk,Directed,401,,,3500000
+Santos Laguna,Celta de Vigo,Directed,402,,,7000000
+Standard Liège,América,Directed,403,,,1000000
+Standard Liège,Benfica,Directed,404,,,9000000
+Standard Liège,Marseille,Directed,405,,,6000000
+Standard Liège,Al-Tai,Directed,406,,,300000
+Mérida FC,Club Tijuana,Directed,407,,,990000
+Club Tijuana,América,Directed,408,,,6280000
+SSC Napoli,Paris SG,Directed,409,,,64500000
+SSC Napoli,Chelsea,Directed,410,,,38000000
+SSC Napoli,Marseille,Directed,411,,,8000000
+Pachuca,PSV Eindhoven,Directed,412,,,18500000
+Pachuca,FC Porto,Directed,413,,,11000000
+Pachuca,West Ham,Directed,414,,,15000000
+FC Porto,AC Milan,Directed,415,,,38000000
+FC Porto,Paris SG,Directed,416,,,57500000
+FC Porto,Man Utd,Directed,417,,,37000000
+FC Porto,Olympiacos,Directed,418,,,2500000
+FC Porto,Real Madrid,Directed,419,,,119000000
+FC Porto,Wolves,Directed,420,,,17900000
+FC Porto,Juventus,Directed,421,,,28000000
+FC Porto,Dinamo Moscow,Directed,422,,,3500000
+FC Porto,Valencia,Directed,423,,,12000000
+AS Roma,Real Sociedad,Directed,424,,,6000000
+AS Roma,Chelsea,Directed,425,,,35000000
+AS Roma,Red Star,Directed,426,,,3000000
+AS Roma,Marseille,Directed,427,,,11000000
+AS Roma,Liverpool,Directed,428,,,62500000
+AS Roma,Paris SG,Directed,429,,,31400000
+AS Roma,Zenit S-Pb,Directed,430,,,23000000
+AS Roma,Bologna,Directed,431,,,9000000
+Real Sociedad,Red Star,Directed,432,,,800000
+Real Sociedad,Atlético Madrid,Directed,433,,,30000000
+Real Sociedad,FC Copenhagen,Directed,434,,,500000
+Real Sociedad,E. Frankfurt,Directed,435,,,3200000
+Real Sociedad,Villarreal,Directed,436,,,5000000
+Espanyol,PSV Eindhoven,Directed,437,,,3500000
+UNAM Pumas,AZ Alkmaar,Directed,438,,,4000000
+UNAM Pumas,Monterrey,Directed,439,,,5150000
+UNAM Pumas,Genoa,Directed,440,,,3500000
+Genoa,Real Valladolid,Directed,441,,,250000
+Genoa,Juventus,Directed,442,,,31500000
+Genoa,AC Milan,Directed,443,,,35000000
+Cimarrones,Monterrey,Directed,444,,,1800000
+Querétaro FC,CD Cruz Azul,Directed,445,,,6200000
+Querétaro FC,Chivas,Directed,446,,,5500000
+Wolves,Crystal Palace,Directed,447,,,3650000
+Wolves,AS Roma,Directed,448,,,11800000
+Wolves,Aston Villa,Directed,449,,,15000000
+Necaxa,CD Cruz Azul,Directed,450,,,3500000
+River Plate,Benfica,Directed,451,,,14000000
+River Plate,B. Leverkusen,Directed,452,,,17000000
+River Plate,Real Betis,Directed,453,,,2250000
+River Plate,Sevilla FC,Directed,454,,,11000000
+River Plate,Club Tijuana,Directed,455,,,1750000
+River Plate,Man City,Directed,456,,,21400000
+Ascoli,Sampdoria,Directed,457,,,1000000
+1.FC Nuremberg,Huddersfield,Directed,458,,,1500000
+1.FC Nuremberg,Bor. Dortmund,Directed,459,,,5500000
+1.FC Nuremberg,Hannover 96,Directed,460,,,2200000
+Huddersfield,Wolves,Directed,461,,,2800000
+Huddersfield,Brighton,Directed,462,,,3300000
+Al-Rayyan SC,Al-Nassr FC,Directed,463,,,6000000
+Aalesund,GZ R&F,Directed,464,,,3600000
+OC Safi,Aalesund,Directed,465,,,1000000
+Wydad AC,Stade Brestois,Directed,466,,,2700000
+Wydad AC,Atl. Madrid B,Directed,467,,,360000
+Paris SG,LOSC Lille,Directed,468,,,10000000
+Paris SG,E. Frankfurt,Directed,469,,,7000000
+Paris SG,West Ham,Directed,470,,,21300000
+Paris SG,Everton,Directed,471,,,4000000
+Paris SG,G. Bordeaux,Directed,472,,,4000000
+Paris SG,Loko Moscow,Directed,473,,,12000000
+Real Madrid,Inter,Directed,474,,,43000000
+Real Madrid,Real Sociedad,Directed,475,,,6500000
+Real Madrid,Chelsea,Directed,476,,,111000000
+Real Madrid,Man Utd,Directed,477,,,185650000
+Real Madrid,AC Milan,Directed,478,,,22800000
+Real Madrid,Juventus,Directed,479,,,137000000
+Real Madrid,Atlético Madrid,Directed,480,,,30000000
+Real Madrid,Paris SG,Directed,481,,,15000000
+Real Madrid,FC Porto,Directed,482,,,15000000
+Real Madrid,Man City,Directed,483,,,30000000
+RSC Charleroi,Burnley,Directed,484,,,4000000
+Lommel SK,RSC Charleroi,Directed,485,,,150000
+El Ahly,Qatar SC,Directed,486,,,1700000
+Raja Casablanca,El Ahly,Directed,487,,,1690000
+Raja Casablanca,Genoa,Directed,488,,,650000
+Girona,Sevilla FC,Directed,489,,,4000000
+Atl. Madrid B,1.FSV Mainz 05,Directed,490,,,7500000
+Hércules CF,Barcelona B,Directed,491,,,2000000
+Real Valladolid,Southampton,Directed,492,,,12000000
+O. Khouribga,Raja Casablanca,Directed,493,,,323000
+Rennes,West Ham,Directed,494,,,35000000
+Rennes,Real Madrid,Directed,495,,,31000000
+Rennes,Bor. Dortmund,Directed,496,,,35000000
+Rennes,Leeds,Directed,497,,,18600000
+Rennes,Chelsea,Directed,498,,,24000000
+Rennes,Watford,Directed,499,,,30000000
+Rennes,Hull City,Directed,500,,,9000000
+West Ham,Crystal Palace,Directed,501,,,10700000
+West Ham,1.FSV Mainz 05,Directed,502,,,7500000
+West Ham,Tigres UANL,Directed,503,,,5500000
+West Ham,Swansea,Directed,504,,,22800000
+Dijon,Rennes,Directed,505,,,14000000
+Dijon,SC Freiburg,Directed,506,,,2000000
+Dijon,Ettifaq FC,Directed,507,,,5000000
+FUS Rabat,Dijon,Directed,508,,,1600000
+AM Football,FUS Rabat,Directed,509,,,15000
+AM Football,Málaga U19,Directed,510,,,125000
+Angers SCO,Wolves,Directed,511,,,4000000
+Angers SCO,LOSC Lille,Directed,512,,,3000000
+Angers SCO,Udinese Calcio,Directed,513,,,4000000
+Angers SCO,Villarreal,Directed,514,,,18000000
+Angers SCO,Bristol City,Directed,515,,,6000000
+Mouscron,Standard Liège,Directed,516,,,1500000
+Hellas Verona,Fiorentina,Directed,517,,,19500000
+Hellas Verona,Lazio,Directed,518,,,600000
+FC Utrecht,Feyenoord,Directed,519,,,4000000
+FC Utrecht,PSV Eindhoven,Directed,520,,,7000000
+Sangiustese,Parma,Directed,521,,,93000
+Dibba Fujairah,Wydad AC,Directed,522,,,184000
+Málaga CF,CD Leganés,Directed,523,,,6000000
+PSV U21,AZ Alkmaar,Directed,524,,,2000000
+Kawasaki Front.,F. Düsseldorf,Directed,525,,,1000000
+Kawasaki Front.,Brighton,Directed,526,,,3000000
+Kawasaki Front.,Man City,Directed,527,,,1100000
+Kashima Antlers,Cercle Brugge,Directed,528,,,1300000
+Sagan Tosu,E. Frankfurt,Directed,529,,,1600000
+Yokohama F. M.,Celtic,Directed,530,,,1530000
+Yokohama F. M.,Red Star,Directed,531,,,200000
+Lierse SK,Standard Liège,Directed,532,,,600000
+Santa Clara,Sporting CP,Directed,533,,,3800000
+Sporting CP,Man Utd,Directed,534,,,82000000
+Sporting CP,Inter,Directed,535,,,44780000
+Sporting CP,Fulham,Directed,536,,,20000000
+Sporting CP,Wolves,Directed,537,,,63000000
+Sporting CP,Paris SG,Directed,538,,,38000000
+Sporting CP,Real Betis,Directed,539,,,16000000
+Sporting CP,Rennes,Directed,540,,,21000000
+Sporting CP,Spurs,Directed,541,,,5000000
+Sporting CP,Real Valladolid,Directed,542,,,3000000
+Sporting CP,Sevilla FC,Directed,543,,,11250000
+Júbilo Iwata,VfB Stuttgart,Directed,544,,,400000
+VfB Stuttgart,AS Roma,Directed,545,,,9000000
+VfB Stuttgart,Bayern Munich,Directed,546,,,43500000
+VfB Stuttgart,Hamburger SV,Directed,547,,,14000000
+VfB Stuttgart,Bor. Dortmund,Directed,548,,,15000000
+VfB Stuttgart,Dallas,Directed,549,,,1500000
+Marseille,Urawa Reds,Directed,550,,,1500000
+Marseille,Chelsea,Directed,551,,,47800000
+Marseille,Fulham,Directed,552,,,24850000
+Marseille,Spurs,Directed,553,,,11000000
+Marseille,FC Lorient,Directed,554,,,4000000
+Kashiwa Reysol,Hannover 96,Directed,555,,,1200000
+Kashiwa Reysol,Al-Shabab,Directed,556,,,936000
+Hannover 96,Werder Bremen,Directed,557,,,6500000
+Stade Reims,RCD Mallorca,Directed,558,,,2000000
+Stade Reims,Monaco,Directed,559,,,13000000
+Stade Reims,Leicester,Directed,560,,,17000000
+Stade Reims,Villarreal,Directed,561,,,12000000
+Stade Reims,Rennes,Directed,562,,,7600000
+Stade Reims,Sevilla FC,Directed,563,,,5500000
+Brighton,Arsenal,Directed,564,,,58500000
+Brighton,SH Port,Directed,565,,,4500000
+Brighton,Feyenoord,Directed,566,,,1000000
+VVV-Venlo,Southampton,Directed,567,,,2800000
+SC Freiburg,Bor. Dortmund,Directed,568,,,30000000
+SC Freiburg,KAA Gent,Directed,569,,,1500000
+SC Freiburg,Olympiacos,Directed,570,,,1000000
+Gamba Osaka,FC Groningen,Directed,571,,,1700000
+Gamba Osaka,G. Bordeaux,Directed,572,,,2000000
+Portimonense,Shimizu S-Pulse,Directed,573,,,2000000
+Arsenal,Partizan,Directed,574,,,1000000
+Arsenal,Galatasaray,Directed,575,,,6000000
+Arsenal,Juventus,Directed,576,,,18000000
+Arsenal,Werder Bremen,Directed,577,,,5000000
+Arsenal,Marseille,Directed,578,,,11000000
+Arsenal,Chelsea,Directed,579,,,17000000
+Arsenal,Frosinone,Directed,580,,,1500000
+Arsenal,Aston Villa,Directed,581,,,17400000
+Arsenal,Derby,Directed,582,,,8200000
+Sint-Truiden,Bologna,Directed,583,,,7000000
+Sint-Truiden,VfB Stuttgart,Directed,584,,,1700000
+Sint-Truiden,Sunderland,Directed,585,,,2500000
+Sint-Truiden,RSC Anderlecht,Directed,586,,,1500000
+Avispa Fukuoka,Sint-Truiden,Directed,587,,,800000
+Partizan,RSC Anderlecht,Directed,588,,,5000000
+Partizan,Fiorentina,Directed,589,,,8700000
+Partizan,Torino,Directed,590,,,1700000
+Partizan,Monaco,Directed,591,,,10000000
+Sanf. Hiroshima,Arsenal,Directed,592,,,4000000
+Monaco,RB Salzburg,Directed,593,,,7000000
+Monaco,Real Madrid,Directed,594,,,80000000
+Monaco,Paris SG,Directed,595,,,180000000
+Monaco,Man City,Directed,596,,,50000000
+Monaco,Liverpool,Directed,597,,,45000000
+Monaco,Atlético Madrid,Directed,598,,,15000000
+Monaco,Leicester,Directed,599,,,45000000
+Monaco,Marseille,Directed,600,,,3500000
+Monaco,1.FSV Mainz 05,Directed,601,,,5000000
+Monaco,AC Milan,Directed,602,,,5400000
+Monaco,Benevento,Directed,603,,,3000000
+Cerezo Osaka,RB Salzburg,Directed,604,,,800000
+Cesena,Inter,Directed,605,,,4500000
+FC Tokyo,Cesena,Directed,606,,,1600000
+Peñarol,Athletico-PR,Directed,607,,,2850000
+Peñarol,UD Almería,Directed,608,,,15250000
+Peñarol,Man Utd,Directed,609,,,8500000
+Peñarol,Orlando,Directed,610,,,6820000
+Peñarol,RM Castilla,Directed,611,,,5000000
+Peñarol,FC Copenhagen,Directed,612,,,1750000
+Peñarol,Man Utd U21,Directed,613,,,2400000
+Peñarol,Puebla FC,Directed,614,,,1290000
+Athletico-PR,Olympique Lyon,Directed,615,,,20000000
+UD Almería,Benfica,Directed,616,,,34000000
+Villarreal,Atlético Madrid,Directed,617,,,28000000
+Villarreal,Barcelona,Directed,618,,,16500000
+Villarreal,Al-Sadd SC,Directed,619,,,1000000
+Villarreal,Olympique Lyon,Directed,620,,,11500000
+Villarreal,Brighton,Directed,621,,,17800000
+Nacional,Villarreal,Directed,622,,,800000
+Nacional,FC Groningen,Directed,623,,,800000
+Nacional,Getafe,Directed,624,,,850000
+Nacional,Fiorentina,Directed,625,,,2300000
+Nacional,Palmeiras,Directed,626,,,6250000
+Nacional,Liverpool,Directed,627,,,8000000
+Defensor U19,CA Cerro,Directed,628,,,500
+Danubio FC,US Palermo,Directed,629,,,5000000
+Danubio FC,Atlético Madrid,Directed,630,,,995000
+Orlando,Besiktas,Directed,631,,,1850000
+Orlando,LAFC,Directed,632,,,273000
+RM Castilla,B. Leverkusen,Directed,633,,,5000000
+RM Castilla,Getafe,Directed,634,,,3000000
+Wanderers,Lazio,Directed,635,,,3000000
+Cruzeiro,Flamengo,Directed,636,,,15000000
+Cruzeiro,Al-Ahli (UAE),Directed,637,,,15000000
+Flamengo,AC Milan,Directed,638,,,38400000
+Flamengo,Real Madrid,Directed,639,,,45000000
+Defensor,Cruzeiro,Directed,640,,,4000000
+Defensor,Villarreal,Directed,641,,,900000
+Defensor,Celta de Vigo,Directed,642,,,4300000
+Man Utd U21,Dundee United,Directed,643,,,355000
+Pescara,Sampdoria,Directed,644,,,3000000
+Wanderers U19,Pescara U19,Directed,645,,,375000
+Famalicão,Sporting CP,Directed,646,,,6500000
+CA Fénix,Famalicão,Directed,647,,,4100000
+Getafe,SSC Napoli,Directed,648,,,11000000
+Getafe,Sevilla FC,Directed,649,,,1000000
+Palmeiras,AS Roma,Directed,650,,,13000000
+Palmeiras,Man City,Directed,651,,,32000000
+Liverpool FC,River Plate,Directed,652,,,2600000
+Boca Juniors,Juventus,Directed,653,,,21700000
+Boca Juniors,Vélez Sarsfield,Directed,654,,,1400000
+Boca Juniors,AS Roma,Directed,655,,,6000000
+Boston River,Barcelona B,Directed,656,,,4700000
+Rentistas,Boston River,Directed,657,,,395000
+Sunderland,Sporting CP,Directed,658,,,4720000
+Sunderland,Liverpool,Directed,659,,,28600000
+Sunderland,Everton,Directed,660,,,28500000
+Sunderland,Saint-Étienne,Directed,661,,,7000000
+Vélez Sarsfield,FC Porto,Directed,662,,,4000000
+Vélez Sarsfield,Atlanta,Directed,663,,,14550000
+HNK Rijeka,Leicester,Directed,664,,,9000000
+HNK Rijeka,Jeonnam Dragons,Directed,665,,,750000
+Dinamo Zagreb,HNK Rijeka,Directed,666,,,1200000
+Dinamo Zagreb,VfB Stuttgart,Directed,667,,,6000000
+Dinamo Zagreb,Olympique Lyon,Directed,668,,,9000000
+Dinamo Zagreb,Dynamo Kyiv,Directed,669,,,5000000
+Dinamo Zagreb,RB Leipzig,Directed,670,,,47800000
+Dinamo Zagreb,E. Frankfurt,Directed,671,,,3500000
+Dinamo Zagreb,Rennes,Directed,672,,,12000000
+Dinamo Zagreb,Spurs,Directed,673,,,22500000
+Dinamo Zagreb,Inter,Directed,674,,,16000000
+Dinamo Zagreb,Brescia,Directed,675,,,1000000
+RCD Mallorca,CA Osasuna,Directed,676,,,8000000
+RCD Mallorca,Real Madrid,Directed,677,,,3900000
+CA Osasuna,Marseille,Directed,678,,,6000000
+Crotone,RCD Mallorca,Directed,679,,,2200000
+Crotone,Sampdoria,Directed,680,,,1800000
+FC St. Pauli,Crotone,Directed,681,,,1000000
+FC St. Pauli,SC Freiburg,Directed,682,,,4500000
+NK Lokomotiva,FC St. Pauli,Directed,683,,,1000000
+NK Lokomotiva,Atlético Madrid,Directed,684,,,3500000
+NK Lokomotiva,Dinamo Zagreb,Directed,685,,,6100000
+HNK Gorica,Inter Zapresic,Directed,686,,,20000
+NK Osijek,Rangers,Directed,687,,,2450000
+NK Osijek,B. Leverkusen,Directed,688,,,2400000
+Trapani,Bologna,Directed,689,,,1300000
+Catania,Trapani,Directed,690,,,600000
+Catania,Metalist,Directed,691,,,7000000
+Zenit S-Pb,TJ Quanjian,Directed,692,,,20000000
+Zenit S-Pb,B. Leverkusen,Directed,693,,,2500000
+Zenit S-Pb,Paris SG,Directed,694,,,40000000
+NK Zagreb,Dinamo Zagreb,Directed,695,,,625000
+FC Sochaux,Club Brugge,Directed,696,,,200000
+FC Sochaux,Guingamp,Directed,697,,,600000
+FC Sochaux,Angers SCO,Directed,698,,,1000000
+FC Sochaux,Clermont Foot,Directed,699,,,380000
+FC Sochaux,FC St. Gallen,Directed,700,,,90000
+Hajduk U17,FC Sochaux B,Directed,701,,,360000
+HNK Rijeka Jgd,Inter Youth,Directed,702,,,30000
+Legia Warszawa,Celtic,Directed,703,,,3000000
+Legia Warszawa,Krasnodar,Directed,704,,,2200000
+Legia Warszawa,Sampdoria,Directed,705,,,1800000
+Legia Warszawa,Jagiellonia,Directed,706,,,110000
+Legia Warszawa,Arsenal,Directed,707,,,2250000
+Legia Warszawa,Clermont Foot,Directed,708,,,1300000
+Legia Warszawa,Dinamo Moscow,Directed,709,,,5500000
+Hajduk Split,Legia Warszawa,Directed,710,,,400000
+Hajduk Split,Chelsea,Directed,711,,,2500000
+Hajduk Split,Inter,Directed,712,,,185000
+Hajduk Split,Everton,Directed,713,,,10800000
+RNK Split,NK Lokomotiva,Directed,714,,,135000
+Hrv Dragovoljac,NK Lokomotiva,Directed,715,,,300000
+UD Las Palmas,AEK Athens,Directed,716,,,1800000
+UD Las Palmas,Barcelona,Directed,717,,,17500000
+Rubin Kazan,Zenit S-Pb,Directed,718,,,12000000
+Rubin Kazan,Rostov,Directed,719,,,2300000
+Rubin Kazan,FC Lorient,Directed,720,,,1500000
+Spezia Calcio,Sassuolo,Directed,721,,,3500000
+Sassuolo,Spezia Calcio,Directed,722,,,1000
+Ulsan Hyundai,Dinamo Zagreb,Directed,723,,,1000000
+Ulsan Hyundai,Daegu FC,Directed,724,,,446000
+Ulsan Hyundai,Vissel Kobe,Directed,725,,,1250000
+CC Yatai,Ulsan Hyundai,Directed,726,,,935000
+Jeonnam Dragons,CC Yatai,Directed,727,,,1300000
+Kustosija U17,I. Zapresic U17,Directed,728,,,12000
+CSKA Moscow,West Ham,Directed,729,,,30000000
+Wigan,Fulham,Directed,730,,,2100000
+Wigan,Cardiff,Directed,731,,,2200000
+Fulham,Sporting CP,Directed,732,,,1320000
+Fulham,SSC Napoli,Directed,733,,,15000000
+Fulham,Club Brugge,Directed,734,,,700000
+Everton U23,Wigan,Directed,735,,,2200000
+Philadelphia,RB Salzburg,Directed,736,,,12700000
+Newcastle,Fulham,Directed,737,,,24700000
+Seattle,Spurs,Directed,738,,,2600000
+Molde,Club Brugge,Directed,739,,,1000000
+New York City,Bor. M'gladbach,Directed,740,,,1800000
+New York City,Cincinnati,Directed,741,,,545000
+Norwich,Leicester,Directed,742,,,25000000
+Colorado,LAFC,Directed,743,,,1360000
+Colorado,Toronto,Directed,744,,,955000
+LAFC,Nashville,Directed,745,,,1140000
+LAFC,Colorado,Directed,746,,,909000
+New England,Arsenal,Directed,747,,,6360000
+New England,Club Brugge,Directed,748,,,6360000
+CD Tenerife,Nashville,Directed,749,,,1820000
+Nashville,Montréal,Directed,750,,,909000
+Bolton,Fulham,Directed,751,,,1700000
+New York RB,Bolton,Directed,752,,,3100000
+New York RB,RB Leipzig,Directed,753,,,2630000
+FC Schalke 04,Juventus,Directed,754,,,20500000
+FC Schalke 04,Bayern Munich,Directed,755,,,30000000
+FC Schalke 04,Man City,Directed,756,,,52000000
+FC Schalke 04,Paris SG,Directed,757,,,37000000
+FC Schalke 04,Bor. M'gladbach,Directed,758,,,11000000
+Stoke City,Sheff Utd,Directed,759,,,300000
+Stoke City,Liverpool,Directed,760,,,14700000
+Sheff Utd,Arsenal,Directed,761,,,28000000
+Sheff Utd,Bournemouth,Directed,762,,,940000
+Sheff Utd,Hull City,Directed,763,,,3150000
+Sheff Utd,Spurs,Directed,764,,,5900000
+Swansea,Spurs,Directed,765,,,24750000
+Swansea,Burnley,Directed,766,,,2900000
+Swansea,Man Utd,Directed,767,,,17800000
+Swansea,Liverpool,Directed,768,,,19000000
+Swansea,West Ham,Directed,769,,,24100000
+Swansea,Crystal Palace,Directed,770,,,2800000
+Nottm Forest,Reading,Directed,771,,,3000000
+Nottm Forest,Aston Villa,Directed,772,,,15750000
+Wrexham,Liverpool,Directed,773,,,125000
+Dundee United,Stoke City,Directed,774,,,230000
+Exeter City,Chelsea,Directed,775,,,2800000
+Barnsley FC,Wigan,Directed,776,,,2700000
+Barnsley FC,Everton,Directed,777,,,3500000
+Ipswich,Barnsley FC,Directed,778,,,850000
+Forest Green,Ipswich,Directed,779,,,12000
+El-Jaish,Lekhwiya,Directed,780,,,4580000
+VfL Bochum,Southampton,Directed,781,,,11000000
+VfL Bochum,FC Schalke 04,Directed,782,,,3250000
+VfL Bochum,RB Leipzig,Directed,783,,,1000000
+VfL Bochum U19,1.FC Nuremberg,Directed,784,,,850000
+Chelsea Youth,FC Bayern U17,Directed,785,,,200000
+Stuttgart U19,RB Leipzig,Directed,786,,,500000
+Wolfsburg U19,B. Leverkusen,Directed,787,,,500000
+U'haching U19,RB Salzburg,Directed,788,,,10100000
+1.FC K'lautern,E. Frankfurt,Directed,789,,,1500000
+Karlsruhe U19,SC Freiburg U19,Directed,790,,,90000
+Stuttgart U17,Arsenal U18,Directed,791,,,100000
+Montréal,Celtic,Directed,792,,,3500000
+Montréal,Watford,Directed,793,,,8000000
+Vancouver,Bayern Munich,Directed,794,,,10000000
+Vancouver,Vålerenga,Directed,795,,,250000
+Vancouver,Cincinnati,Directed,796,,,682000
+Vancouver,Rubin Kazan,Directed,797,,,2500000
+Helsingborg,FC Copenhagen,Directed,798,,,1500000
+Östers IF,Helsingborg,Directed,799,,,1500000
+Troyes,Brentford,Directed,800,,,6500000
+Chelsea U23,KRC Genk,Directed,801,,,3500000
+Chelsea U23,Brighton,Directed,802,,,1200000
+Cavalry FC,Montreal,Directed,803,,,91000
+KAA Gent,LOSC Lille,Directed,804,,,27000000
+KAA Gent,R. Strasbourg,Directed,805,,,3000000
+KAA Gent,Twente FC,Directed,806,,,5500000
+KAA Gent,Red Star,Directed,807,,,3000000
+KAA Gent,FC Metz,Directed,808,,,4000000
+Blackburn,QPR,Directed,809,,,3750000
+Blackburn,Brentford,Directed,810,,,3350000
+Austin,Montréal,Directed,811,,,205000
+Liverpool U23,FC Basel,Directed,812,,,1500000
+Liverpool U23,FC Copenhagen,Directed,813,,,3500000
+FC Basel,FC Schalke 04,Directed,814,,,26500000
+FC Basel,Valencia,Directed,815,,,800000
+FC Basel,1.FSV Mainz 05,Directed,816,,,6100000
+FC Basel,TSG Hoffenheim,Directed,817,,,4000000
+FC Basel,Bor. M'gladbach,Directed,818,,,17500000
+FC Basel,Montpellier,Directed,819,,,6000000
+FC Basel,Bor. Dortmund,Directed,820,,,21500000
+FC Basel,RB Salzburg,Directed,821,,,11200000
+FC Basel,VfL Wolfsburg,Directed,822,,,1750000
+FC Basel,Bayern Munich,Directed,823,,,11800000
+Puebla FC,Vancouver,Directed,824,,,4550000
+Toronto,Nottm Forest,Directed,825,,,909000
+Louisville City,LAFC,Directed,826,,,32000
+Vålerenga,Hatayspor,Directed,827,,,400000
+CD Izarra,Montreal,Directed,828,,,88000
+Paços Ferreira,FC Porto,Directed,829,,,3500000
+Chaves,CD Cruz Azul,Directed,830,,,3500000
+Leixões,Chaves,Directed,831,,,500000
+RSC Anderlecht,Newcastle,Directed,832,,,18500000
+RSC Anderlecht,Rennes,Directed,833,,,26000000
+RSC Anderlecht,Wolves,Directed,834,,,13800000
+RSC Anderlecht,Chelsea,Directed,835,,,15000000
+RSC Anderlecht,KV Oostende,Directed,836,,,300000
+RSC Anderlecht,Monaco,Directed,837,,,25000000
+RSC Anderlecht,West Ham,Directed,838,,,7500000
+Borac Cacak,Red Star,Directed,839,,,826000
+Red Star,Apol. Limassol,Directed,840,,,2000000
+Red Star,Liverpool,Directed,841,,,7000000
+Red Star,Marseille,Directed,842,,,12000000
+Red Star,M. Tel Aviv,Directed,843,,,3000000
+Red Star,UD Almería,Directed,844,,,1100000
+Red Star,Valencia,Directed,845,,,2200000
+Red Star,Al-Hilal SFC,Directed,846,,,3600000
+Vojvodina,FC Groningen,Directed,847,,,1100000
+Vojvodina,KRC Genk,Directed,848,,,1000000
+Vojvodina,Real Sociedad B,Directed,849,,,1000000
+Vojvodina,Man Utd,Directed,850,,,1750000
+Radnicki 1923,FC Groningen,Directed,851,,,1250000
+1. FC Köln,Standard Liège,Directed,852,,,1200000
+1. FC Köln,Monaco,Directed,853,,,6500000
+BATE Borisov,1. FC Köln,Directed,854,,,1500000
+Red Star U17,Man City U18,Directed,855,,,2500000
+Apol. Limassol,Benfica,Directed,856,,,6600000
+Alcorcón,SD Eibar,Directed,857,,,1000000
+Tottenham U21,Werder Bremen,Directed,858,,,330000
+TJ Teda,GZ Evergrande,Directed,859,,,4300000
+NAC Breda,AZ Alkmaar,Directed,860,,,3000000
+NK Domzale,FC Astana,Directed,861,,,2000000
+Empoli U19,AS Roma,Directed,862,,,4000000
+M. Tel Aviv,Stade Reims,Directed,863,,,5000000
+Jagodina,Red Star,Directed,864,,,140000
+Torino,Juventus,Directed,865,,,41000000
+Torino,SPAL,Directed,866,,,1500000
+Torino,Monaco,Directed,867,,,11000000
+R. Strasbourg,Getafe,Directed,868,,,1000000
+R. Strasbourg,Monaco,Directed,869,,,15000000
+KV Kortrijk,Benfica,Directed,870,,,1100000
+OFK Beograd U19,Red Star U19,Directed,871,,,90000
+Lechia Gdansk,Torino,Directed,872,,,2600000
+Lechia Gdansk,Jagiellonia,Directed,873,,,75000
+G. Bordeaux,Monaco,Directed,874,,,18000000
+G. Bordeaux,Sevilla FC,Directed,875,,,35000000
+G. Bordeaux,Nottm Forest,Directed,876,,,4000000
+G. Bordeaux,Stade Reims,Directed,877,,,800000
+G. Bordeaux,Sunderland,Directed,878,,,11800000
+VAFC U19,RB Salzburg,Directed,879,,,2200000
+Aston Villa,Fiorentina,Directed,880,,,7000000
+Aston Villa,Man City,Directed,881,,,117500000
+Aston Villa,Everton,Directed,882,,,8500000
+Aston Villa,Swansea,Directed,883,,,5800000
+FC Nantes,Aston Villa,Directed,884,,,10000000
+FC Nantes,Marseille,Directed,885,,,1500000
+CF Rayo Majadaho,Atléti Youth,Directed,886,,,1500000
+Guingamp,Bor. M'gladbach,Directed,887,,,9000000
+FC Lorient,Arsenal,Directed,888,,,8000000
+FC Lorient,Bor. Dortmund,Directed,889,,,12000000
+FC Lorient,FC Porto,Directed,890,,,12300000
+FC Lorient,Aston Villa,Directed,891,,,12000000
+Montpellier,Arsenal,Directed,892,,,12000000
+Montpellier,1. FC Köln,Directed,893,,,6000000
+Tours FC,Montpellier,Directed,894,,,2000000
+Grenoble,Tours FC,Directed,895,,,150000
+Lens,Real Madrid,Directed,896,,,11000000
+Lens,Chelsea,Directed,897,,,500000
+Lens,Rennes,Directed,898,,,9000000
+AC Le Havre,Marseille,Directed,899,,,2500000
+Saint-Étienne,Arsenal,Directed,900,,,30000000
+Novara,Udinese Calcio,Directed,901,,,2500000
+Boavista Y19,Novara,Directed,902,,,40000
+Marítimo,FC Porto,Directed,903,,,7700000
+Olympiacos,Wolves,Directed,904,,,8000000
+Olympiacos,Al-Ain FC,Directed,905,,,1500000
+Sacavenense U19,Sporting U19,Directed,906,,,37000
+Estoril Praia,Sporting CP U23,Directed,907,,,950000
+Internacional,FC Porto,Directed,908,,,2500000
+Internacional,AS Roma,Directed,909,,,8000000
+Internacional,Shakhtar D.,Directed,910,,,15000000
+SM Caen,FC Lorient,Directed,911,,,2500000
+SM Caen,R. Strasbourg,Directed,912,,,4500000
+Vitória Setúbal,Málaga CF,Directed,913,,,500000
+Athletic,Man City,Directed,914,,,65000000
+Barça U16,Man City U18,Directed,915,,,1700000
+Cornellà U19,Valencia B,Directed,916,,,6000
+LD Alajuelense,Nottm Forest,Directed,917,,,950000
+LD Alajuelense,KAA Gent,Directed,918,,,500000
+LD Alajuelense,Montreal,Directed,919,,,290000
+LD Alajuelense,New York City,Directed,920,,,475000
+Saprissa,FC Copenhagen,Directed,921,,,400000
+Saprissa,Fredrikstad,Directed,922,,,125000
+Saprissa,Arsenal,Directed,923,,,1000000
+Saprissa,Club Brugge,Directed,924,,,150000
+San Jose,Konyaspor,Directed,925,,,495000
+Minnesota,Chicago,Directed,926,,,358000
+Chicago,Lens,Directed,927,,,2300000
+Herediano,Sunderland,Directed,928,,,1300000
+Frosinone,León,Directed,929,,,2000000
+Levante,Real Madrid,Directed,930,,,10000000
+Albacete,Levante,Directed,931,,,150000
+Thonon Évian,Lausanne-Sport,Directed,932,,,500000
+Maldonado,FC Porto,Directed,933,,,9600000
+Maldonado,Man City,Directed,934,,,4700000
+Atlético-PR,Maldonado,Directed,935,,,2200000
+Atlético-PR,Palmeiras,Directed,936,,,500000
+Grêmio,Galatasaray,Directed,937,,,6150000
+São Paulo,Ajax,Directed,938,,,15750000
+São Paulo,Real Madrid,Directed,939,,,6000000
+São Paulo,FC Porto,Directed,940,,,7000000
+Atlético-MG,Torino,Directed,941,,,5800000
+Desportivo U20,Atlético-MG U20,Directed,942,,,86000
+EC Bahia,Sevilla FC,Directed,943,,,550000
+Santos FC,FC Porto,Directed,944,,,13000000
+Santos FC,Barcelona,Directed,945,,,88000000
+Santos FC,Real Madrid,Directed,946,,,45000000
+Santos FC,Boavista,Directed,947,,,500000
+América-MG,Santos FC,Directed,948,,,900000
+América-MG,Fluminense,Directed,949,,,2380000
+Rio Ave FC,Benfica,Directed,950,,,500000
+Rio Ave FC,Monaco,Directed,951,,,6000000
+Rio Ave FC,FC Porto,Directed,952,,,4730000
+Fluminense U20,Rio Ave FC,Directed,953,,,500000
+Shakhtar D.,Man Utd,Directed,954,,,59000000
+Ituano,Arsenal,Directed,955,,,7100000
+Corinthians,AS Roma,Directed,956,,,5700000
+Corinthians,Coritiba FC,Directed,957,,,665000
+Fluminense,Fiorentina,Directed,958,,,11000000
+Fluminense,Watford,Directed,959,,,12400000
+Fluminense,AC Milan,Directed,960,,,10000000
+Vit. Guimarães,Sporting CP,Directed,961,,,6500000
+Avaí FC U20,Guimarães B,Directed,962,,,600000
+Dinamo Moscow,Fluminense,Directed,963,,,2000000
+Juventude,FC Porto,Directed,964,,,2500000
+Al-Ahli (UAE),Flamengo,Directed,965,,,6000000
+Al-Ahli (UAE),TJ Quanjian,Directed,966,,,10500000
+Coritiba FC,Cruzeiro,Directed,967,,,1500000
+KV Oostende,Bologna,Directed,968,,,6000000
+TJ Tianhai,Bor. Dortmund,Directed,969,,,20000000
+AGOVV,FC Utrecht,Directed,970,,,600000
+KAA Gent U21,AGOVV,Directed,971,,,46000
+KSC Lokeren,Club Brugge,Directed,972,,,4250000
+KSC Lokeren,Fulham,Directed,973,,,1000000
+Lommel United,KSC Lokeren,Directed,974,,,175000
+RE Virton,Club Brugge,Directed,975,,,200000
+Al-Duhail SC,Royal Antwerp,Directed,976,,,4000000
+Al-Duhail SC,Persepolis,Directed,977,,,250000
+DL Pro,Atlético Madrid,Directed,978,,,27000000
+KRC Genk U17,Monaco U19,Directed,979,,,450000
+Suwon Bluewings,Dijon,Directed,980,,,1500000
+Suwon Bluewings,Ulsan Hyundai,Directed,981,,,488000
+FC Anyang,Jeonbuk Hyundai,Directed,982,,,585000
+Jeonbuk Hyundai,Holstein Kiel,Directed,983,,,900000
+Jeonbuk Hyundai,Al-Nassr FC,Directed,984,,,731000
+Jeonbuk Hyundai,SD Taishan,Directed,985,,,4500000
+Jeonbuk Hyundai,Al-Ahli (UAE),Directed,986,,,2210000
+Jeonbuk Hyundai,BJ Guoan,Directed,987,,,5250000
+Daejeon Citizen,Vancouver,Directed,988,,,1560000
+Albirex Niigata,TSG Hoffenheim,Directed,989,,,1000000
+Pohang Steelers,Jeonbuk Hyundai,Directed,990,,,1470000
+Seongnam FC,Gamba Osaka,Directed,991,,,1530000
+BJ Guoan,Fenerbahce,Directed,992,,,3000000
+Busan IPark,LAFC,Directed,993,,,545000
+Gwangju FC,FC Tokyo,Directed,994,,,1170000
+Al-Shabab,Al-Hilal SFC,Directed,995,,,1300000
+Vissel Kobe,CQ Lifan,Directed,996,,,1150000
+Darmstadt 98,Jeonbuk Hyundai,Directed,997,,,750000
+Darmstadt 98,Melbourne City,Directed,998,,,150000
+FC Bayern II,SC Freiburg,Directed,999,,,2000000
+Incheon Utd.,FC Bayern U19,Directed,1000,,,700000
+Omiya Ardija,GZ Evergrande,Directed,1001,,,2000000
+Suwon FC,Daejeon Hana C.,Directed,1002,,,600000
+Coventry,Bournemouth,Directed,1003,,,3700000
+Coventry,Norwich,Directed,1004,,,2650000
+Liverpool U21,Huddersfield,Directed,1005,,,470000
+Hull City,Leicester,Directed,1006,,,13700000
+Hull City,West Brom,Directed,1007,,,950000
+Birmingham,Bor. Dortmund,Directed,1008,,,25000000
+Charlton,Burnley,Directed,1009,,,1300000
+QPR U18,Liverpool U18,Directed,1010,,,700000
+Barça U19,Ajax,Directed,1011,,,150000
+FC Dinamo,Standard Liège,Directed,1012,,,150000
+OFI Crete FC,Abha,Directed,1013,,,700000
+Le Mans FC,Angers SCO,Directed,1014,,,500000
+AJ Auxerre,Club Brugge,Directed,1015,,,800000
+Servette FC,BSC Young Boys,Directed,1016,,,1300000
+BSC Young Boys,Dynamo Moscow,Directed,1017,,,2000000
+BSC Young Boys,Bor. M'gladbach,Directed,1018,,,12000000
+BSC Young Boys,E. Frankfurt,Directed,1019,,,10000000
+BSC Young Boys,Bologna,Directed,1020,,,4000000
+BSC Young Boys,FC Basel,Directed,1021,,,1200000
+Apejes FC,Colombe Sport,Directed,1022,,,400000
+Paris FC,FC Sochaux,Directed,1023,,,400000
+Paris FC,Pafos FC,Directed,1024,,,1500000
+Recre Granada,Royal Antwerp,Directed,1025,,,1600000
+Nkufo Academy,Granada B,Directed,1026,,,375000
+SCR Altach,BSC Young Boys,Directed,1027,,,2500000
+1.FSV Mainz 05,Olympiacos,Directed,1028,,,1800000
+1.FSV Mainz 05,Bor. Dortmund,Directed,1029,,,28000000
+1.FSV Mainz 05,FC Basel,Directed,1030,,,1500000
+Adelaide United,FC Midtjylland,Directed,1031,,,870000
+Adelaide United,Charlotte,Directed,1032,,,536000
+Adelaide United,Club Brugge,Directed,1033,,,69000
+Bursaspor,PSV Eindhoven,Directed,1034,,,1500000
+Central Coast,Newcastle,Directed,1035,,,350000
+Central Coast,Club Brugge,Directed,1036,,,125000
+Burton Albion,Hull City,Directed,1037,,,2150000
+Ross County,Burton Albion,Directed,1038,,,358000
+Hibernian FC,Nottm Forest,Directed,1039,,,1100000
+FC Ingolstadt,Hertha BSC,Directed,1040,,,3000000
+FSV Frankfurt,FC Ingolstadt,Directed,1041,,,750000
+Al-Hilal SFC,Red Star,Directed,1042,,,1500000
+Al-Hilal SFC,Al-Shabab,Directed,1043,,,530000
+Charlotte,Middlesbrough,Directed,1044,,,3640000
+SPAL,Dijon,Directed,1045,,,1000000
+Diambars FC,Marseille,Directed,1046,,,400000
+Clermont Foot,Angers SCO,Directed,1047,,,1600000
+Clermont Foot,Lens,Directed,1048,,,5000000
+FC Metz,Rennes,Directed,1049,,,17000000
+FC Metz,KRC Genk,Directed,1050,,,1300000
+FC Metz,Spurs,Directed,1051,,,16900000
+FC Metz,Salernitana,Directed,1052,,,1000000
+FC Metz,Esperance,Directed,1053,,,775000
+Sarpsborg 08,Club Brugge,Directed,1054,,,2650000
+Oslo FA Dakar,Sarpsborg 08,Directed,1055,,,50000
+SC Braga,FC Porto,Directed,1056,,,7500000
+US Ouakam,Braga B,Directed,1057,,,130000
+ASPIRE FD,Barça U19,Directed,1058,,,500000
+AC Ajaccio,Olympiacos,Directed,1059,,,700000
+CF Fuenlabrada,Rayo Vallecano,Directed,1060,,,1000000
+FC Thun,BSC Young Boys,Directed,1061,,,500000
+FC Winterthur,FC Thun,Directed,1062,,,200000
+FC Winterthur,FC Basel,Directed,1063,,,700000
+FC Zürich U21,M'gladbach II,Directed,1064,,,1500000
+FC Sion,West Ham,Directed,1065,,,6400000
+GC Zürich U18,TSG Hoffenheim,Directed,1066,,,138000
+Grasshoppers,Fiorentina,Directed,1067,,,1350000
+FC Luzern,FC Basel,Directed,1068,,,2000000
+FC Luzern,Atalanta BC,Directed,1069,,,3450000
+FC Luzern,FC Augsburg,Directed,1070,,,4000000
+FC Zürich,Bor. M'gladbach,Directed,1071,,,4000000
+FC Zürich,VfL Wolfsburg,Directed,1072,,,8500000
+FC Augsburg,Chelsea,Directed,1073,,,26000000
+FC Aarau,Granada CF,Directed,1074,,,750000
+Independiente,Atlético-MG,Directed,1075,,,2100000
+Independiente,KRC Genk,Directed,1076,,,3000000
+Independiente,Sporting CP U23,Directed,1077,,,1100000
+Independiente,Toluca,Directed,1078,,,2700000
+Independiente,Brighton,Directed,1079,,,5000000
+Independiente,CA Talleres,Directed,1080,,,1350000
+Independiente,Royal Antwerp,Directed,1081,,,2870000
+Independiente,Ajax,Directed,1082,,,4000000
+CS Emelec,Santos Laguna,Directed,1083,,,4250000
+CS Emelec,Pachuca,Directed,1084,,,3280000
+CS Emelec,CD Cruz Azul,Directed,1085,,,2850000
+Dallas,FC Augsburg,Directed,1086,,,4000000
+Barcelona SC,VfB Stuttgart,Directed,1087,,,1000000
+Barcelona SC,Santos Laguna,Directed,1088,,,1800000
+LDU Quito,Newell's,Directed,1089,,,1050000
+LDU Quito,Udinese Calcio,Directed,1090,,,500000
+U. de Chile,SD Aucas,Directed,1091,,,240000
+Boavista,Troyes,Directed,1092,,,3500000
+Manta FC,Santos FC U20,Directed,1093,,,350000
+Uni. Católica,LAFC,Directed,1094,,,2730000
+Uni. Católica,São Paulo,Directed,1095,,,1800000
+Uni. Católica,Minnesota,Directed,1096,,,725000
+CD Macará,Independiente,Directed,1097,,,470000
+CA Talleres,B. Leverkusen,Directed,1098,,,6350000
+Saipa FC,Esteghlal FC,Directed,1099,,,100000
+Saipa FC,RSC Charleroi,Directed,1100,,,300000
+Saipa FC,Persepolis,Directed,1101,,,96000
+Esteghlal FC,Qatar SC,Directed,1102,,,250000
+Esteghlal FC,Trabzonspor,Directed,1103,,,517000
+Sepahan,Dinamo Zagreb,Directed,1104,,,360000
+Persepolis,Royal Antwerp,Directed,1105,,,630000
+Persepolis,Al-Gharafa SC,Directed,1106,,,492000
+Persepolis,Al-Arabi SC,Directed,1107,,,350000
+NEC Nijmegen,AZ Alkmaar,Directed,1108,,,1800000
+Damash Gilan,NEC Nijmegen,Directed,1109,,,250000
+OC Blues FC,Persepolis,Directed,1110,,,100000
+Panionios,Olympiacos,Directed,1111,,,1000000
+Al-Arabi SC,Persepolis,Directed,1112,,,450000
+Rah Ahan,Terek Grozny,Directed,1113,,,300000
+Naft Tehran,TJ Teda,Directed,1114,,,440000
+Saba Battery,Esteghlal FC,Directed,1115,,,103000
+Östersund,Amiens SC,Directed,1116,,,4000000
+Syrianska FC,Östersund,Directed,1117,,,75000
+Al-Ittihad Club,Al-Hilal SFC,Directed,1118,,,1650000
+Ettifaq FC,Al-Ittihad Club,Directed,1119,,,2400000
+Al-Ahli SFC,Al-Hilal SFC,Directed,1120,,,1300000
+Al-Ahli U23,Al-Raed,Directed,1121,,,500000
+Argentinos Jrs.,Brighton,Directed,1122,,,8000000
+Belgrano,Genoa,Directed,1123,,,4250000
+Indep'te U20,Arsenal Res.,Directed,1124,,,1500000
+Atl. Nacional,River Plate,Directed,1125,,,3150000
+Estudiantes,Maldonado,Directed,1126,,,3500000
+Estudiantes,Spurs,Directed,1127,,,13000000
+Racing Club,Inter,Directed,1128,,,25000000
+Racing Club,Sporting CP,Directed,1129,,,9590000
+Racing Club,Valencia,Directed,1130,,,6550000
+Defensa,Ajax,Directed,1131,,,7000000
+Newell's II,Defensa,Directed,1132,,,725000
+Ferro,Racing Club,Directed,1133,,,445000
+Banfield,Independiente,Directed,1134,,,2780000
+Metalist,Atalanta BC,Directed,1135,,,4470000
+San Lorenzo,Catania,Directed,1136,,,2500000
+San Lorenzo,Atlético Madrid,Directed,1137,,,10500000
+Arsenal Sarandí,San Lorenzo,Directed,1138,,,1550000
+Instituto AC,US Palermo,Directed,1139,,,11900000
+Rosario Central,Benfica,Directed,1140,,,8000000
+Górnik Zabrze,B. Leverkusen,Directed,1141,,,2600000
+Górnik Zabrze,AS Roma,Directed,1142,,,890000
+Górnik Zabrze,Legia Warszawa,Directed,1143,,,125000
+Górnik Zabrze,Fiorentina,Directed,1144,,,4500000
+Rozwój Katowice,Górnik Zabrze,Directed,1145,,,75000
+Krasnodar,Legia Warszawa,Directed,1146,,,900000
+Lech Poznan,Legia Warszawa,Directed,1147,,,100000
+Lech Poznan,VfL Wolfsburg,Directed,1148,,,10000000
+Lech Poznan,Southampton,Directed,1149,,,6000000
+Lech Poznan,FC Augsburg,Directed,1150,,,2000000
+Lech Poznan,Bor. Dortmund,Directed,1151,,,4750000
+Akhmat Grozny,AEK Athens,Directed,1152,,,1300000
+Wisla Plock,Akhmat Grozny,Directed,1153,,,1500000
+Jagiellonia,Wisla Plock,Directed,1154,,,25000
+Jagiellonia,Sivasspor,Directed,1155,,,900000
+Jagiellonia,PAOK Salonika,Directed,1156,,,2500000
+Jagiellonia,Chicago,Directed,1157,,,1500000
+Loko Moscow,Krasnodar,Directed,1158,,,4000000
+Arka Gdynia U19,Bordeaux U19,Directed,1159,,,270000
+MSK Zilina,Spezia Calcio,Directed,1160,,,2200000
+Podbrezova,MSK Zilina,Directed,1161,,,250000
+Anderlecht U21,Podbrezova,Directed,1162,,,10000
+GKS Tychy,Anderlecht U17,Directed,1163,,,13000
+Benevento,Rubin Kazan,Directed,1164,,,900000
+Piast Gliwice,US Palermo,Directed,1165,,,1000000
+Ruch U19,Liverpool U18,Directed,1166,,,330000
+Sivasspor,Rennes,Directed,1167,,,800000
+Pogon Szczecin,Legia Warszawa,Directed,1168,,,225000
+PAOK Salonika,Charlotte,Directed,1169,,,4550000
+Lech U19,Legia Warszawa,Directed,1170,,,13000
+Cracovia,Genoa,Directed,1171,,,4500000
+Zaglebie Lubin,Cracovia,Directed,1172,,,700000
+L. Dzierzoniow,Lubin II,Directed,1173,,,12000
+Lubin II,Udinese U19,Directed,1174,,,100000
+Znicz Pruszkow,Lech Poznan,Directed,1175,,,380000
+Legia II,Znicz Pruszkow,Directed,1176,,,15000
+Legia Yth.,Arsenal U18,Directed,1177,,,50000
+Greuther Fürth,FC Augsburg,Directed,1178,,,9000000
+SC Bastia,SM Caen,Directed,1179,,,2000000
+SC Bastia,G. Bordeaux,Directed,1180,,,2000000
+Djurgården,FC Copenhagen,Directed,1181,,,1800000
+Steadfast FC,Sporting CP U23,Directed,1182,,,1200000
+Hammarby,KRC Genk,Directed,1183,,,1250000
+Leicester U21,Club Brugge,Directed,1184,,,9000000
+AS Trencin,KAA Gent,Directed,1185,,,1000000
+Accra Lions,AS Trencin,Directed,1186,,,60000
+JS Kairouan,Esperance,Directed,1187,,,150000
+Esperance,Al-Nassr FC,Directed,1188,,,2000000
+Esperance,Lekhwiya,Directed,1189,,,4250000
+CS Sfaxien,El Ahly,Directed,1190,,,730000
+CS Sfaxien,FC Metz,Directed,1191,,,500000
+CS Sfaxien,Olympiacos,Directed,1192,,,1800000
+Club Africain,ES Sahel,Directed,1193,,,40000
+Club Africain,Abha,Directed,1194,,,718000
+Club Africain,Royal Antwerp,Directed,1195,,,317000
+FC Voluntari,Ferencváros,Directed,1196,,,600000
+Chamois Niort,KAA Gent,Directed,1197,,,1000000
+ESS U19,CS Sfaxien,Directed,1198,,,13000
+Monaco Youth,Man Utd U18,Directed,1199,,,10000000
+ACBB Youth,Monaco Youth,Directed,1200,,,1100000
+Rosenborg,Al-Wehda FC,Directed,1201,,,1400000
+Elfsborg,Rosenborg,Directed,1202,,,1100000
+Red Star FC,LOSC Lille,Directed,1203,,,2000000
+El Mokawloon,Zamalek,Directed,1204,,,660000
+Stade Gabèsien,El Mokawloon,Directed,1205,,,44000
+Stade Tunisien,Esperance,Directed,1206,,,125000

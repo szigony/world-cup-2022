@@ -1,0 +1,227 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+18,Esteban Alvarado,CS Herediano,€225k ,Costa Rica,"Jul 1, 2021",,Herediano,,,,Primera División Clausura
+18,Esteban Alvarado,CS Herediano,€225k ,Costa Rica,"Jan 1, 2021","Jul 1, 2021",Limón FC,Herediano,225000.0,0.0,Primera División Clausura
+18,Esteban Alvarado,CS Herediano,€225k ,Costa Rica,"Jul 1, 2019","Jan 1, 2021",Herediano,Limón FC,325000.0,0.0,Primera División Clausura
+18,Esteban Alvarado,CS Herediano,€225k ,Costa Rica,"Jan 1, 2019","Jul 1, 2019",LD Alajuelense,Herediano,400000.0,,Primera División Clausura
+18,Esteban Alvarado,CS Herediano,€225k ,Costa Rica,"Aug 6, 2015","Jan 1, 2019",Trabzonspor,LD Alajuelense,400000.0,0.0,Primera División Clausura
+18,Esteban Alvarado,CS Herediano,€225k ,Costa Rica,"Jul 1, 2010","Aug 6, 2015",AZ Alkmaar,Trabzonspor,2500000.0,0.0,Primera División Clausura
+18,Esteban Alvarado,CS Herediano,€225k ,Costa Rica,"Jan 1, 2009","Jul 1, 2010",Saprissa,AZ Alkmaar,,,Primera División Clausura
+18,Esteban Alvarado,CS Herediano,€225k ,Costa Rica,"Dec 31, 2008","Jan 1, 2009",Saprissa II,Saprissa,,,Primera División Clausura
+18,Esteban Alvarado,CS Herediano,€225k ,Costa Rica,"Jul 1, 2008","Dec 31, 2008",UCR,Saprissa II,,,Primera División Clausura
+18,Esteban Alvarado,CS Herediano,€225k ,Costa Rica,,"Jul 1, 2008",Saprissa II,UCR,,,Primera División Clausura
+3,Juan Pablo Vargas,Millonarios FC,€1.70m ,Costa Rica,"Jan 1, 2021",,Millonarios,,,,Liga DIMAYOR II
+3,Juan Pablo Vargas,Millonarios FC,€1.70m ,Costa Rica,"Dec 31, 2020","Jan 1, 2021",Herediano,Millonarios,550000.0,,Liga DIMAYOR II
+3,Juan Pablo Vargas,Millonarios FC,€1.70m ,Costa Rica,"Jan 3, 2020","Dec 31, 2020",Millonarios,Herediano,550000.0,,Liga DIMAYOR II
+3,Juan Pablo Vargas,Millonarios FC,€1.70m ,Costa Rica,"Dec 31, 2019","Jan 3, 2020",Herediano,Millonarios,650000.0,,Liga DIMAYOR II
+3,Juan Pablo Vargas,Millonarios FC,€1.70m ,Costa Rica,"Aug 1, 2018","Dec 31, 2019",Deportes Tolima,Herediano,650000.0,,Liga DIMAYOR II
+3,Juan Pablo Vargas,Millonarios FC,€1.70m ,Costa Rica,"Jul 1, 2017","Aug 1, 2018",Herediano,Deportes Tolima,275000.0,,Liga DIMAYOR II
+3,Juan Pablo Vargas,Millonarios FC,€1.70m ,Costa Rica,"Jun 30, 2017","Jul 1, 2017",Jacó Rays,Herediano,200000.0,,Liga DIMAYOR II
+3,Juan Pablo Vargas,Millonarios FC,€1.70m ,Costa Rica,"Jul 2, 2016","Jun 30, 2017",Belén FC,Jacó Rays,200000.0,,Liga DIMAYOR II
+3,Juan Pablo Vargas,Millonarios FC,€1.70m ,Costa Rica,"Jul 1, 2016","Jul 2, 2016",Jacó Rays,Belén FC,75000.0,,Liga DIMAYOR II
+3,Juan Pablo Vargas,Millonarios FC,€1.70m ,Costa Rica,"Jan 16, 2015","Jul 1, 2016",LD Alajuelense,Jacó Rays,75000.0,0.0,Liga DIMAYOR II
+3,Juan Pablo Vargas,Millonarios FC,€1.70m ,Costa Rica,"Jul 1, 2014","Jan 16, 2015",Alajuelense U20,LD Alajuelense,,,Liga DIMAYOR II
+3,Juan Pablo Vargas,Millonarios FC,€1.70m ,Costa Rica,"Jul 1, 2013","Jul 1, 2014",LD Alajuelense,Alajuelense U20,,,Liga DIMAYOR II
+3,Juan Pablo Vargas,Millonarios FC,€1.70m ,Costa Rica,,"Jul 1, 2013",Alajuelense U20,LD Alajuelense,,,Liga DIMAYOR II
+6,Óscar Duarte,Al-Wehda FC,€600k ,Costa Rica,"Jul 1, 2022",,Al-Wehda FC,,,,Saudi Pro League
+6,Óscar Duarte,Al-Wehda FC,€600k ,Costa Rica,"Aug 1, 2019","Jul 1, 2022",Levante,Al-Wehda FC,800000.0,0.0,Saudi Pro League
+6,Óscar Duarte,Al-Wehda FC,€600k ,Costa Rica,"Jan 26, 2016","Aug 1, 2019",Espanyol,Levante,1000000.0,0.0,Saudi Pro League
+6,Óscar Duarte,Al-Wehda FC,€600k ,Costa Rica,"Jan 15, 2013","Jan 26, 2016",Club Brugge,Espanyol,4000000.0,1150000.0,Saudi Pro League
+6,Óscar Duarte,Al-Wehda FC,€600k ,Costa Rica,"Dec 31, 2010","Jan 15, 2013",Saprissa,Club Brugge,225000.0,150000.0,Saudi Pro League
+6,Óscar Duarte,Al-Wehda FC,€600k ,Costa Rica,"Jul 1, 2010","Dec 31, 2010",Puntarenas FC,Saprissa,,,Saudi Pro League
+6,Óscar Duarte,Al-Wehda FC,€600k ,Costa Rica,"Jul 1, 2008","Jul 1, 2010",Saprissa,Puntarenas FC,,,Saudi Pro League
+6,Óscar Duarte,Al-Wehda FC,€600k ,Costa Rica,,"Jul 1, 2008",Saprissa II,Saprissa,,,Saudi Pro League
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,"Jan 15, 2021",,Saprissa,,,,Primera División Clausura
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,"Jan 1, 2019","Jan 15, 2021",Cincinnati,Saprissa,600000.0,0.0,Primera División Clausura
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,"Aug 3, 2014","Jan 1, 2019",Vancouver,Cincinnati,850000.0,682000.0,Primera División Clausura
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,"Jun 30, 2013","Aug 3, 2014",Saprissa,Vancouver,300000.0,,Primera División Clausura
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,"Jan 7, 2013","Jun 30, 2013",Pérez Zeledón,Saprissa,275000.0,,Primera División Clausura
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,"Jun 30, 2012","Jan 7, 2013",Saprissa,Pérez Zeledón,200000.0,,Primera División Clausura
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,"Jul 1, 2011","Jun 30, 2012",Pérez Zeledón,Saprissa,275000.0,,Primera División Clausura
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,"Jun 30, 2011","Jul 1, 2011",Saprissa,Pérez Zeledón,,,Primera División Clausura
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,"Sep 9, 2010","Jun 30, 2011",UCR,Saprissa,,,Primera División Clausura
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,"Jun 30, 2010","Sep 9, 2010",Saprissa,UCR,,,Primera División Clausura
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,"Mar 1, 2010","Jun 30, 2010",Bayamón FC,Saprissa,,,Primera División Clausura
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,"Dec 31, 2008","Mar 1, 2010",Saprissa,Bayamón FC,,,Primera División Clausura
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,"Jul 1, 2008","Dec 31, 2008",Nacional,Saprissa,,,Primera División Clausura
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,"Jul 1, 2007","Jul 1, 2008",Saprissa,Nacional,,,Primera División Clausura
+19,Kendall Waston,Deportivo Saprissa,€175k ,Costa Rica,,"Jul 1, 2007",Saprissa II,Saprissa,,,Primera División Clausura
+8,Bryan Oviedo,Real Salt Lake City,€200k ,Costa Rica,"Aug 4, 2022",,Salt Lake,,,,MLS
+8,Bryan Oviedo,Real Salt Lake City,€200k ,Costa Rica,"Jul 29, 2019","Aug 4, 2022",FC Copenhagen,Salt Lake,200000.0,0.0,MLS
+8,Bryan Oviedo,Real Salt Lake City,€200k ,Costa Rica,"Jan 30, 2017","Jul 29, 2019",Sunderland,FC Copenhagen,2000000.0,0.0,MLS
+8,Bryan Oviedo,Real Salt Lake City,€200k ,Costa Rica,"Aug 31, 2012","Jan 30, 2017",Everton,Sunderland,3000000.0,2000000.0,MLS
+8,Bryan Oviedo,Real Salt Lake City,€200k ,Costa Rica,"Jun 30, 2011","Aug 31, 2012",FC Copenhagen,Everton,800000.0,4500000.0,MLS
+8,Bryan Oviedo,Real Salt Lake City,€200k ,Costa Rica,"Jan 1, 2011","Jun 30, 2011",Nordsjaelland,FC Copenhagen,350000.0,,MLS
+8,Bryan Oviedo,Real Salt Lake City,€200k ,Costa Rica,"Jan 1, 2010","Jan 1, 2011",FC Copenhagen,Nordsjaelland,250000.0,,MLS
+8,Bryan Oviedo,Real Salt Lake City,€200k ,Costa Rica,"Jul 1, 2008","Jan 1, 2010",Saprissa,FC Copenhagen,,400000.0,MLS
+8,Bryan Oviedo,Real Salt Lake City,€200k ,Costa Rica,,"Jul 1, 2008",Saprissa U17,Saprissa,,,MLS
+4,Keysher Fuller,CS Herediano,€250k ,Costa Rica,"Jul 1, 2018",,Herediano,,,,Primera División Clausura
+4,Keysher Fuller,CS Herediano,€250k ,Costa Rica,"Jul 1, 2017","Jul 1, 2018",Grecia,Herediano,200000.0,0.0,Primera División Clausura
+4,Keysher Fuller,CS Herediano,€250k ,Costa Rica,"Jul 1, 2016","Jul 1, 2017",CS Uruguay,Grecia,,,Primera División Clausura
+4,Keysher Fuller,CS Herediano,€250k ,Costa Rica,,"Jul 1, 2016",Gen. Saprissa,CS Uruguay,,0.0,Primera División Clausura
+21,Douglas López,CS Herediano,€275k ,Costa Rica,"Jun 30, 2022",,Herediano,,,,Primera División Clausura
+21,Douglas López,CS Herediano,€275k ,Costa Rica,"Jan 2, 2022","Jun 30, 2022",Santos FC,Herediano,250000.0,,Primera División Clausura
+21,Douglas López,CS Herediano,€275k ,Costa Rica,"Jan 1, 2022","Jan 2, 2022",Herediano,Santos FC,250000.0,,Primera División Clausura
+21,Douglas López,CS Herediano,€275k ,Costa Rica,"Jan 1, 2019","Jan 1, 2022",Santos FC,Herediano,250000.0,0.0,Primera División Clausura
+21,Douglas López,CS Herediano,€275k ,Costa Rica,,"Jan 1, 2019",Santos II,Santos FC,,,Primera División Clausura
+24,Roan Wilson,Municipal Grecia,€250k ,Costa Rica,"Aug 20, 2021",,Grecia,,,,Primera División Clausura
+24,Roan Wilson,Municipal Grecia,€250k ,Costa Rica,"Jul 1, 2019","Aug 20, 2021",Limón FC,Grecia,150000.0,,Primera División Clausura
+24,Roan Wilson,Municipal Grecia,€250k ,Costa Rica,,"Jul 1, 2019",Limón U20,Limón FC,,,Primera División Clausura
+13,Gerson Torres,CS Herediano,€325k ,Costa Rica,"Jul 15, 2019",,Herediano,,,,Primera División Clausura
+13,Gerson Torres,CS Herediano,€325k ,Costa Rica,"Jun 30, 2019","Jul 15, 2019",Necaxa,Herediano,175000.0,,Primera División Clausura
+13,Gerson Torres,CS Herediano,€325k ,Costa Rica,"Jul 1, 2018","Jun 30, 2019",Herediano,Necaxa,175000.0,,Primera División Clausura
+13,Gerson Torres,CS Herediano,€325k ,Costa Rica,"Jan 1, 2018","Jul 1, 2018",Necaxa,Herediano,200000.0,,Primera División Clausura
+13,Gerson Torres,CS Herediano,€325k ,Costa Rica,"Dec 31, 2017","Jan 1, 2018",Guadalupe FC,Necaxa,200000.0,,Primera División Clausura
+13,Gerson Torres,CS Herediano,€325k ,Costa Rica,"Jan 1, 2017","Dec 31, 2017",América,Guadalupe FC,200000.0,,Primera División Clausura
+13,Gerson Torres,CS Herediano,€325k ,Costa Rica,"Dec 31, 2016","Jan 1, 2017",Belén FC,América,200000.0,,Primera División Clausura
+13,Gerson Torres,CS Herediano,€325k ,Costa Rica,"Jul 1, 2016","Dec 31, 2016",Herediano,Belén FC,200000.0,,Primera División Clausura
+13,Gerson Torres,CS Herediano,€325k ,Costa Rica,"Jul 1, 2015","Jul 1, 2016",Belén FC,Herediano,150000.0,,Primera División Clausura
+13,Gerson Torres,CS Herediano,€325k ,Costa Rica,,"Jul 1, 2015",Belén U20,Belén FC,,,Primera División Clausura
+20,Brandon Aguilera,AD Guanacasteca,€275k ,Costa Rica,"Jan 2, 2023",,Nottm Forest,,,,Primera División Clausura
+20,Brandon Aguilera,AD Guanacasteca,€275k ,Costa Rica,"Jul 18, 2022","Jan 2, 2023",Guanacasteca,Nottm Forest,275000.0,,Primera División Clausura
+20,Brandon Aguilera,AD Guanacasteca,€275k ,Costa Rica,"Jul 17, 2022","Jul 18, 2022",Nottm Forest,Guanacasteca,125000.0,,Primera División Clausura
+20,Brandon Aguilera,AD Guanacasteca,€275k ,Costa Rica,"Jun 30, 2022","Jul 17, 2022",LD Alajuelense,Nottm Forest,125000.0,950000.0,Primera División Clausura
+20,Brandon Aguilera,AD Guanacasteca,€275k ,Costa Rica,"Jan 1, 2022","Jun 30, 2022",Guanacasteca,LD Alajuelense,125000.0,,Primera División Clausura
+20,Brandon Aguilera,AD Guanacasteca,€275k ,Costa Rica,"Jul 1, 2020","Jan 1, 2022",LD Alajuelense,Guanacasteca,125000.0,,Primera División Clausura
+20,Brandon Aguilera,AD Guanacasteca,€275k ,Costa Rica,"Jul 1, 2019","Jul 1, 2020",Alajuelense U20,LD Alajuelense,75000.0,,Primera División Clausura
+20,Brandon Aguilera,AD Guanacasteca,€275k ,Costa Rica,"Jan 1, 2019","Jul 1, 2019",AD Carmelita,Alajuelense U20,75000.0,0.0,Primera División Clausura
+20,Brandon Aguilera,AD Guanacasteca,€275k ,Costa Rica,,"Jan 1, 2019",Carmelita U20,AD Carmelita,,,Primera División Clausura
+9,Jewison Bennette,Sunderland AFC,€1.00m ,Costa Rica,"Aug 25, 2022",,Sunderland,,,,Championship
+9,Jewison Bennette,Sunderland AFC,€1.00m ,Costa Rica,"Jul 1, 2021","Aug 25, 2022",Herediano,Sunderland,275000.0,1300000.0,Championship
+9,Jewison Bennette,Sunderland AFC,€1.00m ,Costa Rica,,"Jul 1, 2021",Herediano U20,Herediano,,,Championship
+25,Anthony Hernández,Puntarenas FC,€250k ,Costa Rica,"Jul 1, 2020",,Puntarenas FC,,,,Primera División Clausura
+25,Anthony Hernández,Puntarenas FC,€250k ,Costa Rica,,"Jul 1, 2020",Puntarenas U18,Puntarenas FC,,,Primera División Clausura
+11,Johan Venegas,LD Alajuelense,€300k ,Costa Rica,"Jan 1, 2021",,LD Alajuelense,,,,Primera División Clausura
+11,Johan Venegas,LD Alajuelense,€300k ,Costa Rica,"Jan 10, 2019","Jan 1, 2021",Saprissa,LD Alajuelense,325000.0,0.0,Primera División Clausura
+11,Johan Venegas,LD Alajuelense,€300k ,Costa Rica,"Dec 31, 2018","Jan 10, 2019",Minnesota,Saprissa,500000.0,0.0,Primera División Clausura
+11,Johan Venegas,LD Alajuelense,€300k ,Costa Rica,"Jan 1, 2018","Dec 31, 2018",Saprissa,Minnesota,500000.0,,Primera División Clausura
+11,Johan Venegas,LD Alajuelense,€300k ,Costa Rica,"Jan 1, 2017","Jan 1, 2018",Minnesota,Saprissa,750000.0,,Primera División Clausura
+11,Johan Venegas,LD Alajuelense,€300k ,Costa Rica,"Aug 3, 2015","Jan 1, 2017",Montreal,Minnesota,700000.0,,Primera División Clausura
+11,Johan Venegas,LD Alajuelense,€300k ,Costa Rica,"Jul 1, 2013","Aug 3, 2015",LD Alajuelense,Montreal,450000.0,290000.0,Primera División Clausura
+11,Johan Venegas,LD Alajuelense,€300k ,Costa Rica,"Jul 1, 2012","Jul 1, 2013",Puntarenas FC,LD Alajuelense,275000.0,,Primera División Clausura
+11,Johan Venegas,LD Alajuelense,€300k ,Costa Rica,"Jul 1, 2011","Jul 1, 2012",Santos FC,Puntarenas FC,100000.0,,Primera División Clausura
+11,Johan Venegas,LD Alajuelense,€300k ,Costa Rica,"Feb 1, 2011","Jul 1, 2011",Barrio México,Santos FC,,,Primera División Clausura
+11,Johan Venegas,LD Alajuelense,€300k ,Costa Rica,,"Feb 1, 2011",Santos FC,Barrio México,,,Primera División Clausura
+-,Keylor Navas,Paris Saint-Germain,€5.00m ,Costa Rica,"Sep 2, 2019",,Paris SG,,,,Ligue 1
+-,Keylor Navas,Paris Saint-Germain,€5.00m ,Costa Rica,"Aug 3, 2014","Sep 2, 2019",Real Madrid,Paris SG,10000000.0,15000000.0,Ligue 1
+-,Keylor Navas,Paris Saint-Germain,€5.00m ,Costa Rica,"Jul 7, 2012","Aug 3, 2014",Levante,Real Madrid,10000000.0,10000000.0,Ligue 1
+-,Keylor Navas,Paris Saint-Germain,€5.00m ,Costa Rica,"Jun 30, 2012","Jul 7, 2012",Albacete,Levante,800000.0,150000.0,Ligue 1
+-,Keylor Navas,Paris Saint-Germain,€5.00m ,Costa Rica,"Jul 1, 2011","Jun 30, 2012",Levante,Albacete,800000.0,,Ligue 1
+-,Keylor Navas,Paris Saint-Germain,€5.00m ,Costa Rica,"Jul 1, 2010","Jul 1, 2011",Albacete,Levante,600000.0,,Ligue 1
+-,Keylor Navas,Paris Saint-Germain,€5.00m ,Costa Rica,"Jul 1, 2005","Jul 1, 2010",Saprissa,Albacete,,,Ligue 1
+-,Keylor Navas,Paris Saint-Germain,€5.00m ,Costa Rica,,"Jul 1, 2005",Saprissa U17,Saprissa,,,Ligue 1
+23,Patrick Sequeira,CD Lugo,€200k ,Costa Rica,"Jul 4, 2022",,CD Lugo,,,,LaLiga2
+23,Patrick Sequeira,CD Lugo,€200k ,Costa Rica,"Jun 30, 2021","Jul 4, 2022",Real Unión,CD Lugo,150000.0,0.0,LaLiga2
+23,Patrick Sequeira,CD Lugo,€200k ,Costa Rica,"Sep 9, 2020","Jun 30, 2021",Celta Vigo B,Real Unión,150000.0,,LaLiga2
+23,Patrick Sequeira,CD Lugo,€200k ,Costa Rica,"Jul 1, 2019","Sep 9, 2020",Real Unión,Celta Vigo B,100000.0,,LaLiga2
+23,Patrick Sequeira,CD Lugo,€200k ,Costa Rica,"Jun 30, 2019","Jul 1, 2019",Saprissa,Real Unión,50000.0,0.0,LaLiga2
+23,Patrick Sequeira,CD Lugo,€200k ,Costa Rica,"Aug 21, 2017","Jun 30, 2019",Real Unión,Saprissa,50000.0,,LaLiga2
+23,Patrick Sequeira,CD Lugo,€200k ,Costa Rica,"Jul 1, 2016","Aug 21, 2017",Saprissa,Real Unión,50000.0,,LaLiga2
+23,Patrick Sequeira,CD Lugo,€200k ,Costa Rica,"Jul 1, 2015","Jul 1, 2016",Saprissa U20,Saprissa,,,LaLiga2
+23,Patrick Sequeira,CD Lugo,€200k ,Costa Rica,,"Jul 1, 2015",Limón U20,Saprissa U20,,0.0,LaLiga2
+15,Francisco Calvo,Konyaspor,€1.70m ,Costa Rica,"Jul 7, 2022",,Konyaspor,,,,Süper Lig
+15,Francisco Calvo,Konyaspor,€1.70m ,Costa Rica,"Jan 26, 2022","Jul 7, 2022",San Jose,Konyaspor,1000000.0,495000.0,Süper Lig
+15,Francisco Calvo,Konyaspor,€1.70m ,Costa Rica,"May 3, 2019","Jan 26, 2022",Chicago,San Jose,1000000.0,0.0,Süper Lig
+15,Francisco Calvo,Konyaspor,€1.70m ,Costa Rica,"Jan 1, 2017","May 3, 2019",Minnesota,Chicago,750000.0,358000.0,Süper Lig
+15,Francisco Calvo,Konyaspor,€1.70m ,Costa Rica,"Jul 1, 2015","Jan 1, 2017",Saprissa,Minnesota,350000.0,,Süper Lig
+15,Francisco Calvo,Konyaspor,€1.70m ,Costa Rica,"Jun 30, 2015","Jul 1, 2015",Herediano,Saprissa,275000.0,0.0,Süper Lig
+15,Francisco Calvo,Konyaspor,€1.70m ,Costa Rica,"Jan 10, 2015","Jun 30, 2015",Santos FC,Herediano,275000.0,,Süper Lig
+15,Francisco Calvo,Konyaspor,€1.70m ,Costa Rica,"Aug 1, 2013","Jan 10, 2015",Herediano,Santos FC,250000.0,,Süper Lig
+15,Francisco Calvo,Konyaspor,€1.70m ,Costa Rica,"Jan 15, 2013","Aug 1, 2013",Nordsjaelland,Herediano,200000.0,0.0,Süper Lig
+15,Francisco Calvo,Konyaspor,€1.70m ,Costa Rica,"Jul 1, 2012","Jan 15, 2013",Pérez Zeledón,Nordsjaelland,175000.0,,Süper Lig
+15,Francisco Calvo,Konyaspor,€1.70m ,Costa Rica,"Jul 1, 2011","Jul 1, 2012",Herediano,Pérez Zeledón,175000.0,0.0,Süper Lig
+15,Francisco Calvo,Konyaspor,€1.70m ,Costa Rica,,"Jul 1, 2011",San Jacinto,Herediano,,0.0,Süper Lig
+2,Daniel Chacón,Colorado Rapids 2,€300k ,Costa Rica,"Oct 31, 2022",,Colorado 2,,,,MLS Next Pro
+2,Daniel Chacón,Colorado Rapids 2,€300k ,Costa Rica,"Jul 20, 2022","Oct 31, 2022",Cartaginés,Colorado 2,300000.0,,MLS Next Pro
+2,Daniel Chacón,Colorado Rapids 2,€300k ,Costa Rica,"Jul 7, 2022","Jul 20, 2022",Colorado 2,Cartaginés,300000.0,,MLS Next Pro
+2,Daniel Chacón,Colorado Rapids 2,€300k ,Costa Rica,"Jan 1, 2019","Jul 7, 2022",Cartaginés,Colorado 2,200000.0,0.0,MLS Next Pro
+2,Daniel Chacón,Colorado Rapids 2,€300k ,Costa Rica,,"Jan 1, 2019",Cartaginés U20,Cartaginés,,,MLS Next Pro
+22,Ronald Matarrita,FC Cincinnati,€1.50m ,Costa Rica,"Jan 1, 2023",,Without Club,,,,MLS
+22,Ronald Matarrita,FC Cincinnati,€1.50m ,Costa Rica,"Jan 1, 2021","Jan 1, 2023",Cincinnati,Without Club,1500000.0,,MLS
+22,Ronald Matarrita,FC Cincinnati,€1.50m ,Costa Rica,"Jan 16, 2016","Jan 1, 2021",New York City,Cincinnati,2500000.0,545000.0,MLS
+22,Ronald Matarrita,FC Cincinnati,€1.50m ,Costa Rica,"Jul 1, 2013","Jan 16, 2016",LD Alajuelense,New York City,300000.0,475000.0,MLS
+22,Ronald Matarrita,FC Cincinnati,€1.50m ,Costa Rica,,"Jul 1, 2013",Alajuelense U20,LD Alajuelense,,,MLS
+16,Carlos Martínez,AD San Carlos,€275k ,Costa Rica,"Jul 1, 2020",,AD San Carlos,,,,Primera División Clausura
+16,Carlos Martínez,AD San Carlos,€275k ,Costa Rica,"Jul 1, 2019","Jul 1, 2020",Guadalupe FC,AD San Carlos,125000.0,,Primera División Clausura
+16,Carlos Martínez,AD San Carlos,€275k ,Costa Rica,"Jun 30, 2019","Jul 1, 2019",KAS Eupen,Guadalupe FC,50000.0,0.0,Primera División Clausura
+16,Carlos Martínez,AD San Carlos,€275k ,Costa Rica,"Jan 22, 2019","Jun 30, 2019",Herediano,KAS Eupen,50000.0,,Primera División Clausura
+16,Carlos Martínez,AD San Carlos,€275k ,Costa Rica,"Jul 1, 2017","Jan 22, 2019",KAS Eupen,Herediano,50000.0,,Primera División Clausura
+16,Carlos Martínez,AD San Carlos,€275k ,Costa Rica,,"Jul 1, 2017",ASPIRE FD,KAS Eupen,,0.0,Primera División Clausura
+17,Yeltsin Tejeda,CS Herediano,€275k ,Costa Rica,"Jan 24, 2019",,Herediano,,,,Primera División Clausura
+17,Yeltsin Tejeda,CS Herediano,€275k ,Costa Rica,"Jul 8, 2016","Jan 24, 2019",Lausanne-Sport,Herediano,600000.0,,Primera División Clausura
+17,Yeltsin Tejeda,CS Herediano,€275k ,Costa Rica,"Aug 22, 2014","Jul 8, 2016",Thonon Évian,Lausanne-Sport,1250000.0,500000.0,Primera División Clausura
+17,Yeltsin Tejeda,CS Herediano,€275k ,Costa Rica,"Jul 1, 2011","Aug 22, 2014",Saprissa,Évian,750000.0,,Primera División Clausura
+17,Yeltsin Tejeda,CS Herediano,€275k ,Costa Rica,"Jul 1, 2009","Jul 1, 2011",Saprissa II,Saprissa,,,Primera División Clausura
+17,Yeltsin Tejeda,CS Herediano,€275k ,Costa Rica,,"Jul 1, 2009",Saprissa U17,Saprissa II,,,Primera División Clausura
+14,Youstin Salas,Deportivo Saprissa,€250k ,Costa Rica,"Jul 1, 2022",,Saprissa,,,,Primera División Clausura
+14,Youstin Salas,Deportivo Saprissa,€250k ,Costa Rica,"Jun 30, 2022","Jul 1, 2022",Herediano,Saprissa,200000.0,,Primera División Clausura
+14,Youstin Salas,Deportivo Saprissa,€250k ,Costa Rica,"Jan 1, 2020","Jun 30, 2022",Grecia,Herediano,200000.0,,Primera División Clausura
+14,Youstin Salas,Deportivo Saprissa,€250k ,Costa Rica,"Dec 31, 2019","Jan 1, 2020",Herediano,Grecia,125000.0,,Primera División Clausura
+14,Youstin Salas,Deportivo Saprissa,€250k ,Costa Rica,"Jul 1, 2019","Dec 31, 2019",La U,Herediano,125000.0,,Primera División Clausura
+14,Youstin Salas,Deportivo Saprissa,€250k ,Costa Rica,"Jul 1, 2018","Jul 1, 2019",Herediano,La U,100000.0,,Primera División Clausura
+14,Youstin Salas,Deportivo Saprissa,€250k ,Costa Rica,"Jan 1, 2014","Jul 1, 2018",Santos FC,Herediano,150000.0,0.0,Primera División Clausura
+14,Youstin Salas,Deportivo Saprissa,€250k ,Costa Rica,,"Jan 1, 2014",Santos II,Santos FC,,,Primera División Clausura
+5,Celso Borges,LD Alajuelense,€200k ,Costa Rica,"Sep 21, 2021",,LD Alajuelense,,,,Primera División Clausura
+5,Celso Borges,LD Alajuelense,€200k ,Costa Rica,"Aug 21, 2021","Sep 21, 2021",Without Club,LD Alajuelense,400000.0,,Primera División Clausura
+5,Celso Borges,LD Alajuelense,€200k ,Costa Rica,"Sep 6, 2020","Aug 21, 2021",Dep. La Coruña,Without Club,400000.0,,Primera División Clausura
+5,Celso Borges,LD Alajuelense,€200k ,Costa Rica,"Aug 15, 2018","Sep 6, 2020",Göztepe,Dep. La Coruña,500000.0,0.0,Primera División Clausura
+5,Celso Borges,LD Alajuelense,€200k ,Costa Rica,"Jul 1, 2015","Aug 15, 2018",Dep. La Coruña,Göztepe,4000000.0,1500000.0,Primera División Clausura
+5,Celso Borges,LD Alajuelense,€200k ,Costa Rica,"Jun 30, 2015","Jul 1, 2015",AIK,Dep. La Coruña,2500000.0,,Primera División Clausura
+5,Celso Borges,LD Alajuelense,€200k ,Costa Rica,"Jan 14, 2015","Jun 30, 2015",Dep. La Coruña,AIK,1500000.0,,Primera División Clausura
+5,Celso Borges,LD Alajuelense,€200k ,Costa Rica,"Jan 1, 2012","Jan 14, 2015",AIK,Dep. La Coruña,1600000.0,,Primera División Clausura
+5,Celso Borges,LD Alajuelense,€200k ,Costa Rica,"Apr 1, 2009","Jan 1, 2012",Fredrikstad,AIK,1300000.0,0.0,Primera División Clausura
+5,Celso Borges,LD Alajuelense,€200k ,Costa Rica,"Jul 1, 2006","Apr 1, 2009",Saprissa,Fredrikstad,,125000.0,Primera División Clausura
+5,Celso Borges,LD Alajuelense,€200k ,Costa Rica,,"Jul 1, 2006",Saprissa U20,Saprissa,,,Primera División Clausura
+26,Álvaro Zamora,Deportivo Saprissa,€200k ,Costa Rica,"Jul 1, 2022",,Saprissa,,,,Primera División Clausura
+26,Álvaro Zamora,Deportivo Saprissa,€200k ,Costa Rica,"Dec 31, 2021","Jul 1, 2022",Saprissa U20,Saprissa,,,Primera División Clausura
+26,Álvaro Zamora,Deportivo Saprissa,€200k ,Costa Rica,"Aug 1, 2021","Dec 31, 2021",CS Uruguay,Saprissa U20,,,Primera División Clausura
+26,Álvaro Zamora,Deportivo Saprissa,€200k ,Costa Rica,"Jul 1, 2021","Aug 1, 2021",Saprissa U20,CS Uruguay,50000.0,,Primera División Clausura
+26,Álvaro Zamora,Deportivo Saprissa,€200k ,Costa Rica,"Jan 1, 2021","Jul 1, 2021",PZ U20,Saprissa U20,50000.0,,Primera División Clausura
+26,Álvaro Zamora,Deportivo Saprissa,€200k ,Costa Rica,"Dec 31, 2020","Jan 1, 2021",Herediano U20,PZ U20,50000.0,,Primera División Clausura
+26,Álvaro Zamora,Deportivo Saprissa,€200k ,Costa Rica,"Jan 1, 2020","Dec 31, 2020",Grecia,Herediano U20,50000.0,,Primera División Clausura
+26,Álvaro Zamora,Deportivo Saprissa,€200k ,Costa Rica,"Jan 1, 2019","Jan 1, 2020",Herediano U20,Grecia,,,Primera División Clausura
+26,Álvaro Zamora,Deportivo Saprissa,€200k ,Costa Rica,"Jul 1, 2017","Jan 1, 2019",Orlando Academy,Herediano U20,,,Primera División Clausura
+26,Álvaro Zamora,Deportivo Saprissa,€200k ,Costa Rica,,"Jul 1, 2017",Alajuelense U17,Orlando Academy,,,Primera División Clausura
+10,Bryan Ruiz,LD Alajuelense,€150k ,Costa Rica,"Jan 1, 2023",,Retired,,,,Primera División Clausura
+10,Bryan Ruiz,LD Alajuelense,€150k ,Costa Rica,"Jul 23, 2020","Jan 1, 2023",LD Alajuelense,Retired,150000.0,,Primera División Clausura
+10,Bryan Ruiz,LD Alajuelense,€150k ,Costa Rica,"Jul 11, 2018","Jul 23, 2020",Santos FC,LD Alajuelense,800000.0,0.0,Primera División Clausura
+10,Bryan Ruiz,LD Alajuelense,€150k ,Costa Rica,"Jul 3, 2015","Jul 11, 2018",Sporting CP,Santos FC,1500000.0,0.0,Primera División Clausura
+10,Bryan Ruiz,LD Alajuelense,€150k ,Costa Rica,"Jun 30, 2014","Jul 3, 2015",Fulham,Sporting CP,5000000.0,1320000.0,Primera División Clausura
+10,Bryan Ruiz,LD Alajuelense,€150k ,Costa Rica,"Jan 15, 2014","Jun 30, 2014",PSV Eindhoven,Fulham,8000000.0,,Primera División Clausura
+10,Bryan Ruiz,LD Alajuelense,€150k ,Costa Rica,"Aug 31, 2011","Jan 15, 2014",Fulham,PSV Eindhoven,8000000.0,,Primera División Clausura
+10,Bryan Ruiz,LD Alajuelense,€150k ,Costa Rica,"Jul 1, 2009","Aug 31, 2011",Twente FC,Fulham,12500000.0,12000000.0,Primera División Clausura
+10,Bryan Ruiz,LD Alajuelense,€150k ,Costa Rica,"Jul 1, 2006","Jul 1, 2009",KAA Gent,Twente FC,5000000.0,5500000.0,Primera División Clausura
+10,Bryan Ruiz,LD Alajuelense,€150k ,Costa Rica,"Jan 1, 2003","Jul 1, 2006",LD Alajuelense,KAA Gent,,500000.0,Primera División Clausura
+10,Bryan Ruiz,LD Alajuelense,€150k ,Costa Rica,,"Jan 1, 2003",Alajuelense U17,LD Alajuelense,,,Primera División Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jun 30, 2022",,León,,,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jul 7, 2021","Jun 30, 2022",Monterrey,León,2500000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jul 1, 2020","Jul 7, 2021",León,Monterrey,2000000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jun 30, 2020","Jul 1, 2020",Frosinone,León,2000000.0,2000000.0,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jan 25, 2019","Jun 30, 2020",León,Frosinone,2000000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Aug 17, 2018","Jan 25, 2019",Frosinone,León,2500000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jun 30, 2018","Aug 17, 2018",Arsenal,Frosinone,3000000.0,1500000.0,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Aug 31, 2017","Jun 30, 2018",Real Betis,Arsenal,3000000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jun 30, 2017","Aug 31, 2017",Arsenal,Real Betis,6000000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Aug 21, 2016","Jun 30, 2017",Sporting CP,Arsenal,6000000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jun 30, 2015","Aug 21, 2016",Arsenal,Sporting CP,8000000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jan 27, 2015","Jun 30, 2015",Villarreal,Arsenal,6000000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jun 30, 2014","Jan 27, 2015",Arsenal,Villarreal,6000000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jul 27, 2013","Jun 30, 2014",Olympiacos,Arsenal,5000000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jun 30, 2013","Jul 27, 2013",Arsenal,Olympiacos,2500000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jul 5, 2012","Jun 30, 2013",Real Betis,Arsenal,2500000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jun 30, 2012","Jul 5, 2012",Arsenal,Real Betis,1500000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Aug 30, 2011","Jun 30, 2012",FC Lorient,Arsenal,1500000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Aug 12, 2011","Aug 30, 2011",Arsenal,FC Lorient,750000.0,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jun 30, 2011","Aug 12, 2011",Saprissa,Arsenal,,1000000.0,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Feb 1, 2011","Jun 30, 2011",Puntarenas FC,Saprissa,,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,"Jan 1, 2010","Feb 1, 2011",Saprissa,Puntarenas FC,,,Liga MX Clausura
+12,Joel Campbell,Club León FC,€2.50m ,Costa Rica,,"Jan 1, 2010",Saprissa U17,Saprissa,,,Liga MX Clausura
+7,Anthony Contreras,CS Herediano,€375k ,Costa Rica,"Jun 30, 2022",,Herediano,,,,Primera División Clausura
+7,Anthony Contreras,CS Herediano,€375k ,Costa Rica,"Jul 1, 2021","Jun 30, 2022",Guanacasteca,Herediano,275000.0,,Primera División Clausura
+7,Anthony Contreras,CS Herediano,€375k ,Costa Rica,"Dec 31, 2020","Jul 1, 2021",Herediano,Guanacasteca,225000.0,,Primera División Clausura
+7,Anthony Contreras,CS Herediano,€375k ,Costa Rica,"Sep 15, 2020","Dec 31, 2020",Guadalupe FC,Herediano,200000.0,,Primera División Clausura
+7,Anthony Contreras,CS Herediano,€375k ,Costa Rica,"Jun 30, 2020","Sep 15, 2020",Herediano,Guadalupe FC,150000.0,,Primera División Clausura
+7,Anthony Contreras,CS Herediano,€375k ,Costa Rica,"Jan 1, 2020","Jun 30, 2020",Grecia,Herediano,150000.0,,Primera División Clausura
+7,Anthony Contreras,CS Herediano,€375k ,Costa Rica,"Dec 31, 2019","Jan 1, 2020",Herediano,Grecia,150000.0,,Primera División Clausura
+7,Anthony Contreras,CS Herediano,€375k ,Costa Rica,"Jul 1, 2019","Dec 31, 2019",La U,Herediano,150000.0,,Primera División Clausura
+7,Anthony Contreras,CS Herediano,€375k ,Costa Rica,"Jul 1, 2018","Jul 1, 2019",Herediano,La U,50000.0,,Primera División Clausura
+7,Anthony Contreras,CS Herediano,€375k ,Costa Rica,,"Jul 1, 2018",Herediano U20,Herediano,,,Primera División Clausura

@@ -1,0 +1,245 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+18,Milan Borjan,Red Star Belgrade,€1.20m ,Canada,"Jul 24, 2017",,Red Star,,,,Super liga Srbije
+18,Milan Borjan,Red Star Belgrade,€1.20m ,Canada,"Jun 30, 2017","Jul 24, 2017",Ludogorets,Red Star,1800000.0,0.0,Super liga Srbije
+18,Milan Borjan,Red Star Belgrade,€1.20m ,Canada,"Feb 15, 2017","Jun 30, 2017",Korona Kielce,Ludogorets,1800000.0,,Super liga Srbije
+18,Milan Borjan,Red Star Belgrade,€1.20m ,Canada,"Jul 1, 2015","Feb 15, 2017",Ludogorets,Korona Kielce,1800000.0,,Super liga Srbije
+18,Milan Borjan,Red Star Belgrade,€1.20m ,Canada,"Feb 13, 2015","Jul 1, 2015",Radnicki Nis,Ludogorets,1250000.0,0.0,Super liga Srbije
+18,Milan Borjan,Red Star Belgrade,€1.20m ,Canada,"Sep 12, 2014","Feb 13, 2015",Ludogorets,Radnicki Nis,1600000.0,0.0,Super liga Srbije
+18,Milan Borjan,Red Star Belgrade,€1.20m ,Canada,"Feb 3, 2014","Sep 12, 2014",Without Club,Ludogorets,1400000.0,,Super liga Srbije
+18,Milan Borjan,Red Star Belgrade,€1.20m ,Canada,"Jun 30, 2012","Feb 3, 2014",Sivasspor,Without Club,1400000.0,,Super liga Srbije
+18,Milan Borjan,Red Star Belgrade,€1.20m ,Canada,"Feb 1, 2012","Jun 30, 2012",FC Vaslui,Sivasspor,1500000.0,,Super liga Srbije
+18,Milan Borjan,Red Star Belgrade,€1.20m ,Canada,"Jul 1, 2011","Feb 1, 2012",Sivasspor,FC Vaslui,1100000.0,,Super liga Srbije
+18,Milan Borjan,Red Star Belgrade,€1.20m ,Canada,"Jan 1, 2009","Jul 1, 2011",Rad,Sivasspor,800000.0,,Super liga Srbije
+18,Milan Borjan,Red Star Belgrade,€1.20m ,Canada,,"Jan 1, 2009",Quilmes,Rad,,,Super liga Srbije
+4,Kamal Miller,CF Montréal,€4.00m ,Canada,"Dec 15, 2020",,Montréal,,,,MLS
+4,Kamal Miller,CF Montréal,€4.00m ,Canada,"Dec 15, 2020","Dec 15, 2020",Austin,Montréal,800000.0,205000.0,MLS
+4,Kamal Miller,CF Montréal,€4.00m ,Canada,"Jan 11, 2019","Dec 15, 2020",Orlando,Austin,800000.0,,MLS
+4,Kamal Miller,CF Montréal,€4.00m ,Canada,"Aug 1, 2018","Jan 11, 2019",Syracuse,Orlando,,,MLS
+4,Kamal Miller,CF Montréal,€4.00m ,Canada,"May 1, 2018","Aug 1, 2018",Reading United,Syracuse,,,MLS
+4,Kamal Miller,CF Montréal,€4.00m ,Canada,"Aug 1, 2017","May 1, 2018",Syracuse,Reading United,,,MLS
+4,Kamal Miller,CF Montréal,€4.00m ,Canada,"May 1, 2017","Aug 1, 2017",K-W United,Syracuse,,,MLS
+4,Kamal Miller,CF Montréal,€4.00m ,Canada,"Aug 1, 2016","May 1, 2017",Syracuse,K-W United,,,MLS
+4,Kamal Miller,CF Montréal,€4.00m ,Canada,"May 1, 2016","Aug 1, 2016",K-W United,Syracuse,,,MLS
+4,Kamal Miller,CF Montréal,€4.00m ,Canada,,"May 1, 2016",Syracuse,K-W United,,,MLS
+25,Derek Cornelius,Panetolikos GFS,€800k ,Canada,"Dec 31, 2022",,Vancouver,,,,Super League 1
+25,Derek Cornelius,Panetolikos GFS,€800k ,Canada,"Jul 12, 2021","Dec 31, 2022",Panetolikos,Vancouver,800000.0,,Super League 1
+25,Derek Cornelius,Panetolikos GFS,€800k ,Canada,"Jan 18, 2019","Jul 12, 2021",Vancouver,Panetolikos,400000.0,,Super League 1
+25,Derek Cornelius,Panetolikos GFS,€800k ,Canada,"Jan 31, 2017","Jan 18, 2019",Javor-Matis,Vancouver,150000.0,0.0,Super League 1
+25,Derek Cornelius,Panetolikos GFS,€800k ,Canada,"Jul 29, 2016","Jan 31, 2017",VfR Neumünster,Javor-Matis,,0.0,Super League 1
+25,Derek Cornelius,Panetolikos GFS,€800k ,Canada,"Jul 1, 2014","Jul 29, 2016",VfB Lübeck,VfR Neumünster,,0.0,Super League 1
+25,Derek Cornelius,Panetolikos GFS,€800k ,Canada,"Jan 1, 2014","Jul 1, 2014",VfB Lübeck U19,VfB Lübeck,,,Super League 1
+25,Derek Cornelius,Panetolikos GFS,€800k ,Canada,"Jul 1, 2011","Jan 1, 2014",Unionville,VfB Lübeck U19,,0.0,Super League 1
+25,Derek Cornelius,Panetolikos GFS,€800k ,Canada,,"Jul 1, 2011",Spartacus SC,Unionville,,0.0,Super League 1
+19,Alphonso Davies,Bayern Munich,€70.00m ,Canada,"Jan 1, 2019",,Bayern Munich,,,,Bundesliga
+19,Alphonso Davies,Bayern Munich,€70.00m ,Canada,"Jul 15, 2016","Jan 1, 2019",Vancouver,Bayern Munich,10000000.0,10000000.0,Bundesliga
+19,Alphonso Davies,Bayern Munich,€70.00m ,Canada,"Feb 23, 2016","Jul 15, 2016",Whitecaps FC 2,Vancouver,,,Bundesliga
+19,Alphonso Davies,Bayern Munich,€70.00m ,Canada,,"Feb 23, 2016",Whitecaps Res,Whitecaps FC 2,,,Bundesliga
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"Jan 1, 2023",,Celtic,,,,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"Dec 27, 2021","Jan 1, 2023",Montréal,Celtic,6000000.0,3500000.0,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"Jan 9, 2020","Dec 27, 2021",Nashville,Montréal,2500000.0,909000.0,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"Aug 1, 2019","Jan 9, 2020",Demon Deacons,Nashville,,,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"May 1, 2019","Aug 1, 2019",Vaughan Azzurri,Demon Deacons,,,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"Aug 1, 2018","May 1, 2019",Demon Deacons,Vaughan Azzurri,,,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"Jul 31, 2018","Aug 1, 2018",Red Storm,Demon Deacons,,0.0,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"May 1, 2018","Jul 31, 2018",Vaughan Azzurri,Red Storm,,,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"Aug 1, 2017","May 1, 2018",Red Storm,Vaughan Azzurri,,,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"May 1, 2017","Aug 1, 2017",Vaughan Azzurri,Red Storm,,,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"Aug 1, 2016","May 1, 2017",Red Storm,Vaughan Azzurri,,,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"May 1, 2016","Aug 1, 2016",Vaughan Azzurri,Red Storm,,,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"Jan 1, 2016","May 1, 2016",Red Storm,Vaughan Azzurri,,,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"Jan 1, 2015","Jan 1, 2016",Vaughan Azzurri,Red Storm,,0.0,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"Jan 1, 2014","Jan 1, 2015",ANB Futbol,Vaughan Azzurri,,0.0,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,"Jan 1, 2006","Jan 1, 2014",Aurora FC,ANB Futbol,,0.0,MLS
+2,Alistair Johnston,CF Montréal,€6.00m ,Canada,,"Jan 1, 2006",Lakeshore SC,Aurora FC,,0.0,MLS
+6,Samuel Piette,CF Montréal,€2.50m ,Canada,"Aug 3, 2017",,Montreal,,,,MLS
+6,Samuel Piette,CF Montréal,€2.50m ,Canada,"Jul 16, 2016","Aug 3, 2017",CD Izarra,Montreal,250000.0,88000.0,MLS
+6,Samuel Piette,CF Montréal,€2.50m ,Canada,"Jan 26, 2016","Jul 16, 2016",Deportivo B,CD Izarra,,0.0,MLS
+6,Samuel Piette,CF Montréal,€2.50m ,Canada,"Aug 7, 2015","Jan 26, 2016",Racing Ferrol,Deportivo B,,,MLS
+6,Samuel Piette,CF Montréal,€2.50m ,Canada,"Aug 25, 2014","Aug 7, 2015",Deportivo B,Racing Ferrol,,,MLS
+6,Samuel Piette,CF Montréal,€2.50m ,Canada,"Jul 1, 2013","Aug 25, 2014",Düsseldorf II,Deportivo B,,0.0,MLS
+6,Samuel Piette,CF Montréal,€2.50m ,Canada,"Jul 1, 2012","Jul 1, 2013",Düsseldorf U19,Düsseldorf II,,,MLS
+6,Samuel Piette,CF Montréal,€2.50m ,Canada,"Jul 1, 2011","Jul 1, 2012",FC Metz U19,Düsseldorf U19,,0.0,MLS
+6,Samuel Piette,CF Montréal,€2.50m ,Canada,,"Jul 1, 2011",Metz Youth,FC Metz U19,,,MLS
+13,Atiba Hutchinson,Besiktas JK,€200k ,Canada,"Jul 31, 2013",,Besiktas,,,,Süper Lig
+13,Atiba Hutchinson,Besiktas JK,€200k ,Canada,"Jul 1, 2010","Jul 31, 2013",PSV Eindhoven,Besiktas,3250000.0,0.0,Süper Lig
+13,Atiba Hutchinson,Besiktas JK,€200k ,Canada,"Jan 1, 2006","Jul 1, 2010",FC Copenhagen,PSV Eindhoven,3500000.0,0.0,Süper Lig
+13,Atiba Hutchinson,Besiktas JK,€200k ,Canada,"Jan 1, 2005","Jan 1, 2006",Helsingborg,FC Copenhagen,850000.0,1500000.0,Süper Lig
+13,Atiba Hutchinson,Besiktas JK,€200k ,Canada,"Jan 1, 2003","Jan 1, 2005",Östers IF,Helsingborg,50000.0,1500000.0,Süper Lig
+13,Atiba Hutchinson,Besiktas JK,€200k ,Canada,"Jul 26, 2002","Jan 1, 2003",Toronto Lynx,Östers IF,,0.0,Süper Lig
+13,Atiba Hutchinson,Besiktas JK,€200k ,Canada,,"Jul 26, 2002",Vaughan Sun Dev.,Toronto Lynx,,,Süper Lig
+15,Ismaël Koné,CF Montréal,€6.00m ,Canada,"Jan 1, 2023",,Watford,,,,MLS
+15,Ismaël Koné,CF Montréal,€6.00m ,Canada,"Aug 13, 2021","Jan 1, 2023",Montréal,Watford,6000000.0,8000000.0,MLS
+15,Ismaël Koné,CF Montréal,€6.00m ,Canada,,"Aug 13, 2021",Saint-Laurent,Montréal,,0.0,MLS
+14,Mark-Anthony Kaye,Toronto FC,€3.00m ,Canada,"Jul 9, 2022",,Toronto,,,,MLS
+14,Mark-Anthony Kaye,Toronto FC,€3.00m ,Canada,"Jul 27, 2021","Jul 9, 2022",Colorado,Toronto,5000000.0,955000.0,MLS
+14,Mark-Anthony Kaye,Toronto FC,€3.00m ,Canada,"Feb 5, 2018","Jul 27, 2021",LAFC,Colorado,6000000.0,909000.0,MLS
+14,Mark-Anthony Kaye,Toronto FC,€3.00m ,Canada,"Jan 13, 2016","Feb 5, 2018",Louisville City,LAFC,175000.0,32000.0,MLS
+14,Mark-Anthony Kaye,Toronto FC,€3.00m ,Canada,"Mar 12, 2015","Jan 13, 2016",Toronto FC II,Louisville City,,0.0,MLS
+14,Mark-Anthony Kaye,Toronto FC,€3.00m ,Canada,"Nov 30, 2014","Mar 12, 2015",TFC Academy,Toronto FC II,,,MLS
+14,Mark-Anthony Kaye,Toronto FC,€3.00m ,Canada,"Aug 22, 2014","Nov 30, 2014",Wilmington,TFC Academy,,,MLS
+14,Mark-Anthony Kaye,Toronto FC,€3.00m ,Canada,"Jul 1, 2013","Aug 22, 2014",TFC Academy,Wilmington,,,MLS
+14,Mark-Anthony Kaye,Toronto FC,€3.00m ,Canada,,"Jul 1, 2013",York Lions,TFC Academy,,0.0,MLS
+23,Liam Millar,FC Basel 1893,€2.30m ,Canada,"Jul 8, 2021",,FC Basel,,,,Super League
+23,Liam Millar,FC Basel 1893,€2.30m ,Canada,"May 31, 2021","Jul 8, 2021",Liverpool U23,FC Basel,,1500000.0,Super League
+23,Liam Millar,FC Basel 1893,€2.30m ,Canada,"Jan 5, 2021","May 31, 2021",Charlton,Liverpool U23,,,Super League
+23,Liam Millar,FC Basel 1893,€2.30m ,Canada,"Jan 8, 2020","Jan 5, 2021",Liverpool U23,Charlton,,,Super League
+23,Liam Millar,FC Basel 1893,€2.30m ,Canada,"Aug 6, 2019","Jan 8, 2020",Kilmarnock FC,Liverpool U23,,,Super League
+23,Liam Millar,FC Basel 1893,€2.30m ,Canada,"May 20, 2019","Aug 6, 2019",Liverpool U23,Kilmarnock FC,,,Super League
+23,Liam Millar,FC Basel 1893,€2.30m ,Canada,"Jan 31, 2019","May 20, 2019",Kilmarnock FC,Liverpool U23,,,Super League
+23,Liam Millar,FC Basel 1893,€2.30m ,Canada,"Jul 1, 2018","Jan 31, 2019",Liverpool U23,Kilmarnock FC,,,Super League
+23,Liam Millar,FC Basel 1893,€2.30m ,Canada,"Jul 1, 2016","Jul 1, 2018",Liverpool U18,Liverpool U23,,,Super League
+23,Liam Millar,FC Basel 1893,€2.30m ,Canada,,"Jul 1, 2016",Fulham Youth,Liverpool U18,,0.0,Super League
+11,Tajon Buchanan,Club Brugge KV,€12.00m ,Canada,"Jan 1, 2022",,Club Brugge,,,,Jupiler Pro League
+11,Tajon Buchanan,Club Brugge KV,€12.00m ,Canada,"Jan 11, 2019","Jan 1, 2022",New England,Club Brugge,8500000.0,6360000.0,Jupiler Pro League
+11,Tajon Buchanan,Club Brugge KV,€12.00m ,Canada,"Aug 1, 2018","Jan 11, 2019",Syracuse,New England,,,Jupiler Pro League
+11,Tajon Buchanan,Club Brugge KV,€12.00m ,Canada,"May 1, 2018","Aug 1, 2018",Sigma FC,Syracuse,,,Jupiler Pro League
+11,Tajon Buchanan,Club Brugge KV,€12.00m ,Canada,"Aug 1, 2017","May 1, 2018",Syracuse,Sigma FC,,,Jupiler Pro League
+11,Tajon Buchanan,Club Brugge KV,€12.00m ,Canada,"Jul 1, 2014","Aug 1, 2017",Real Colorado,Syracuse,,0.0,Jupiler Pro League
+11,Tajon Buchanan,Club Brugge KV,€12.00m ,Canada,,"Jul 1, 2014",Mississauga F.,Real Colorado,,0.0,Jupiler Pro League
+17,Cyle Larin,Club Brugge KV,€6.00m ,Canada,"Jul 4, 2022",,Club Brugge,,,,Jupiler Pro League
+17,Cyle Larin,Club Brugge KV,€6.00m ,Canada,"Jun 30, 2020","Jul 4, 2022",Besiktas,Club Brugge,10000000.0,0.0,Jupiler Pro League
+17,Cyle Larin,Club Brugge KV,€6.00m ,Canada,"Jul 5, 2019","Jun 30, 2020",Zulte Waregem,Besiktas,3200000.0,,Jupiler Pro League
+17,Cyle Larin,Club Brugge KV,€6.00m ,Canada,"Jan 15, 2018","Jul 5, 2019",Besiktas,Zulte Waregem,1250000.0,,Jupiler Pro League
+17,Cyle Larin,Club Brugge KV,€6.00m ,Canada,"Jan 15, 2015","Jan 15, 2018",Orlando,Besiktas,3500000.0,1850000.0,Jupiler Pro League
+17,Cyle Larin,Club Brugge KV,€6.00m ,Canada,"Jul 31, 2014","Jan 15, 2015",UConn Huskies,Orlando,,,Jupiler Pro League
+17,Cyle Larin,Club Brugge KV,€6.00m ,Canada,"Mar 1, 2014","Jul 31, 2014",Sigma FC,UConn Huskies,,,Jupiler Pro League
+17,Cyle Larin,Club Brugge KV,€6.00m ,Canada,"Aug 1, 2013","Mar 1, 2014",UConn Huskies,Sigma FC,,,Jupiler Pro League
+17,Cyle Larin,Club Brugge KV,€6.00m ,Canada,,"Aug 1, 2013",Sigma Academy,UConn Huskies,,0.0,Jupiler Pro League
+9,Lucas Cavallini,Vancouver Whitecaps FC,€2.00m ,Canada,"Jan 1, 2023",,Without Club,,,,MLS
+9,Lucas Cavallini,Vancouver Whitecaps FC,€2.00m ,Canada,"Jan 1, 2020","Jan 1, 2023",Vancouver,Without Club,2000000.0,,MLS
+9,Lucas Cavallini,Vancouver Whitecaps FC,€2.00m ,Canada,"Jul 1, 2018","Jan 1, 2020",Puebla FC,Vancouver,4500000.0,4550000.0,MLS
+9,Lucas Cavallini,Vancouver Whitecaps FC,€2.00m ,Canada,"Jun 30, 2018","Jul 1, 2018",Peñarol,Puebla FC,1800000.0,1290000.0,MLS
+9,Lucas Cavallini,Vancouver Whitecaps FC,€2.00m ,Canada,"Aug 22, 2017","Jun 30, 2018",Puebla FC,Peñarol,1800000.0,,MLS
+9,Lucas Cavallini,Vancouver Whitecaps FC,€2.00m ,Canada,"Jan 10, 2017","Aug 22, 2017",Peñarol,Puebla FC,1000000.0,,MLS
+9,Lucas Cavallini,Vancouver Whitecaps FC,€2.00m ,Canada,"Aug 1, 2015","Jan 10, 2017",CA Fénix,Peñarol,950000.0,,MLS
+9,Lucas Cavallini,Vancouver Whitecaps FC,€2.00m ,Canada,"Jul 31, 2015","Aug 1, 2015",Nacional,CA Fénix,650000.0,0.0,MLS
+9,Lucas Cavallini,Vancouver Whitecaps FC,€2.00m ,Canada,"Jan 12, 2014","Jul 31, 2015",CA Fénix,Nacional,650000.0,,MLS
+9,Lucas Cavallini,Vancouver Whitecaps FC,€2.00m ,Canada,"Jun 30, 2013","Jan 12, 2014",Nacional,CA Fénix,425000.0,,MLS
+9,Lucas Cavallini,Vancouver Whitecaps FC,€2.00m ,Canada,"Jul 1, 2012","Jun 30, 2013",Juventud,Nacional,250000.0,,MLS
+9,Lucas Cavallini,Vancouver Whitecaps FC,€2.00m ,Canada,"Jul 1, 2011","Jul 1, 2012",Nacional,Juventud,,,MLS
+9,Lucas Cavallini,Vancouver Whitecaps FC,€2.00m ,Canada,,"Jul 1, 2011",Nacional U19,Nacional,,,MLS
+1,Dayne St. Clair,Minnesota United FC,€1.50m ,Canada,"Aug 15, 2020",,Minnesota,,,,MLS
+1,Dayne St. Clair,Minnesota United FC,€1.50m ,Canada,"Feb 12, 2020","Aug 15, 2020",San Antonio FC,Minnesota,100000.0,,MLS
+1,Dayne St. Clair,Minnesota United FC,€1.50m ,Canada,"Nov 30, 2019","Feb 12, 2020",Minnesota,San Antonio FC,100000.0,,MLS
+1,Dayne St. Clair,Minnesota United FC,€1.50m ,Canada,"Apr 4, 2019","Nov 30, 2019",Forward Madison,Minnesota,100000.0,,MLS
+1,Dayne St. Clair,Minnesota United FC,€1.50m ,Canada,"Jan 11, 2019","Apr 4, 2019",Minnesota,Forward Madison,50000.0,,MLS
+1,Dayne St. Clair,Minnesota United FC,€1.50m ,Canada,"Aug 1, 2018","Jan 11, 2019",Maryland,Minnesota,,,MLS
+1,Dayne St. Clair,Minnesota United FC,€1.50m ,Canada,"May 1, 2018","Aug 1, 2018",NYRB U-23,Maryland,,,MLS
+1,Dayne St. Clair,Minnesota United FC,€1.50m ,Canada,"Aug 1, 2017","May 1, 2018",Maryland,NYRB U-23,,,MLS
+1,Dayne St. Clair,Minnesota United FC,€1.50m ,Canada,"May 1, 2017","Aug 1, 2017",K-W United,Maryland,,,MLS
+1,Dayne St. Clair,Minnesota United FC,€1.50m ,Canada,"Aug 1, 2016","May 1, 2017",Maryland,K-W United,,,MLS
+1,Dayne St. Clair,Minnesota United FC,€1.50m ,Canada,"May 1, 2016","Aug 1, 2016",K-W United,Maryland,,,MLS
+1,Dayne St. Clair,Minnesota United FC,€1.50m ,Canada,,"May 1, 2016",Maryland,K-W United,,,MLS
+16,James Pantemis,CF Montréal,€400k ,Canada,"Jan 1, 2023",,Without Club,,,,MLS
+16,James Pantemis,CF Montréal,€400k ,Canada,"Sep 25, 2020","Jan 1, 2023",Montréal,Without Club,400000.0,,MLS
+16,James Pantemis,CF Montréal,€400k ,Canada,"Mar 6, 2020","Sep 25, 2020",Valour FC,Montréal,100000.0,,MLS
+16,James Pantemis,CF Montréal,€400k ,Canada,"Nov 13, 2017","Mar 6, 2020",Montreal,Valour FC,100000.0,,MLS
+16,James Pantemis,CF Montréal,€400k ,Canada,"Dec 1, 2016","Nov 13, 2017",Without Club,Montreal,,,MLS
+16,James Pantemis,CF Montréal,€400k ,Canada,"Mar 1, 2016","Dec 1, 2016",FC Montréal,Without Club,,,MLS
+16,James Pantemis,CF Montréal,€400k ,Canada,,"Mar 1, 2016",Impact Academy,FC Montréal,,,MLS
+26,Joel Waterman,CF Montréal,€2.00m ,Canada,"Jan 14, 2020",,Montreal,,,,MLS
+26,Joel Waterman,CF Montréal,€2.00m ,Canada,"Feb 6, 2019","Jan 14, 2020",Cavalry FC,Montreal,175000.0,91000.0,MLS
+26,Joel Waterman,CF Montréal,€2.00m ,Canada,"Aug 1, 2016","Feb 6, 2019",TWU Spartans,Cavalry FC,,,MLS
+26,Joel Waterman,CF Montréal,€2.00m ,Canada,"May 1, 2016","Aug 1, 2016",Kitsap Pumas SC,TWU Spartans,,,MLS
+26,Joel Waterman,CF Montréal,€2.00m ,Canada,,"May 1, 2016",TWU Spartans,Kitsap Pumas SC,,,MLS
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Jul 4, 2022",,Chaves,,,,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Jul 4, 2019","Jul 4, 2022",Moreirense,Chaves,100000.0,0.0,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Aug 17, 2016","Jul 4, 2019",Lechia Gdansk,Moreirense,300000.0,0.0,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Dec 31, 2015","Aug 17, 2016",Benfica,Lechia Gdansk,600000.0,0.0,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Feb 9, 2015","Dec 31, 2015",Philadelphia,Benfica,1200000.0,,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Jul 1, 2013","Feb 9, 2015",Benfica,Philadelphia,2000000.0,,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Jul 1, 2010","Jul 1, 2013",Estoril Praia,Benfica,2200000.0,0.0,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Jun 30, 2010","Jul 1, 2010",FC Porto,Estoril Praia,300000.0,0.0,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Jul 1, 2009","Jun 30, 2010",SC Covilhã,FC Porto,300000.0,,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Jun 30, 2009","Jul 1, 2009",FC Porto,SC Covilhã,300000.0,,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Jul 1, 2007","Jun 30, 2009",Olhanense,FC Porto,300000.0,,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Jun 30, 2007","Jul 1, 2007",FC Porto,Olhanense,,,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Aug 1, 2006","Jun 30, 2007",GD Tourizense,FC Porto,,,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Jul 1, 2006","Aug 1, 2006",FC Porto,GD Tourizense,,,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,"Jul 1, 2005","Jul 1, 2006",FC Porto U19,FC Porto,,,Liga Portugal
+5,Steven Vitória,GD Chaves,€100k ,Canada,,"Jul 1, 2005",Woodbridge Str.,FC Porto U19,,,Liga Portugal
+3,Sam Adekugbe,Hatayspor,€2.00m ,Canada,"Aug 1, 2021",,Hatayspor,,,,Süper Lig
+3,Sam Adekugbe,Hatayspor,€2.00m ,Canada,"Jan 12, 2018","Aug 1, 2021",Vålerenga,Hatayspor,400000.0,400000.0,Süper Lig
+3,Sam Adekugbe,Hatayspor,€2.00m ,Canada,"Dec 1, 2017","Jan 12, 2018",Vancouver,Vålerenga,150000.0,250000.0,Süper Lig
+3,Sam Adekugbe,Hatayspor,€2.00m ,Canada,"Jul 25, 2017","Dec 1, 2017",IFK Göteborg,Vancouver,150000.0,,Süper Lig
+3,Sam Adekugbe,Hatayspor,€2.00m ,Canada,"Jun 30, 2017","Jul 25, 2017",Vancouver,IFK Göteborg,200000.0,,Süper Lig
+3,Sam Adekugbe,Hatayspor,€2.00m ,Canada,"Jul 15, 2016","Jun 30, 2017",Brighton,Vancouver,200000.0,,Süper Lig
+3,Sam Adekugbe,Hatayspor,€2.00m ,Canada,"Aug 28, 2013","Jul 15, 2016",Vancouver,Brighton,200000.0,,Süper Lig
+3,Sam Adekugbe,Hatayspor,€2.00m ,Canada,,"Aug 28, 2013",Whitecaps Res,Vancouver,,,Süper Lig
+22,Richie Laryea,Toronto FC,€2.50m ,Canada,"Jun 30, 2023",,Nottm Forest,,,,MLS
+22,Richie Laryea,Toronto FC,€2.50m ,Canada,"Aug 4, 2022","Jun 30, 2023",Toronto,Nottm Forest,2500000.0,,MLS
+22,Richie Laryea,Toronto FC,€2.50m ,Canada,"Jan 8, 2022","Aug 4, 2022",Nottm Forest,Toronto,2500000.0,,MLS
+22,Richie Laryea,Toronto FC,€2.50m ,Canada,"Mar 21, 2019","Jan 8, 2022",Toronto,Nottm Forest,3500000.0,909000.0,MLS
+22,Richie Laryea,Toronto FC,€2.50m ,Canada,"Nov 30, 2017","Mar 21, 2019",Orlando,Toronto,250000.0,0.0,MLS
+22,Richie Laryea,Toronto FC,€2.50m ,Canada,"Mar 24, 2017","Nov 30, 2017",Orlando City B,Orlando,150000.0,,MLS
+22,Richie Laryea,Toronto FC,€2.50m ,Canada,"Nov 30, 2016","Mar 24, 2017",Orlando,Orlando City B,125000.0,,MLS
+22,Richie Laryea,Toronto FC,€2.50m ,Canada,"Mar 25, 2016","Nov 30, 2016",Orlando City B,Orlando,100000.0,,MLS
+22,Richie Laryea,Toronto FC,€2.50m ,Canada,"Jan 14, 2016","Mar 25, 2016",Orlando,Orlando City B,50000.0,,MLS
+22,Richie Laryea,Toronto FC,€2.50m ,Canada,,"Jan 14, 2016",Akron Zips,Orlando,,,MLS
+8,Liam Fraser,KMSK Deinze,€900k ,Canada,"Jan 18, 2022",,KMSK Deinze,,,,Challenger Pro League
+8,Liam Fraser,KMSK Deinze,€900k ,Canada,"Dec 31, 2021","Jan 18, 2022",Toronto,KMSK Deinze,1500000.0,0.0,Challenger Pro League
+8,Liam Fraser,KMSK Deinze,€900k ,Canada,"May 3, 2021","Dec 31, 2021",Columbus,Toronto,1500000.0,,Challenger Pro League
+8,Liam Fraser,KMSK Deinze,€900k ,Canada,"Nov 30, 2018","May 3, 2021",Toronto,Columbus,1500000.0,,Challenger Pro League
+8,Liam Fraser,KMSK Deinze,€900k ,Canada,"Mar 15, 2018","Nov 30, 2018",Toronto FC II,Toronto,175000.0,,Challenger Pro League
+8,Liam Fraser,KMSK Deinze,€900k ,Canada,"Jan 19, 2018","Mar 15, 2018",Toronto,Toronto FC II,175000.0,,Challenger Pro League
+8,Liam Fraser,KMSK Deinze,€900k ,Canada,"Jun 1, 2015","Jan 19, 2018",Toronto FC II,Toronto,175000.0,,Challenger Pro League
+8,Liam Fraser,KMSK Deinze,€900k ,Canada,,"Jun 1, 2015",TFC Academy,Toronto FC II,,,Challenger Pro League
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jul 1, 2022",,FC Porto,,,,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jun 30, 2022","Jul 1, 2022",Paços Ferreira,FC Porto,5000000.0,3500000.0,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jan 24, 2022","Jun 30, 2022",FC Porto,Paços Ferreira,5000000.0,,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jan 30, 2021","Jan 24, 2022",Paços Ferreira,FC Porto,5000000.0,,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jan 28, 2021","Jan 30, 2021",CD Cruz Azul,Paços Ferreira,4000000.0,2500000.0,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jan 1, 2020","Jan 28, 2021",Paços Ferreira,CD Cruz Azul,4000000.0,,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jan 16, 2019","Jan 1, 2020",CD Cruz Azul,Paços Ferreira,3000000.0,,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jan 31, 2018","Jan 16, 2019",Chaves,CD Cruz Azul,3000000.0,3500000.0,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jul 1, 2017","Jan 31, 2018",Leixões,Chaves,200000.0,500000.0,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jul 1, 2015","Jul 1, 2017",Torreense,Leixões,,,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jul 1, 2014","Jul 1, 2015",Torreense U19,Torreense,,,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jun 30, 2014","Jul 1, 2014",Leiria U19,Torreense U19,,,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jan 1, 2014","Jun 30, 2014",Nazarenos U19,Leiria U19,,,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jul 1, 2013","Jan 1, 2014",Leiria U19,Nazarenos U19,,,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jul 1, 2011","Jul 1, 2013",Leiria Sub-17,Leiria U19,,,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jul 1, 2010","Jul 1, 2011",Leiria Sub-15,Leiria Sub-17,,,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,"Jul 1, 2009","Jul 1, 2010",Nazarenos S15,Leiria Sub-15,,,Liga Portugal
+7,Stephen Eustaquio,FC Porto,€8.00m ,Canada,,"Jul 1, 2009",Nazarenos Fo.,Nazarenos S15,,,Liga Portugal
+21,Jonathan Osorio,Toronto FC,€3.50m ,Canada,"Jan 1, 2023",,Without Club,,,,MLS
+21,Jonathan Osorio,Toronto FC,€3.50m ,Canada,"Feb 27, 2013","Jan 1, 2023",Toronto,Without Club,3500000.0,,MLS
+21,Jonathan Osorio,Toronto FC,€3.50m ,Canada,"Sep 1, 2012","Feb 27, 2013",TFC Academy,Toronto,,,MLS
+21,Jonathan Osorio,Toronto FC,€3.50m ,Canada,,"Sep 1, 2012",SC Toronto,TFC Academy,,0.0,MLS
+24,David Wotherspoon,St. Johnstone FC,€600k ,Canada,"Jul 2, 2013",,St. Johnstone,,,,Premiership
+24,David Wotherspoon,St. Johnstone FC,€600k ,Canada,"Aug 1, 2009","Jul 2, 2013",Hibernian FC,St. Johnstone,750000.0,0.0,Premiership
+24,David Wotherspoon,St. Johnstone FC,€600k ,Canada,"Jul 1, 2007","Aug 1, 2009",Hibernian FC U20,Hibernian FC,,,Premiership
+24,David Wotherspoon,St. Johnstone FC,€600k ,Canada,"Jul 1, 2005","Jul 1, 2007",Celtic U17,Hibernian FC U20,,0.0,Premiership
+24,David Wotherspoon,St. Johnstone FC,€600k ,Canada,"Jul 1, 2002","Jul 1, 2005",Celtic Youth,Celtic U17,,,Premiership
+24,David Wotherspoon,St. Johnstone FC,€600k ,Canada,,"Jul 1, 2002",St. Johnst. Yth,Celtic Youth,,0.0,Premiership
+10,Junior Hoilett,Reading FC,€800k ,Canada,"Aug 19, 2021",,Reading,,,,Championship
+10,Junior Hoilett,Reading FC,€800k ,Canada,"Oct 10, 2016","Aug 19, 2021",Cardiff,Reading,1000000.0,0.0,Championship
+10,Junior Hoilett,Reading FC,€800k ,Canada,"Jul 1, 2016","Oct 10, 2016",Without Club,Cardiff,3500000.0,,Championship
+10,Junior Hoilett,Reading FC,€800k ,Canada,"Jul 27, 2012","Jul 1, 2016",QPR,Without Club,3500000.0,,Championship
+10,Junior Hoilett,Reading FC,€800k ,Canada,"Jul 1, 2009","Jul 27, 2012",Blackburn,QPR,9000000.0,3750000.0,Championship
+10,Junior Hoilett,Reading FC,€800k ,Canada,"Jun 30, 2009","Jul 1, 2009",Blackburn Res.,Blackburn,1000000.0,,Championship
+10,Junior Hoilett,Reading FC,€800k ,Canada,"Jul 28, 2008","Jun 30, 2009",FC St. Pauli,Blackburn Res.,1000000.0,,Championship
+10,Junior Hoilett,Reading FC,€800k ,Canada,"Jun 30, 2008","Jul 28, 2008",Blackburn Res.,FC St. Pauli,200000.0,,Championship
+10,Junior Hoilett,Reading FC,€800k ,Canada,"Jan 1, 2008","Jun 30, 2008",SC Paderborn,Blackburn Res.,200000.0,,Championship
+10,Junior Hoilett,Reading FC,€800k ,Canada,"Jul 1, 2007","Jan 1, 2008",Blackburn Res.,SC Paderborn,,,Championship
+10,Junior Hoilett,Reading FC,€800k ,Canada,,"Jul 1, 2007",Blackburn U18,Blackburn Res.,,,Championship
+20,Jonathan David,LOSC Lille,€45.00m ,Canada,"Aug 11, 2020",,LOSC Lille,,,,Ligue 1
+20,Jonathan David,LOSC Lille,€45.00m ,Canada,"Jul 1, 2018","Aug 11, 2020",KAA Gent,LOSC Lille,25000000.0,27000000.0,Ligue 1
+20,Jonathan David,LOSC Lille,€45.00m ,Canada,"Jan 23, 2018","Jul 1, 2018",KAA Gent U21,KAA Gent,100000.0,,Ligue 1
+20,Jonathan David,LOSC Lille,€45.00m ,Canada,,"Jan 23, 2018",Ottawa ISC,KAA Gent U21,,0.0,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"Aug 4, 2022",,Troyes,,,,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"Jun 30, 2022","Aug 4, 2022",KRC Genk,Troyes,5000000.0,3000000.0,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"Jan 31, 2022","Jun 30, 2022",Troyes,KRC Genk,5000000.0,,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"Aug 24, 2021","Jan 31, 2022",KRC Genk,Troyes,3500000.0,,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"Jun 30, 2021","Aug 24, 2021",Chelsea U23,KRC Genk,4500000.0,3500000.0,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"Aug 18, 2020","Jun 30, 2021",Cercle Brugge,Chelsea U23,4500000.0,,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"Jun 30, 2020","Aug 18, 2020",Chelsea U23,Cercle Brugge,500000.0,,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"Aug 3, 2019","Jun 30, 2020",Roda JC,Chelsea U23,500000.0,,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"Jan 6, 2019","Aug 3, 2019",Chelsea U23,Roda JC,250000.0,,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"Aug 30, 2018","Jan 6, 2019",Scunthorpe Utd.,Chelsea U23,250000.0,,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"May 31, 2018","Aug 30, 2018",Chelsea U23,Scunthorpe Utd.,250000.0,,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"Jan 4, 2018","May 31, 2018",MK Dons,Chelsea U23,250000.0,,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"Jan 3, 2018","Jan 4, 2018",Chelsea U23,MK Dons,250000.0,,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"Jul 17, 2017","Jan 3, 2018",Barnsley FC,Chelsea U23,250000.0,,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,"Jul 1, 2016","Jul 17, 2017",Chelsea U23,Barnsley FC,,,Ligue 1
+12,Iké Ugbo,ESTAC Troyes,€4.00m ,Canada,,"Jul 1, 2016",Chelsea U18,Chelsea U23,,,Ligue 1

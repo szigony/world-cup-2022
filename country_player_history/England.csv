@@ -1,0 +1,200 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+1,Jordan Pickford,Everton FC,€28.00m ,England,"Jul 1, 2017",,Everton,,,,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,"Jan 1, 2016","Jul 1, 2017",Sunderland,Everton,15000000.0,28500000.0,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,"Jul 31, 2015","Jan 1, 2016",Preston,Sunderland,500000.0,,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,"Mar 9, 2015","Jul 31, 2015",Sunderland,Preston,250000.0,,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,"Jul 21, 2014","Mar 9, 2015",Bradford,Sunderland,250000.0,,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,"May 31, 2014","Jul 21, 2014",Sunderland,Bradford,250000.0,,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,"Feb 8, 2014","May 31, 2014",Carlisle United,Sunderland,250000.0,,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,"Nov 22, 2013","Feb 8, 2014",Sunderland,Carlisle United,250000.0,,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,"Aug 2, 2013","Nov 22, 2013",Burton Albion,Sunderland,150000.0,,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,"Jul 1, 2013","Aug 2, 2013",Sunderland,Burton Albion,150000.0,,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,"Mar 26, 2013","Jul 1, 2013",Sunderland U21,Sunderland,,,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,"Feb 26, 2013","Mar 26, 2013",Alfreton,Sunderland U21,,,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,"Jul 1, 2012","Feb 26, 2013",Sunderland U21,Alfreton,,,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,"May 31, 2012","Jul 1, 2012",Sunderland U18,Sunderland U21,,,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,"Jan 1, 2012","May 31, 2012",Darlington,Sunderland U18,,,Premier League
+1,Jordan Pickford,Everton FC,€28.00m ,England,,"Jan 1, 2012",Sunderland U18,Darlington,,,Premier League
+21,Ben White,Arsenal FC,€45.00m ,England,"Jul 30, 2021",,Arsenal,,,,Premier League
+21,Ben White,Arsenal FC,€45.00m ,England,"Jul 31, 2020","Jul 30, 2021",Brighton,Arsenal,28000000.0,58500000.0,Premier League
+21,Ben White,Arsenal FC,€45.00m ,England,"Jul 1, 2019","Jul 31, 2020",Leeds,Brighton,5500000.0,,Premier League
+21,Ben White,Arsenal FC,€45.00m ,England,"May 31, 2019","Jul 1, 2019",Brighton,Leeds,,,Premier League
+21,Ben White,Arsenal FC,€45.00m ,England,"Jan 3, 2019","May 31, 2019",Peterborough,Brighton,,,Premier League
+21,Ben White,Arsenal FC,€45.00m ,England,"Jul 1, 2018","Jan 3, 2019",Brighton,Peterborough,,,Premier League
+21,Ben White,Arsenal FC,€45.00m ,England,"May 31, 2018","Jul 1, 2018",Brighton U23,Brighton,,,Premier League
+21,Ben White,Arsenal FC,€45.00m ,England,"Aug 1, 2017","May 31, 2018",Newport County,Brighton U23,,,Premier League
+21,Ben White,Arsenal FC,€45.00m ,England,"Jan 1, 2015","Aug 1, 2017",Brighton U23,Newport County,,,Premier League
+21,Ben White,Arsenal FC,€45.00m ,England,"Jul 1, 2014","Jan 1, 2015",Brighton U18,Brighton U21,,,Premier League
+21,Ben White,Arsenal FC,€45.00m ,England,,"Jul 1, 2014",Southampton Aca,Brighton U18,,0.0,Premier League
+6,Harry Maguire,Manchester United,€30.00m ,England,"Aug 5, 2019",,Man Utd,,,,Premier League
+6,Harry Maguire,Manchester United,€30.00m ,England,"Jul 1, 2017","Aug 5, 2019",Leicester,Man Utd,50000000.0,87000000.0,Premier League
+6,Harry Maguire,Manchester United,€30.00m ,England,"May 31, 2015","Jul 1, 2017",Hull City,Leicester,8000000.0,13700000.0,Premier League
+6,Harry Maguire,Manchester United,€30.00m ,England,"Feb 10, 2015","May 31, 2015",Wigan,Hull City,2000000.0,,Premier League
+6,Harry Maguire,Manchester United,€30.00m ,England,"Jul 29, 2014","Feb 10, 2015",Hull City,Wigan,3000000.0,,Premier League
+6,Harry Maguire,Manchester United,€30.00m ,England,"Jul 1, 2011","Jul 29, 2014",Sheff Utd,Hull City,750000.0,3150000.0,Premier League
+6,Harry Maguire,Manchester United,€30.00m ,England,"Jul 1, 2009","Jul 1, 2011",Sheff Utd U18,Sheff Utd,,,Premier League
+6,Harry Maguire,Manchester United,€30.00m ,England,,"Jul 1, 2009",Barnsley U18,Sheff Utd U18,,,Premier League
+16,Conor Coady,Everton FC,€18.00m ,England,"Jun 30, 2023",,Wolves,,,,Premier League
+16,Conor Coady,Everton FC,€18.00m ,England,"Aug 8, 2022","Jun 30, 2023",Everton,Wolves,18000000.0,,Premier League
+16,Conor Coady,Everton FC,€18.00m ,England,"Jul 3, 2015","Aug 8, 2022",Wolves,Everton,25000000.0,,Premier League
+16,Conor Coady,Everton FC,€18.00m ,England,"Aug 6, 2014","Jul 3, 2015",Huddersfield,Wolves,750000.0,2800000.0,Premier League
+16,Conor Coady,Everton FC,€18.00m ,England,"May 31, 2014","Aug 6, 2014",Liverpool U21,Huddersfield,300000.0,470000.0,Premier League
+16,Conor Coady,Everton FC,€18.00m ,England,"Jul 22, 2013","May 31, 2014",Sheff Utd,Liverpool U21,300000.0,,Premier League
+16,Conor Coady,Everton FC,€18.00m ,England,"Jul 1, 2011","Jul 22, 2013",Liverpool U21,Sheff Utd,,,Premier League
+16,Conor Coady,Everton FC,€18.00m ,England,,"Jul 1, 2011",Liverpool U18,Liverpool Res.,,,Premier League
+18,Trent Alexander-Arnold,Liverpool FC,€70.00m ,England,"Jul 1, 2016",,Liverpool,,,,Premier League
+18,Trent Alexander-Arnold,Liverpool FC,€70.00m ,England,"Jul 1, 2015","Jul 1, 2016",Liverpool U18,Liverpool,,,Premier League
+18,Trent Alexander-Arnold,Liverpool FC,€70.00m ,England,,"Jul 1, 2015",Liverpool Youth,Liverpool U18,,,Premier League
+12,Kieran Trippier,Newcastle United,€13.00m ,England,"Jan 7, 2022",,Newcastle,,,,Premier League
+12,Kieran Trippier,Newcastle United,€13.00m ,England,"Jul 17, 2019","Jan 7, 2022",Atlético Madrid,Newcastle,18000000.0,14000000.0,Premier League
+12,Kieran Trippier,Newcastle United,€13.00m ,England,"Jul 1, 2015","Jul 17, 2019",Spurs,Atlético Madrid,35000000.0,22000000.0,Premier League
+12,Kieran Trippier,Newcastle United,€13.00m ,England,"Jan 4, 2012","Jul 1, 2015",Burnley,Spurs,6000000.0,4900000.0,Premier League
+12,Kieran Trippier,Newcastle United,€13.00m ,England,"Jan 3, 2012","Jan 4, 2012",Man City Res.,Burnley,250000.0,,Premier League
+12,Kieran Trippier,Newcastle United,€13.00m ,England,"Jul 26, 2011","Jan 3, 2012",Burnley,Man City Res.,250000.0,,Premier League
+12,Kieran Trippier,Newcastle United,€13.00m ,England,"May 31, 2011","Jul 26, 2011",Man City Res.,Burnley,250000.0,,Premier League
+12,Kieran Trippier,Newcastle United,€13.00m ,England,"Aug 7, 2010","May 31, 2011",Barnsley FC,Man City Res.,250000.0,,Premier League
+12,Kieran Trippier,Newcastle United,€13.00m ,England,"Mar 7, 2010","Aug 7, 2010",Man City Res.,Barnsley FC,50000.0,,Premier League
+12,Kieran Trippier,Newcastle United,€13.00m ,England,"Feb 9, 2010","Mar 7, 2010",Barnsley FC,Man City Res.,,,Premier League
+12,Kieran Trippier,Newcastle United,€13.00m ,England,"Jul 1, 2009","Feb 9, 2010",Man City Res.,Barnsley FC,,,Premier League
+12,Kieran Trippier,Newcastle United,€13.00m ,England,,"Jul 1, 2009",Man City U18,Man City Res.,,,Premier League
+14,Kalvin Phillips,Manchester City,€45.00m ,England,"Jul 4, 2022",,Man City,,,,Premier League
+14,Kalvin Phillips,Manchester City,€45.00m ,England,"Jul 1, 2015","Jul 4, 2022",Leeds,Man City,50000000.0,49000000.0,Premier League
+14,Kalvin Phillips,Manchester City,€45.00m ,England,"Jul 1, 2014","Jul 1, 2015",Leeds U21,Leeds,,,Premier League
+14,Kalvin Phillips,Manchester City,€45.00m ,England,,"Jul 1, 2014",Leeds U18,Leeds U21,,,Premier League
+22,Jude Bellingham,Borussia Dortmund,€100.00m ,England,"Jul 23, 2020",,Bor. Dortmund,,,,Bundesliga
+22,Jude Bellingham,Borussia Dortmund,€100.00m ,England,"Jul 1, 2019","Jul 23, 2020",Birmingham,Bor. Dortmund,11000000.0,25000000.0,Bundesliga
+22,Jude Bellingham,Borussia Dortmund,€100.00m ,England,,"Jul 1, 2019",Birmingham U18,Birmingham,,,Bundesliga
+8,Jordan Henderson,Liverpool FC,€15.00m ,England,"Jul 1, 2011",,Liverpool,,,,Premier League
+8,Jordan Henderson,Liverpool FC,€15.00m ,England,"Apr 6, 2009","Jul 1, 2011",Sunderland,Liverpool,8500000.0,18000000.0,Premier League
+8,Jordan Henderson,Liverpool FC,€15.00m ,England,"Jan 29, 2009","Apr 6, 2009",Coventry,Sunderland,50000.0,,Premier League
+8,Jordan Henderson,Liverpool FC,€15.00m ,England,"Jul 1, 2008","Jan 29, 2009",Sunderland,Coventry,50000.0,,Premier League
+8,Jordan Henderson,Liverpool FC,€15.00m ,England,"Jul 1, 2006","Jul 1, 2008",Sunderland U18,Sunderland,,,Premier League
+8,Jordan Henderson,Liverpool FC,€15.00m ,England,,"Jul 1, 2006",Sunderland Yth.,Sunderland U18,,,Premier League
+19,Mason Mount,Chelsea FC,€75.00m ,England,"Jul 1, 2019",,Chelsea,,,,Premier League
+19,Mason Mount,Chelsea FC,€75.00m ,England,"May 31, 2019","Jul 1, 2019",Chelsea U23,Chelsea,12000000.0,,Premier League
+19,Mason Mount,Chelsea FC,€75.00m ,England,"Jul 17, 2018","May 31, 2019",Derby,Chelsea U23,10000000.0,,Premier League
+19,Mason Mount,Chelsea FC,€75.00m ,England,"Jun 30, 2018","Jul 17, 2018",Chelsea U23,Derby,4000000.0,,Premier League
+19,Mason Mount,Chelsea FC,€75.00m ,England,"Jul 24, 2017","Jun 30, 2018",Vitesse,Chelsea U23,4000000.0,,Premier League
+19,Mason Mount,Chelsea FC,€75.00m ,England,"Jul 1, 2016","Jul 24, 2017",Chelsea U23,Vitesse,400000.0,,Premier League
+19,Mason Mount,Chelsea FC,€75.00m ,England,"Jul 1, 2015","Jul 1, 2016",Chelsea U18,Chelsea U23,,,Premier League
+19,Mason Mount,Chelsea FC,€75.00m ,England,,"Jul 1, 2015",Chelsea Youth,Chelsea U18,,,Premier League
+7,Jack Grealish,Manchester City,€70.00m ,England,"Aug 5, 2021",,Man City,,,,Premier League
+7,Jack Grealish,Manchester City,€70.00m ,England,"May 4, 2014","Aug 5, 2021",Aston Villa,Man City,65000000.0,117500000.0,Premier League
+7,Jack Grealish,Manchester City,€70.00m ,England,"Sep 13, 2013","May 4, 2014",Notts County,Aston Villa,250000.0,,Premier League
+7,Jack Grealish,Manchester City,€70.00m ,England,"Jul 1, 2013","Sep 13, 2013",Aston Villa,Notts County,150000.0,,Premier League
+7,Jack Grealish,Manchester City,€70.00m ,England,"Jul 1, 2012","Jul 1, 2013",Aston Villa U21,Aston Villa,,,Premier League
+7,Jack Grealish,Manchester City,€70.00m ,England,"Jul 1, 2010","Jul 1, 2012",Aston Villa U18,Aston Villa U21,,,Premier League
+7,Jack Grealish,Manchester City,€70.00m ,England,,"Jul 1, 2010",A. Villa Yth.,Aston Villa U18,,,Premier League
+11,Marcus Rashford,Manchester United,€55.00m ,England,"Jan 1, 2016",,Man Utd,,,,Premier League
+11,Marcus Rashford,Manchester United,€55.00m ,England,,"Jan 1, 2016",Man Utd U18,Man Utd,,,Premier League
+24,Callum Wilson,Newcastle United,€18.00m ,England,"Sep 7, 2020",,Newcastle,,,,Premier League
+24,Callum Wilson,Newcastle United,€18.00m ,England,"Jul 4, 2014","Sep 7, 2020",Bournemouth,Newcastle,20000000.0,22250000.0,Premier League
+24,Callum Wilson,Newcastle United,€18.00m ,England,"Jan 1, 2013","Jul 4, 2014",Coventry,Bournemouth,750000.0,3700000.0,Premier League
+24,Callum Wilson,Newcastle United,€18.00m ,England,"Jan 16, 2012","Jan 1, 2013",Coventry U21,Coventry,50000.0,,Premier League
+24,Callum Wilson,Newcastle United,€18.00m ,England,"Dec 29, 2011","Jan 16, 2012",Tamworth,Coventry U21,50000.0,,Premier League
+24,Callum Wilson,Newcastle United,€18.00m ,England,"May 1, 2011","Dec 29, 2011",Coventry U21,Tamworth,50000.0,,Premier League
+24,Callum Wilson,Newcastle United,€18.00m ,England,"Jan 1, 2011","May 1, 2011",Kettering,Coventry U21,50000.0,,Premier League
+24,Callum Wilson,Newcastle United,€18.00m ,England,"Jul 1, 2010","Jan 1, 2011",Coventry U21,Kettering,50000.0,,Premier League
+24,Callum Wilson,Newcastle United,€18.00m ,England,,"Jul 1, 2010",Coventry U18,Coventry U21,,,Premier League
+23,Aaron Ramsdale,Arsenal FC,€30.00m ,England,"Aug 20, 2021",,Arsenal,,,,Premier League
+23,Aaron Ramsdale,Arsenal FC,€30.00m ,England,"Aug 19, 2020","Aug 20, 2021",Sheff Utd,Arsenal,12000000.0,28000000.0,Premier League
+23,Aaron Ramsdale,Arsenal FC,€30.00m ,England,"May 31, 2019","Aug 19, 2020",Bournemouth,Sheff Utd,12500000.0,20500000.0,Premier League
+23,Aaron Ramsdale,Arsenal FC,€30.00m ,England,"Jan 4, 2019","May 31, 2019",AFC Wimbledon,Bournemouth,500000.0,,Premier League
+23,Aaron Ramsdale,Arsenal FC,€30.00m ,England,"May 31, 2018","Jan 4, 2019",Bournemouth,AFC Wimbledon,500000.0,,Premier League
+23,Aaron Ramsdale,Arsenal FC,€30.00m ,England,"Jan 5, 2018","May 31, 2018",Chesterfield FC,Bournemouth,500000.0,,Premier League
+23,Aaron Ramsdale,Arsenal FC,€30.00m ,England,"Jan 31, 2017","Jan 5, 2018",Bournemouth,Chesterfield FC,500000.0,,Premier League
+23,Aaron Ramsdale,Arsenal FC,€30.00m ,England,"Jul 1, 2016","Jan 31, 2017",Sheff Utd,Bournemouth,50000.0,940000.0,Premier League
+23,Aaron Ramsdale,Arsenal FC,€30.00m ,England,,"Jul 1, 2016",Sheff Utd U18,Sheff Utd,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Jul 1, 2022",,Newcastle,,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Jul 19, 2016","Jul 1, 2022",Burnley,Newcastle,15000000.0,11500000.0,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"May 31, 2015","Jul 19, 2016",Charlton,Burnley,200000.0,1300000.0,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Jan 6, 2015","May 31, 2015",Bury,Charlton,100000.0,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"May 31, 2014","Jan 6, 2015",Charlton,Bury,100000.0,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Jan 16, 2014","May 31, 2014",York City,Charlton,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Nov 28, 2013","Jan 16, 2014",Charlton,York City,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Nov 22, 2013","Nov 28, 2013",York City,Charlton,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Oct 26, 2013","Nov 22, 2013",Charlton,York City,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Sep 26, 2013","Oct 26, 2013",Aldershot,Charlton,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Apr 7, 2013","Sep 26, 2013",Charlton,Aldershot,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Mar 7, 2013","Apr 7, 2013",Cambridge Utd.,Charlton,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Jan 19, 2012","Mar 7, 2013",Charlton,Cambridge Utd.,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Dec 22, 2011","Jan 19, 2012",Welling Utd.,Charlton,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Oct 15, 2011","Dec 22, 2011",Charlton,Welling Utd.,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Aug 10, 2011","Oct 15, 2011",Harrow Borough,Charlton,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Jul 1, 2011","Aug 10, 2011",Charlton,Harrow Borough,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,"Jul 1, 2008","Jul 1, 2011",Bury Town,Charlton,,,Premier League
+13,Nick Pope,Newcastle United,€18.00m ,England,,"Jul 1, 2008",Ipswich U18,Bury Town,,0.0,Premier League
+5,John Stones,Manchester City,€30.00m ,England,"Aug 9, 2016",,Man City,,,,Premier League
+5,John Stones,Manchester City,€30.00m ,England,"Jan 31, 2013","Aug 9, 2016",Everton,Man City,28000000.0,55600000.0,Premier League
+5,John Stones,Manchester City,€30.00m ,England,"Jul 1, 2012","Jan 31, 2013",Barnsley FC,Everton,100000.0,3500000.0,Premier League
+5,John Stones,Manchester City,€30.00m ,England,,"Jul 1, 2012",Barnsley U18,Barnsley FC,50000.0,,Premier League
+15,Eric Dier,Tottenham Hotspur,€30.00m ,England,"Jul 31, 2014",,Spurs,,,,Premier League
+15,Eric Dier,Tottenham Hotspur,€30.00m ,England,"Jul 1, 2012","Jul 31, 2014",Sporting CP,Spurs,3500000.0,5000000.0,Premier League
+15,Eric Dier,Tottenham Hotspur,€30.00m ,England,"Jun 30, 2012","Jul 1, 2012",Sporting U19,Sporting CP,,,Premier League
+15,Eric Dier,Tottenham Hotspur,€30.00m ,England,"Jan 20, 2011","Jun 30, 2012",Everton U18,Sporting U19,,,Premier League
+15,Eric Dier,Tottenham Hotspur,€30.00m ,England,"Jul 1, 2010","Jan 20, 2011",Sporting U19,Everton U18,,,Premier League
+15,Eric Dier,Tottenham Hotspur,€30.00m ,England,"Jul 1, 2009","Jul 1, 2010",Sporting U17,Sporting U19,,,Premier League
+15,Eric Dier,Tottenham Hotspur,€30.00m ,England,,"Jul 1, 2009",Sporting Sub-15,Sporting U17,,,Premier League
+3,Luke Shaw,Manchester United,€28.00m ,England,"Jul 1, 2014",,Man Utd,,,,Premier League
+3,Luke Shaw,Manchester United,€28.00m ,England,"Nov 1, 2012","Jul 1, 2014",Southampton,Man Utd,13000000.0,37500000.0,Premier League
+3,Luke Shaw,Manchester United,€28.00m ,England,,"Nov 1, 2012",Southampton U18,Southampton,,,Premier League
+2,Kyle Walker,Manchester City,€15.00m ,England,"Jul 14, 2017",,Man City,,,,Premier League
+2,Kyle Walker,Manchester City,€15.00m ,England,"May 31, 2011","Jul 14, 2017",Spurs,Man City,30000000.0,52700000.0,Premier League
+2,Kyle Walker,Manchester City,€15.00m ,England,"Jan 5, 2011","May 31, 2011",Aston Villa,Spurs,2000000.0,,Premier League
+2,Kyle Walker,Manchester City,€15.00m ,England,"Dec 31, 2010","Jan 5, 2011",Spurs,Aston Villa,2000000.0,,Premier League
+2,Kyle Walker,Manchester City,€15.00m ,England,"Sep 13, 2010","Dec 31, 2010",QPR,Spurs,2000000.0,,Premier League
+2,Kyle Walker,Manchester City,€15.00m ,England,"Feb 1, 2010","Sep 13, 2010",Spurs,QPR,2000000.0,,Premier League
+2,Kyle Walker,Manchester City,€15.00m ,England,"Aug 4, 2009","Feb 1, 2010",Sheff Utd,Spurs,3000000.0,,Premier League
+2,Kyle Walker,Manchester City,€15.00m ,England,"Jul 22, 2009","Aug 4, 2009",Spurs,Sheff Utd,50000.0,,Premier League
+2,Kyle Walker,Manchester City,€15.00m ,England,"Jan 1, 2009","Jul 22, 2009",Sheff Utd,Spurs,50000.0,5900000.0,Premier League
+2,Kyle Walker,Manchester City,€15.00m ,England,"Nov 1, 2008","Jan 1, 2009",Northampton,Sheff Utd,,,Premier League
+2,Kyle Walker,Manchester City,€15.00m ,England,"Jul 1, 2008","Nov 1, 2008",Sheff Utd,Northampton,,,Premier League
+2,Kyle Walker,Manchester City,€15.00m ,England,,"Jul 1, 2008",Sheff Utd U18,Sheff Utd,,,Premier League
+4,Declan Rice,West Ham United,€80.00m ,England,"Jul 1, 2017",,West Ham,,,,Premier League
+4,Declan Rice,West Ham United,€80.00m ,England,"Jul 1, 2016","Jul 1, 2017",West Ham U21,West Ham,,,Premier League
+4,Declan Rice,West Ham United,€80.00m ,England,"Jul 1, 2015","Jul 1, 2016",West Ham U18,West Ham U21,,,Premier League
+4,Declan Rice,West Ham United,€80.00m ,England,"Jul 1, 2013","Jul 1, 2015",West Ham Yth.,West Ham U18,,,Premier League
+4,Declan Rice,West Ham United,€80.00m ,England,,"Jul 1, 2013",Chelsea Youth,West Ham Yth.,,0.0,Premier League
+20,Phil Foden,Manchester City,€110.00m ,England,"Jul 1, 2017",,Man City,,,,Premier League
+20,Phil Foden,Manchester City,€110.00m ,England,"Jul 1, 2016","Jul 1, 2017",Man City U18,Man City,,,Premier League
+20,Phil Foden,Manchester City,€110.00m ,England,,"Jul 1, 2016",Man City Youth,Man City U18,,,Premier League
+26,Conor Gallagher,Chelsea FC,€32.00m ,England,"Jul 1, 2022",,Chelsea,,,,Premier League
+26,Conor Gallagher,Chelsea FC,€32.00m ,England,"May 31, 2022","Jul 1, 2022",Chelsea U21,Chelsea,25000000.0,,Premier League
+26,Conor Gallagher,Chelsea FC,€32.00m ,England,"Jul 30, 2021","May 31, 2022",Crystal Palace,Chelsea U23,25000000.0,,Premier League
+26,Conor Gallagher,Chelsea FC,€32.00m ,England,"May 31, 2021","Jul 30, 2021",Chelsea U23,Crystal Palace,15000000.0,,Premier League
+26,Conor Gallagher,Chelsea FC,€32.00m ,England,"Sep 17, 2020","May 31, 2021",West Brom,Chelsea U23,12000000.0,,Premier League
+26,Conor Gallagher,Chelsea FC,€32.00m ,England,"Jul 31, 2020","Sep 17, 2020",Chelsea U23,West Brom,5400000.0,,Premier League
+26,Conor Gallagher,Chelsea FC,€32.00m ,England,"Jan 15, 2020","Jul 31, 2020",Swansea,Chelsea U23,5400000.0,,Premier League
+26,Conor Gallagher,Chelsea FC,€32.00m ,England,"Jan 14, 2020","Jan 15, 2020",Chelsea U23,Swansea,2000000.0,,Premier League
+26,Conor Gallagher,Chelsea FC,€32.00m ,England,"Aug 2, 2019","Jan 14, 2020",Charlton,Chelsea U23,2000000.0,,Premier League
+26,Conor Gallagher,Chelsea FC,€32.00m ,England,"Jul 1, 2018","Aug 2, 2019",Chelsea U23,Charlton,,,Premier League
+26,Conor Gallagher,Chelsea FC,€32.00m ,England,"Jul 1, 2016","Jul 1, 2018",Chelsea U18,Chelsea U23,,,Premier League
+26,Conor Gallagher,Chelsea FC,€32.00m ,England,,"Jul 1, 2016",Chelsea Youth,Chelsea U18,,,Premier League
+17,Bukayo Saka,Arsenal FC,€90.00m ,England,"Jul 1, 2019",,Arsenal,,,,Premier League
+17,Bukayo Saka,Arsenal FC,€90.00m ,England,"Jul 1, 2018","Jul 1, 2019",Arsenal U23,Arsenal,,,Premier League
+17,Bukayo Saka,Arsenal FC,€90.00m ,England,"Jul 1, 2017","Jul 1, 2018",Arsenal U18,Arsenal U23,,,Premier League
+17,Bukayo Saka,Arsenal FC,€90.00m ,England,,"Jul 1, 2017",Arsenal Youth,Arsenal U18,,,Premier League
+25,James Maddison,Leicester City,€55.00m ,England,"Jul 1, 2018",,Leicester,,,,Premier League
+25,James Maddison,Leicester City,€55.00m ,England,"Jan 2, 2017","Jul 1, 2018",Norwich,Leicester,10000000.0,25000000.0,Premier League
+25,James Maddison,Leicester City,€55.00m ,England,"Aug 31, 2016","Jan 2, 2017",Aberdeen FC,Norwich,1500000.0,,Premier League
+25,James Maddison,Leicester City,€55.00m ,England,"May 31, 2016","Aug 31, 2016",Norwich,Aberdeen FC,1500000.0,,Premier League
+25,James Maddison,Leicester City,€55.00m ,England,"Feb 2, 2016","May 31, 2016",Coventry,Norwich,1500000.0,,Premier League
+25,James Maddison,Leicester City,€55.00m ,England,"Feb 1, 2016","Feb 2, 2016",Norwich,Coventry,500000.0,,Premier League
+25,James Maddison,Leicester City,€55.00m ,England,"Jul 1, 2014","Feb 1, 2016",Coventry,Norwich,500000.0,2650000.0,Premier League
+25,James Maddison,Leicester City,€55.00m ,England,,"Jul 1, 2014",Coventry U18,Coventry,,,Premier League
+10,Raheem Sterling,Chelsea FC,€70.00m ,England,"Jul 13, 2022",,Chelsea,,,,Premier League
+10,Raheem Sterling,Chelsea FC,€70.00m ,England,"Jul 14, 2015","Jul 13, 2022",Man City,Chelsea,70000000.0,56200000.0,Premier League
+10,Raheem Sterling,Chelsea FC,€70.00m ,England,"Jul 1, 2012","Jul 14, 2015",Liverpool,Man City,40000000.0,63700000.0,Premier League
+10,Raheem Sterling,Chelsea FC,€70.00m ,England,"Feb 16, 2010","Jul 1, 2012",Liverpool U18,Liverpool,,,Premier League
+10,Raheem Sterling,Chelsea FC,€70.00m ,England,,"Feb 16, 2010",QPR U18,Liverpool U18,,700000.0,Premier League
+9,Harry Kane,Tottenham Hotspur,€90.00m ,England,"May 14, 2013",,Spurs,,,,Premier League
+9,Harry Kane,Tottenham Hotspur,€90.00m ,England,"Feb 21, 2013","May 14, 2013",Leicester,Spurs,500000.0,,Premier League
+9,Harry Kane,Tottenham Hotspur,€90.00m ,England,"Feb 1, 2013","Feb 21, 2013",Spurs,Leicester,500000.0,,Premier League
+9,Harry Kane,Tottenham Hotspur,€90.00m ,England,"Aug 31, 2012","Feb 1, 2013",Norwich,Spurs,500000.0,,Premier League
+9,Harry Kane,Tottenham Hotspur,€90.00m ,England,"May 31, 2012","Aug 31, 2012",Spurs,Norwich,,,Premier League
+9,Harry Kane,Tottenham Hotspur,€90.00m ,England,"Jan 1, 2012","May 31, 2012",Millwall,Spurs,,,Premier League
+9,Harry Kane,Tottenham Hotspur,€90.00m ,England,"May 31, 2011","Jan 1, 2012",Spurs,Millwall,,,Premier League
+9,Harry Kane,Tottenham Hotspur,€90.00m ,England,"Jan 7, 2011","May 31, 2011",Leyton Orient,Spurs,,,Premier League
+9,Harry Kane,Tottenham Hotspur,€90.00m ,England,"Jan 1, 2011","Jan 7, 2011",Spurs,Leyton Orient,,,Premier League
+9,Harry Kane,Tottenham Hotspur,€90.00m ,England,"Jul 1, 2009","Jan 1, 2011",Spurs U18,Spurs,,,Premier League
+9,Harry Kane,Tottenham Hotspur,€90.00m ,England,,"Jul 1, 2009",Tottenham Yth.,Spurs U18,,,Premier League

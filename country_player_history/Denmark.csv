@@ -1,0 +1,216 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+22,Frederik Rönnow,1.FC Union Berlin,€3.50m ,Denmark,"Jul 20, 2021",,Union Berlin,,,,Bundesliga
+22,Frederik Rönnow,1.FC Union Berlin,€3.50m ,Denmark,"Jun 30, 2021","Jul 20, 2021",E. Frankfurt,Union Berlin,2500000.0,1000000.0,Bundesliga
+22,Frederik Rönnow,1.FC Union Berlin,€3.50m ,Denmark,"Sep 30, 2020","Jun 30, 2021",FC Schalke 04,E. Frankfurt,2500000.0,,Bundesliga
+22,Frederik Rönnow,1.FC Union Berlin,€3.50m ,Denmark,"Jul 1, 2018","Sep 30, 2020",E. Frankfurt,FC Schalke 04,2400000.0,,Bundesliga
+22,Frederik Rönnow,1.FC Union Berlin,€3.50m ,Denmark,"Jul 2, 2015","Jul 1, 2018",Bröndby IF,E. Frankfurt,3000000.0,2800000.0,Bundesliga
+22,Frederik Rönnow,1.FC Union Berlin,€3.50m ,Denmark,"Jun 30, 2014","Jul 2, 2015",AC Horsens,Bröndby IF,500000.0,350000.0,Bundesliga
+22,Frederik Rönnow,1.FC Union Berlin,€3.50m ,Denmark,"Jul 5, 2013","Jun 30, 2014",Esbjerg fB,AC Horsens,750000.0,,Bundesliga
+22,Frederik Rönnow,1.FC Union Berlin,€3.50m ,Denmark,"Aug 4, 2010","Jul 5, 2013",AC Horsens,Esbjerg fB,750000.0,,Bundesliga
+22,Frederik Rönnow,1.FC Union Berlin,€3.50m ,Denmark,"Jul 1, 2009","Aug 4, 2010",AC Horsens U19,AC Horsens,,,Bundesliga
+22,Frederik Rönnow,1.FC Union Berlin,€3.50m ,Denmark,,"Jul 1, 2009",Horsens Youth,AC Horsens U19,,,Bundesliga
+2,Joachim Andersen,Crystal Palace,€32.00m ,Denmark,"Jul 28, 2021",,Crystal Palace,,,,Premier League
+2,Joachim Andersen,Crystal Palace,€32.00m ,Denmark,"Jun 30, 2021","Jul 28, 2021",Olympique Lyon,Crystal Palace,22000000.0,17500000.0,Premier League
+2,Joachim Andersen,Crystal Palace,€32.00m ,Denmark,"Oct 5, 2020","Jun 30, 2021",Fulham,Olympique Lyon,22000000.0,,Premier League
+2,Joachim Andersen,Crystal Palace,€32.00m ,Denmark,"Jul 12, 2019","Oct 5, 2020",Olympique Lyon,Fulham,16000000.0,,Premier League
+2,Joachim Andersen,Crystal Palace,€32.00m ,Denmark,"Aug 25, 2017","Jul 12, 2019",Sampdoria,Olympique Lyon,25000000.0,24000000.0,Premier League
+2,Joachim Andersen,Crystal Palace,€32.00m ,Denmark,"Jul 1, 2014","Aug 25, 2017",Twente FC,Sampdoria,1500000.0,1750000.0,Premier League
+2,Joachim Andersen,Crystal Palace,€32.00m ,Denmark,"Nov 8, 2013","Jul 1, 2014",FC Twente U21,Twente FC,150000.0,,Premier League
+2,Joachim Andersen,Crystal Palace,€32.00m ,Denmark,"Aug 8, 2013","Nov 8, 2013",FC Twente U19,FC Twente U21,,,Premier League
+2,Joachim Andersen,Crystal Palace,€32.00m ,Denmark,"Jul 1, 2012","Aug 8, 2013",Midtjylland U19,FC Twente U19,,670000.0,Premier League
+2,Joachim Andersen,Crystal Palace,€32.00m ,Denmark,"Aug 8, 2011","Jul 1, 2012",FCM Youth,Midtjylland U19,,,Premier League
+2,Joachim Andersen,Crystal Palace,€32.00m ,Denmark,"Jul 1, 2009","Aug 8, 2011",FCK Youth,FCM Youth,,,Premier League
+2,Joachim Andersen,Crystal Palace,€32.00m ,Denmark,,"Jul 1, 2009",Greve IF U19,FCK Youth,,,Premier League
+3,Victor Nelsson,Galatasaray,€14.00m ,Denmark,"Aug 11, 2021",,Galatasaray,,,,Süper Lig
+3,Victor Nelsson,Galatasaray,€14.00m ,Denmark,"Jul 5, 2019","Aug 11, 2021",FC Copenhagen,Galatasaray,3500000.0,7000000.0,Süper Lig
+3,Victor Nelsson,Galatasaray,€14.00m ,Denmark,"Oct 14, 2016","Jul 5, 2019",Nordsjaelland,FC Copenhagen,3000000.0,3600000.0,Süper Lig
+3,Victor Nelsson,Galatasaray,€14.00m ,Denmark,"Jul 1, 2015","Oct 14, 2016",Nordsjaell. U19,Nordsjaelland,,,Süper Lig
+3,Victor Nelsson,Galatasaray,€14.00m ,Denmark,,"Jul 1, 2015",FCN Youth,Nordsjaell. U19,,,Süper Lig
+5,Joakim Maehle,Atalanta BC,€14.00m ,Denmark,"Jan 4, 2021",,Atalanta BC,,,,Serie A
+5,Joakim Maehle,Atalanta BC,€14.00m ,Denmark,"Jul 1, 2017","Jan 4, 2021",KRC Genk,Atalanta BC,11000000.0,13700000.0,Serie A
+5,Joakim Maehle,Atalanta BC,€14.00m ,Denmark,"Jul 1, 2016","Jul 1, 2017",Aalborg BK,KRC Genk,1000000.0,1300000.0,Serie A
+5,Joakim Maehle,Atalanta BC,€14.00m ,Denmark,"Jul 1, 2014","Jul 1, 2016",Aalborg BK U19,Aalborg BK,,,Serie A
+5,Joakim Maehle,Atalanta BC,€14.00m ,Denmark,,"Jul 1, 2014",Aalborg BK Yout,Aalborg BK U19,,,Serie A
+26,Alexander Bah,SL Benfica,€8.00m ,Denmark,"Jul 1, 2022",,Benfica,,,,Liga Portugal
+26,Alexander Bah,SL Benfica,€8.00m ,Denmark,"Jan 5, 2021","Jul 1, 2022",Slavia Prague,Benfica,7000000.0,8000000.0,Liga Portugal
+26,Alexander Bah,SL Benfica,€8.00m ,Denmark,"Aug 7, 2018","Jan 5, 2021",SönderjyskE,Slavia Prague,2500000.0,1750000.0,Liga Portugal
+26,Alexander Bah,SL Benfica,€8.00m ,Denmark,"Aug 11, 2016","Aug 7, 2018",HB Köge,SönderjyskE,350000.0,530000.0,Liga Portugal
+26,Alexander Bah,SL Benfica,€8.00m ,Denmark,"Jan 1, 2016","Aug 11, 2016",Naesby BK,HB Köge,,,Liga Portugal
+26,Alexander Bah,SL Benfica,€8.00m ,Denmark,"Jul 1, 2014","Jan 1, 2016",Naesby BK U19,Naesby BK,,,Liga Portugal
+26,Alexander Bah,SL Benfica,€8.00m ,Denmark,"Jul 1, 2013","Jul 1, 2014",Naesby BK Youth,Naesby BK U19,,,Liga Portugal
+26,Alexander Bah,SL Benfica,€8.00m ,Denmark,,"Jul 1, 2013",B1913 Youth,Naesby BK Youth,,0.0,Liga Portugal
+15,Christian Nörgaard,Brentford FC,€14.00m ,Denmark,"Jul 1, 2019",,Brentford,,,,Premier League
+15,Christian Nörgaard,Brentford FC,€14.00m ,Denmark,"Jul 19, 2018","Jul 1, 2019",Fiorentina,Brentford,2000000.0,3500000.0,Premier League
+15,Christian Nörgaard,Brentford FC,€14.00m ,Denmark,"Aug 21, 2013","Jul 19, 2018",Bröndby IF,Fiorentina,2000000.0,3500000.0,Premier League
+15,Christian Nörgaard,Brentford FC,€14.00m ,Denmark,"Jul 1, 2012","Aug 21, 2013",Hamburger SV,Bröndby IF,400000.0,350000.0,Premier League
+15,Christian Nörgaard,Brentford FC,€14.00m ,Denmark,"Jan 25, 2012","Jul 1, 2012",Hamburger SV II,Hamburger SV,250000.0,,Premier League
+15,Christian Nörgaard,Brentford FC,€14.00m ,Denmark,"Jan 1, 2011","Jan 25, 2012",Lyngby BK U19,Hamburger SV II,,400000.0,Premier League
+15,Christian Nörgaard,Brentford FC,€14.00m ,Denmark,,"Jan 1, 2011",Lyngby BK Youth,Lyngby BK U19,,,Premier League
+7,Mathias Jensen,Brentford FC,€14.00m ,Denmark,"Jul 10, 2019",,Brentford,,,,Premier League
+7,Mathias Jensen,Brentford FC,€14.00m ,Denmark,"Aug 8, 2018","Jul 10, 2019",Celta de Vigo,Brentford,2500000.0,3800000.0,Premier League
+7,Mathias Jensen,Brentford FC,€14.00m ,Denmark,"Jul 1, 2015","Aug 8, 2018",Nordsjaelland,Celta de Vigo,1500000.0,5000000.0,Premier League
+7,Mathias Jensen,Brentford FC,€14.00m ,Denmark,"Jul 1, 2013","Jul 1, 2015",Nordsjaell. U19,Nordsjaelland,,,Premier League
+7,Mathias Jensen,Brentford FC,€14.00m ,Denmark,,"Jul 1, 2013",FCN Youth,Nordsjaell. U19,,,Premier League
+18,Daniel Wass,Bröndby IF,€2.50m ,Denmark,"Aug 12, 2022",,Bröndby IF,,,,Superligaen
+18,Daniel Wass,Bröndby IF,€2.50m ,Denmark,"Jan 27, 2022","Aug 12, 2022",Atlético Madrid,Bröndby IF,6000000.0,1750000.0,Superligaen
+18,Daniel Wass,Bröndby IF,€2.50m ,Denmark,"Jul 10, 2018","Jan 27, 2022",Valencia,Atlético Madrid,6000000.0,2700000.0,Superligaen
+18,Daniel Wass,Bröndby IF,€2.50m ,Denmark,"Jul 1, 2015","Jul 10, 2018",Celta de Vigo,Valencia,15000000.0,6000000.0,Superligaen
+18,Daniel Wass,Bröndby IF,€2.50m ,Denmark,"Jul 1, 2012","Jul 1, 2015",Évian,Celta de Vigo,5000000.0,3000000.0,Superligaen
+18,Daniel Wass,Bröndby IF,€2.50m ,Denmark,"Jun 30, 2012","Jul 1, 2012",Benfica,Évian,3000000.0,1200000.0,Superligaen
+18,Daniel Wass,Bröndby IF,€2.50m ,Denmark,"Jul 22, 2011","Jun 30, 2012",Évian,Benfica,3000000.0,,Superligaen
+18,Daniel Wass,Bröndby IF,€2.50m ,Denmark,"Jul 1, 2011","Jul 22, 2011",Benfica,Évian,2500000.0,,Superligaen
+18,Daniel Wass,Bröndby IF,€2.50m ,Denmark,"Dec 31, 2009","Jul 1, 2011",Bröndby IF,Benfica,2500000.0,0.0,Superligaen
+18,Daniel Wass,Bröndby IF,€2.50m ,Denmark,"Aug 19, 2009","Dec 31, 2009",Fredrikstad,Bröndby IF,750000.0,,Superligaen
+18,Daniel Wass,Bröndby IF,€2.50m ,Denmark,"Jul 1, 2008","Aug 19, 2009",Bröndby IF,Fredrikstad,1000000.0,,Superligaen
+18,Daniel Wass,Bröndby IF,€2.50m ,Denmark,"Jan 1, 2008","Jul 1, 2008",Bröndby IF II,Bröndby IF,250000.0,,Superligaen
+18,Daniel Wass,Bröndby IF,€2.50m ,Denmark,,"Jan 1, 2008",Bröndby IF U19,Bröndby IF II,,,Superligaen
+25,Jesper Lindström,Eintracht Frankfurt,€28.00m ,Denmark,"Jul 11, 2021",,E. Frankfurt,,,,Bundesliga
+25,Jesper Lindström,Eintracht Frankfurt,€28.00m ,Denmark,"Jul 1, 2019","Jul 11, 2021",Bröndby IF,E. Frankfurt,7000000.0,7000000.0,Bundesliga
+25,Jesper Lindström,Eintracht Frankfurt,€28.00m ,Denmark,"Jul 1, 2017","Jul 1, 2019",Bröndby IF U19,Bröndby IF,50000.0,,Bundesliga
+25,Jesper Lindström,Eintracht Frankfurt,€28.00m ,Denmark,"Jul 1, 2015","Jul 1, 2017",Bröndby IF U17,Bröndby IF U19,,,Bundesliga
+25,Jesper Lindström,Eintracht Frankfurt,€28.00m ,Denmark,,"Jul 1, 2015",Bröndby Youth,Bröndby IF U17,,,Bundesliga
+14,Mikkel Damsgaard,Brentford FC,€15.00m ,Denmark,"Aug 10, 2022",,Brentford,,,,Premier League
+14,Mikkel Damsgaard,Brentford FC,€15.00m ,Denmark,"Sep 1, 2020","Aug 10, 2022",Sampdoria,Brentford,15000000.0,15000000.0,Premier League
+14,Mikkel Damsgaard,Brentford FC,€15.00m ,Denmark,"Jul 10, 2018","Sep 1, 2020",Nordsjaelland,Sampdoria,6500000.0,6750000.0,Premier League
+14,Mikkel Damsgaard,Brentford FC,€15.00m ,Denmark,"Jul 1, 2017","Jul 10, 2018",Nordsjaell. U19,Nordsjaelland,400000.0,,Premier League
+14,Mikkel Damsgaard,Brentford FC,€15.00m ,Denmark,"Jul 1, 2013","Jul 1, 2017",FCN Youth,Nordsjaell. U19,,,Premier League
+14,Mikkel Damsgaard,Brentford FC,€15.00m ,Denmark,,"Jul 1, 2013",Jyllinge Youth,FCN Youth,,,Premier League
+19,Jonas Wind,VfL Wolfsburg,€14.00m ,Denmark,"Jan 31, 2022",,VfL Wolfsburg,,,,Bundesliga
+19,Jonas Wind,VfL Wolfsburg,€14.00m ,Denmark,"Feb 7, 2018","Jan 31, 2022",FC Copenhagen,VfL Wolfsburg,7000000.0,12000000.0,Bundesliga
+19,Jonas Wind,VfL Wolfsburg,€14.00m ,Denmark,"Jul 1, 2016","Feb 7, 2018",Copenhagen U19,FC Copenhagen,100000.0,,Bundesliga
+19,Jonas Wind,VfL Wolfsburg,€14.00m ,Denmark,,"Jul 1, 2016",FCK Youth,Copenhagen U19,,,Bundesliga
+20,Yussuf Poulsen,RB Leipzig,€10.00m ,Denmark,"Jul 4, 2013",,RB Leipzig,,,,Bundesliga
+20,Yussuf Poulsen,RB Leipzig,€10.00m ,Denmark,"Jan 1, 2012","Jul 4, 2013",Lyngby BK,RB Leipzig,400000.0,1550000.0,Bundesliga
+20,Yussuf Poulsen,RB Leipzig,€10.00m ,Denmark,"Jan 1, 2011","Jan 1, 2012",Lyngby BK U19,Lyngby BK,,,Bundesliga
+20,Yussuf Poulsen,RB Leipzig,€10.00m ,Denmark,,"Jan 1, 2011",Lyngby BK Youth,Lyngby BK U19,,,Bundesliga
+9,Martin Braithwaite,RCD Espanyol Barcelona,€5.00m ,Denmark,"Sep 1, 2022",,Espanyol,,,,LaLiga
+9,Martin Braithwaite,RCD Espanyol Barcelona,€5.00m ,Denmark,"Feb 20, 2020","Sep 1, 2022",Barcelona,Espanyol,6000000.0,0.0,LaLiga
+9,Martin Braithwaite,RCD Espanyol Barcelona,€5.00m ,Denmark,"Jul 25, 2019","Feb 20, 2020",CD Leganés,Barcelona,10000000.0,18000000.0,LaLiga
+9,Martin Braithwaite,RCD Espanyol Barcelona,€5.00m ,Denmark,"Jun 30, 2019","Jul 25, 2019",Middlesbrough,CD Leganés,8000000.0,5000000.0,LaLiga
+9,Martin Braithwaite,RCD Espanyol Barcelona,€5.00m ,Denmark,"Jan 3, 2019","Jun 30, 2019",CD Leganés,Middlesbrough,8000000.0,,LaLiga
+9,Martin Braithwaite,RCD Espanyol Barcelona,€5.00m ,Denmark,"Jun 30, 2018","Jan 3, 2019",Middlesbrough,CD Leganés,8000000.0,,LaLiga
+9,Martin Braithwaite,RCD Espanyol Barcelona,€5.00m ,Denmark,"Jan 31, 2018","Jun 30, 2018",G. Bordeaux,Middlesbrough,8000000.0,,LaLiga
+9,Martin Braithwaite,RCD Espanyol Barcelona,€5.00m ,Denmark,"Jul 13, 2017","Jan 31, 2018",Middlesbrough,G. Bordeaux,7500000.0,,LaLiga
+9,Martin Braithwaite,RCD Espanyol Barcelona,€5.00m ,Denmark,"Aug 16, 2013","Jul 13, 2017",Toulouse,Middlesbrough,7500000.0,11300000.0,LaLiga
+9,Martin Braithwaite,RCD Espanyol Barcelona,€5.00m ,Denmark,"Jul 1, 2009","Aug 16, 2013",Esbjerg fB,Toulouse,850000.0,2000000.0,LaLiga
+9,Martin Braithwaite,RCD Espanyol Barcelona,€5.00m ,Denmark,"Jan 1, 2008","Jul 1, 2009",Esbjerg fB U19,Esbjerg fB,,,LaLiga
+9,Martin Braithwaite,RCD Espanyol Barcelona,€5.00m ,Denmark,"Jul 1, 2007","Jan 1, 2008",FCM Youth,Esbjerg fB U19,,0.0,LaLiga
+9,Martin Braithwaite,RCD Espanyol Barcelona,€5.00m ,Denmark,,"Jul 1, 2007",Esbjerg Youth,FCM Youth,,0.0,LaLiga
+16,Oliver Christensen,Hertha BSC,€4.50m ,Denmark,"Aug 26, 2021",,Hertha BSC,,,,Bundesliga
+16,Oliver Christensen,Hertha BSC,€4.50m ,Denmark,"Jul 1, 2017","Aug 26, 2021",Odense BK,Hertha BSC,1500000.0,3000000.0,Bundesliga
+16,Oliver Christensen,Hertha BSC,€4.50m ,Denmark,"Jul 1, 2016","Jul 1, 2017",Odense BK U19,Odense BK,50000.0,,Bundesliga
+16,Oliver Christensen,Hertha BSC,€4.50m ,Denmark,,"Jul 1, 2016",Odense BK Youth,Odense BK U19,,,Bundesliga
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Aug 3, 2022",,OGC Nice,,,,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Jul 1, 2011","Aug 3, 2022",Leicester,OGC Nice,4000000.0,1000000.0,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Jul 1, 2010","Jul 1, 2011",Leeds,Leicester,1000000.0,1680000.0,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Aug 14, 2009","Jul 1, 2010",Notts County,Leeds,1000000.0,0.0,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"May 31, 2008","Aug 14, 2009",Man City,Notts County,1000000.0,0.0,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Mar 13, 2008","May 31, 2008",Coventry,Man City,1000000.0,,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Jan 2, 2008","Mar 13, 2008",Man City,Coventry,1000000.0,,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Oct 25, 2007","Jan 2, 2008",Cardiff,Man City,500000.0,,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Jul 1, 2007","Oct 25, 2007",Man City,Cardiff,500000.0,,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"May 1, 2007","Jul 1, 2007",Man City Res.,Man City,250000.0,,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Jan 11, 2007","May 1, 2007",Falkirk,Man City Res.,250000.0,,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Nov 30, 2006","Jan 11, 2007",Man City Res.,Falkirk,250000.0,,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Aug 23, 2006","Nov 30, 2006",Bury,Man City Res.,250000.0,,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"May 31, 2006","Aug 23, 2006",Man City Res.,Bury,250000.0,,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Feb 21, 2006","May 31, 2006",Bury,Man City Res.,250000.0,,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Jan 31, 2006","Feb 21, 2006",Man City Res.,Bury,250000.0,,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Jan 13, 2006","Jan 31, 2006",Darlington,Man City Res.,250000.0,,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,"Jul 1, 2004","Jan 13, 2006",Man City Res.,Darlington,250000.0,,Ligue 1
+1,Kasper Schmeichel,OGC Nice,€2.50m ,Denmark,,"Jul 1, 2004",Man City U18,Man City Res.,,,Ligue 1
+6,Andreas Christensen,FC Barcelona,€30.00m ,Denmark,"Jul 4, 2022",,Barcelona,,,,LaLiga
+6,Andreas Christensen,FC Barcelona,€30.00m ,Denmark,"Jun 30, 2017","Jul 4, 2022",Chelsea,Barcelona,35000000.0,0.0,LaLiga
+6,Andreas Christensen,FC Barcelona,€30.00m ,Denmark,"Jul 10, 2015","Jun 30, 2017",Bor. M'gladbach,Chelsea,18000000.0,,LaLiga
+6,Andreas Christensen,FC Barcelona,€30.00m ,Denmark,"Jul 1, 2015","Jul 10, 2015",Chelsea,Bor. M'gladbach,1500000.0,,LaLiga
+6,Andreas Christensen,FC Barcelona,€30.00m ,Denmark,"Jul 1, 2013","Jul 1, 2015",Chelsea U21,Chelsea,1500000.0,,LaLiga
+6,Andreas Christensen,FC Barcelona,€30.00m ,Denmark,"Jul 1, 2012","Jul 1, 2013",Chelsea U18,Chelsea U21,,,LaLiga
+6,Andreas Christensen,FC Barcelona,€30.00m ,Denmark,"Jul 1, 2011","Jul 1, 2012",Bröndby IF U17,Chelsea U18,,0.0,LaLiga
+6,Andreas Christensen,FC Barcelona,€30.00m ,Denmark,"Aug 10, 2004","Jul 1, 2011",Bröndby IF II,Bröndby IF U17,,,LaLiga
+6,Andreas Christensen,FC Barcelona,€30.00m ,Denmark,,"Aug 10, 2004",Birkeröd Youth,Bröndby IF II,,,LaLiga
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Sep 1, 2020",,AC Milan,,,,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Aug 31, 2020","Sep 1, 2020",Sevilla FC,AC Milan,7000000.0,3680000.0,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Jan 13, 2020","Aug 31, 2020",AC Milan,Sevilla FC,7000000.0,,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Jan 12, 2020","Jan 13, 2020",Sevilla FC,AC Milan,6500000.0,,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Sep 2, 2019","Jan 12, 2020",Atalanta BC,Sevilla FC,6500000.0,,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Jul 31, 2017","Sep 2, 2019",Sevilla FC,Atalanta BC,8000000.0,,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Jul 1, 2015","Jul 31, 2017",Fenerbahce,Sevilla FC,11000000.0,12500000.0,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Jul 5, 2013","Jul 1, 2015",LOSC Lille,Fenerbahce,8000000.0,7650000.0,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Jun 30, 2012","Jul 5, 2013",VfL Wolfsburg,LOSC Lille,7000000.0,2500000.0,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Aug 31, 2011","Jun 30, 2012",AS Roma,VfL Wolfsburg,8000000.0,,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Jul 8, 2010","Aug 31, 2011",VfL Wolfsburg,AS Roma,10000000.0,,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Jul 1, 2008","Jul 8, 2010",US Palermo,VfL Wolfsburg,12000000.0,12500000.0,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Jan 1, 2007","Jul 1, 2008",FC Midtjylland,US Palermo,1500000.0,4000000.0,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Jan 1, 2006","Jan 1, 2007",Midtjylland U19,FC Midtjylland,,,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,"Jul 1, 2004","Jan 1, 2006",FCM Youth,Midtjylland U19,,,Serie A
+4,Simon Kjaer,AC Milan,€5.00m ,Denmark,,"Jul 1, 2004",Horsens Youth,FCM Youth,,0.0,Serie A
+13,Rasmus Kristensen,Leeds United,€15.00m ,Denmark,"Jul 1, 2022",,Leeds,,,,Premier League
+13,Rasmus Kristensen,Leeds United,€15.00m ,Denmark,"Jul 19, 2019","Jul 1, 2022",RB Salzburg,Leeds,15000000.0,13000000.0,Premier League
+13,Rasmus Kristensen,Leeds United,€15.00m ,Denmark,"Jan 23, 2018","Jul 19, 2019",Ajax,RB Salzburg,2500000.0,5000000.0,Premier League
+13,Rasmus Kristensen,Leeds United,€15.00m ,Denmark,"Jan 1, 2016","Jan 23, 2018",FC Midtjylland,Ajax,1750000.0,5500000.0,Premier League
+13,Rasmus Kristensen,Leeds United,€15.00m ,Denmark,"Jul 1, 2014","Jan 1, 2016",Midtjylland U19,FC Midtjylland,,,Premier League
+13,Rasmus Kristensen,Leeds United,€15.00m ,Denmark,,"Jul 1, 2014",FCM Youth,Midtjylland U19,,,Premier League
+17,Jens Stryger Larsen,Trabzonspor,€2.00m ,Denmark,"Jul 1, 2022",,Trabzonspor,,,,Süper Lig
+17,Jens Stryger Larsen,Trabzonspor,€2.00m ,Denmark,"Aug 24, 2017","Jul 1, 2022",Udinese Calcio,Trabzonspor,2000000.0,0.0,Süper Lig
+17,Jens Stryger Larsen,Trabzonspor,€2.00m ,Denmark,"Jul 1, 2014","Aug 24, 2017",Austria Vienna,Udinese Calcio,1000000.0,500000.0,Süper Lig
+17,Jens Stryger Larsen,Trabzonspor,€2.00m ,Denmark,"Jul 9, 2013","Jul 1, 2014",Nordsjaelland,Austria Vienna,800000.0,670000.0,Süper Lig
+17,Jens Stryger Larsen,Trabzonspor,€2.00m ,Denmark,"Jul 1, 2009","Jul 9, 2013",Bröndby IF,Nordsjaelland,900000.0,0.0,Süper Lig
+17,Jens Stryger Larsen,Trabzonspor,€2.00m ,Denmark,"Jan 1, 2008","Jul 1, 2009",Bröndby IF U19,Bröndby IF,100000.0,,Süper Lig
+17,Jens Stryger Larsen,Trabzonspor,€2.00m ,Denmark,,"Jan 1, 2008",Bröndby IF U17,Bröndby IF U19,,,Süper Lig
+23,Pierre-Emile Höjbjerg,Tottenham Hotspur,€45.00m ,Denmark,"Aug 11, 2020",,Spurs,,,,Premier League
+23,Pierre-Emile Höjbjerg,Tottenham Hotspur,€45.00m ,Denmark,"Jul 11, 2016","Aug 11, 2020",Southampton,Spurs,20000000.0,16600000.000000002,Premier League
+23,Pierre-Emile Höjbjerg,Tottenham Hotspur,€45.00m ,Denmark,"Jun 30, 2016","Jul 11, 2016",Bayern Munich,Southampton,6000000.0,15000000.0,Premier League
+23,Pierre-Emile Höjbjerg,Tottenham Hotspur,€45.00m ,Denmark,"Aug 28, 2015","Jun 30, 2016",FC Schalke 04,Bayern Munich,6000000.0,,Premier League
+23,Pierre-Emile Höjbjerg,Tottenham Hotspur,€45.00m ,Denmark,"Jun 30, 2015","Aug 28, 2015",Bayern Munich,FC Schalke 04,6500000.0,,Premier League
+23,Pierre-Emile Höjbjerg,Tottenham Hotspur,€45.00m ,Denmark,"Jan 7, 2015","Jun 30, 2015",FC Augsburg,Bayern Munich,4000000.0,,Premier League
+23,Pierre-Emile Höjbjerg,Tottenham Hotspur,€45.00m ,Denmark,"Jul 1, 2013","Jan 7, 2015",Bayern Munich,FC Augsburg,4000000.0,,Premier League
+23,Pierre-Emile Höjbjerg,Tottenham Hotspur,€45.00m ,Denmark,"Jul 1, 2012","Jul 1, 2013",FC Bayern II,Bayern Munich,500000.0,,Premier League
+23,Pierre-Emile Höjbjerg,Tottenham Hotspur,€45.00m ,Denmark,"Jul 1, 2010","Jul 1, 2012",Bröndby IF U17,FC Bayern II,,0.0,Premier League
+23,Pierre-Emile Höjbjerg,Tottenham Hotspur,€45.00m ,Denmark,"Jul 1, 2009","Jul 1, 2010",Bröndby IF II,Bröndby IF U17,,,Premier League
+23,Pierre-Emile Höjbjerg,Tottenham Hotspur,€45.00m ,Denmark,"Jul 1, 2007","Jul 1, 2009",FCK Youth,Bröndby IF II,,0.0,Premier League
+23,Pierre-Emile Höjbjerg,Tottenham Hotspur,€45.00m ,Denmark,,"Jul 1, 2007",BK Skjold U19,FCK Youth,,,Premier League
+8,Thomas Delaney,Sevilla FC,€3.00m ,Denmark,"Aug 25, 2021",,Sevilla FC,,,,LaLiga
+8,Thomas Delaney,Sevilla FC,€3.00m ,Denmark,"Jul 1, 2018","Aug 25, 2021",Bor. Dortmund,Sevilla FC,15000000.0,6000000.0,LaLiga
+8,Thomas Delaney,Sevilla FC,€3.00m ,Denmark,"Jan 1, 2017","Jul 1, 2018",Werder Bremen,Bor. Dortmund,12000000.0,20000000.0,LaLiga
+8,Thomas Delaney,Sevilla FC,€3.00m ,Denmark,"Jul 1, 2009","Jan 1, 2017",FC Copenhagen,Werder Bremen,3500000.0,2000000.0,LaLiga
+8,Thomas Delaney,Sevilla FC,€3.00m ,Denmark,"Jul 1, 2007","Jul 1, 2009",Copenhagen U19,FC Copenhagen,100000.0,,LaLiga
+8,Thomas Delaney,Sevilla FC,€3.00m ,Denmark,,"Jul 1, 2007",FCK Youth,Copenhagen U19,,,LaLiga
+11,Andreas Skov Olsen,Club Brugge KV,€20.00m ,Denmark,"Jan 28, 2022",,Club Brugge,,,,Jupiler Pro League
+11,Andreas Skov Olsen,Club Brugge KV,€20.00m ,Denmark,"Jul 24, 2019","Jan 28, 2022",Bologna,Club Brugge,6500000.0,7000000.0,Jupiler Pro League
+11,Andreas Skov Olsen,Club Brugge KV,€20.00m ,Denmark,"Jul 1, 2018","Jul 24, 2019",Nordsjaelland,Bologna,8000000.0,6000000.0,Jupiler Pro League
+11,Andreas Skov Olsen,Club Brugge KV,€20.00m ,Denmark,"Jul 1, 2016","Jul 1, 2018",Nordsjaell. U19,Nordsjaelland,100000.0,,Jupiler Pro League
+11,Andreas Skov Olsen,Club Brugge KV,€20.00m ,Denmark,,"Jul 1, 2016",FCN Youth,Nordsjaell. U19,,,Jupiler Pro League
+10,Christian Eriksen,Manchester United,€25.00m ,Denmark,"Jul 15, 2022",,Man Utd,,,,Premier League
+10,Christian Eriksen,Manchester United,€25.00m ,Denmark,"Jan 31, 2022","Jul 15, 2022",Brentford,Man Utd,20000000.0,0.0,Premier League
+10,Christian Eriksen,Manchester United,€25.00m ,Denmark,"Dec 17, 2021","Jan 31, 2022",Without Club,Brentford,15000000.0,,Premier League
+10,Christian Eriksen,Manchester United,€25.00m ,Denmark,"Jan 28, 2020","Dec 17, 2021",Inter,Without Club,15000000.0,,Premier League
+10,Christian Eriksen,Manchester United,€25.00m ,Denmark,"Aug 30, 2013","Jan 28, 2020",Spurs,Inter,90000000.0,27000000.0,Premier League
+10,Christian Eriksen,Manchester United,€25.00m ,Denmark,"Jan 1, 2010","Aug 30, 2013",Ajax,Spurs,18000000.0,14150000.0,Premier League
+10,Christian Eriksen,Manchester United,€25.00m ,Denmark,"Jan 1, 2009","Jan 1, 2010",Ajax U19,Ajax,,,Premier League
+10,Christian Eriksen,Manchester United,€25.00m ,Denmark,"Jul 1, 2008","Jan 1, 2009",Odense BK U19,Ajax U19,,1500000.0,Premier League
+10,Christian Eriksen,Manchester United,€25.00m ,Denmark,,"Jul 1, 2008",Odense BK Youth,Odense BK U19,,,Premier League
+24,Robert Skov,TSG 1899 Hoffenheim,€9.00m ,Denmark,"Jul 29, 2019",,TSG Hoffenheim,,,,Bundesliga
+24,Robert Skov,TSG 1899 Hoffenheim,€9.00m ,Denmark,"Jan 19, 2018","Jul 29, 2019",FC Copenhagen,TSG Hoffenheim,13000000.0,10000000.0,Bundesliga
+24,Robert Skov,TSG 1899 Hoffenheim,€9.00m ,Denmark,"Jan 1, 2015","Jan 19, 2018",Silkeborg IF,FC Copenhagen,1000000.0,1000000.0,Bundesliga
+24,Robert Skov,TSG 1899 Hoffenheim,€9.00m ,Denmark,"Jul 1, 2013","Jan 1, 2015",Silkeborg U19,Silkeborg IF,50000.0,,Bundesliga
+24,Robert Skov,TSG 1899 Hoffenheim,€9.00m ,Denmark,,"Jul 1, 2013",Silkeborg IF Yo,Silkeborg U19,,,Bundesliga
+12,Kasper Dolberg,Sevilla FC,€12.00m ,Denmark,"Jun 30, 2023",,OGC Nice,,,,LaLiga
+12,Kasper Dolberg,Sevilla FC,€12.00m ,Denmark,"Sep 1, 2022","Jun 30, 2023",Sevilla FC,OGC Nice,12000000.0,,LaLiga
+12,Kasper Dolberg,Sevilla FC,€12.00m ,Denmark,"Aug 29, 2019","Sep 1, 2022",OGC Nice,Sevilla FC,17000000.0,,LaLiga
+12,Kasper Dolberg,Sevilla FC,€12.00m ,Denmark,"Jul 1, 2016","Aug 29, 2019",Ajax,OGC Nice,18000000.0,20500000.0,LaLiga
+12,Kasper Dolberg,Sevilla FC,€12.00m ,Denmark,"Jul 1, 2015","Jul 1, 2016",Ajax U19,Ajax,,,LaLiga
+12,Kasper Dolberg,Sevilla FC,€12.00m ,Denmark,"Jul 1, 2014","Jul 1, 2015",Silkeborg U19,Ajax U19,,270000.0,LaLiga
+12,Kasper Dolberg,Sevilla FC,€12.00m ,Denmark,,"Jul 1, 2014",Silkeborg IF Yo,Silkeborg U19,,,LaLiga
+21,Andreas Cornelius,FC Copenhagen,€6.00m ,Denmark,"Aug 31, 2022",,FC Copenhagen,,,,Superligaen
+21,Andreas Cornelius,FC Copenhagen,€6.00m ,Denmark,"Aug 10, 2021","Aug 31, 2022",Trabzonspor,FC Copenhagen,9000000.0,6000000.0,Superligaen
+21,Andreas Cornelius,FC Copenhagen,€6.00m ,Denmark,"Jul 1, 2021","Aug 10, 2021",Parma,Trabzonspor,6000000.0,5120000.0,Superligaen
+21,Andreas Cornelius,FC Copenhagen,€6.00m ,Denmark,"Jun 30, 2021","Jul 1, 2021",Atalanta BC,Parma,6000000.0,8400000.0,Superligaen
+21,Andreas Cornelius,FC Copenhagen,€6.00m ,Denmark,"Jul 18, 2019","Jun 30, 2021",Parma,Atalanta BC,6000000.0,,Superligaen
+21,Andreas Cornelius,FC Copenhagen,€6.00m ,Denmark,"Jun 30, 2019","Jul 18, 2019",Atalanta BC,Parma,3000000.0,,Superligaen
+21,Andreas Cornelius,FC Copenhagen,€6.00m ,Denmark,"Aug 31, 2018","Jun 30, 2019",G. Bordeaux,Atalanta BC,3000000.0,,Superligaen
+21,Andreas Cornelius,FC Copenhagen,€6.00m ,Denmark,"Jul 1, 2017","Aug 31, 2018",Atalanta BC,G. Bordeaux,3000000.0,,Superligaen
+21,Andreas Cornelius,FC Copenhagen,€6.00m ,Denmark,"Jan 31, 2014","Jul 1, 2017",FC Copenhagen,Atalanta BC,3000000.0,6000000.0,Superligaen
+21,Andreas Cornelius,FC Copenhagen,€6.00m ,Denmark,"Jul 1, 2013","Jan 31, 2014",Cardiff,FC Copenhagen,6000000.0,3500000.0,Superligaen
+21,Andreas Cornelius,FC Copenhagen,€6.00m ,Denmark,"Jul 1, 2012","Jul 1, 2013",FC Copenhagen,Cardiff,4500000.0,8700000.0,Superligaen
+21,Andreas Cornelius,FC Copenhagen,€6.00m ,Denmark,"Jul 1, 2010","Jul 1, 2012",Copenhagen U19,FC Copenhagen,,,Superligaen
+21,Andreas Cornelius,FC Copenhagen,€6.00m ,Denmark,,"Jul 1, 2010",FCK Youth,Copenhagen U19,,,Superligaen

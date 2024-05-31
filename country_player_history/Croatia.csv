@@ -1,0 +1,286 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+23,Ivica Ivusic,NK Osijek,€5.00m ,Croatia,"Jul 1, 2018",,NK Osijek,,,,SuperSport HNL
+23,Ivica Ivusic,NK Osijek,€5.00m ,Croatia,"Jan 18, 2018","Jul 1, 2018",Olympiacos,NK Osijek,200000.0,0.0,SuperSport HNL
+23,Ivica Ivusic,NK Osijek,€5.00m ,Croatia,"Aug 17, 2015","Jan 18, 2018",NK Istra,Olympiacos,200000.0,0.0,SuperSport HNL
+23,Ivica Ivusic,NK Osijek,€5.00m ,Croatia,"Jun 30, 2015","Aug 17, 2015",Inter,NK Istra,75000.0,0.0,SuperSport HNL
+23,Ivica Ivusic,NK Osijek,€5.00m ,Croatia,"Jul 15, 2014","Jun 30, 2015",Prato,Inter,75000.0,,SuperSport HNL
+23,Ivica Ivusic,NK Osijek,€5.00m ,Croatia,"Jul 1, 2013","Jul 15, 2014",Inter U19,Prato,75000.0,,SuperSport HNL
+23,Ivica Ivusic,NK Osijek,€5.00m ,Croatia,"Jun 30, 2011","Jul 1, 2013",Inter Youth,Inter U19,,,SuperSport HNL
+23,Ivica Ivusic,NK Osijek,€5.00m ,Croatia,"Jan 1, 2011","Jun 30, 2011",Seregno,Inter Youth,,,SuperSport HNL
+23,Ivica Ivusic,NK Osijek,€5.00m ,Croatia,"Jul 1, 2009","Jan 1, 2011",Inter Youth,Seregno,,,SuperSport HNL
+23,Ivica Ivusic,NK Osijek,€5.00m ,Croatia,,"Jul 1, 2009",HNK Rijeka Jgd,Inter Youth,,30000.0,SuperSport HNL
+20,Josko Gvardiol,RB Leipzig,€60.00m ,Croatia,"Jul 1, 2021",,RB Leipzig,,,,Bundesliga
+20,Josko Gvardiol,RB Leipzig,€60.00m ,Croatia,"Jul 1, 2019","Jul 1, 2021",Dinamo Zagreb,RB Leipzig,19000000.0,18800000.0,Bundesliga
+20,Josko Gvardiol,RB Leipzig,€60.00m ,Croatia,"Jan 26, 2019","Jul 1, 2019",Din. Zagreb U19,Dinamo Zagreb,,,Bundesliga
+20,Josko Gvardiol,RB Leipzig,€60.00m ,Croatia,"Jul 1, 2017","Jan 26, 2019",Din. Zagreb U17,Din. Zagreb U19,,,Bundesliga
+20,Josko Gvardiol,RB Leipzig,€60.00m ,Croatia,"Sep 3, 2010","Jul 1, 2017",D. Zagreb Yth.,Din. Zagreb U17,,,Bundesliga
+20,Josko Gvardiol,RB Leipzig,€60.00m ,Croatia,,"Sep 3, 2010",NK Tresnjevka,D. Zagreb Yth.,,,Bundesliga
+5,Martin Erlic,US Sassuolo,€5.50m ,Croatia,"Jun 30, 2022",,Sassuolo,,,,Serie A
+5,Martin Erlic,US Sassuolo,€5.50m ,Croatia,"Aug 31, 2021","Jun 30, 2022",Spezia Calcio,Sassuolo,5500000.0,,Serie A
+5,Martin Erlic,US Sassuolo,€5.50m ,Croatia,"Aug 31, 2021","Aug 31, 2021",Sassuolo,Spezia Calcio,3000000.0,,Serie A
+5,Martin Erlic,US Sassuolo,€5.50m ,Croatia,"Jul 15, 2019","Aug 31, 2021",Spezia Calcio,Sassuolo,3000000.0,3500000.0,Serie A
+5,Martin Erlic,US Sassuolo,€5.50m ,Croatia,"Jun 30, 2019","Jul 15, 2019",Sassuolo,Spezia Calcio,150000.0,1000.0,Serie A
+5,Martin Erlic,US Sassuolo,€5.50m ,Croatia,"Jul 10, 2018","Jun 30, 2019",Spezia Calcio,Sassuolo,150000.0,,Serie A
+5,Martin Erlic,US Sassuolo,€5.50m ,Croatia,"Jun 30, 2018","Jul 10, 2018",Sassuolo,Spezia Calcio,200000.0,,Serie A
+5,Martin Erlic,US Sassuolo,€5.50m ,Croatia,"Aug 31, 2017","Jun 30, 2018",Südtirol,Sassuolo,200000.0,,Serie A
+5,Martin Erlic,US Sassuolo,€5.50m ,Croatia,"Jul 8, 2015","Aug 31, 2017",Sassuolo U19,Südtirol,100000.0,,Serie A
+5,Martin Erlic,US Sassuolo,€5.50m ,Croatia,"Sep 16, 2014","Jul 8, 2015",Parma FC Youth,Sassuolo U19,,0.0,Serie A
+5,Martin Erlic,US Sassuolo,€5.50m ,Croatia,"Jul 1, 2013","Sep 16, 2014",HNK Rijeka U17,Parma FC Youth,,,Serie A
+5,Martin Erlic,US Sassuolo,€5.50m ,Croatia,"Aug 17, 2012","Jul 1, 2013",HNK Rijeka Jgd,HNK Rijeka U17,,,Serie A
+5,Martin Erlic,US Sassuolo,€5.50m ,Croatia,,"Aug 17, 2012",D. Zagreb Yth.,HNK Rijeka Jgd,,,Serie A
+21,Domagoj Vida,AEK Athens,€2.00m ,Croatia,"Jul 31, 2022",,AEK Athens,,,,Super League 1
+21,Domagoj Vida,AEK Athens,€2.00m ,Croatia,"Jan 4, 2018","Jul 31, 2022",Besiktas,AEK Athens,1900000.0,0.0,Super League 1
+21,Domagoj Vida,AEK Athens,€2.00m ,Croatia,"Jan 2, 2013","Jan 4, 2018",Dynamo Kyiv,Besiktas,9000000.0,0.0,Super League 1
+21,Domagoj Vida,AEK Athens,€2.00m ,Croatia,"Jul 1, 2011","Jan 2, 2013",Dinamo Zagreb,Dynamo Kyiv,4000000.0,5000000.0,Super League 1
+21,Domagoj Vida,AEK Athens,€2.00m ,Croatia,"Jul 1, 2010","Jul 1, 2011",B. Leverkusen,Dinamo Zagreb,1750000.0,1300000.0,Super League 1
+21,Domagoj Vida,AEK Athens,€2.00m ,Croatia,"Jul 1, 2006","Jul 1, 2010",NK Osijek,B. Leverkusen,3000000.0,2400000.0,Super League 1
+21,Domagoj Vida,AEK Athens,€2.00m ,Croatia,,"Jul 1, 2006",NK Osijek U19,NK Osijek,,,Super League 1
+3,Borna Barisic,Rangers FC,€6.50m ,Croatia,"Aug 7, 2018",,Rangers,,,,Premiership
+3,Borna Barisic,Rangers FC,€6.50m ,Croatia,"Jul 1, 2016","Aug 7, 2018",NK Osijek,Rangers,2000000.0,2450000.0,Premiership
+3,Borna Barisic,Rangers FC,€6.50m ,Croatia,"Jun 30, 2016","Jul 1, 2016",Dinamo Zagreb,NK Osijek,750000.0,,Premiership
+3,Borna Barisic,Rangers FC,€6.50m ,Croatia,"Aug 17, 2015","Jun 30, 2016",NK Lokomotiva,Dinamo Zagreb,750000.0,,Premiership
+3,Borna Barisic,Rangers FC,€6.50m ,Croatia,"Jul 1, 2015","Aug 17, 2015",Dinamo Zagreb,NK Lokomotiva,600000.0,,Premiership
+3,Borna Barisic,Rangers FC,€6.50m ,Croatia,"Jul 5, 2013","Jul 1, 2015",NK Osijek,Dinamo Zagreb,600000.0,,Premiership
+3,Borna Barisic,Rangers FC,€6.50m ,Croatia,"Jan 20, 2012","Jul 5, 2013",Bijelo Brdo,NK Osijek,,,Premiership
+3,Borna Barisic,Rangers FC,€6.50m ,Croatia,"Jul 1, 2011","Jan 20, 2012",NK Osijek,Bijelo Brdo,,,Premiership
+3,Borna Barisic,Rangers FC,€6.50m ,Croatia,"Jul 1, 2009","Jul 1, 2011",NK Osijek U19,NK Osijek,,,Premiership
+3,Borna Barisic,Rangers FC,€6.50m ,Croatia,"Jul 1, 2007","Jul 1, 2009",NK Osijek U17,NK Osijek U19,,,Premiership
+3,Borna Barisic,Rangers FC,€6.50m ,Croatia,,"Jul 1, 2007",NK Osijek Yth.,NK Osijek U17,,,Premiership
+22,Josip Juranovic,Celtic FC,€6.50m ,Croatia,"Aug 21, 2021",,Celtic,,,,Premiership
+22,Josip Juranovic,Celtic FC,€6.50m ,Croatia,"Jul 31, 2020","Aug 21, 2021",Legia Warszawa,Celtic,2500000.0,3000000.0,Premiership
+22,Josip Juranovic,Celtic FC,€6.50m ,Croatia,"Jan 26, 2015","Jul 31, 2020",Hajduk Split,Legia Warszawa,1700000.0,400000.0,Premiership
+22,Josip Juranovic,Celtic FC,€6.50m ,Croatia,"Jan 1, 2013","Jan 26, 2015",NK Dubrava ZG,Hajduk Split,,,Premiership
+22,Josip Juranovic,Celtic FC,€6.50m ,Croatia,"Jul 1, 2012","Jan 1, 2013",Dubrava Tk U19,NK Dubrava ZG,,,Premiership
+22,Josip Juranovic,Celtic FC,€6.50m ,Croatia,"Sep 9, 2011","Jul 1, 2012",Dubrava Tk U17,Dubrava Tk U19,,,Premiership
+22,Josip Juranovic,Celtic FC,€6.50m ,Croatia,"Aug 12, 2011","Sep 9, 2011",C. Sesvete U17,Dubrava Tk U17,,0.0,Premiership
+22,Josip Juranovic,Celtic FC,€6.50m ,Croatia,"Jul 1, 2010","Aug 12, 2011",Dubrava Tk U17,C. Sesvete U17,,,Premiership
+22,Josip Juranovic,Celtic FC,€6.50m ,Croatia,,"Jul 1, 2010",Dubrava Tk Jgd.,Dubrava Tk U17,,,Premiership
+26,Kristijan Jakic,Eintracht Frankfurt,€9.00m ,Croatia,"Jul 1, 2022",,E. Frankfurt,,,,Bundesliga
+26,Kristijan Jakic,Eintracht Frankfurt,€9.00m ,Croatia,"Jun 30, 2022","Jul 1, 2022",Dinamo Zagreb,E. Frankfurt,9000000.0,3500000.0,Bundesliga
+26,Kristijan Jakic,Eintracht Frankfurt,€9.00m ,Croatia,"Aug 30, 2021","Jun 30, 2022",E. Frankfurt,Dinamo Zagreb,9000000.0,,Bundesliga
+26,Kristijan Jakic,Eintracht Frankfurt,€9.00m ,Croatia,"Aug 11, 2020","Aug 30, 2021",Dinamo Zagreb,E. Frankfurt,4000000.0,,Bundesliga
+26,Kristijan Jakic,Eintracht Frankfurt,€9.00m ,Croatia,"Jun 30, 2018","Aug 11, 2020",NK Lokomotiva,Dinamo Zagreb,1200000.0,1200000.0,Bundesliga
+26,Kristijan Jakic,Eintracht Frankfurt,€9.00m ,Croatia,"Feb 5, 2018","Jun 30, 2018",NK Istra,NK Lokomotiva,250000.0,,Bundesliga
+26,Kristijan Jakic,Eintracht Frankfurt,€9.00m ,Croatia,"Jul 5, 2017","Feb 5, 2018",NK Lokomotiva,NK Istra,350000.0,,Bundesliga
+26,Kristijan Jakic,Eintracht Frankfurt,€9.00m ,Croatia,"Jan 8, 2016","Jul 5, 2017",RNK Split,NK Lokomotiva,350000.0,135000.0,Bundesliga
+26,Kristijan Jakic,Eintracht Frankfurt,€9.00m ,Croatia,"Jul 1, 2014","Jan 8, 2016",RNK Split U19,RNK Split,,,Bundesliga
+26,Kristijan Jakic,Eintracht Frankfurt,€9.00m ,Croatia,"Aug 19, 2013","Jul 1, 2014",RNK Split U17,RNK Split U19,,,Bundesliga
+26,Kristijan Jakic,Eintracht Frankfurt,€9.00m ,Croatia,"Jul 1, 2012","Aug 19, 2013",NK Imotski U17,RNK Split U17,,,Bundesliga
+26,Kristijan Jakic,Eintracht Frankfurt,€9.00m ,Croatia,,"Jul 1, 2012",NK Imotski Jgd,NK Imotski U17,,,Bundesliga
+10,Luka Modric,Real Madrid,€10.00m ,Croatia,"Aug 27, 2012",,Real Madrid,,,,LaLiga
+10,Luka Modric,Real Madrid,€10.00m ,Croatia,"Jul 1, 2008","Aug 27, 2012",Spurs,Real Madrid,40000000.0,35000000.0,LaLiga
+10,Luka Modric,Real Madrid,€10.00m ,Croatia,"Jan 12, 2005","Jul 1, 2008",Dinamo Zagreb,Spurs,18000000.0,22500000.0,LaLiga
+10,Luka Modric,Real Madrid,€10.00m ,Croatia,"Jul 13, 2004","Jan 12, 2005",Inter Zapresic,Dinamo Zagreb,,,LaLiga
+10,Luka Modric,Real Madrid,€10.00m ,Croatia,"Jun 30, 2004","Jul 13, 2004",Dinamo Zagreb,Inter Zapresic,,,LaLiga
+10,Luka Modric,Real Madrid,€10.00m ,Croatia,"Jul 29, 2003","Jun 30, 2004",Zrinjski Mostar,Dinamo Zagreb,,,LaLiga
+10,Luka Modric,Real Madrid,€10.00m ,Croatia,"Jul 1, 2002","Jul 29, 2003",Dinamo Zagreb,Zrinjski Mostar,,,LaLiga
+10,Luka Modric,Real Madrid,€10.00m ,Croatia,"Aug 8, 2001","Jul 1, 2002",Din. Zagreb U17,Dinamo Zagreb,,,LaLiga
+10,Luka Modric,Real Madrid,€10.00m ,Croatia,"Jul 1, 2000","Aug 8, 2001",NK Zadar U17,Din. Zagreb U17,,,LaLiga
+10,Luka Modric,Real Madrid,€10.00m ,Croatia,,"Jul 1, 2000",NK Zadar Jgd,NK Zadar U17,,,LaLiga
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Sep 1, 2020",,Atalanta BC,,,,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Aug 31, 2020","Sep 1, 2020",Chelsea,Atalanta BC,25000000.0,14500000.0,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Jul 25, 2018","Aug 31, 2020",Atalanta BC,Chelsea,25000000.0,,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Jun 30, 2018","Jul 25, 2018",Chelsea,Atalanta BC,8000000.0,,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Aug 2, 2017","Jun 30, 2018",Spartak Moscow,Chelsea,8000000.0,,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Jun 30, 2017","Aug 2, 2017",Chelsea,Spartak Moscow,8000000.0,,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Aug 27, 2016","Jun 30, 2017",AC Milan,Chelsea,8000000.0,,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Jun 30, 2016","Aug 27, 2016",Chelsea,AC Milan,4500000.0,,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Jul 3, 2015","Jun 30, 2016",Monaco,Chelsea,5000000.0,,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Jun 30, 2015","Jul 3, 2015",Chelsea,Monaco,4000000.0,,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Jul 21, 2014","Jun 30, 2015",Elche CF,Chelsea,3000000.0,,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Jul 9, 2014","Jul 21, 2014",Chelsea,Elche CF,3000000.0,,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Apr 12, 2013","Jul 9, 2014",Hajduk Split,Chelsea,3000000.0,2500000.0,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Jul 1, 2012","Apr 12, 2013",Hajduk U19,Hajduk Split,,,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,"Jul 1, 2010","Jul 1, 2012",Hajduk U17,Hajduk U19,,,Serie A
+15,Mario Pasalic,Atalanta BC,€25.00m ,Croatia,,"Jul 1, 2010",Hajduk Yth.,Hajduk U17,,,Serie A
+13,Nikola Vlasic,Torino FC,€20.00m ,Croatia,"Jun 30, 2023",,West Ham,,,,Serie A
+13,Nikola Vlasic,Torino FC,€20.00m ,Croatia,"Aug 11, 2022","Jun 30, 2023",Torino,West Ham,20000000.0,,Serie A
+13,Nikola Vlasic,Torino FC,€20.00m ,Croatia,"Aug 31, 2021","Aug 11, 2022",West Ham,Torino,22000000.0,,Serie A
+13,Nikola Vlasic,Torino FC,€20.00m ,Croatia,"Jul 1, 2019","Aug 31, 2021",CSKA Moscow,West Ham,30000000.0,30000000.0,Serie A
+13,Nikola Vlasic,Torino FC,€20.00m ,Croatia,"Jun 30, 2019","Jul 1, 2019",Everton,CSKA Moscow,20000000.0,23000000.0,Serie A
+13,Nikola Vlasic,Torino FC,€20.00m ,Croatia,"Aug 15, 2018","Jun 30, 2019",CSKA Moscow,Everton,20000000.0,,Serie A
+13,Nikola Vlasic,Torino FC,€20.00m ,Croatia,"Aug 31, 2017","Aug 15, 2018",Everton,CSKA Moscow,8000000.0,,Serie A
+13,Nikola Vlasic,Torino FC,€20.00m ,Croatia,"Jul 1, 2014","Aug 31, 2017",Hajduk Split,Everton,4000000.0,10800000.0,Serie A
+13,Nikola Vlasic,Torino FC,€20.00m ,Croatia,"Jul 1, 2012","Jul 1, 2014",Hajduk U17,Hajduk Split,,,Serie A
+13,Nikola Vlasic,Torino FC,€20.00m ,Croatia,"Jan 29, 2010","Jul 1, 2012",Hajduk Yth.,Hajduk U17,,,Serie A
+13,Nikola Vlasic,Torino FC,€20.00m ,Croatia,,"Jan 29, 2010",NK Omladinac,Hajduk Yth.,,,Serie A
+18,Mislav Orsic,GNK Dinamo Zagreb,€10.00m ,Croatia,"Jul 1, 2018",,Dinamo Zagreb,,,,SuperSport HNL
+18,Mislav Orsic,GNK Dinamo Zagreb,€10.00m ,Croatia,"Feb 9, 2017","Jul 1, 2018",Ulsan Hyundai,Dinamo Zagreb,1600000.0,1000000.0,SuperSport HNL
+18,Mislav Orsic,GNK Dinamo Zagreb,€10.00m ,Croatia,"Jul 1, 2016","Feb 9, 2017",CC Yatai,Ulsan Hyundai,750000.0,935000.0,SuperSport HNL
+18,Mislav Orsic,GNK Dinamo Zagreb,€10.00m ,Croatia,"Jan 5, 2016","Jul 1, 2016",Jeonnam Dragons,CC Yatai,700000.0,1300000.0,SuperSport HNL
+18,Mislav Orsic,GNK Dinamo Zagreb,€10.00m ,Croatia,"Dec 31, 2015","Jan 5, 2016",HNK Rijeka,Jeonnam Dragons,700000.0,750000.0,SuperSport HNL
+18,Mislav Orsic,GNK Dinamo Zagreb,€10.00m ,Croatia,"Feb 26, 2015","Dec 31, 2015",Jeonnam Dragons,HNK Rijeka,700000.0,,SuperSport HNL
+18,Mislav Orsic,GNK Dinamo Zagreb,€10.00m ,Croatia,"Dec 31, 2014","Feb 26, 2015",HNK Rijeka,Jeonnam Dragons,700000.0,,SuperSport HNL
+18,Mislav Orsic,GNK Dinamo Zagreb,€10.00m ,Croatia,"Aug 31, 2014","Dec 31, 2014",NK Celje,HNK Rijeka,700000.0,,SuperSport HNL
+18,Mislav Orsic,GNK Dinamo Zagreb,€10.00m ,Croatia,"Jul 1, 2014","Aug 31, 2014",HNK Rijeka,NK Celje,700000.0,,SuperSport HNL
+18,Mislav Orsic,GNK Dinamo Zagreb,€10.00m ,Croatia,"Sep 10, 2013","Jul 1, 2014",Spezia Calcio,HNK Rijeka,800000.0,,SuperSport HNL
+18,Mislav Orsic,GNK Dinamo Zagreb,€10.00m ,Croatia,"Jul 1, 2009","Sep 10, 2013",Inter Zapresic,Spezia Calcio,1000000.0,,SuperSport HNL
+18,Mislav Orsic,GNK Dinamo Zagreb,€10.00m ,Croatia,"Aug 15, 2008","Jul 1, 2009",I. Zapresic U17,Inter Zapresic,,,SuperSport HNL
+18,Mislav Orsic,GNK Dinamo Zagreb,€10.00m ,Croatia,"Jul 1, 2007","Aug 15, 2008",Kustosija U17,I. Zapresic U17,,12000.0,SuperSport HNL
+18,Mislav Orsic,GNK Dinamo Zagreb,€10.00m ,Croatia,,"Jul 1, 2007",Kustosija Jgd,Kustosija U17,,,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Feb 18, 2021",,Hajduk Split,,,,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Jul 1, 2018","Feb 18, 2021",AEK Athens,Hajduk Split,3000000.0,0.0,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Jun 30, 2018","Jul 1, 2018",UD Las Palmas,AEK Athens,3500000.0,1800000.0,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Jul 1, 2017","Jun 30, 2018",AEK Athens,UD Las Palmas,3500000.0,,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Jul 15, 2016","Jul 1, 2017",UD Las Palmas,AEK Athens,2500000.0,,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Jun 30, 2016","Jul 15, 2016",Rubin Kazan,UD Las Palmas,3000000.0,0.0,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Aug 31, 2015","Jun 30, 2016",Empoli,Rubin Kazan,3000000.0,,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Jul 1, 2014","Aug 31, 2015",Rubin Kazan,Empoli,4000000.0,,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Jan 31, 2013","Jul 1, 2014",Atalanta BC,Rubin Kazan,5000000.0,6500000.0,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Jan 25, 2012","Jan 31, 2013",Inter,Atalanta BC,1800000.0,5050000.0,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Aug 31, 2011","Jan 25, 2012",Cesena,Inter,200000.0,,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Jun 30, 2011","Aug 31, 2011",Inter,Cesena,50000.0,,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Aug 8, 2010","Jun 30, 2011",FC Lugano,Inter,50000.0,,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Jul 1, 2010","Aug 8, 2010",Inter,FC Lugano,50000.0,,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Jan 1, 2010","Jul 1, 2010",Hajduk Split,Inter,50000.0,185000.0,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Aug 1, 2008","Jan 1, 2010",Hajduk U19,Hajduk Split,,,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,"Jul 1, 2008","Aug 1, 2008",Din. Zagreb U19,Hajduk U19,,0.0,SuperSport HNL
+14,Marko Livaja,HNK Hajduk Split,€8.00m ,Croatia,,"Jul 1, 2008",NK Omladinac,Din. Zagreb U19,,,SuperSport HNL
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Jul 1, 2021",,CA Osasuna,,,,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Jun 30, 2021","Jul 1, 2021",RCD Mallorca,CA Osasuna,9000000.0,8000000.0,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Oct 5, 2020","Jun 30, 2021",CA Osasuna,RCD Mallorca,9000000.0,,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Jul 1, 2019","Oct 5, 2020",RCD Mallorca,CA Osasuna,15000000.0,,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Jun 30, 2019","Jul 1, 2019",Crotone,RCD Mallorca,1400000.0,2200000.0,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Jan 15, 2019","Jun 30, 2019",RCD Mallorca,Crotone,1400000.0,,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Jul 1, 2018","Jan 15, 2019",Crotone,RCD Mallorca,1500000.0,,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Jun 30, 2018","Jul 1, 2018",Sampdoria,Crotone,1500000.0,1700000.0,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Jul 5, 2017","Jun 30, 2018",Crotone,Sampdoria,1500000.0,,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Jul 5, 2016","Jul 5, 2017",Sampdoria,Crotone,1500000.0,,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Jul 1, 2016","Jul 5, 2016",Crotone,Sampdoria,3000000.0,1800000.0,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Jun 30, 2016","Jul 1, 2016",FC St. Pauli,Crotone,3000000.0,1000000.0,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Aug 31, 2015","Jun 30, 2016",Crotone,FC St. Pauli,3000000.0,,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Aug 4, 2014","Aug 31, 2015",FC St. Pauli,Crotone,600000.0,,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Jul 5, 2013","Aug 4, 2014",NK Lokomotiva,FC St. Pauli,950000.0,1000000.0,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Jan 28, 2011","Jul 5, 2013",Inter Zapresic,NK Lokomotiva,850000.0,,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Aug 21, 2009","Jan 28, 2011",HNK Gorica,Inter Zapresic,50000.0,20000.0,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Oct 1, 2008","Aug 21, 2009",Without Club,HNK Gorica,50000.0,,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,"Jul 1, 2008","Oct 1, 2008",LASK,Without Club,50000.0,,LaLiga
+17,Ante Budimir,CA Osasuna,€6.00m ,Croatia,,"Jul 1, 2008",NK Radnik,LASK,50000.0,,LaLiga
+1,Dominik Livakovic,GNK Dinamo Zagreb,€8.50m ,Croatia,"Jun 30, 2016",,Dinamo Zagreb,,,,SuperSport HNL
+1,Dominik Livakovic,GNK Dinamo Zagreb,€8.50m ,Croatia,"Sep 1, 2015","Jun 30, 2016",NK Zagreb,Dinamo Zagreb,600000.0,,SuperSport HNL
+1,Dominik Livakovic,GNK Dinamo Zagreb,€8.50m ,Croatia,"Aug 31, 2015","Sep 1, 2015",Dinamo Zagreb,NK Zagreb,800000.0,,SuperSport HNL
+1,Dominik Livakovic,GNK Dinamo Zagreb,€8.50m ,Croatia,"Aug 30, 2012","Aug 31, 2015",NK Zagreb,Dinamo Zagreb,800000.0,625000.0,SuperSport HNL
+1,Dominik Livakovic,GNK Dinamo Zagreb,€8.50m ,Croatia,"Jul 1, 2012","Aug 30, 2012",NK Zagreb U19,NK Zagreb,,,SuperSport HNL
+1,Dominik Livakovic,GNK Dinamo Zagreb,€8.50m ,Croatia,"Jul 1, 2010","Jul 1, 2012",NK Zadar U17,NK Zagreb U19,,,SuperSport HNL
+1,Dominik Livakovic,GNK Dinamo Zagreb,€8.50m ,Croatia,,"Jul 1, 2010",NK Zadar Jgd,NK Zadar U17,,,SuperSport HNL
+12,Ivo Grbic,Atlético de Madrid,€3.50m ,Croatia,"Jun 30, 2022",,Atlético Madrid,,,,LaLiga
+12,Ivo Grbic,Atlético de Madrid,€3.50m ,Croatia,"Aug 19, 2021","Jun 30, 2022",LOSC Lille,Atlético Madrid,3500000.0,,LaLiga
+12,Ivo Grbic,Atlético de Madrid,€3.50m ,Croatia,"Aug 20, 2020","Aug 19, 2021",Atlético Madrid,LOSC Lille,3500000.0,,LaLiga
+12,Ivo Grbic,Atlético de Madrid,€3.50m ,Croatia,"Jul 13, 2018","Aug 20, 2020",NK Lokomotiva,Atlético Madrid,2000000.0,3500000.0,LaLiga
+12,Ivo Grbic,Atlético de Madrid,€3.50m ,Croatia,"Dec 1, 2014","Jul 13, 2018",Hajduk Split,NK Lokomotiva,150000.0,0.0,LaLiga
+12,Ivo Grbic,Atlético de Madrid,€3.50m ,Croatia,"Jul 14, 2014","Dec 1, 2014",Hajduk Split II,Hajduk Split,,,LaLiga
+12,Ivo Grbic,Atlético de Madrid,€3.50m ,Croatia,"Jul 1, 2013","Jul 14, 2014",Hajduk U19,Hajduk Split II,,,LaLiga
+12,Ivo Grbic,Atlético de Madrid,€3.50m ,Croatia,"Jul 1, 2011","Jul 1, 2013",Hajduk U17,Hajduk U19,,,LaLiga
+12,Ivo Grbic,Atlético de Madrid,€3.50m ,Croatia,,"Jul 1, 2011",Hajduk Yth.,Hajduk U17,,,LaLiga
+24,Josip Sutalo,GNK Dinamo Zagreb,€18.00m ,Croatia,"Jun 30, 2021",,Dinamo Zagreb,,,,SuperSport HNL
+24,Josip Sutalo,GNK Dinamo Zagreb,€18.00m ,Croatia,"Jan 18, 2021","Jun 30, 2021",NK Istra,Dinamo Zagreb,750000.0,,SuperSport HNL
+24,Josip Sutalo,GNK Dinamo Zagreb,€18.00m ,Croatia,"Jan 7, 2020","Jan 18, 2021",Dinamo Zagreb,NK Istra,650000.0,,SuperSport HNL
+24,Josip Sutalo,GNK Dinamo Zagreb,€18.00m ,Croatia,"Jul 1, 2018","Jan 7, 2020",Din. Zagreb II,Dinamo Zagreb,150000.0,,SuperSport HNL
+24,Josip Sutalo,GNK Dinamo Zagreb,€18.00m ,Croatia,"Jul 1, 2017","Jul 1, 2018",Din. Zagreb U19,Din. Zagreb II,,,SuperSport HNL
+24,Josip Sutalo,GNK Dinamo Zagreb,€18.00m ,Croatia,"Jul 1, 2015","Jul 1, 2017",Din. Zagreb U17,Din. Zagreb U19,,,SuperSport HNL
+24,Josip Sutalo,GNK Dinamo Zagreb,€18.00m ,Croatia,"Jul 25, 2014","Jul 1, 2015",D. Zagreb Yth.,Din. Zagreb U17,,,SuperSport HNL
+24,Josip Sutalo,GNK Dinamo Zagreb,€18.00m ,Croatia,,"Jul 25, 2014",Neret. Metkovic,D. Zagreb Yth.,,,SuperSport HNL
+6,Dejan Lovren,Zenit St. Petersburg,€3.50m ,Croatia,"Aug 1, 2020",,Zenit S-Pb,,,,Premier Liga
+6,Dejan Lovren,Zenit St. Petersburg,€3.50m ,Croatia,"Jul 27, 2014","Aug 1, 2020",Liverpool,Zenit S-Pb,12000000.0,12000000.0,Premier Liga
+6,Dejan Lovren,Zenit St. Petersburg,€3.50m ,Croatia,"Jul 1, 2013","Jul 27, 2014",Southampton,Liverpool,12000000.0,25300000.0,Premier Liga
+6,Dejan Lovren,Zenit St. Petersburg,€3.50m ,Croatia,"Jan 13, 2010","Jul 1, 2013",Olympique Lyon,Southampton,7000000.0,10000000.0,Premier Liga
+6,Dejan Lovren,Zenit St. Petersburg,€3.50m ,Croatia,"Jun 30, 2008","Jan 13, 2010",Dinamo Zagreb,Olympique Lyon,2500000.0,9000000.0,Premier Liga
+6,Dejan Lovren,Zenit St. Petersburg,€3.50m ,Croatia,"Jul 17, 2006","Jun 30, 2008",Inter Zapresic,Dinamo Zagreb,1100000.0,,Premier Liga
+6,Dejan Lovren,Zenit St. Petersburg,€3.50m ,Croatia,"Jan 1, 2006","Jul 17, 2006",Dinamo Zagreb,Inter Zapresic,800000.0,,Premier Liga
+6,Dejan Lovren,Zenit St. Petersburg,€3.50m ,Croatia,,"Jan 1, 2006",Din. Zagreb U17,Dinamo Zagreb,,,Premier Liga
+19,Borna Sosa,VfB Stuttgart,€20.00m ,Croatia,"Jul 1, 2018",,VfB Stuttgart,,,,Bundesliga
+19,Borna Sosa,VfB Stuttgart,€20.00m ,Croatia,"Jul 1, 2016","Jul 1, 2018",Dinamo Zagreb,VfB Stuttgart,1750000.0,6000000.0,Bundesliga
+19,Borna Sosa,VfB Stuttgart,€20.00m ,Croatia,"Jan 20, 2015","Jul 1, 2016",Din. Zagreb II,Dinamo Zagreb,250000.0,,Bundesliga
+19,Borna Sosa,VfB Stuttgart,€20.00m ,Croatia,"Jul 1, 2013","Jan 20, 2015",Din. Zagreb U17,Din. Zagreb II,,,Bundesliga
+19,Borna Sosa,VfB Stuttgart,€20.00m ,Croatia,,"Jul 1, 2013",D. Zagreb Yth.,Din. Zagreb U17,,,Bundesliga
+2,Josip Stanisic,Bayern Munich,€8.00m ,Croatia,"Aug 1, 2021",,Bayern Munich,,,,Bundesliga
+2,Josip Stanisic,Bayern Munich,€8.00m ,Croatia,"Jul 1, 2019","Aug 1, 2021",FC Bayern II,Bayern Munich,400000.0,,Bundesliga
+2,Josip Stanisic,Bayern Munich,€8.00m ,Croatia,"Jul 1, 2017","Jul 1, 2019",FC Bayern U19,FC Bayern II,,,Bundesliga
+2,Josip Stanisic,Bayern Munich,€8.00m ,Croatia,"Jan 17, 2017","Jul 1, 2017",FC Bayern U17,FC Bayern U19,,,Bundesliga
+2,Josip Stanisic,Bayern Munich,€8.00m ,Croatia,"Jul 1, 2016","Jan 17, 2017",Fürstenf. U17,FC Bayern U17,,0.0,Bundesliga
+2,Josip Stanisic,Bayern Munich,€8.00m ,Croatia,"Jul 1, 2015","Jul 1, 2016",Fürstenf. Yth.,Fürstenf. U17,,,Bundesliga
+2,Josip Stanisic,Bayern Munich,€8.00m ,Croatia,"Jul 1, 2009","Jul 1, 2015",TSV 1860 Yth.,Fürstenf. Yth.,,0.0,Bundesliga
+2,Josip Stanisic,Bayern Munich,€8.00m ,Croatia,,"Jul 1, 2009",FC Perlach Yth.,TSV 1860 Yth.,,,Bundesliga
+11,Marcelo Brozovic,Inter Milan,€35.00m ,Croatia,"Jul 1, 2016",,Inter,,,,Serie A
+11,Marcelo Brozovic,Inter Milan,€35.00m ,Croatia,"Jun 30, 2016","Jul 1, 2016",Dinamo Zagreb,Inter,18000000.0,5000000.0,Serie A
+11,Marcelo Brozovic,Inter Milan,€35.00m ,Croatia,"Jan 26, 2015","Jun 30, 2016",Inter,Dinamo Zagreb,18000000.0,,Serie A
+11,Marcelo Brozovic,Inter Milan,€35.00m ,Croatia,"Aug 31, 2012","Jan 26, 2015",Dinamo Zagreb,Inter,5500000.0,,Serie A
+11,Marcelo Brozovic,Inter Milan,€35.00m ,Croatia,"Jul 1, 2011","Aug 31, 2012",NK Lokomotiva,Dinamo Zagreb,600000.0,2400000.0,Serie A
+11,Marcelo Brozovic,Inter Milan,€35.00m ,Croatia,"Jul 1, 2010","Jul 1, 2011",Hrv Dragovoljac,NK Lokomotiva,350000.0,300000.0,Serie A
+11,Marcelo Brozovic,Inter Milan,€35.00m ,Croatia,"Jul 1, 2009","Jul 1, 2010",Dragovoljac U19,Hrv Dragovoljac,,,Serie A
+11,Marcelo Brozovic,Inter Milan,€35.00m ,Croatia,"Jul 1, 2007","Jul 1, 2009",Dragovoljac U17,Dragovoljac U19,,,Serie A
+11,Marcelo Brozovic,Inter Milan,€35.00m ,Croatia,,"Jul 1, 2007",Dragovoljac Jgd,Dragovoljac U17,,,Serie A
+8,Mateo Kovacic,Chelsea FC,€40.00m ,Croatia,"Jul 1, 2019",,Chelsea,,,,Premier League
+8,Mateo Kovacic,Chelsea FC,€40.00m ,Croatia,"Jun 30, 2019","Jul 1, 2019",Real Madrid,Chelsea,35000000.0,45000000.0,Premier League
+8,Mateo Kovacic,Chelsea FC,€40.00m ,Croatia,"Aug 9, 2018","Jun 30, 2019",Chelsea,Real Madrid,35000000.0,,Premier League
+8,Mateo Kovacic,Chelsea FC,€40.00m ,Croatia,"Aug 18, 2015","Aug 9, 2018",Real Madrid,Chelsea,30000000.0,,Premier League
+8,Mateo Kovacic,Chelsea FC,€40.00m ,Croatia,"Jan 31, 2013","Aug 18, 2015",Inter,Real Madrid,22000000.0,38000000.0,Premier League
+8,Mateo Kovacic,Chelsea FC,€40.00m ,Croatia,"Oct 1, 2010","Jan 31, 2013",Dinamo Zagreb,Inter,3000000.0,11000000.0,Premier League
+8,Mateo Kovacic,Chelsea FC,€40.00m ,Croatia,"Jul 1, 2009","Oct 1, 2010",Din. Zagreb U17,Dinamo Zagreb,,,Premier League
+8,Mateo Kovacic,Chelsea FC,€40.00m ,Croatia,"Mar 1, 2008","Jul 1, 2009",D. Zagreb Yth.,Din. Zagreb U17,,,Premier League
+8,Mateo Kovacic,Chelsea FC,€40.00m ,Croatia,"Sep 1, 2000","Mar 1, 2008",LASK Youth,D. Zagreb Yth.,,,Premier League
+8,Mateo Kovacic,Chelsea FC,€40.00m ,Croatia,,"Sep 1, 2000",Ebelsberg J.,LASK Youth,,,Premier League
+4,Ivan Perisic,Tottenham Hotspur,€10.00m ,Croatia,"Jul 1, 2022",,Spurs,,,,Premier League
+4,Ivan Perisic,Tottenham Hotspur,€10.00m ,Croatia,"Aug 31, 2020","Jul 1, 2022",Inter,Spurs,10000000.0,0.0,Premier League
+4,Ivan Perisic,Tottenham Hotspur,€10.00m ,Croatia,"Aug 13, 2019","Aug 31, 2020",Bayern Munich,Inter,17500000.0,,Premier League
+4,Ivan Perisic,Tottenham Hotspur,€10.00m ,Croatia,"Aug 30, 2015","Aug 13, 2019",Inter,Bayern Munich,30000000.0,,Premier League
+4,Ivan Perisic,Tottenham Hotspur,€10.00m ,Croatia,"Jan 6, 2013","Aug 30, 2015",VfL Wolfsburg,Inter,13000000.0,19000000.0,Premier League
+4,Ivan Perisic,Tottenham Hotspur,€10.00m ,Croatia,"Jul 1, 2011","Jan 6, 2013",Bor. Dortmund,VfL Wolfsburg,7000000.0,8000000.0,Premier League
+4,Ivan Perisic,Tottenham Hotspur,€10.00m ,Croatia,"Aug 26, 2009","Jul 1, 2011",Club Brugge,Bor. Dortmund,6000000.0,4000000.0,Premier League
+4,Ivan Perisic,Tottenham Hotspur,€10.00m ,Croatia,"Jun 30, 2009","Aug 26, 2009",FC Sochaux,Club Brugge,1000000.0,200000.0,Premier League
+4,Ivan Perisic,Tottenham Hotspur,€10.00m ,Croatia,"Jan 1, 2009","Jun 30, 2009",KSV Roeselare,FC Sochaux,600000.0,,Premier League
+4,Ivan Perisic,Tottenham Hotspur,€10.00m ,Croatia,"Jul 1, 2008","Jan 1, 2009",FC Sochaux,KSV Roeselare,100000.0,,Premier League
+4,Ivan Perisic,Tottenham Hotspur,€10.00m ,Croatia,"Jul 1, 2006","Jul 1, 2008",FC Sochaux B,FC Sochaux,325000.0,,Premier League
+4,Ivan Perisic,Tottenham Hotspur,€10.00m ,Croatia,"Jul 1, 2004","Jul 1, 2006",Hajduk U17,FC Sochaux B,,360000.0,Premier League
+4,Ivan Perisic,Tottenham Hotspur,€10.00m ,Croatia,,"Jul 1, 2004",Hajduk Yth.,Hajduk U17,,,Premier League
+7,Lovro Majer,Stade Rennais FC,€22.00m ,Croatia,"Aug 26, 2021",,Rennes,,,,Ligue 1
+7,Lovro Majer,Stade Rennais FC,€22.00m ,Croatia,"Jul 1, 2018","Aug 26, 2021",Dinamo Zagreb,Rennes,13000000.0,12000000.0,Ligue 1
+7,Lovro Majer,Stade Rennais FC,€22.00m ,Croatia,"Jul 1, 2016","Jul 1, 2018",NK Lokomotiva,Dinamo Zagreb,2500000.0,2500000.0,Ligue 1
+7,Lovro Majer,Stade Rennais FC,€22.00m ,Croatia,"Jul 1, 2015","Jul 1, 2016",Lokomotiva U19,NK Lokomotiva,,,Ligue 1
+7,Lovro Majer,Stade Rennais FC,€22.00m ,Croatia,"Jul 1, 2013","Jul 1, 2015",Lokomotiva U17,Lokomotiva U19,,,Ligue 1
+7,Lovro Majer,Stade Rennais FC,€22.00m ,Croatia,"Feb 3, 2012","Jul 1, 2013",NK Trnje Zagreb,Lokomotiva U17,,,Ligue 1
+7,Lovro Majer,Stade Rennais FC,€22.00m ,Croatia,"Aug 13, 2010","Feb 3, 2012",Dubrava Tk Jgd.,NK Trnje Zagreb,,,Ligue 1
+7,Lovro Majer,Stade Rennais FC,€22.00m ,Croatia,,"Aug 13, 2010",D. Zagreb Yth.,Dubrava Tk Jgd.,,,Ligue 1
+25,Luka Sucic,Red Bull Salzburg,€20.00m ,Croatia,"Aug 1, 2020",,RB Salzburg,,,,Bundesliga
+25,Luka Sucic,Red Bull Salzburg,€20.00m ,Croatia,"Jul 1, 2019","Aug 1, 2020",FC Liefering,RB Salzburg,700000.0,,Bundesliga
+25,Luka Sucic,Red Bull Salzburg,€20.00m ,Croatia,"Jul 1, 2018","Jul 1, 2019",AKA Salzb. U18,FC Liefering,,,Bundesliga
+25,Luka Sucic,Red Bull Salzburg,€20.00m ,Croatia,"Jan 1, 2017","Jul 1, 2018",AKA Salzb. U16,AKA Salzb. U18,,,Bundesliga
+25,Luka Sucic,Red Bull Salzburg,€20.00m ,Croatia,"Jul 1, 2016","Jan 1, 2017",AKA Salzb. U15,AKA Salzb. U16,,,Bundesliga
+25,Luka Sucic,Red Bull Salzburg,€20.00m ,Croatia,"Feb 1, 2016","Jul 1, 2016",Salzburg Youth,AKA Salzb. U15,,,Bundesliga
+25,Luka Sucic,Red Bull Salzburg,€20.00m ,Croatia,"Jul 1, 2012","Feb 1, 2016",Edelweiß Jug.,Salzburg Youth,,,Bundesliga
+25,Luka Sucic,Red Bull Salzburg,€20.00m ,Croatia,,"Jul 1, 2012",Alkoven Yth.,Edelweiß Jug.,,,Bundesliga
+9,Andrej Kramaric,TSG 1899 Hoffenheim,€9.00m ,Croatia,"Jul 1, 2016",,TSG Hoffenheim,,,,Bundesliga
+9,Andrej Kramaric,TSG 1899 Hoffenheim,€9.00m ,Croatia,"Jun 30, 2016","Jul 1, 2016",Leicester,TSG Hoffenheim,7500000.0,11000000.0,Bundesliga
+9,Andrej Kramaric,TSG 1899 Hoffenheim,€9.00m ,Croatia,"Jan 20, 2016","Jun 30, 2016",TSG Hoffenheim,Leicester,7500000.0,,Bundesliga
+9,Andrej Kramaric,TSG 1899 Hoffenheim,€9.00m ,Croatia,"Jan 16, 2015","Jan 20, 2016",Leicester,TSG Hoffenheim,8000000.0,,Bundesliga
+9,Andrej Kramaric,TSG 1899 Hoffenheim,€9.00m ,Croatia,"Aug 30, 2013","Jan 16, 2015",HNK Rijeka,Leicester,4500000.0,9000000.0,Bundesliga
+9,Andrej Kramaric,TSG 1899 Hoffenheim,€9.00m ,Croatia,"Jun 30, 2013","Aug 30, 2013",Dinamo Zagreb,HNK Rijeka,1250000.0,1200000.0,Bundesliga
+9,Andrej Kramaric,TSG 1899 Hoffenheim,€9.00m ,Croatia,"Jul 1, 2012","Jun 30, 2013",NK Lokomotiva,Dinamo Zagreb,1250000.0,,Bundesliga
+9,Andrej Kramaric,TSG 1899 Hoffenheim,€9.00m ,Croatia,"Jun 30, 2012","Jul 1, 2012",Dinamo Zagreb,NK Lokomotiva,250000.0,,Bundesliga
+9,Andrej Kramaric,TSG 1899 Hoffenheim,€9.00m ,Croatia,"Feb 10, 2012","Jun 30, 2012",NK Lokomotiva,Dinamo Zagreb,250000.0,,Bundesliga
+9,Andrej Kramaric,TSG 1899 Hoffenheim,€9.00m ,Croatia,"Jul 1, 2009","Feb 10, 2012",Dinamo Zagreb,NK Lokomotiva,250000.0,,Bundesliga
+9,Andrej Kramaric,TSG 1899 Hoffenheim,€9.00m ,Croatia,"Jul 1, 2008","Jul 1, 2009",Din. Zagreb U19,Dinamo Zagreb,,,Bundesliga
+9,Andrej Kramaric,TSG 1899 Hoffenheim,€9.00m ,Croatia,"Jul 1, 2006","Jul 1, 2008",Din. Zagreb U17,Din. Zagreb U19,,,Bundesliga
+9,Andrej Kramaric,TSG 1899 Hoffenheim,€9.00m ,Croatia,,"Jul 1, 2006",D. Zagreb Yth.,Din. Zagreb U17,,,Bundesliga
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Jan 21, 2019",,Dinamo Zagreb,,,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Jan 20, 2019","Jan 21, 2019",Bologna,Dinamo Zagreb,850000.0,1000000.0,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Aug 10, 2018","Jan 20, 2019",Dinamo Zagreb,Bologna,850000.0,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Jun 30, 2018","Aug 10, 2018",Bologna,Dinamo Zagreb,1000000.0,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Jan 11, 2018","Jun 30, 2018",Hellas Verona,Bologna,1000000.0,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Jan 12, 2017","Jan 11, 2018",Bologna,Hellas Verona,1200000.0,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Jul 1, 2016","Jan 12, 2017",Trapani,Bologna,1200000.0,1300000.0,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Jun 30, 2016","Jul 1, 2016",Catania,Trapani,1200000.0,600000.0,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Feb 1, 2016","Jun 30, 2016",Trapani,Catania,1200000.0,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Jan 31, 2016","Feb 1, 2016",Catania,Trapani,350000.0,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Aug 31, 2015","Jan 31, 2016",Virtus Entella,Catania,350000.0,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Jun 30, 2015","Aug 31, 2015",Catania,Virtus Entella,375000.0,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Jan 30, 2015","Jun 30, 2015",Reggiana,Catania,375000.0,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Jan 29, 2015","Jan 30, 2015",Catania,Reggiana,400000.0,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Sep 1, 2014","Jan 29, 2015",Varese,Catania,400000.0,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Jul 1, 2013","Sep 1, 2014",Catania,Varese,400000.0,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Aug 27, 2012","Jul 1, 2013",Catania,Catania,200000.0,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Aug 12, 2011","Aug 27, 2012",Dragovoljac U19,Catania,,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Feb 19, 2010","Aug 12, 2011",HASK ZG U17,Dragovoljac U19,,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Sep 4, 2009","Feb 19, 2010",NK Zagreb U17,HASK ZG U17,,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,"Aug 29, 2007","Sep 4, 2009",D. Zagreb Yth.,NK Zagreb U17,,,SuperSport HNL
+16,Bruno Petkovic,GNK Dinamo Zagreb,€6.00m ,Croatia,,"Aug 29, 2007",Neret. Metkovic,D. Zagreb Yth.,,,SuperSport HNL

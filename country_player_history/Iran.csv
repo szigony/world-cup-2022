@@ -1,0 +1,215 @@
+shirt_number,name,current_team,current_market_value,country,from_date,to_date,old_team,new_team,market_value,transfer_fee,current_league
+1,Alireza Beiranvand,Persepolis FC,€1.00m ,Iran,"Jul 1, 2022",,Persepolis,,,,Persian Gulf Pro League
+1,Alireza Beiranvand,Persepolis FC,€1.00m ,Iran,"Jun 30, 2022","Jul 1, 2022",Royal Antwerp,Persepolis,1000000.0,0.0,Persian Gulf Pro League
+1,Alireza Beiranvand,Persepolis FC,€1.00m ,Iran,"Jul 10, 2021","Jun 30, 2022",Boavista,Royal Antwerp,1000000.0,,Persian Gulf Pro League
+1,Alireza Beiranvand,Persepolis FC,€1.00m ,Iran,"Jul 28, 2020","Jul 10, 2021",Royal Antwerp,Boavista,1500000.0,,Persian Gulf Pro League
+1,Alireza Beiranvand,Persepolis FC,€1.00m ,Iran,"Jul 1, 2016","Jul 28, 2020",Persepolis,Royal Antwerp,2800000.0,630000.0,Persian Gulf Pro League
+1,Alireza Beiranvand,Persepolis FC,€1.00m ,Iran,"Jul 1, 2010","Jul 1, 2016",Naft Tehran,Persepolis,800000.0,0.0,Persian Gulf Pro League
+1,Alireza Beiranvand,Persepolis FC,€1.00m ,Iran,,"Jul 1, 2010",Naft Novin U19,Naft Tehran,,,Persian Gulf Pro League
+12,Payam Niazmand,Sepahan FC,€500k ,Iran,"Jun 30, 2023",,Portimonense,,,,Persian Gulf Pro League
+12,Payam Niazmand,Sepahan FC,€500k ,Iran,"Aug 20, 2022","Jun 30, 2023",Sepahan,Portimonense,500000.0,,Persian Gulf Pro League
+12,Payam Niazmand,Sepahan FC,€500k ,Iran,"Jul 31, 2021","Aug 20, 2022",Portimonense,Sepahan,500000.0,,Persian Gulf Pro League
+12,Payam Niazmand,Sepahan FC,€500k ,Iran,"Jul 1, 2018","Jul 31, 2021",Sepahan,Portimonense,750000.0,0.0,Persian Gulf Pro League
+12,Payam Niazmand,Sepahan FC,€500k ,Iran,"Jul 1, 2015","Jul 1, 2018",Paykan FC,Sepahan,500000.0,0.0,Persian Gulf Pro League
+12,Payam Niazmand,Sepahan FC,€500k ,Iran,"Jul 1, 2013","Jul 1, 2015",Paykan FC U21,Paykan FC,50000.0,,Persian Gulf Pro League
+12,Payam Niazmand,Sepahan FC,€500k ,Iran,,"Jul 1, 2013",Paykan FC U19,Paykan FC U21,,,Persian Gulf Pro League
+13,Hossein Kanaani,Al-Ahli SC,€2.00m ,Iran,"Aug 1, 2021",,Al-Ahli SC,,,,Stars League
+13,Hossein Kanaani,Al-Ahli SC,€2.00m ,Iran,"Jul 7, 2019","Aug 1, 2021",Persepolis,Al-Ahli SC,800000.0,0.0,Stars League
+13,Hossein Kanaani,Al-Ahli SC,€2.00m ,Iran,"Jul 23, 2018","Jul 7, 2019",Machine Sazi,Persepolis,800000.0,0.0,Stars League
+13,Hossein Kanaani,Al-Ahli SC,€2.00m ,Iran,"Jul 4, 2017","Jul 23, 2018",Saipa FC,Machine Sazi,150000.0,0.0,Stars League
+13,Hossein Kanaani,Al-Ahli SC,€2.00m ,Iran,"Jul 1, 2016","Jul 4, 2017",Esteghlal FC,Saipa FC,400000.0,0.0,Stars League
+13,Hossein Kanaani,Al-Ahli SC,€2.00m ,Iran,"Jul 1, 2014","Jul 1, 2016",Malavan,Esteghlal FC,500000.0,0.0,Stars League
+13,Hossein Kanaani,Al-Ahli SC,€2.00m ,Iran,"Dec 1, 2011","Jul 1, 2014",Persepolis,Malavan,50000.0,0.0,Stars League
+13,Hossein Kanaani,Al-Ahli SC,€2.00m ,Iran,,"Dec 1, 2011",Esteghlal Mash,Persepolis,,0.0,Stars League
+4,Shoja Khalilzadeh,Al-Ahli SC,€300k ,Iran,"Jul 1, 2022",,Al-Ahli SC,,,,Stars League
+4,Shoja Khalilzadeh,Al-Ahli SC,€300k ,Iran,"Oct 23, 2020","Jul 1, 2022",Al-Rayyan SC,Al-Ahli SC,450000.0,0.0,Stars League
+4,Shoja Khalilzadeh,Al-Ahli SC,€300k ,Iran,"Jul 1, 2017","Oct 23, 2020",Persepolis,Al-Rayyan SC,800000.0,0.0,Stars League
+4,Shoja Khalilzadeh,Al-Ahli SC,€300k ,Iran,"Jun 30, 2016","Jul 1, 2017",Sepahan,Persepolis,700000.0,0.0,Stars League
+4,Shoja Khalilzadeh,Al-Ahli SC,€300k ,Iran,"Nov 28, 2014","Jun 30, 2016",Tractor Sazi,Sepahan,700000.0,,Stars League
+4,Shoja Khalilzadeh,Al-Ahli SC,€300k ,Iran,"Jul 1, 2013","Nov 28, 2014",Sepahan,Tractor Sazi,800000.0,,Stars League
+4,Shoja Khalilzadeh,Al-Ahli SC,€300k ,Iran,"Jul 1, 2010","Jul 1, 2013",Mes Kerman,Sepahan,800000.0,,Stars League
+4,Shoja Khalilzadeh,Al-Ahli SC,€300k ,Iran,"Jul 1, 2008","Jul 1, 2010",Mes Rafsanjan,Mes Kerman,,,Stars League
+4,Shoja Khalilzadeh,Al-Ahli SC,€300k ,Iran,,"Jul 1, 2008",Unknown,Mes Rafsanjan,,,Stars League
+3,Ehsan Hajsafi,AEK Athens,€800k ,Iran,"Aug 2, 2021",,AEK Athens,,,,Super League 1
+3,Ehsan Hajsafi,AEK Athens,€800k ,Iran,"Mar 13, 2021","Aug 2, 2021",Sepahan,AEK Athens,950000.0,0.0,Super League 1
+3,Ehsan Hajsafi,AEK Athens,€800k ,Iran,"Sep 2, 2018","Mar 13, 2021",Tractor,Sepahan,1100000.0,0.0,Super League 1
+3,Ehsan Hajsafi,AEK Athens,€800k ,Iran,"Jan 2, 2018","Sep 2, 2018",Olympiacos,Tractor Sazi,1500000.0,0.0,Super League 1
+3,Ehsan Hajsafi,AEK Athens,€800k ,Iran,"Jul 8, 2017","Jan 2, 2018",Panionios,Olympiacos,1250000.0,600000.0,Super League 1
+3,Ehsan Hajsafi,AEK Athens,€800k ,Iran,"Jul 31, 2016","Jul 8, 2017",Sepahan,Panionios,1000000.0,0.0,Super League 1
+3,Ehsan Hajsafi,AEK Athens,€800k ,Iran,"Aug 31, 2015","Jul 31, 2016",FSV Frankfurt,Sepahan,750000.0,0.0,Super League 1
+3,Ehsan Hajsafi,AEK Athens,€800k ,Iran,"Dec 31, 2012","Aug 31, 2015",Sepahan,FSV Frankfurt,1500000.0,0.0,Super League 1
+3,Ehsan Hajsafi,AEK Athens,€800k ,Iran,"Jul 1, 2011","Dec 31, 2012",Tractor Sazi,Sepahan,1000000.0,,Super League 1
+3,Ehsan Hajsafi,AEK Athens,€800k ,Iran,"Aug 1, 2007","Jul 1, 2011",Sepahan,Tractor Sazi,1000000.0,,Super League 1
+3,Ehsan Hajsafi,AEK Athens,€800k ,Iran,,"Aug 1, 2007",Sepahan FC U19,Sepahan,,,Super League 1
+2,Sadegh Moharrami,GNK Dinamo Zagreb,€2.00m ,Iran,"Dec 31, 2019",,Dinamo Zagreb,,,,SuperSport HNL
+2,Sadegh Moharrami,GNK Dinamo Zagreb,€2.00m ,Iran,"Sep 2, 2019","Dec 31, 2019",NK Lokomotiva,Dinamo Zagreb,750000.0,,SuperSport HNL
+2,Sadegh Moharrami,GNK Dinamo Zagreb,€2.00m ,Iran,"Jul 2, 2018","Sep 2, 2019",Dinamo Zagreb,NK Lokomotiva,1000000.0,,SuperSport HNL
+2,Sadegh Moharrami,GNK Dinamo Zagreb,€2.00m ,Iran,"Jul 1, 2016","Jul 2, 2018",Persepolis,Dinamo Zagreb,900000.0,0.0,SuperSport HNL
+2,Sadegh Moharrami,GNK Dinamo Zagreb,€2.00m ,Iran,"Jul 1, 2014","Jul 1, 2016",Malavan,Persepolis,200000.0,,SuperSport HNL
+2,Sadegh Moharrami,GNK Dinamo Zagreb,€2.00m ,Iran,"Jul 1, 2012","Jul 1, 2014",Malavan U19,Malavan,,,SuperSport HNL
+2,Sadegh Moharrami,GNK Dinamo Zagreb,€2.00m ,Iran,,"Jul 1, 2012",Malavan U17,Malavan U19,,,SuperSport HNL
+15,Roozbeh Cheshmi,Esteghlal FC,€500k ,Iran,"Oct 10, 2021",,Esteghlal FC,,,,Persian Gulf Pro League
+15,Roozbeh Cheshmi,Esteghlal FC,€500k ,Iran,"Oct 7, 2020","Oct 10, 2021",Umm Salal SC,Esteghlal FC,700000.0,0.0,Persian Gulf Pro League
+15,Roozbeh Cheshmi,Esteghlal FC,€500k ,Iran,"Jul 1, 2015","Oct 7, 2020",Esteghlal FC,Umm Salal SC,675000.0,0.0,Persian Gulf Pro League
+15,Roozbeh Cheshmi,Esteghlal FC,€500k ,Iran,"Jul 11, 2013","Jul 1, 2015",Saba Battery,Esteghlal FC,350000.0,103000.0,Persian Gulf Pro League
+15,Roozbeh Cheshmi,Esteghlal FC,€500k ,Iran,"Dec 10, 2012","Jul 11, 2013",Persepolis,Saba Battery,50000.0,0.0,Persian Gulf Pro League
+15,Roozbeh Cheshmi,Esteghlal FC,€500k ,Iran,"Jul 1, 2011","Dec 10, 2012",Moghavemat U21,Persepolis,,,Persian Gulf Pro League
+15,Roozbeh Cheshmi,Esteghlal FC,€500k ,Iran,,"Jul 1, 2011",Persepolis U19,Moghavemat U21,,,Persian Gulf Pro League
+21,Ahmad Nourollahi,FC Shabab Al-Ahli Dubai,€2.00m ,Iran,"Aug 17, 2021",,Shabab Dubai,,,,UAE Pro League
+21,Ahmad Nourollahi,FC Shabab Al-Ahli Dubai,€2.00m ,Iran,"Jun 30, 2017","Aug 17, 2021",Persepolis,Shabab Dubai,1600000.0,0.0,UAE Pro League
+21,Ahmad Nourollahi,FC Shabab Al-Ahli Dubai,€2.00m ,Iran,"Jan 2, 2017","Jun 30, 2017",Tractor Sazi,Persepolis,500000.0,,UAE Pro League
+21,Ahmad Nourollahi,FC Shabab Al-Ahli Dubai,€2.00m ,Iran,"Jul 1, 2014","Jan 2, 2017",Persepolis,Tractor Sazi,700000.0,,UAE Pro League
+21,Ahmad Nourollahi,FC Shabab Al-Ahli Dubai,€2.00m ,Iran,"Jul 1, 2011","Jul 1, 2014",F. Yazd,Persepolis,50000.0,0.0,UAE Pro League
+21,Ahmad Nourollahi,FC Shabab Al-Ahli Dubai,€2.00m ,Iran,,"Jul 1, 2011",Foolad Yazd U19,F. Yazd,,,UAE Pro League
+14,Saman Ghoddos,Brentford FC,€2.20m ,Iran,"Jan 14, 2021",,Brentford,,,,Premier League
+14,Saman Ghoddos,Brentford FC,€2.20m ,Iran,"Jan 13, 2021","Jan 14, 2021",Amiens SC,Brentford,2500000.0,,Premier League
+14,Saman Ghoddos,Brentford FC,€2.20m ,Iran,"Sep 21, 2020","Jan 13, 2021",Brentford,Amiens SC,2500000.0,,Premier League
+14,Saman Ghoddos,Brentford FC,€2.20m ,Iran,"Aug 23, 2018","Sep 21, 2020",Amiens SC,Brentford,3200000.0,,Premier League
+14,Saman Ghoddos,Brentford FC,€2.20m ,Iran,"Jan 1, 2016","Aug 23, 2018",Östersund,Amiens SC,1750000.0,4000000.0,Premier League
+14,Saman Ghoddos,Brentford FC,€2.20m ,Iran,"Feb 23, 2014","Jan 1, 2016",Syrianska FC,Östersund,225000.0,75000.0,Premier League
+14,Saman Ghoddos,Brentford FC,€2.20m ,Iran,"Mar 1, 2013","Feb 23, 2014",Trelleborg,Syrianska FC,,0.0,Premier League
+14,Saman Ghoddos,Brentford FC,€2.20m ,Iran,"Jan 1, 2011","Mar 1, 2013",Bunkeflo,Trelleborg,,0.0,Premier League
+14,Saman Ghoddos,Brentford FC,€2.20m ,Iran,,"Jan 1, 2011",Bunkeflo U19,Bunkeflo,,,Premier League
+11,Vahid Amiri,Persepolis FC,€350k ,Iran,"Jul 13, 2019",,Persepolis,,,,Persian Gulf Pro League
+11,Vahid Amiri,Persepolis FC,€350k ,Iran,"Jul 20, 2018","Jul 13, 2019",Trabzonspor,Persepolis,650000.0,0.0,Persian Gulf Pro League
+11,Vahid Amiri,Persepolis FC,€350k ,Iran,"Jul 1, 2016","Jul 20, 2018",Persepolis,Trabzonspor,1200000.0,0.0,Persian Gulf Pro League
+11,Vahid Amiri,Persepolis FC,€350k ,Iran,"Jul 1, 2013","Jul 1, 2016",Naft Tehran,Persepolis,800000.0,0.0,Persian Gulf Pro League
+11,Vahid Amiri,Persepolis FC,€350k ,Iran,"Aug 24, 2011","Jul 1, 2013",Naft M.I.S F.C.,Naft Tehran,,,Persian Gulf Pro League
+11,Vahid Amiri,Persepolis FC,€350k ,Iran,"Jul 1, 2010","Aug 24, 2011",Gahar Zagros,Naft M.I.S F.C.,,,Persian Gulf Pro League
+11,Vahid Amiri,Persepolis FC,€350k ,Iran,"Jul 1, 2009","Jul 1, 2010",Kowsar Lorestan,Damash Doroud,,,Persian Gulf Pro League
+11,Vahid Amiri,Persepolis FC,€350k ,Iran,"Jul 1, 2008","Jul 1, 2009",Datis Lorestan,Kowsar Lorestan,,,Persian Gulf Pro League
+11,Vahid Amiri,Persepolis FC,€350k ,Iran,,"Jul 1, 2008",Datis L. U21,Datis Lorestan,,,Persian Gulf Pro League
+17,Ali Gholizadeh,RSC Charleroi,€2.00m ,Iran,"Jul 1, 2018",,RSC Charleroi,,,,Jupiler Pro League
+17,Ali Gholizadeh,RSC Charleroi,€2.00m ,Iran,"Jul 1, 2014","Jul 1, 2018",Saipa FC,RSC Charleroi,800000.0,300000.0,Jupiler Pro League
+17,Ali Gholizadeh,RSC Charleroi,€2.00m ,Iran,"Jul 1, 2013","Jul 1, 2014",Saipa FC U19,Saipa FC,75000.0,,Jupiler Pro League
+17,Ali Gholizadeh,RSC Charleroi,€2.00m ,Iran,,"Jul 1, 2013",Saipa U17,Saipa FC U19,,,Jupiler Pro League
+20,Sardar Azmoun,Bayer 04 Leverkusen,€12.00m ,Iran,"Jan 30, 2022",,B. Leverkusen,,,,Bundesliga
+20,Sardar Azmoun,Bayer 04 Leverkusen,€12.00m ,Iran,"Feb 1, 2019","Jan 30, 2022",Zenit S-Pb,B. Leverkusen,25000000.0,2500000.0,Bundesliga
+20,Sardar Azmoun,Bayer 04 Leverkusen,€12.00m ,Iran,"Jul 14, 2017","Feb 1, 2019",Rubin Kazan,Zenit S-Pb,9500000.0,12000000.0,Bundesliga
+20,Sardar Azmoun,Bayer 04 Leverkusen,€12.00m ,Iran,"Jul 22, 2016","Jul 14, 2017",Rostov,Rubin Kazan,11000000.0,0.0,Bundesliga
+20,Sardar Azmoun,Bayer 04 Leverkusen,€12.00m ,Iran,"Jun 30, 2016","Jul 22, 2016",Rubin Kazan,Rostov,7000000.0,2300000.0,Bundesliga
+20,Sardar Azmoun,Bayer 04 Leverkusen,€12.00m ,Iran,"Jul 25, 2015","Jun 30, 2016",Rostov,Rubin Kazan,7000000.0,,Bundesliga
+20,Sardar Azmoun,Bayer 04 Leverkusen,€12.00m ,Iran,"Jun 30, 2015","Jul 25, 2015",Rubin Kazan,Rostov,2500000.0,,Bundesliga
+20,Sardar Azmoun,Bayer 04 Leverkusen,€12.00m ,Iran,"Feb 26, 2015","Jun 30, 2015",Rostov,Rubin Kazan,2500000.0,,Bundesliga
+20,Sardar Azmoun,Bayer 04 Leverkusen,€12.00m ,Iran,"Jul 1, 2013","Feb 26, 2015",Rubin Kazan,Rostov,2500000.0,,Bundesliga
+20,Sardar Azmoun,Bayer 04 Leverkusen,€12.00m ,Iran,"Jan 1, 2013","Jul 1, 2013",Rubin Kazan II,Rubin Kazan,75000.0,,Bundesliga
+20,Sardar Azmoun,Bayer 04 Leverkusen,€12.00m ,Iran,"Jul 1, 2011","Jan 1, 2013",Sepahan FC U19,Rubin Kazan II,75000.0,0.0,Bundesliga
+20,Sardar Azmoun,Bayer 04 Leverkusen,€12.00m ,Iran,"Jul 1, 2010","Jul 1, 2011",Sepahan FC U17,Sepahan FC U19,75000.0,,Bundesliga
+20,Sardar Azmoun,Bayer 04 Leverkusen,€12.00m ,Iran,,"Jul 1, 2010",Etka Youth,Sepahan FC U17,,0.0,Bundesliga
+22,Amir Abedzadeh,SD Ponferradina,€1.50m ,Iran,"Jul 8, 2021",,Ponferradina,,,,LaLiga2
+22,Amir Abedzadeh,SD Ponferradina,€1.50m ,Iran,"Jan 24, 2017","Jul 8, 2021",Marítimo,Ponferradina,1500000.0,0.0,LaLiga2
+22,Amir Abedzadeh,SD Ponferradina,€1.50m ,Iran,"Oct 1, 2016","Jan 24, 2017",Barreirense,Marítimo,100000.0,0.0,LaLiga2
+22,Amir Abedzadeh,SD Ponferradina,€1.50m ,Iran,"Jul 27, 2015","Oct 1, 2016",Without Club,Barreirense,100000.0,,LaLiga2
+22,Amir Abedzadeh,SD Ponferradina,€1.50m ,Iran,"Jul 5, 2014","Jul 27, 2015",Rah Ahan,Without Club,150000.0,,LaLiga2
+22,Amir Abedzadeh,SD Ponferradina,€1.50m ,Iran,"Jul 15, 2012","Jul 5, 2014",Persepolis,Rah Ahan,100000.0,0.0,LaLiga2
+22,Amir Abedzadeh,SD Ponferradina,€1.50m ,Iran,"Jul 1, 2011","Jul 15, 2012",OC Blues FC,Persepolis,,100000.0,LaLiga2
+22,Amir Abedzadeh,SD Ponferradina,€1.50m ,Iran,"Jul 1, 2010","Jul 1, 2011",Unknown,OC Blues FC,,0.0,LaLiga2
+22,Amir Abedzadeh,SD Ponferradina,€1.50m ,Iran,"Jul 1, 2009","Jul 1, 2010",London Tigers,Unknown,,0.0,LaLiga2
+22,Amir Abedzadeh,SD Ponferradina,€1.50m ,Iran,"Jul 1, 2008","Jul 1, 2009",Spurs U18,London Tigers,,0.0,LaLiga2
+22,Amir Abedzadeh,SD Ponferradina,€1.50m ,Iran,,"Jul 1, 2008",Brentford Yth.,Spurs U18,,,LaLiga2
+24,Hossein Hosseini,Esteghlal FC,€525k ,Iran,"Jun 30, 2016",,Esteghlal FC,,,,Persian Gulf Pro League
+24,Hossein Hosseini,Esteghlal FC,€525k ,Iran,"Jul 1, 2014","Jun 30, 2016",Malavan,Esteghlal FC,200000.0,,Persian Gulf Pro League
+24,Hossein Hosseini,Esteghlal FC,€525k ,Iran,"Jul 1, 2012","Jul 1, 2014",Esteghlal FC,Malavan,150000.0,,Persian Gulf Pro League
+24,Hossein Hosseini,Esteghlal FC,€525k ,Iran,"Jul 1, 2011","Jul 1, 2012",Bargh Shiraz FC,Esteghlal FC,,0.0,Persian Gulf Pro League
+24,Hossein Hosseini,Esteghlal FC,€525k ,Iran,,"Jul 1, 2011",Bargh Sh U21,Bargh Shiraz FC,,,Persian Gulf Pro League
+19,Majid Hosseini,Kayserispor,€3.00m ,Iran,"Aug 6, 2021",,Kayserispor,,,,Süper Lig
+19,Majid Hosseini,Kayserispor,€3.00m ,Iran,"Jul 30, 2018","Aug 6, 2021",Trabzonspor,Kayserispor,1400000.0,0.0,Süper Lig
+19,Majid Hosseini,Kayserispor,€3.00m ,Iran,"Jun 30, 2016","Jul 30, 2018",Esteghlal FC,Trabzonspor,1500000.0,517000.0,Süper Lig
+19,Majid Hosseini,Kayserispor,€3.00m ,Iran,"Dec 27, 2015","Jun 30, 2016",Rah Ahan,Esteghlal FC,250000.0,,Süper Lig
+19,Majid Hosseini,Kayserispor,€3.00m ,Iran,"Nov 20, 2014","Dec 27, 2015",Esteghlal FC,Rah Ahan,100000.0,,Süper Lig
+19,Majid Hosseini,Kayserispor,€3.00m ,Iran,"Jul 1, 2014","Nov 20, 2014",Saipa FC U21,Esteghlal FC,,0.0,Süper Lig
+19,Majid Hosseini,Kayserispor,€3.00m ,Iran,"Jul 1, 2013","Jul 1, 2014",Saipa FC U19,Saipa FC U21,,,Süper Lig
+19,Majid Hosseini,Kayserispor,€3.00m ,Iran,,"Jul 1, 2013",Saipa U17,Saipa FC U19,,,Süper Lig
+8,Morteza Pouraliganji,Persepolis FC,€700k ,Iran,"Jul 1, 2022",,Persepolis,,,,Persian Gulf Pro League
+8,Morteza Pouraliganji,Persepolis FC,€700k ,Iran,"Sep 10, 2020","Jul 1, 2022",SZ FC,Persepolis,700000.0,0.0,Persian Gulf Pro League
+8,Morteza Pouraliganji,Persepolis FC,€700k ,Iran,"Jan 31, 2019","Sep 10, 2020",Al-Arabi SC,SZ FC,950000.0,0.0,Persian Gulf Pro League
+8,Morteza Pouraliganji,Persepolis FC,€700k ,Iran,"Aug 16, 2018","Jan 31, 2019",KAS Eupen,Al-Arabi SC,1300000.0,0.0,Persian Gulf Pro League
+8,Morteza Pouraliganji,Persepolis FC,€700k ,Iran,"Jan 8, 2016","Aug 16, 2018",Al-Sadd SC,KAS Eupen,1500000.0,0.0,Persian Gulf Pro League
+8,Morteza Pouraliganji,Persepolis FC,€700k ,Iran,"Feb 25, 2015","Jan 8, 2016",TJ Teda,Al-Sadd SC,600000.0,0.0,Persian Gulf Pro League
+8,Morteza Pouraliganji,Persepolis FC,€700k ,Iran,"Jul 1, 2010","Feb 25, 2015",Naft Tehran,TJ Teda,500000.0,440000.0,Persian Gulf Pro League
+8,Morteza Pouraliganji,Persepolis FC,€700k ,Iran,"Jul 1, 2008","Jul 1, 2010",Ehsan Rey U19,Naft Tehran,,0.0,Persian Gulf Pro League
+8,Morteza Pouraliganji,Persepolis FC,€700k ,Iran,,"Jul 1, 2008",PAS Tehran U17,Ehsan Rey U19,,0.0,Persian Gulf Pro League
+5,Milad Mohammadi,AEK Athens,€2.00m ,Iran,"Sep 17, 2021",,AEK Athens,,,,Super League 1
+5,Milad Mohammadi,AEK Athens,€2.00m ,Iran,"Jul 17, 2019","Sep 17, 2021",KAA Gent,AEK Athens,2500000.0,0.0,Super League 1
+5,Milad Mohammadi,AEK Athens,€2.00m ,Iran,"Feb 6, 2016","Jul 17, 2019",Akhmat Grozny,KAA Gent,5000000.0,0.0,Super League 1
+5,Milad Mohammadi,AEK Athens,€2.00m ,Iran,"Jul 1, 2014","Feb 6, 2016",Rah Ahan,Terek Grozny,600000.0,300000.0,Super League 1
+5,Milad Mohammadi,AEK Athens,€2.00m ,Iran,"Jul 1, 2012","Jul 1, 2014",Niroye Zam U21,Rah Ahan,,0.0,Super League 1
+5,Milad Mohammadi,AEK Athens,€2.00m ,Iran,,"Jul 1, 2012",DamashU19,Niroye Zam U21,,0.0,Super League 1
+25,Abolfazl Jalali,Esteghlal FC,€400k ,Iran,"Aug 31, 2021",,Esteghlal FC,,,,Persian Gulf Pro League
+25,Abolfazl Jalali,Esteghlal FC,€400k ,Iran,"Jul 1, 2018","Aug 31, 2021",Saipa FC,Esteghlal FC,200000.0,100000.0,Persian Gulf Pro League
+25,Abolfazl Jalali,Esteghlal FC,€400k ,Iran,"Jul 1, 2017","Jul 1, 2018",Saipa FC U21,Saipa FC,,,Persian Gulf Pro League
+25,Abolfazl Jalali,Esteghlal FC,€400k ,Iran,"Jul 26, 2016","Jul 1, 2017",Saipa FC U19,Saipa FC U21,,,Persian Gulf Pro League
+25,Abolfazl Jalali,Esteghlal FC,€400k ,Iran,,"Jul 26, 2016",Padideh S U19,Saipa FC U19,,,Persian Gulf Pro League
+23,Ramin Rezaeian,Sepahan FC,€450k ,Iran,"Jul 15, 2022",,Sepahan,,,,Persian Gulf Pro League
+23,Ramin Rezaeian,Sepahan FC,€450k ,Iran,"Feb 12, 2022","Jul 15, 2022",Persepolis,Sepahan,450000.0,0.0,Persian Gulf Pro League
+23,Ramin Rezaeian,Sepahan FC,€450k ,Iran,"Jan 13, 2022","Feb 12, 2022",Al-Duhail SC,Persepolis,500000.0,250000.0,Persian Gulf Pro League
+23,Ramin Rezaeian,Sepahan FC,€450k ,Iran,"Jan 1, 2021","Jan 13, 2022",Al-Sailiya SC,Al-Duhail SC,500000.0,,Persian Gulf Pro League
+23,Ramin Rezaeian,Sepahan FC,€450k ,Iran,"Aug 22, 2020","Jan 1, 2021",Al-Duhail SC,Al-Sailiya SC,500000.0,,Persian Gulf Pro League
+23,Ramin Rezaeian,Sepahan FC,€450k ,Iran,"Nov 5, 2018","Aug 22, 2020",Al-Shahania SC,Al-Duhail SC,475000.0,0.0,Persian Gulf Pro League
+23,Ramin Rezaeian,Sepahan FC,€450k ,Iran,"Aug 27, 2018","Nov 5, 2018",Without Club,Al-Shahania SC,1000000.0,,Persian Gulf Pro League
+23,Ramin Rezaeian,Sepahan FC,€450k ,Iran,"Jul 9, 2017","Aug 27, 2018",KV Oostende,Without Club,1000000.0,,Persian Gulf Pro League
+23,Ramin Rezaeian,Sepahan FC,€450k ,Iran,"Aug 27, 2016","Jul 9, 2017",Persepolis,KV Oostende,1200000.0,0.0,Persian Gulf Pro League
+23,Ramin Rezaeian,Sepahan FC,€450k ,Iran,"Jul 1, 2016","Aug 27, 2016",C. Rizespor,Persepolis,1000000.0,0.0,Persian Gulf Pro League
+23,Ramin Rezaeian,Sepahan FC,€450k ,Iran,"Jul 1, 2015","Jul 1, 2016",Persepolis,C. Rizespor,1000000.0,0.0,Persian Gulf Pro League
+23,Ramin Rezaeian,Sepahan FC,€450k ,Iran,"Jul 1, 2013","Jul 1, 2015",Rah Ahan,Persepolis,700000.0,0.0,Persian Gulf Pro League
+23,Ramin Rezaeian,Sepahan FC,€450k ,Iran,"Jul 1, 2009","Jul 1, 2013",Saba Battery,Rah Ahan,275000.0,,Persian Gulf Pro League
+23,Ramin Rezaeian,Sepahan FC,€450k ,Iran,,"Jul 1, 2009",Unknown,Saba Battery,,,Persian Gulf Pro League
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,"Jun 30, 2022",,Vejle BK,,,,1.Division
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,"Jan 19, 2022","Jun 30, 2022",Al-Gharafa SC,Vejle BK,800000.0,,1.Division
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,"Aug 20, 2020","Jan 19, 2022",Vejle BK,Al-Gharafa SC,800000.0,,1.Division
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,"Jun 30, 2020","Aug 20, 2020",Rostov,Vejle BK,450000.0,0.0,1.Division
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,"Aug 28, 2019","Jun 30, 2020",KAS Eupen,Rostov,550000.0,,1.Division
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,"Jun 30, 2019","Aug 28, 2019",Rostov,KAS Eupen,1500000.0,,1.Division
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,"Aug 31, 2018","Jun 30, 2019",Reading,Rostov,1500000.0,,1.Division
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,"Jun 30, 2018","Aug 31, 2018",Rostov,Reading,1500000.0,,1.Division
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,"Aug 31, 2017","Jun 30, 2018",Amkar Perm,Rostov,1200000.0,,1.Division
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,"Jun 30, 2017","Aug 31, 2017",Rostov,Amkar Perm,1200000.0,,1.Division
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,"Jan 1, 2017","Jun 30, 2017",Anzhi,Rostov,1200000.0,,1.Division
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,"Jul 21, 2015","Jan 1, 2017",Rostov,Anzhi,1200000.0,,1.Division
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,"Aug 27, 2014","Jul 21, 2015",Atl. Madrid C,Rostov,250000.0,0.0,1.Division
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,"Jul 1, 2012","Aug 27, 2014",Malavan,Atl. Madrid C,250000.0,0.0,1.Division
+6,Saeid Ezatolahi,Vejle Boldklub,€400k ,Iran,,"Jul 1, 2012",Malavan U17,Malavan,,,1.Division
+18,Ali Karimi,Kayserispor,€100k ,Iran,"Aug 5, 2021",,Kayserispor,,,,Süper Lig
+18,Ali Karimi,Kayserispor,€100k ,Iran,"Jun 30, 2021","Aug 5, 2021",Qatar SC,Kayserispor,525000.0,0.0,Süper Lig
+18,Ali Karimi,Kayserispor,€100k ,Iran,"Jan 5, 2021","Jun 30, 2021",Al-Duhail SC,Qatar SC,525000.0,,Süper Lig
+18,Ali Karimi,Kayserispor,€100k ,Iran,"Nov 1, 2020","Jan 5, 2021",Qatar SC,Al-Duhail SC,525000.0,,Süper Lig
+18,Ali Karimi,Kayserispor,€100k ,Iran,"Jul 15, 2018","Nov 1, 2020",Esteghlal FC,Qatar SC,550000.0,250000.0,Süper Lig
+18,Ali Karimi,Kayserispor,€100k ,Iran,"Sep 6, 2017","Jul 15, 2018",Sepahan,Esteghlal FC,400000.0,0.0,Süper Lig
+18,Ali Karimi,Kayserispor,€100k ,Iran,"Jun 30, 2017","Sep 6, 2017",Dinamo Zagreb,Sepahan,350000.0,0.0,Süper Lig
+18,Ali Karimi,Kayserispor,€100k ,Iran,"Feb 10, 2017","Jun 30, 2017",NK Lokomotiva,Dinamo Zagreb,350000.0,,Süper Lig
+18,Ali Karimi,Kayserispor,€100k ,Iran,"Aug 8, 2016","Feb 10, 2017",Dinamo Zagreb,NK Lokomotiva,500000.0,,Süper Lig
+18,Ali Karimi,Kayserispor,€100k ,Iran,"Jul 1, 2012","Aug 8, 2016",Sepahan,Dinamo Zagreb,600000.0,360000.0,Süper Lig
+18,Ali Karimi,Kayserispor,€100k ,Iran,,"Jul 1, 2012",Sepahan FC U19,Sepahan,,,Süper Lig
+16,Mehdi Torabi,Persepolis FC,€800k ,Iran,"Feb 6, 2021",,Persepolis,,,,Persian Gulf Pro League
+16,Mehdi Torabi,Persepolis FC,€800k ,Iran,"Oct 10, 2020","Feb 6, 2021",Al-Arabi SC,Persepolis,1100000.0,450000.0,Persian Gulf Pro League
+16,Mehdi Torabi,Persepolis FC,€800k ,Iran,"Jan 6, 2019","Oct 10, 2020",Persepolis,Al-Arabi SC,1200000.0,350000.0,Persian Gulf Pro League
+16,Mehdi Torabi,Persepolis FC,€800k ,Iran,"Jul 1, 2012","Jan 6, 2019",Saipa FC,Persepolis,1000000.0,96000.0,Persian Gulf Pro League
+16,Mehdi Torabi,Persepolis FC,€800k ,Iran,,"Jul 1, 2012",Saipa FC U19,Saipa FC,,,Persian Gulf Pro League
+7,Alireza Jahanbakhsh,Feyenoord Rotterdam,€3.00m ,Iran,"Jul 17, 2021",,Feyenoord,,,,Eredivisie
+7,Alireza Jahanbakhsh,Feyenoord Rotterdam,€3.00m ,Iran,"Jul 25, 2018","Jul 17, 2021",Brighton,Feyenoord,5000000.0,1000000.0,Eredivisie
+7,Alireza Jahanbakhsh,Feyenoord Rotterdam,€3.00m ,Iran,"Aug 3, 2015","Jul 25, 2018",AZ Alkmaar,Brighton,18000000.0,19000000.0,Eredivisie
+7,Alireza Jahanbakhsh,Feyenoord Rotterdam,€3.00m ,Iran,"Jul 1, 2013","Aug 3, 2015",NEC Nijmegen,AZ Alkmaar,2000000.0,1800000.0,Eredivisie
+7,Alireza Jahanbakhsh,Feyenoord Rotterdam,€3.00m ,Iran,"Jul 1, 2011","Jul 1, 2013",Damash Gilan,NEC Nijmegen,750000.0,250000.0,Eredivisie
+7,Alireza Jahanbakhsh,Feyenoord Rotterdam,€3.00m ,Iran,"Jul 1, 2010","Jul 1, 2011",Damash Teh,Damash Gilan,,0.0,Eredivisie
+7,Alireza Jahanbakhsh,Feyenoord Rotterdam,€3.00m ,Iran,,"Jul 1, 2010",Damash U19,Damash Teh,,0.0,Eredivisie
+9,Mehdi Taremi,FC Porto,€20.00m ,Iran,"Aug 31, 2020",,FC Porto,,,,Liga Portugal
+9,Mehdi Taremi,FC Porto,€20.00m ,Iran,"Jul 23, 2019","Aug 31, 2020",Rio Ave FC,FC Porto,10000000.0,4730000.0,Liga Portugal
+9,Mehdi Taremi,FC Porto,€20.00m ,Iran,"Jan 12, 2018","Jul 23, 2019",Al-Gharafa SC,Rio Ave FC,1700000.0,0.0,Liga Portugal
+9,Mehdi Taremi,FC Porto,€20.00m ,Iran,"Jul 1, 2014","Jan 12, 2018",Persepolis,Al-Gharafa SC,2000000.0,492000.0,Liga Portugal
+9,Mehdi Taremi,FC Porto,€20.00m ,Iran,"Jul 1, 2012","Jul 1, 2014",Iranjavan FC,Persepolis,175000.0,0.0,Liga Portugal
+9,Mehdi Taremi,FC Porto,€20.00m ,Iran,"Jul 1, 2010","Jul 1, 2012",Shahin Bushehr,Iranjavan FC,,0.0,Liga Portugal
+9,Mehdi Taremi,FC Porto,€20.00m ,Iran,"Jul 1, 2009","Jul 1, 2010",Iranjavan FC,Shahin Bushehr,,0.0,Liga Portugal
+9,Mehdi Taremi,FC Porto,€20.00m ,Iran,,"Jul 1, 2009",Iranjavan U19,Iranjavan FC,,,Liga Portugal
+10,Karim Ansarifard,Omonia Nicosia,€1.00m ,Iran,"Aug 30, 2022",,Omonia Nikosia,,,,Protathlima Cyta
+10,Karim Ansarifard,Omonia Nicosia,€1.00m ,Iran,"Aug 25, 2020","Aug 30, 2022",AEK Athens,Omonia Nikosia,1200000.0,0.0,Protathlima Cyta
+10,Karim Ansarifard,Omonia Nicosia,€1.00m ,Iran,"Jul 12, 2019","Aug 25, 2020",Al-Sailiya SC,AEK Athens,1200000.0,0.0,Protathlima Cyta
+10,Karim Ansarifard,Omonia Nicosia,€1.00m ,Iran,"Nov 3, 2018","Jul 12, 2019",Nottm Forest,Al-Sailiya SC,2000000.0,,Protathlima Cyta
+10,Karim Ansarifard,Omonia Nicosia,€1.00m ,Iran,"Aug 31, 2018","Nov 3, 2018",Without Club,Nottm Forest,4000000.0,,Protathlima Cyta
+10,Karim Ansarifard,Omonia Nicosia,€1.00m ,Iran,"Jan 13, 2017","Aug 31, 2018",Olympiacos,Without Club,4000000.0,,Protathlima Cyta
+10,Karim Ansarifard,Omonia Nicosia,€1.00m ,Iran,"Aug 10, 2015","Jan 13, 2017",Panionios,Olympiacos,1000000.0,400000.0,Protathlima Cyta
+10,Karim Ansarifard,Omonia Nicosia,€1.00m ,Iran,"Aug 29, 2014","Aug 10, 2015",CA Osasuna,Panionios,700000.0,0.0,Protathlima Cyta
+10,Karim Ansarifard,Omonia Nicosia,€1.00m ,Iran,"Jun 30, 2014","Aug 29, 2014",Persepolis,CA Osasuna,1100000.0,0.0,Protathlima Cyta
+10,Karim Ansarifard,Omonia Nicosia,€1.00m ,Iran,"Jul 20, 2013","Jun 30, 2014",Tractor Sazi,Persepolis,1100000.0,,Protathlima Cyta
+10,Karim Ansarifard,Omonia Nicosia,€1.00m ,Iran,"Jul 1, 2012","Jul 20, 2013",Persepolis,Tractor Sazi,600000.0,,Protathlima Cyta
+10,Karim Ansarifard,Omonia Nicosia,€1.00m ,Iran,"Jul 1, 2007","Jul 1, 2012",Saipa FC,Persepolis,800000.0,0.0,Protathlima Cyta
+10,Karim Ansarifard,Omonia Nicosia,€1.00m ,Iran,,"Jul 1, 2007",Saipa FC U19,Saipa FC,,,Protathlima Cyta
